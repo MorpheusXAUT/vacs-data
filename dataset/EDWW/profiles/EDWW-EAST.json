@@ -1,0 +1,287 @@
+{
+  "id": "EDWW-EAST",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "PRIMARY",
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["UU", "OSE 1"]
+			"station_id": "EDUU-OSE12"
+          },
+		  {
+            "label": ["YY", "SOL", "-355"]
+			"station_id": "EDYY-SL"
+          },
+		  {
+            "label": ["YY", "HOL", "-365"]
+			"station_id": "EDYY-HL"
+          },		  
+		  {
+            "label": ["BOR"]
+			"station_id": "EDWW-BOR"
+          },
+		  {
+            "label": ["DBAN"]
+			"station_id": "EDWW-DBAN"
+          },
+		  {
+            "label": ["HAM"]
+			"station_id": "EDWW-HAM"
+          },
+		  {
+            "label": ["UU", "HVL 1"]
+			"station_id": "EDUU-HVL12"
+          },
+		  {
+            "label": ["YY", "SOL", "+355"]
+			"station_id": "EDYY-SH"
+          },
+		  {
+            "label": ["YY", "HOL", "+365"]
+			"station_id": "EDYY-HH"
+          },
+		  {
+            "label": ["FLG"]
+			"station_id": "EDWW-FLG"
+          },
+		  {
+            "label": ["DBAS"]
+			"station_id": "EDWW-DBAS"
+          },
+		  {
+            "label": ["HEI"]
+			"station_id": "EDWW-HEI"
+          },
+		  {
+            "label": ["UU", "SAL 1"]
+          },
+		  {
+            "label": ["YY", "CEL", "-355"]
+			"station_id": "EDYY-CL"
+          },
+		  {
+            "label": ["BC", "INFO"]
+			"station_id": "EDBC-AFIS"
+          },
+		  {
+            "label": ["MAR"]
+			"station_id": "EDWW-MAR"
+          },
+		  {
+            "label": ["DBDN"]
+			"station_id": "EDWW-DBDN"
+          },
+		  {
+            "label": ["HEI"]
+			"station_id": "EDWW-HAN"
+          },
+		  {
+            "label": ["UU", "SPE 1"]
+          },
+		  {
+            "label": ["YY", "CEL", "+355"]
+			"station_id": "EDYY-CH"
+          },
+		  {
+            "label": ["BM", "INFO"]
+			"station_id": "EDBM-AFIS"
+          },
+		  {
+            "label": ["MRZ"]
+			"station_id": "EDWW-MRZ"
+          },
+		  {
+            "label": ["DBDS"]
+			"station_id": "EDWW-DBDS"
+          },
+		  {
+            "label": ["HRZ"]
+			"station_id": "EDWW-HEI"
+          },
+		  {
+            "label": ["ESMM", "L", "-285"]
+          },
+		  {
+            "label": ["EKDK", "B", "-285"]
+          },
+		  {
+            "label": ["MM", "HAL"]
+          },
+		  {
+            "label": ["MM", "TRN"]
+          },
+		  {
+            "label": ["AH", "TWR"]
+			"station_id": "EDAH-TWR"
+          },
+		  {
+            "label": ["ETNL", "APP"]
+			"station_id": "ETNL-APP"
+          },
+		  {
+            "label": ["ESMM", "8", "285-365"]
+          },
+		  {
+            "label": ["EKDK", "A", "285-365"]
+          },
+		  {
+            "label": ["MM", "GER"]
+          },
+		  {
+            "label": ["MM", "SAS"]
+          },
+		  {
+            "label": ["BH", "INFO"]
+			"station_id": "EDBH-AFIS"
+          },
+		  {
+            "label": ["ETNL", "TWR"]
+			"station_id": "ETNL-TWR"
+          },
+		  {
+            "label": ["ESMM", "9", "+365"]
+          },
+		  {
+            "label": ["EKDK", "A", "+365"]
+          },
+		  {
+            "label": ["MM", "MEI"]
+          },
+		  {
+            "label": ["EDDB", "TWR"]
+			"station_id": "EDDB-TWR_S"
+          },
+		  {
+            "label": ["BC", "INFO"]
+			"station_id": "EDBC-AFIS"
+          },
+		  {
+            "label": ["ETSH", "APP"]
+			"station_id": "ETSH-APP"
+          },
+		  {
+            "label": ["EPWW", "B", "-365"]
+          },
+		  {
+            "label": ["EPWW", "B", "+365"]
+          },
+		  {
+            "label": ["EPWW", "D", "-365"]
+          },
+		  {
+            "label": ["EPWW", "D", "+365"]
+          },
+		  {
+            "label": ["EPSC", "TWR"]
+          },
+		  {
+            "label": ["ETSH", "TWR"]
+			"station_id": "ETSH-TWR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "SECONDARY",
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["FIS", "DB"]
+          },
+		  {
+            "label": ["FIS", "DC"]
+          },
+		  {
+            "label": ["FIS", "DV"]
+          },
+		  {
+            "label": ["EKDK", "FIS"]
+          },
+		  {
+            "label": ["ESMM", "FIS"]
+          },
+		  {
+            "label": [""]
+          }
+		  {
+            "label": ["TRAMON"]
+          },
+		  {
+            "label": ["SUNRISE"]
+          },
+		  {
+            "label": ["LONESHIP"]
+          },
+		  {
+            "label": ["EPGD", "FIS"]
+          },
+		  {
+            "label": ["EPPO", "FIS"]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": ["EDWW", "FMP"]
+          },
+		  {
+            "label": ["EDMM", "FMP"]
+          },
+		  {
+            "label": ["EKDK", "FMP"]
+          },
+		  {
+            "label": ["ESMM", "FMP"]
+          },
+		  {
+            "label": ["EPWW", "FMP"]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": ["FRI"]
+			"station_id": "EDWW-FRI"
+          },
+		  {
+            "label": ["EPPO", "APP"]
+          },
+		  {
+            "label": ["EKCH", "APP"]
+          },
+		  {
+            "label": [""]
+          },
+		  {
+            "label": ["EDDB", "APN"]
+			"station_id": "EDDB-GND_A"
+          },
+		  {
+            "label": ["EDDB", "DEL"]
+			"station_id": "EDDB-DEL"
+          }
+		  
+  ]
+}
