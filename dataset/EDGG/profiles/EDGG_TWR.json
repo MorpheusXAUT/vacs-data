@@ -1,0 +1,238 @@
+{
+  "id": "LOWW",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "DF",
+      "page": {
+        "rows": 5,
+        "keys": [
+          {
+            "label": [
+              "DFAN"
+            ],
+            "station_id": "EDGG-DFAN"
+          },
+          {
+            "label": [
+              "DFANT"
+            ],
+            "station_id": "EDGG-DFANT"
+          },
+          {
+            "label": [
+              "DFTC"
+            ],
+            "station_id": "EDGG-DFTC"
+          },
+          {
+            "label": [
+              "DFGC"
+            ],
+            "station_id": "EDGG-DFGC"
+          },
+          {
+            "label": [
+              "DFC"
+            ],
+            "station_id": "EDGG-DFC"
+          },
+          {
+            "label": [
+              "DFAS"
+            ],
+            "station_id": "EDGG-DFAS"
+          },
+          {
+            "label": [
+              "DFAST"
+            ],
+            "station_id": "EDGG-DFAST"
+          },
+          {
+            "label": [
+              "DFTW"
+            ],
+            "station_id": "EDGG-DFTW"
+          },
+          {
+            "label": [
+              "DFGW"
+            ],
+            "station_id": "EDGG-DFGW"
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              "DFDN"
+            ],
+            "station_id": "EDGG-DFDN"
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              "DFTN"
+            ],
+            "station_id": "EDGG-DFTN"
+          },
+          {
+            "label": [
+              "DFGE"
+            ],
+            "station_id": "EDGG-DFGE"
+          },
+          {
+            "label": [
+              "ICE"
+            ],
+            "station_id": "EDGG-DFGI"
+          },
+          {
+            "label": [
+              "DFDS"
+            ],
+            "station_id": "EDGG-DFDS"
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              "DFTS"
+            ],
+            "station_id": "EDGG-DFTS"
+          },
+          {
+            "label": [
+              "DFGS"
+            ],
+            "station_id": "EDGG-DFGS"
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              "DFG"
+            ],
+            "station_id": "EDGG_DFG"
+          },
+          {
+            "label": [
+              ""
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "DS + SB",
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": [
+              "STG"
+            ],
+            "station_id": "EDGG-STG"
+          },
+          {
+            "label": [
+              "Stuttgart",
+              "Tower"
+            ],
+            "station_id": "EDGG-DST"
+          },
+          {
+            "label": [
+              "Stuttgart",
+              "Ground"
+            ],
+            "station_id": "EDGG-DSG"
+          },
+          {
+            "label": [
+              "Stuttgart",
+              "Delivery"
+            ],
+            "station_id": "EDGG-DSC"
+          },
+          {
+            "label": [
+              "REU"
+            ],
+            "station_id": "EDGG-REU"
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              "DSAT",
+              "Feeder"
+            ],
+            "station_id": "EDGG-DSAT"
+          },
+          {
+            "label": [
+              "Baden",
+              "Tower"
+            ],
+            "station_id": "EDGG-SBT"
+          },
+          {
+            "label": [
+              "Baden",
+              "Ground"
+            ],
+            "station_id": "EDGG-SBG"
+          },
+          {
+            "label": [
+              ""
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
