@@ -606,8 +606,8 @@
       "id": "EDGG-DFGI",
       "controlled_by": [
           "EDDF_ICE_GND",
-          "EDDF_C_GND",
           "EDDF_W_GND",
+          "EDDF_C_GND",          
           "EDDF_E_GND"
         ],
       "parent_id": "EDGG-DFTC"
