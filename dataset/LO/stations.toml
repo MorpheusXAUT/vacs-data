@@ -242,6 +242,10 @@ id = "LOVV_I_CTR"
 controlled_by = ["LOVV_I_CTR"]
 
 [[stations]]
+id = "LOVV_M_CTR"
+controlled_by = ["LOVV_M_CTR"]
+
+[[stations]]
 id = "LOWG_APP"
 controlled_by = [
     "LOWG_APP",
