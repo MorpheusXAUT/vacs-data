@@ -68,7 +68,11 @@
       "required": ["label"],
       "properties": {
         "label": { "$ref": "#/$defs/LabelLines" },
-        "station_id": { "$ref": "#/$defs/StationId" }
+        "station_id": { "$ref": "#/$defs/StationId" },
+        "page": { "$ref": "#/$defs/DirectAccessPage" }
+      },
+      "not": {
+        "required": ["station_id", "page"]
       }
     },
     "DirectAccessPage": {

@@ -117,10 +117,11 @@ Defines a grid layout of direct access keys.
 
 Represents a single callable button.
 
-| Field        | Type             | Required | Description                                                                     |
-| :----------- | :--------------- | :------- | :------------------------------------------------------------------------------ |
-| `label`      | Array of strings | Yes      | Multi-line label (up to 3 lines). Can be empty array for blank keys.            |
-| `station_id` | String           | No       | Station ID to call when pressed. If omitted, key is displayed but not callable. |
+| Field        | Type             | Required | Description                                                                                                               |
+| :----------- | :--------------- | :------- | :------------------------------------------------------------------------------------------------------------------------ |
+| `label`      | Array of strings | Yes      | Multi-line label (up to 3 lines). Can be empty array for blank keys.                                                      |
+| `station_id` | String           | No       | Station ID to call when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.    |
+| `page`       | DirectAccessPage | No       | Subpage to open when pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled. |
 
 ## Geo Profile Components
 
