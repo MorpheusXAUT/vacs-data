@@ -90,30 +90,30 @@
 			"page": {
 				"rows": 2,
 				"keys": [
-				{
-				 "label": ["AY", "INFO"],
-				 "station_id": "EDAY-AFIS"
-				},
-				{
-				 "label": ["AZ", "INFO"],
-				 "station_id": "EDAZ-AFIS"
-				},
-				{
-				 "label": ["BC", "INFO"],
-				 "station_id": "EDBC-AFIS"
-				},
-				{
-				 "label": ["BH", "INFO"],
-				 "station_id": "EDBH-AFIS"
-				},
-				{
-				 "label": ["BM", "INFO"],
-				 "station_id": "EDBM-AFIS"
-				},
-				{
-				 "label": ["BN", "INFO"],
-				 "station_id": "EDBN-AFIS"
-				}
+					{
+				 	"label": ["AY", "INFO"],
+				 	"station_id": "EDAY-AFIS"
+					},
+					{
+					"label": ["AZ", "INFO"],
+					"station_id": "EDAZ-AFIS"
+					},
+					{
+					"label": ["BC", "INFO"],
+					"station_id": "EDBC-AFIS"
+					},
+					{
+					"label": ["BH", "INFO"],
+					"station_id": "EDBH-AFIS"
+					},
+					{
+					"label": ["BM", "INFO"],
+					"station_id": "EDBM-AFIS"
+					},
+					{
+					"label": ["BN", "INFO"],
+					"station_id": "EDBN-AFIS"
+					}
 			  ]
 			}
           },
@@ -146,38 +146,38 @@
 			"page": {
 				"rows": 3,
 				"keys": [
-				{
-				 "label": ["TWR", "N"],
-				 "station_id": "EDDB-TWR_N"
-				},
-				{
-				
-				 "label": ["GND", "N"],
-				 "station_id": "EDDB-GND_N"
-				},
-				{
-				 "label": ["DEL"],
-				 "station_id": "EDDB-DEL"
-				},
-				{
-				 "label": ["TWR", "S"],
-				 "station_id": "EDDB-TWR_S"
-				},
-				{
-				 "label": ["GND", "S"],
-				 "station_id": "EDDB-GND_S"
-				},
-				{
-				 "label": [""]
-				},
-				{
-				 "label": ["APN", "MAIN"],
-				 "station_id": "EDDB-GND_A"
-				},
-				{
-				 "label": ["APN", "NORD"],
-				 "station_id": "EDDB-GND_E"
-				}
+					{
+					"label": ["TWR", "N"],
+					"station_id": "EDDB-TWR_N"
+					},
+					{
+					
+					"label": ["GND", "N"],
+					"station_id": "EDDB-GND_N"
+					},
+					{
+					"label": ["DEL"],
+					"station_id": "EDDB-DEL"
+					},
+					{
+					"label": ["TWR", "S"],
+					"station_id": "EDDB-TWR_S"
+					},
+					{
+					"label": ["GND", "S"],
+					"station_id": "EDDB-GND_S"
+					},
+					{
+					"label": [""]
+					},
+					{
+					"label": ["APN", "MAIN"],
+					"station_id": "EDDB-GND_A"
+					},
+					{
+					"label": ["APN", "NORD"],
+					"station_id": "EDDB-GND_E"
+					}
 			  ]
 			}
           },
@@ -186,14 +186,14 @@
 			"page": {
 				"rows": 1,
 				"keys": [
-				{
-				 "label": ["ETNL", "TWR"],
-				 "station_id": "ETNL_TWR"
-				},
-				{
-				 "label": ["ETNL", "APP"],
-				 "station_id": "ETNL_APP"
-				}
+					{
+					"label": ["ETNL", "TWR"],
+					"station_id": "ETNL_TWR"
+					},
+					{
+					"label": ["ETNL", "APP"],
+					"station_id": "ETNL_APP"
+					}
 			  ]
 			}
           },
@@ -214,24 +214,24 @@
 			"page": {
 				"rows": 2,
 				"keys": [
-				{
-				 "label": ["FIS", "DB"]
-				},
-				{
-				 "label": ["FIS", "DC"]
-				},
-				{
-				 "label": ["FIS", "DH"]
-				},
-				{
-				 "label": ["FIS", "DL"]
-				},
-				{
-				 "label": ["FIS", "DV"]
-				},
-				{
-				 "label": ["FIS", "SW"]
-				}
+					{
+					"label": ["FIS", "DB"]
+					},
+					{
+					"label": ["FIS", "DC"]
+					},
+					{
+					"label": ["FIS", "DH"]
+					},
+					{
+					"label": ["FIS", "DL"]
+					},
+					{
+					"label": ["FIS", "DV"]
+					},
+					{
+					"label": ["FIS", "SW"]
+					}
 			  ]
 			}
           },
@@ -240,14 +240,14 @@
 			"page": {
 				"rows": 1,
 				"keys": [
-				{
-				 "label": ["ETSH", "TWR"],
-				 "station_id": "ETSH_TWR"
-				},
-				{
-				 "label": ["ETSH", "APP"],
-				 "station_id": "ETSH_APP"
-				}
+					{
+					"label": ["ETSH", "TWR"],
+					"station_id": "ETSH_TWR"
+					},
+					{
+					"label": ["ETSH", "APP"],
+					"station_id": "ETSH_APP"
+					}
 			  ]
 			}
           },
@@ -268,15 +268,15 @@
 			"page": {
 				"rows": 2,
 				"keys": [
-				{
-				 "label": ["TRAMON"]
-				},
-				{
-				 "label": ["SUNRISE"]
-				},
-				{
-				 "label": ["LONESHIP"]
-				}
+					{
+					"label": ["TRAMON"]
+					},
+					{
+					"label": ["SUNRISE"]
+					},
+					{
+					"label": ["LONESHIP"]
+					}
 			  ]
 			}
           },
@@ -285,24 +285,24 @@
 			"page": {
 				"rows": 3,
 				"keys": [
-				{
-				 "label": ["EDWW", "FMP"]
-				},
-				{
-				 "label": ["EDGG", "FMP"]
-				},
-				{
-				 "label": ["EDMM", "FMP"]
-				},
-								{
-				 "label": ["EKDK", "FMP"]
-				},
-				{
-				 "label": ["ESMM", "FMP"]
-				},
-				{
-				 "label": ["EPWW", "FMP"]
-				}
+					{
+					"label": ["EDWW", "FMP"]
+					},
+					{
+					"label": ["EDGG", "FMP"]
+					},
+					{
+					"label": ["EDMM", "FMP"]
+					},
+									{
+					"label": ["EKDK", "FMP"]
+					},
+					{
+					"label": ["ESMM", "FMP"]
+					},
+					{
+					"label": ["EPWW", "FMP"]
+					}
 			  ]
 			}
           },
