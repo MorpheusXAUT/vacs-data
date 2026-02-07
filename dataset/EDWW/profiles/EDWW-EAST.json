@@ -307,22 +307,22 @@
 			}
           },
 		  {
-            "label": ["EPWW", "B", "-335"]
+            "label": ["EPWW", "B", "+365"]
           },
 		  {
             "label": ["EPWW", "B", "335-365"]
           },
 		  {
-            "label": ["EPWW", "B", "+365"]
+            "label": ["EPWW", "B", "-335"]
           },
 		  {
-            "label": ["EPWW", "D", "-335"]
+            "label": ["EPWW", "D", "+365"]
           },
 		  {
             "label": ["EPWW", "D", "335-365"]
           },
 		  {
-            "label": ["EPWW", "D", "+365"]
+            "label": ["EPWW", "D", "-335"]
           }
         ]
       }
