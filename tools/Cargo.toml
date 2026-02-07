@@ -3,7 +3,7 @@ resolver = "3"
 members = ["cli", "diagnostics", "importer", "validator"]
 
 [workspace.package]
-version = "0.1.0"
+version = "0.2.0"
 edition = "2024"
 license = "Apache-2.0 OR MIT"
 repository = "https://github.com/MorpheusXAUT/vacs-data"
