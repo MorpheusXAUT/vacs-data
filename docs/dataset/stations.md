@@ -193,13 +193,13 @@ parent_id = "LOVV_N7"
 [[stations]]
 id = "LOVV_N7"
 controlled_by = [
-    "LOVV_NU_CTR",
-    "LOVV_EU_CTR",
-    "LOVV_U_CTR",
-    "LOVV_N_CTR",
-    "LOVV_E_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
+  "LOVV_NU_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_U_CTR",
+  "LOVV_N_CTR",
+  "LOVV_E_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
 ]
 ```
 

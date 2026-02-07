@@ -8,59 +8,30 @@
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "PRA",
-              "LW",
-              "EC"
-            ]
+            "label": ["PRA", "LW", "EC"]
           },
           {
-            "label": [
-              "PRA",
-              "LS",
-              "EC"
-            ]
+            "label": ["PRA", "LS", "EC"]
           },
           {
-            "label": [
-              "PRA",
-              "TB",
-              "EC"
-            ]
+            "label": ["PRA", "TB", "EC"]
           },
           {
-            "label": [
-              "PRA",
-              "KV",
-              "EC"
-            ]
+            "label": ["PRA", "KV", "EC"]
           },
           {
-            "label": [
-              "APP",
-              "VD1"
-            ],
+            "label": ["APP", "VD1"],
             "station_id": "LOWW_D_APP"
           },
           {
-            "label": [
-              "TWR 1"
-            ],
+            "label": ["TWR 1"],
             "station_id": "LOWW_TWR"
           },
           {
-            "label": [
-              "BRA",
-              "LW",
-              "EC"
-            ]
+            "label": ["BRA", "LW", "EC"]
           },
           {
-            "label": [
-              "BRA",
-              "APP",
-              "EC"
-            ]
+            "label": ["BRA", "APP", "EC"]
           },
           {
             "label": []
@@ -69,138 +40,77 @@
             "label": []
           },
           {
-            "label": [
-              "APP",
-              "VD2"
-            ],
+            "label": ["APP", "VD2"],
             "station_id": "LOWW_F_APP"
           },
           {
-            "label": [
-              "TWR 2"
-            ],
+            "label": ["TWR 2"],
             "station_id": "LOWW_E_TWR"
           },
           {
-            "label": [
-              "BUD",
-              "128.10",
-              "EC"
-            ]
+            "label": ["BUD", "128.10", "EC"]
           },
           {
-            "label": [
-              "BUD",
-              "133.20",
-              "EC"
-            ]
+            "label": ["BUD", "133.20", "EC"]
           },
           {
-            "label": [
-              "MCC",
-              "TAU",
-              "EC"
-            ]
+            "label": ["MCC", "TAU", "EC"]
           },
           {
             "label": []
           },
           {
-            "label": [
-              "APP",
-              "TFI",
-              "EC"
-            ],
+            "label": ["APP", "TFI", "EC"],
             "station_id": "LOWW_I_APP"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "ACC",
-              "N1",
-              "EC"
-            ],
+            "label": ["ACC", "N1", "EC"],
             "station_id": "LOVV_N1"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "LOWL",
-              "APP",
-              "EC"
-            ],
+            "label": ["LOWL", "APP", "EC"],
             "station_id": "LOWL_APP"
           },
           {
-            "label": [
-              "APP",
-              "VN-EC",
-              "118775"
-            ],
+            "label": ["APP", "VN-EC", "118775"],
             "station_id": "LOWW_N_APP"
           },
           {
-            "label": [
-              "APP",
-              "VB-EC",
-              "134675"
-            ],
+            "label": ["APP", "VB-EC", "134675"],
             "station_id": "LOWW_APP"
           },
           {
-            "label": [
-              "TWR 1"
-            ],
+            "label": ["TWR 1"],
             "station_id": "LOWW_TWR"
           },
           {
-            "label": [
-              "ACC",
-              "E1",
-              "EC"
-            ],
+            "label": ["ACC", "E1", "EC"],
             "station_id": "LOVV_E1"
           },
           {
-            "label": [
-              "ACC",
-              "S1",
-              "EC"
-            ],
+            "label": ["ACC", "S1", "EC"],
             "station_id": "LOVV_S1"
           },
           {
-            "label": [
-              "LOWG",
-              "APP",
-              "EC"
-            ],
+            "label": ["LOWG", "APP", "EC"],
             "station_id": "LOWG_APP"
           },
           {
-            "label": [
-              "APP",
-              "VM-EC",
-              "125175"
-            ],
+            "label": ["APP", "VM-EC", "125175"],
             "station_id": "LOWW_M_APP"
           },
           {
-            "label": [
-              "APP",
-              "VP-EC",
-              "129050"
-            ],
+            "label": ["APP", "VP-EC", "129050"],
             "station_id": "LOWW_P_APP"
           },
           {
-            "label": [
-              "TWR 2"
-            ],
+            "label": ["TWR 2"],
             "station_id": "LOWW_E_TWR"
           }
         ]
@@ -212,210 +122,104 @@
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "PRA",
-              "LW",
-              "PLC"
-            ]
+            "label": ["PRA", "LW", "PLC"]
           },
           {
-            "label": [
-              "PRA",
-              "LS",
-              "PLC"
-            ]
+            "label": ["PRA", "LS", "PLC"]
           },
           {
-            "label": [
-              "PRA",
-              "TB",
-              "PLC"
-            ]
+            "label": ["PRA", "TB", "PLC"]
           },
           {
-            "label": [
-              "PRA",
-              "KV",
-              "PLC"
-            ]
+            "label": ["PRA", "KV", "PLC"]
           },
           {
-            "label": [
-              "APP",
-              "SAP"
-            ]
+            "label": ["APP", "SAP"]
           },
           {
-            "label": [
-              "ACC",
-              "N PLC",
-              "Cont."
-            ],
+            "label": ["ACC", "N PLC", "Cont."],
             "station_id": "LOVV_N1"
           },
           {
-            "label": [
-              "BRA",
-              "LW",
-              "PLC"
-            ]
+            "label": ["BRA", "LW", "PLC"]
           },
           {
-            "label": [
-              "BRA",
-              "APP",
-              "PLC"
-            ]
+            "label": ["BRA", "APP", "PLC"]
           },
           {
-            "label": [
-              "BRA",
-              "FDT1"
-            ]
+            "label": ["BRA", "FDT1"]
           },
           {
-            "label": [
-              "ACC",
-              "FDU",
-              "NOT"
-            ]
+            "label": ["ACC", "FDU", "NOT"]
           },
           {
-            "label": [
-              "FDU 1",
-              "TCH"
-            ]
+            "label": ["FDU 1", "TCH"]
           },
           {
-            "label": [
-              "ACC",
-              "S PLC",
-              "Cont."
-            ],
+            "label": ["ACC", "S PLC", "Cont."],
             "station_id": "LOVV_S1"
           },
           {
-            "label": [
-              "BUD",
-              "128.10",
-              "PLC"
-            ]
+            "label": ["BUD", "128.10", "PLC"]
           },
           {
-            "label": [
-              "BUD",
-              "133.20",
-              "PLC"
-            ]
+            "label": ["BUD", "133.20", "PLC"]
           },
           {
-            "label": [
-              "MCC",
-              "TAU",
-              "PLC"
-            ]
+            "label": ["MCC", "TAU", "PLC"]
           },
           {
-            "label": [
-              "LOXZ",
-              "APP"
-            ],
+            "label": ["LOXZ", "APP"],
             "station_id": "LOXZ_APP"
           },
           {
-            "label": [
-              "APP",
-              "TFI",
-              "PLC"
-            ],
+            "label": ["APP", "TFI", "PLC"],
             "station_id": "LOWW_I_APP"
           },
           {
-            "label": [
-              "ACC",
-              "Rs. PLC",
-              "Cont."
-            ]
+            "label": ["ACC", "Rs. PLC", "Cont."]
           },
           {
-            "label": [
-              "ACC",
-              "N1",
-              "PLC"
-            ],
+            "label": ["ACC", "N1", "PLC"],
             "station_id": "LOVV_N1"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "LOWL",
-              "APP",
-              "PLC"
-            ],
+            "label": ["LOWL", "APP", "PLC"],
             "station_id": "LOWL_APP"
           },
           {
-            "label": [
-              "APP",
-              "VN-PLC",
-              "118775"
-            ],
+            "label": ["APP", "VN-PLC", "118775"],
             "station_id": "LOWW_N_APP"
           },
           {
-            "label": [
-              "APP",
-              "VB-PLC",
-              "134675"
-            ],
+            "label": ["APP", "VB-PLC", "134675"],
             "station_id": "LOWW_APP"
           },
           {
-            "label": [
-              "TCO"
-            ],
+            "label": ["TCO"],
             "station_id": "LOWW_TWR"
           },
           {
-            "label": [
-              "ACC",
-              "E1",
-              "PLC"
-            ],
+            "label": ["ACC", "E1", "PLC"],
             "station_id": "LOVV_E1"
           },
           {
-            "label": [
-              "ACC",
-              "S1",
-              "PLC"
-            ],
+            "label": ["ACC", "S1", "PLC"],
             "station_id": "LOVV_S1"
           },
           {
-            "label": [
-              "LOWG",
-              "APP",
-              "PLC"
-            ],
+            "label": ["LOWG", "APP", "PLC"],
             "station_id": "LOWG_APP"
           },
           {
-            "label": [
-              "APP",
-              "VM-PLC",
-              "125175"
-            ],
+            "label": ["APP", "VM-PLC", "125175"],
             "station_id": "LOWW_M_APP"
           },
           {
-            "label": [
-              "APP",
-              "VP-PLC",
-              "129050"
-            ],
+            "label": ["APP", "VP-PLC", "129050"],
             "station_id": "LOWW_P_APP"
           },
           {
@@ -430,206 +234,107 @@
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "LOAG"
-            ]
+            "label": ["LOAG"]
           },
           {
-            "label": [
-              "LOAV"
-            ]
+            "label": ["LOAV"]
           },
           {
-            "label": [
-              "PRA",
-              "FIC",
-              "WEST"
-            ]
+            "label": ["PRA", "FIC", "WEST"]
           },
           {
-            "label": [
-              "APP",
-              "SAP"
-            ]
+            "label": ["APP", "SAP"]
           },
           {
-            "label": [
-              "FIC",
-              "N",
-              "EC"
-            ],
+            "label": ["FIC", "N", "EC"],
             "station_id": "LOVV_I_CTR"
           },
           {
-            "label": [
-              "FIC",
-              "S",
-              "EC"
-            ],
+            "label": ["FIC", "S", "EC"],
             "station_id": "LOVV_I_CTR"
           },
           {
-            "label": [
-              "LOAU"
-            ]
+            "label": ["LOAU"]
           },
           {
-            "label": [
-              "LOAN"
-            ]
+            "label": ["LOAN"]
           },
           {
-            "label": [
-              "PRA",
-              "FIC",
-              "EAST"
-            ]
+            "label": ["PRA", "FIC", "EAST"]
           },
           {
-            "label": [
-              "ARO"
-            ]
+            "label": ["ARO"]
           },
           {
-            "label": [
-              "FIC",
-              "N",
-              "PLC"
-            ],
+            "label": ["FIC", "N", "PLC"],
             "station_id": "LOVV_I_CTR"
           },
           {
-            "label": [
-              "FIC",
-              "S",
-              "PLC"
-            ],
+            "label": ["FIC", "S", "PLC"],
             "station_id": "LOVV_I_CTR"
           },
           {
-            "label": [
-              "LOXT"
-            ],
+            "label": ["LOXT"],
             "station_id": "LOXT_TWR"
           },
           {
-            "label": [
-              "LOXN",
-              "TWR"
-            ]
+            "label": ["LOXN", "TWR"]
           },
           {
-            "label": [
-              "PRA",
-              "FIC",
-              "MOR"
-            ]
+            "label": ["PRA", "FIC", "MOR"]
           },
           {
-            "label": [
-              "PRA",
-              "TB",
-              "PLC"
-            ]
+            "label": ["PRA", "TB", "PLC"]
           },
           {
-            "label": [
-              "APP",
-              "TFI",
-              "EC"
-            ],
+            "label": ["APP", "TFI", "EC"],
             "station_id": "LOWW_I_APP"
           },
           {
-            "label": [
-              "TCO"
-            ],
+            "label": ["TCO"],
             "station_id": "LOWW_TWR"
           },
           {
-            "label": [
-              "MIL",
-              "INFO",
-              "PLC"
-            ],
+            "label": ["MIL", "INFO", "PLC"],
             "station_id": "LOVV_M_CTR"
           },
           {
-            "label": [
-              "BRA",
-              "FIC",
-              "PLC"
-            ]
+            "label": ["BRA", "FIC", "PLC"]
           },
           {
-            "label": [
-              "BRA",
-              "APP",
-              "PLC"
-            ]
+            "label": ["BRA", "APP", "PLC"]
           },
           {
-            "label": [
-              "BRA",
-              "TWR",
-              "PLC"
-            ]
+            "label": ["BRA", "TWR", "PLC"]
           },
           {
-            "label": [
-              "APP",
-              "VN-PLC",
-              "118775"
-            ],
+            "label": ["APP", "VN-PLC", "118775"],
             "station_id": "LOWW_N_APP"
           },
           {
-            "label": [
-              "APP",
-              "VB-PLC",
-              "134675"
-            ],
+            "label": ["APP", "VB-PLC", "134675"],
             "station_id": "LOWW_APP"
           },
           {
-            "label": [
-              "MIL",
-              "CTR"
-            ],
+            "label": ["MIL", "CTR"],
             "station_id": "LOVV_M_CTR"
           },
           {
-            "label": [
-              "LHPR"
-            ]
+            "label": ["LHPR"]
           },
           {
-            "label": [
-              "BUD",
-              "FIC"
-            ]
+            "label": ["BUD", "FIC"]
           },
           {
-            "label": [
-              "LOXZ",
-              "APP"
-            ],
+            "label": ["LOXZ", "APP"],
             "station_id": "LOXZ_APP"
           },
           {
-            "label": [
-              "APP",
-              "VM-PLC",
-              "125175"
-            ],
+            "label": ["APP", "VM-PLC", "125175"],
             "station_id": "LOWW_M_APP"
           },
           {
-            "label": [
-              "APP",
-              "VP-PLC",
-              "129050"
-            ],
+            "label": ["APP", "VP-PLC", "129050"],
             "station_id": "LOWW_P_APP"
           }
         ]

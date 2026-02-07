@@ -1,16 +1,16 @@
 [[stations]]
 id = "LOVV_B1"
 controlled_by = [
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_W_CTR",
-    "LOVV_N_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_BU_CTR",
-    "LOVV_WU_CTR",
-    "LOVV_NU_CTR",
-    "LOVV_U_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_W_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_WU_CTR",
+  "LOVV_NU_CTR",
+  "LOVV_U_CTR",
 ]
 
 [[stations]]
@@ -36,28 +36,28 @@ parent_id = "LOVV_B7"
 [[stations]]
 id = "LOVV_B7"
 controlled_by = [
-    "LOVV_BU_CTR",
-    "LOVV_WU_CTR",
-    "LOVV_NU_CTR",
-    "LOVV_U_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_W_CTR",
-    "LOVV_N_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_WU_CTR",
+  "LOVV_NU_CTR",
+  "LOVV_U_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_W_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
 ]
 
 [[stations]]
 id = "LOVV_E1"
 controlled_by = [
-    "LOVV_E_CTR",
-    "LOVV_N_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_EU_CTR",
-    "LOVV_NU_CTR",
-    "LOVV_U_CTR",
+  "LOVV_E_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_NU_CTR",
+  "LOVV_U_CTR",
 ]
 
 [[stations]]
@@ -83,26 +83,26 @@ parent_id = "LOVV_E7"
 [[stations]]
 id = "LOVV_E7"
 controlled_by = [
-    "LOVV_EU_CTR",
-    "LOVV_NU_CTR",
-    "LOVV_U_CTR",
-    "LOVV_E_CTR",
-    "LOVV_N_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_NU_CTR",
+  "LOVV_U_CTR",
+  "LOVV_E_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
 ]
 
 [[stations]]
 id = "LOVV_N1"
 controlled_by = [
-    "LOVV_F_CTR",
-    "LOVV_N_CTR",
-    "LOVV_E_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_NU_CTR",
-    "LOVV_EU_CTR",
-    "LOVV_U_CTR",
+  "LOVV_F_CTR",
+  "LOVV_N_CTR",
+  "LOVV_E_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_NU_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_U_CTR",
 ]
 
 [[stations]]
@@ -128,28 +128,28 @@ parent_id = "LOVV_N7"
 [[stations]]
 id = "LOVV_N7"
 controlled_by = [
-    "LOVV_NU_CTR",
-    "LOVV_EU_CTR",
-    "LOVV_U_CTR",
-    "LOVV_N_CTR",
-    "LOVV_E_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
+  "LOVV_NU_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_U_CTR",
+  "LOVV_N_CTR",
+  "LOVV_E_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
 ]
 
 [[stations]]
 id = "LOVV_S1"
 controlled_by = [
-    "LOVV_S_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_E_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_SU_CTR",
-    "LOVV_BU_CTR",
-    "LOVV_EU_CTR",
-    "LOVV_U_CTR",
+  "LOVV_S_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_E_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_SU_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_U_CTR",
 ]
 
 [[stations]]
@@ -175,31 +175,31 @@ parent_id = "LOVV_S7"
 [[stations]]
 id = "LOVV_S7"
 controlled_by = [
-    "LOVV_SU_CTR",
-    "LOVV_BU_CTR",
-    "LOVV_EU_CTR",
-    "LOVV_U_CTR",
-    "LOVV_S_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_E_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
+  "LOVV_SU_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_U_CTR",
+  "LOVV_S_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_E_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
 ]
 
 [[stations]]
 id = "LOVV_W1"
 controlled_by = [
-    "LOVV_W_CTR",
-    "LOVV_S_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_WU_CTR",
-    "LOVV_SU_CTR",
-    "LOVV_BU_CTR",
-    "LOVV_U_CTR",
+  "LOVV_W_CTR",
+  "LOVV_S_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_WU_CTR",
+  "LOVV_SU_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_U_CTR",
 ]
 
 [[stations]]
@@ -225,16 +225,16 @@ parent_id = "LOVV_W7"
 [[stations]]
 id = "LOVV_W7"
 controlled_by = [
-    "LOVV_WU_CTR",
-    "LOVV_SU_CTR",
-    "LOVV_BU_CTR",
-    "LOVV_U_CTR",
-    "LOVV_W_CTR",
-    "LOVV_S_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
+  "LOVV_WU_CTR",
+  "LOVV_SU_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_U_CTR",
+  "LOVV_W_CTR",
+  "LOVV_S_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
 ]
 
 [[stations]]
@@ -248,18 +248,18 @@ controlled_by = ["LOVV_M_CTR"]
 [[stations]]
 id = "LOWG_APP"
 controlled_by = [
-    "LOWG_APP",
-    "LOVV_S_APP",
-    "LOVV_L_CTR",
-    "LOVV_S_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_E_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_SU_CTR",
-    "LOVV_BU_CTR",
-    "LOVV_EU_CTR",
+  "LOWG_APP",
+  "LOVV_S_APP",
+  "LOVV_L_CTR",
+  "LOVV_S_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_E_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_SU_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_EU_CTR",
 ]
 
 [[stations]]
@@ -290,34 +290,34 @@ controlled_by = ["LOWI_F_APP", "LOWI_E_APP", "LOWI_S_APP"]
 [[stations]]
 id = "LOWI_APP"
 controlled_by = [
-    "LOWI_APP",
-    "LOWI_E_APP",
-    "LOWI_S_APP",
-    "LOVV_L_CTR",
-    "LOVV_W_CTR",
-    "LOVV_S_CTR",
-    "LOVV_B_CTR",
-    "LOVV_CTR",
-    "LOVV_WU_CTR",
-    "LOVV_SU_CTR",
-    "LOVV_BU_CTR",
+  "LOWI_APP",
+  "LOWI_E_APP",
+  "LOWI_S_APP",
+  "LOVV_L_CTR",
+  "LOVV_W_CTR",
+  "LOVV_S_CTR",
+  "LOVV_B_CTR",
+  "LOVV_CTR",
+  "LOVV_WU_CTR",
+  "LOVV_SU_CTR",
+  "LOVV_BU_CTR",
 ]
 
 [[stations]]
 id = "LOWK_APP"
 controlled_by = [
-    "LOWK_APP",
-    "LOVV_S_APP",
-    "LOVV_L_CTR",
-    "LOVV_W_CTR",
-    "LOVV_S_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_WU_CTR",
-    "LOVV_SU_CTR",
-    "LOVV_BU_CTR",
+  "LOWK_APP",
+  "LOVV_S_APP",
+  "LOVV_L_CTR",
+  "LOVV_W_CTR",
+  "LOVV_S_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_WU_CTR",
+  "LOVV_SU_CTR",
+  "LOVV_BU_CTR",
 ]
 
 [[stations]]
@@ -328,15 +328,15 @@ controlled_by = ["LOWK_TWR"]
 [[stations]]
 id = "LOWL_APP"
 controlled_by = [
-    "LOWL_APP",
-    "LOVV_N_APP",
-    "LOVV_L_CTR",
-    "LOVV_N_CTR",
-    "LOVV_E_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_NU_CTR",
-    "LOVV_EU_CTR",
+  "LOWL_APP",
+  "LOVV_N_APP",
+  "LOVV_L_CTR",
+  "LOVV_N_CTR",
+  "LOVV_E_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_NU_CTR",
+  "LOVV_EU_CTR",
 ]
 
 [[stations]]
@@ -347,18 +347,18 @@ controlled_by = ["LOWL_TWR"]
 [[stations]]
 id = "LOWS_APP"
 controlled_by = [
-    "LOWS_APP",
-    "LOVV_N_APP",
-    "LOVV_L_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_W_CTR",
-    "LOVV_N_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_BU_CTR",
-    "LOVV_WU_CTR",
-    "LOVV_NU_CTR",
+  "LOWS_APP",
+  "LOVV_N_APP",
+  "LOVV_L_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_W_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_WU_CTR",
+  "LOVV_NU_CTR",
 ]
 
 [[stations]]
@@ -379,17 +379,17 @@ controlled_by = ["LOWW_E_TWR", "LOWW_TWR"]
 [[stations]]
 id = "LOWW_APP"
 controlled_by = [
-    "LOWW_APP",
-    "LOWW_P_APP",
-    "LOWW_N_APP",
-    "LOWW_M_APP",
-    "LOVV_L_CTR",
-    "LOVV_E_CTR",
-    "LOVV_N_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_EU_CTR",
-    "LOVV_NU_CTR",
+  "LOWW_APP",
+  "LOWW_P_APP",
+  "LOWW_N_APP",
+  "LOWW_M_APP",
+  "LOVV_L_CTR",
+  "LOVV_E_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_NU_CTR",
 ]
 
 [[stations]]
@@ -422,19 +422,19 @@ controlled_by = ["LOWW_I_APP", "LOVV_I_CTR"]
 [[stations]]
 id = "LOXT_APP"
 controlled_by = [
-    "LOXT_APP",
-    "LOVV_M_CTR",
-    "LOWW_N_APP",
-    "LOWW_M_APP",
-    "LOWW_APP",
-    "LOWW_P_APP",
-    "LOVV_L_CTR",
-    "LOVV_E_CTR",
-    "LOVV_N_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_EU_CTR",
-    "LOVV_NU_CTR",
+  "LOXT_APP",
+  "LOVV_M_CTR",
+  "LOWW_N_APP",
+  "LOWW_M_APP",
+  "LOWW_APP",
+  "LOWW_P_APP",
+  "LOVV_L_CTR",
+  "LOVV_E_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_NU_CTR",
 ]
 
 [[stations]]
@@ -445,23 +445,23 @@ controlled_by = ["LOXT_TWR"]
 [[stations]]
 id = "LOXZ_APP"
 controlled_by = [
-    "LOXZ_APP",
-    "LOVV_M_CTR",
-    "LOWG_APP",
-    "LOWK_APP",
-    "LOVV_S_APP",
-    "LOVV_L_CTR",
-    "LOVV_S_CTR",
-    "LOVV_W_CTR",
-    "LOVV_B_CTR",
-    "LOVV_BC_CTR",
-    "LOVV_E_CTR",
-    "LOVV_CTR",
-    "LOVV_C_CTR",
-    "LOVV_SU_CTR",
-    "LOVV_WU_CTR",
-    "LOVV_BU_CTR",
-    "LOVV_EU_CTR",
+  "LOXZ_APP",
+  "LOVV_M_CTR",
+  "LOWG_APP",
+  "LOWK_APP",
+  "LOVV_S_APP",
+  "LOVV_L_CTR",
+  "LOVV_S_CTR",
+  "LOVV_W_CTR",
+  "LOVV_B_CTR",
+  "LOVV_BC_CTR",
+  "LOVV_E_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_SU_CTR",
+  "LOVV_WU_CTR",
+  "LOVV_BU_CTR",
+  "LOVV_EU_CTR",
 ]
 
 [[stations]]

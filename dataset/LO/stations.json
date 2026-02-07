@@ -419,9 +419,7 @@
     },
     {
       "id": "LOVV_M_CTR",
-      "controlled_by": [
-        "LOVV_M_CTR"
-      ]
+      "controlled_by": ["LOVV_M_CTR"]
     },
     {
       "id": "LOXT_APP",

@@ -4,8 +4,12 @@ all-features = true
 [licenses]
 allow = ["MIT", "Apache-2.0"]
 exceptions = [
-    { allow = ["BSD-3-Clause"], crate = "encoding_rs" },
-    { allow = ["Unicode-3.0"], crate = "unicode-ident" },
+  { allow = [
+    "BSD-3-Clause",
+  ], crate = "encoding_rs" },
+  { allow = [
+    "Unicode-3.0",
+  ], crate = "unicode-ident" },
 ]
 
 [licenses.private]
@@ -19,6 +23,4 @@ allow-wildcard-paths = true
 [sources]
 unknown-registry = "deny"
 unknown-git = "deny"
-allow-git = [
-    "https://github.com/MorpheusXAUT/vacs"
-]
+allow-git = ["https://github.com/MorpheusXAUT/vacs"]
