@@ -130,7 +130,8 @@
             "label": [""]
           },
 		  {
-            "label": ["ESMM", "8", "-365"]
+            "label": ["ESMM", "8", "-365"],
+			"station_id": "ESMM_8_CTR"
           },
 		  {
             "label": ["EPWW", "D", "+365"]
@@ -162,7 +163,8 @@
 			}
           },
 		  {
-            "label": ["ESMM", "9", "+365"]
+            "label": ["ESMM", "9", "+365"],
+			"station_id": "ESMM_9_CTR"
           },
 		  {
             "label": ["EPWW", "T", "+365"]

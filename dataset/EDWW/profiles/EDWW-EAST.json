@@ -130,7 +130,8 @@
 			"station_id": "EDWW-HEI"
           },
 		  {
-            "label": ["ESMM", "L", "-285"]
+            "label": ["ESMM", "L", "-285"],
+			"station_id": "ESMS_APP"
           },
 		  {
             "label": ["EKDK", "B", "-285"]
@@ -198,7 +199,8 @@
 			}
           },
 		  {
-            "label": ["ESMM", "8", "285-365"]
+            "label": ["ESMM", "8", "285-365"],
+			"station_id": "ESMM_8_CTR"
           },
 		  {
             "label": ["EKDK", "A", "285-365"]
@@ -252,7 +254,8 @@
 			}
           },
 		  {
-            "label": ["ESMM", "9", "+365"]
+            "label": ["ESMM", "9", "+365"],
+			"station_id": "ESMM_9_CTR"
           },
 		  {
             "label": ["EKDK", "A", "+365"]
