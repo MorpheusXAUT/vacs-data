@@ -403,7 +403,7 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EPKK_E_TMA"
+id = "EPKK_TMA_E"
 controlled_by = [
     "EPKK_E_APP",
     "EPKK_APP",
@@ -455,7 +455,7 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EPKK_W_TMA"
+id = "EPKK_TMA_W"
 controlled_by = [
     "EPKK_APP",
     "EPWW_J_CTR",
@@ -625,7 +625,7 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EPPO_TMA_NORTH"
+id = "EPPO_TMA_N"
 controlled_by = [
     "EPPO_N_APP",
     "EPWW_D_CTR",
@@ -634,7 +634,7 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EPPO_TMA_SOUTH"
+id = "EPPO_TMA_S"
 controlled_by = [
     "EPPO_S_APP",
     "EPPO_N_APP",

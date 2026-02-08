@@ -3,62 +3,294 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "RADAR L",
+      "label": "EPWW ACC",
       "page": {
         "rows": 5,
         "keys": [
           {
             "label": [
+              "B",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWB_LOW"
+          },
+          {
+            "label": [
+              "C",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWC_LOW"
+          },
+          {
+            "label": [
+              "D",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWD_LOW"
+          },
+          {
+            "label": [
+              "E",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWE_LOW"
+          },
+          {
+            "label": [
+              "F",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWF_LOW"
+          },
+          {
+            "label": [
+              "G",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWG_LOW"
+          },
+          {
+            "label": [
+              "J",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWJ_LOW"
+          },
+          {
+            "label": [
+              "N",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWN_LOW"
+          },
+          {
+            "label": [
+              "R",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWR_LOW"
+          },
+          {
+            "label": [
+              "T",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWWT_LOW"
+          },
+          {
+            "label": [
+              "B",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWB_MID"
+          },
+          {
+            "label": [
+              "C",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWC_MID"
+          },
+          {
+            "label": [
+              "D",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWD_MID"
+          },
+          {
+            "label": [
+              "E",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWE_MID"
+          },
+          {
+            "label": [
+              "F",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWF_MID"
+          },
+          {
+            "label": [
+              "G",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWG_MID"
+          },
+          {
+            "label": [
+              "J",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWJ_MID"
+          },
+          {
+            "label": [
+              "N",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWN_MID"
+          },
+          {
+            "label": [
+              "R",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWR_MID"
+          },
+          {
+            "label": [
+              "T",
+              "M",
+              "EC"
+            ],
+            "station_id": "EPWWT_MID"
+          },
+          {
+            "label": [
+              "B",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWB_HIGH"
+          },
+          {
+            "label": [
+              "C",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWC_HIGH"
+          },
+          {
+            "label": [
+              "D",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWD_HIGH"
+          },
+          {
+            "label": [
+              "E",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWE_HIGH"
+          },
+          {
+            "label": [
+              "F",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWF_HIGH"
+          },
+          {
+            "label": [
+              "G",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWG_HIGH"
+          },
+          {
+            "label": [
+              "J",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWJ_HIGH"
+          },
+          {
+            "label": [
+              "N",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWN_HIGH"
+          },
+          {
+            "label": [
+              "R",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWR_HIGH"
+          },
+          {
+            "label": [
+              "T",
+              "H",
+              "EC"
+            ],
+            "station_id": "EPWWT_HIGH"
+          },
+          {
+            "label": [
+              "APP WA",
+              "H N",
+              "EC"
+            ],
+            "station_id": "EPWA_TMA_N"
+          },
+          {
+            "label": [
+              "APP WA",
+              "H S",
+              "EC"
+            ],
+            "station_id": "EPWA_TMA_S"
+          },
+          {
+            "label": [
+              "APP WA",
+              "L",
+              "EC"
+            ],
+            "station_id": "EPWA_TMA"
+          },
+          {
+            "label": [
+              "APP KK",
+              "E",
+              "EC"
+            ],
+            "station_id": "EPKK_TMA_E"
+          },
+          {
+            "label": [
+              "APP KK",
+              "W",
+              "EC"
+            ],
+            "station_id": "EPKK_TMA_W"
+          },
+          {
+            "label": [
+              "APP GD",
               "",
-              "LW",
-              "EC"
-            ]
-          },
-          {
-            "label": [
-              "PRA",
-              "LS",
-              "EC"
-            ]
-          },
-          {
-            "label": [
-              "PRA",
-              "TB",
-              "EC"
-            ]
-          },
-          {
-            "label": [
-              "PRA",
-              "KV",
-              "EC"
-            ]
-          },
-          {
-            "label": [
-              "APP",
-              "VD1"
-            ],
-            "station_id": "LOWW_D_APP"
-          },
-          {
-            "label": [
-              "TWR 1"
-            ],
-            "station_id": "LOWW_TWR"
-          },
-          {
-            "label": [
-              "BRA",
-              "LW",
-              "EC"
-            ]
-          },
-          {
-            "label": [
-              "BRA",
-              "APP",
               "EC"
             ]
           },
