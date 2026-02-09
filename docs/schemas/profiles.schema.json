@@ -62,6 +62,39 @@
       "type": "number",
       "exclusiveMinimum": 0
     },
+    "FrequencyDisplayMode": {
+      "type": "string",
+      "enum": ["ShowAll", "HideAll"],
+      "default": "ShowAll"
+    },
+    "ClientGroupMode": {
+      "type": "string",
+      "enum": ["None", "Fir", "Icao", "FirAndIcao"],
+      "default": "FirAndIcao"
+    },
+    "ClientPageConfig": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "include": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": []
+        },
+        "exclude": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": []
+        },
+        "priority": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND"]
+        },
+        "frequencies": { "$ref": "#/$defs/FrequencyDisplayMode" },
+        "grouping": { "$ref": "#/$defs/ClientGroupMode" }
+      }
+    },
     "DirectAccessKey": {
       "type": "object",
       "additionalProperties": false,
@@ -78,7 +111,7 @@
     "DirectAccessPage": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["rows", "keys"],
+      "required": ["rows"],
       "properties": {
         "rows": {
           "type": "integer",
@@ -87,7 +120,12 @@
         "keys": {
           "type": "array",
           "items": { "$ref": "#/$defs/DirectAccessKey" }
-        }
+        },
+        "client_page": { "$ref": "#/$defs/ClientPageConfig" }
+      },
+      "oneOf": [{ "required": ["keys"] }, { "required": ["client_page"] }],
+      "not": {
+        "required": ["keys", "client_page"]
       }
     },
     "Tab": {
