@@ -345,29 +345,29 @@
           },
           {
             "label": [
-              "Stuttgart",
+              ""
+            ]
+          },
+          {
+            "label": [
+              "EDDS",
               "Tower"
             ],
             "station_id": "EDGG-DST"
           },
           {
             "label": [
-              "Stuttgart",
+              "EDDS",
               "Ground"
             ],
             "station_id": "EDGG-DSG"
           },
           {
             "label": [
-              "Stuttgart",
+              "EDDS",
               "Delivery"
             ],
             "station_id": "EDGG-DSC"
-          },
-          {
-            "label": [
-              ""
-            ]
           },
           {
             "label": [
@@ -387,36 +387,36 @@
           },
           {
             "label": [
-              "Baden",
+              ""
+            ]
+          },
+          {
+            "label": [
+              "EDSB",
               "Tower"
             ],
             "station_id": "EDGG-SBT"
           },
           {
             "label": [
-              "Baden",
+              "EDSB",
               "Ground"
             ],
             "station_id": "EDGG-SBG"
           },
           {
             "label": [
-              "Münster",
+              "EDDG",
               "Tower"
             ],
             "station_id": "EDGG-DGT"
           },
           {
             "label": [
-              "Münster",
+              "EDDG",
               "Ground"
             ],
             "station_id": "EDGG-DGG"
-          },
-          {
-            "label": [
-              ""
-            ]
           },
           {
             "label": [
@@ -432,7 +432,12 @@
           },
           {
             "label": [
-              "Mannheim",
+              ""
+            ]
+          },
+          {
+            "label": [
+              "EDLM",
               "Tower"
             ],
             "station_id": "EDGG-FMT"
@@ -444,14 +449,14 @@
           },
           {
             "label": [
-              "Saarbrücken",
+              "EDDR",
               "Tower"
             ],
             "station_id": "EDGG-DRT"
           },
           {
             "label": [
-              "Saarbrücken",
+              "EDDR",
               "Ground"
             ],
             "station_id": "EDGG-DRG"
@@ -464,41 +469,43 @@
           },
           {
             "label": [
-              ""
-            ]
+              "DLA"
+            ],
+            "station_id": "EDGG-DLA"
           },
           {
             "label": [
-              "Hahn",
+              "DLAT"
+            ],
+            "station_id": "EDGG-DLAT"
+          },
+          {
+            "label": [
+              "EDFH",
               "Tower"
             ],
             "station_id": "EDGG-FHT"
           },
           {
             "label": [
-              "Hahn",
+              "EDFH",
               "Ground"
             ],
             "station_id": "EDGG-FHG"
           },
           {
             "label": [
-              "Gladbach",
+              "EDLN",
               "Tower"
             ],
             "station_id": "EDGG-LNT"
           },
           {
             "label": [
-              "Gladbach",
+              "EDLN",
               "Ground"
             ],
             "station_id": "EDGG-LNG"
-          },
-          {
-            "label": [
-              ""
-            ]
           },
           {
             "label": [
@@ -508,34 +515,35 @@
           },
           {
             "label": [
+              "DLD"
+            ],
+            "station_id": "EDGG-DLD"
+          },
+          {
+            "label": [
               ""
             ]
           },
           {
             "label": [
-              "Paderborn",
+              "EDLP",
               "Tower"
             ],
             "station_id": "EDGG-LPT"
           },
           {
             "label": [
-              "Paderborn",
+              "EDLP",
               "Ground"
             ],
             "station_id": "EDGG-LPG"
           },
           {
             "label": [
-              "Niederrhein",
+              "EDLV",
               "Tower"
             ],
             "station_id": "EDGG-LVT"
-          },
-          {
-            "label": [
-              ""
-            ]
           },
           {
             "label": [
@@ -550,19 +558,25 @@
           },
           {
             "label": [
+              "PAL"
+            ],
+            "station_id": "EDGG-PAL"
+          },
+          {
+            "label": [
               ""
             ]
           },
           {
             "label": [
-              "Dortmund",
+              "EDLW",
               "Tower"
             ],
             "station_id": "EDGG-LWT"
           },
           {
             "label": [
-              "Dortmund",
+              "EDLW",
               "Ground"
             ],
             "station_id": "EDGG-LWG"
@@ -579,43 +593,39 @@
           },
           {
             "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              "DLA"
-            ],
-            "station_id": "EDGG-DLA"
-          },
-          {
-            "label": [
-              "DLAT"
-            ],
-            "station_id": "EDGG-DLAT"
-          },
-          {
-            "label": [
-              ""
-            ]
-          },
-          {
-            "label": [
-              "DLD"
-            ],
-            "station_id": "EDGG-DLD"
-          },
-          {
-            "label": [
-              "PAL"
-            ],
-            "station_id": "EDGG-PAL"
-          },
-          {
-            "label": [
               "BOT"
             ],
             "station_id": "EDGG-BOT"
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
           }
         ]
       }
@@ -632,7 +642,7 @@
           },
           {
             "label": [
-              "Büchel",
+              "ETSB",
               "Tower"
             ],
             "station_id": "EDGG-TOUT"
@@ -644,7 +654,7 @@
           },
           {
             "label": [
-              "Lahr",
+              "EDTL",
               "Tower"
             ],
             "station_id": "EDGG-TLT"
@@ -666,21 +676,21 @@
           },
           {
             "label": [
-              "Spangd.",
+              "ETAD",
               "Tower"
             ],
             "station_id": "EDGG-TADT"
           },
           {
             "label": [
-              "Spangd.",
+              "ETAD",
               "Ground"
             ],
             "station_id": "EDGG-TADG"
           },
           {
             "label": [
-              "Spangd.",
+              "ETAD",
               "Clearance"
             ],
             "station_id": "EDGG-TADC"
@@ -702,14 +712,14 @@
           },
           {
             "label": [
-              "Rammstein",
+              "ETAR",
               "Tower"
             ],
             "station_id": "EDGG-TART"
           },
           {
             "label": [
-              "Rammstein",
+              "ETAR",
               "Ground"
             ],
             "station_id": "EDGG-TARG"
@@ -721,14 +731,14 @@
           },
           {
             "label": [
-              "Fritzlar",
+              "ETHF",
               "Tower"
             ],
             "station_id": "EDGG-THFT"
           },
           {
             "label": [
-              "Fritzlar",
+              "ETHF",
               "Ground"
             ],
             "station_id": "EDGG-THFG"
@@ -740,7 +750,7 @@
           },
           {
             "label": [
-              "Niederstetten",
+              "ETHN",
               "Tower"
             ],
             "station_id": "EDGG-THNT"
@@ -757,7 +767,7 @@
           },
           {
             "label": [
-              "Geilenkirchen",
+              "ETNG",
               "Tower"
             ],
             "station_id": "EDGG-TNGA"
@@ -786,21 +796,21 @@
           },
           {
             "label": [
-              "Nörvenich",
+              "ETNN",
               "Tower"
             ],
             "station_id": "EDGG-TNNT"
           },
           {
             "label": [
-              "Wiesbaden",
+              "ETOU",
               "Tower"
             ],
             "station_id": "EDGG-TOUT"
           },
           {
             "label": [
-              "Wiesbaden",
+              "ETOU",
               "Ground"
             ],
             "station_id": "EDGG-TOUG"
