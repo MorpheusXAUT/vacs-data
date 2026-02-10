@@ -505,7 +505,7 @@ dependencies = [
 
 [[package]]
 name = "vacs-data-cli"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "clap",
  "vacs-data-diagnostics",
@@ -515,14 +515,14 @@ dependencies = [
 
 [[package]]
 name = "vacs-data-diagnostics"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "console",
 ]
 
 [[package]]
 name = "vacs-data-importer"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "console",
  "encoding_rs",
@@ -537,7 +537,7 @@ dependencies = [
 
 [[package]]
 name = "vacs-data-validator"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "console",
  "vacs-data-diagnostics",
