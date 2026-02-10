@@ -35,6 +35,8 @@ Each profile file must contain a single profile object. There are two types of p
 
 A tabbed profile organizes keys into multiple tabs, each containing a grid of direct access keys.
 
+![Tabbed Profile Example](../images/tabbed.png "Tabbed Profile Example")
+
 **Required fields:**
 
 - `id` (string): Unique profile identifier
@@ -64,6 +66,8 @@ A tabbed profile organizes keys into multiple tabs, each containing a grid of di
 ### Geo Profile
 
 A geo profile uses a flexible container-based layout system, allowing for custom geometric arrangements of buttons and dividers.
+
+![Geo Profile Example](../images/geo_page.png "Geo Profile Example")
 
 **Required fields:**
 
@@ -245,9 +249,16 @@ When configuring profiles, watch out for these issues:
 
 ## Examples
 
+You can find simple examples for different types of profiles below.
+
+For a more comprehensive [Geo Profile example](#geo-profile), see the [`LOVV` profile](../../dataset/LO/profiles/LOVV.json).  
+For a more comprehensive [Tabbed Profile example](#tabbed-profile), see the [`LOWW` profile](../../dataset/LO/profiles/LOWW.json).
+
 ### Simple tabbed profile
 
 This example defines a basic tabbed profile with one tab containing a 4-row grid of keys.
+
+![Simple tabbed profile example](../images/example_simple_tabbed.png "Simple tabbed profile example")
 
 ```json
 {
@@ -292,6 +303,8 @@ What this means in practice:
 ### Multi-tab profile
 
 This example shows a tabbed profile with multiple tabs for different operational areas.
+
+![Multi-tab profile example](../images/example_multi_tabbed.png "Multi-tab profile example")
 
 ```json
 {
@@ -349,6 +362,8 @@ What this means in practice:
 
 This example demonstrates a simple geo profile using a vertical container layout.
 
+![Basic Geo Profile example](../images/example_basic_geo.png "Basic Geo Profile example")
+
 ```json
 {
   "id": "LOVV",
@@ -361,10 +376,11 @@ This example demonstrates a simple geo profile using a vertical container layout
     {
       "direction": "row",
       "gap": 8,
+      "padding": 2,
       "children": [
         {
           "label": ["LOVV", "N5"],
-          "size": 1,
+          "size": 10,
           "page": {
             "rows": 2,
             "keys": [
@@ -381,7 +397,7 @@ This example demonstrates a simple geo profile using a vertical container layout
         },
         {
           "label": ["LOVV", "S5"],
-          "size": 1,
+          "size": 10,
           "page": {
             "rows": 2,
             "keys": [
@@ -406,6 +422,112 @@ What this means in practice:
 
 - The profile uses a geometric layout instead of fixed tabs
 - The root container is a vertical column (`"col"`) that fills the full available space
-- Inside is a horizontal row (`"row"`) containing two equally-sized buttons (`size: 1`)
+- Inside is a horizontal row (`"row"`) containing two equally sized buttons (`size: 10`)
 - Each button opens a nested direct access page when pressed
 - The nested pages contain grids of station keys for different sectors
+
+### Subpage definition
+
+This example shows a profile with a key that opens another page (subpage) instead of calling a station.
+
+```json
+{
+  "id": "LOWW",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "EC",
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Other", "Sectors"],
+            "page": {
+              "rows": 4,
+              "keys": [
+                {
+                  "label": ["LOVV", "W_CTR"],
+                  "station_id": "LOVV_W_CTR"
+                },
+                {
+                  "label": ["LOVV", "S_CTR"],
+                  "station_id": "LOVV_S_CTR"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+```
+
+What this means in practice:
+
+- The profile contains one tab with a single key
+- The key is labeled "Other Sectors"
+- When pressed, it replaces the current grid with a new 4-row grid
+- The new grid contains keys for `LOVV_W_CTR` and `LOVV_S_CTR`
+- This allows creating hierarchical menus of stations
+
+### Client page definition
+
+This example shows a profile with a page that displays a dynamic list of online clients.
+
+```json
+{
+  "id": "LOWW",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "CWP",
+      "page": {
+        "rows": 6,
+        "client_page": {
+          "include": ["LO*", "ED*"],
+          "exclude": ["LON*", "*_GND"],
+          "grouping": "Fir",
+          "priority": ["*_CTR", "*_APP"]
+        }
+      }
+    }
+  ]
+}
+```
+
+What this means in practice:
+
+- The profile contains a tab that shows a client list
+- The page will automatically populate with online clients
+- Only callsigns starting with `LO` or `ED` are included
+- Callsigns starting with `LON` as well as all Ground positions are excluded
+- Clients are grouped by their FIR (first 2 letters of callsign)
+- Centers and Approach units are shown first in the list
+
+## Component Visuals
+
+### Direct Access Page states
+
+![Direct Access Page states](../images/direct_access_page.png "Direct Access Page states")
+
+The screenshot above shows a direct access page with three different states:
+
+- **Station online, covered by own position**: The DA key is active with grey text (e.g., `380 E6 PLC`)
+- **Station online, covered by different position**: The DA key is active with black text (e.g., `APP VB PLN`)
+- **Station defined, but currently not covered by any position**: The DA key is inactive with black text (e.g., `APP VD1 PLN`)
+- **Station not defined**: The DA key is inactive with grey text (see [Tabbed Profile](#tabbed-profile), e.g., `PRA LW EC`)
+
+### Client Page
+
+![Client Page Grouping - FIR](../images/client_page_fir.png "Client Page Grouping - FIR")
+
+Client page grouped by FIR (two letters)
+
+![Client Page Grouping - ICAO](../images/client_page_icao.png "Client Page Grouping - ICAO")
+
+Client page grouped by ICAO (four letters)
+
+![Client Page](../images/client_page.png "Client Page")
+
+List of clients prioritized and displayed as per [Client Page Configuration](#client-page-configuration)
