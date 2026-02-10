@@ -57,7 +57,7 @@ Each position entry maps a VATSIM controller login to a vacs position.
 | `prefixes`      | Array of strings | Yes      | Callsign prefixes used to match VATSIM logins when the callsign doesn't exactly match the `id` (e.g., `["LOWW"]`).  |
 | `frequency`     | String           | Yes      | Primary frequency in `XXX.XXX` format (e.g., `118.700`).                                                            |
 | `facility_type` | String           | Yes      | VATSIM facility type. Must be one of the facility types listed below.                                               |
-| `profile_id`    | String           | No       | Optional ID of the default profile to load for this position.                                                       |
+| `profile_id`    | String           | No       | Optional ID of the profile to load for this position.                                                               |
 
 ## Validation Rules
 
@@ -171,7 +171,7 @@ What this means in practice:
 
 ### Position without a profile
 
-This example shows a position that does not load a default profile.
+This example shows a position that does not load a profile.
 
 ```toml
 [[positions]]
@@ -184,7 +184,7 @@ facility_type = "DEL"
 What this means in practice:
 
 - The `profile_id` field is optional and can be omitted
-- Controllers logging into this position will not have a default profile automatically loaded
+- Controllers logging into this position will not have a profile automatically loaded
 - Positions without profiles associated will only receive a basic view showing connected users (and their VATSIM callsign) and **will not show up as an online station for other controllers in vacs**
 
 ### Prefix matching with non-standard callsigns

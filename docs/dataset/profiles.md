@@ -25,8 +25,9 @@ Each profile file must contain a single profile object. There are two types of p
 - **Direct Access Key**: A button that allows calling a specific station
 - **Station ID**: Reference to a station defined in the stations configuration
 - **Tab**: A page in a tabbed profile containing a grid of keys
-- **Geo Node**: A building block in a geo profile (container, button, or divider)
+- **Geo Node**: A building block in a geo profile (container, button, or divider). See [Geo Profile Components](#geo-profile-components).
 - **Container**: A layout element that groups and arranges child nodes
+- **Client Page**: A specialized page displaying a list of all online clients, filtered and prioritized based on the client page configuration
 
 ## Profile Types
 
@@ -69,7 +70,7 @@ A geo profile uses a flexible container-based layout system, allowing for custom
 - `id` (string): Unique profile identifier
 - `type` (string): Must be `"Geo"`
 - `direction` (string): Flex direction (`"row"` or `"col"`)
-- `children` (array): One or more geo nodes (containers, buttons, or dividers)
+- `children` (array): One or more [geo nodes](#geonode) (containers, buttons, or dividers)
 
 **Structure:**
 
@@ -93,62 +94,100 @@ A geo profile uses a flexible container-based layout system, allowing for custom
 | `id`   | String | Yes      | Unique profile identifier. Must start with the FIR's country code (e.g., `LOWW`, `LOVV`). |
 | `type` | String | Yes      | Profile type. Must be either `"Tabbed"` or `"Geo"`.                                       |
 
+## Shared Profile Components
+
+### DirectAccessPage
+
+Defines a grid layout of direct access keys.
+
+| Field         | Type                                           | Required | Description                                                                                                               |
+| :------------ | :--------------------------------------------- | :------- | :------------------------------------------------------------------------------------------------------------------------ |
+| `rows`        | Integer                                        | Yes      | Number of rows in the grid (minimum 1).                                                                                   |
+| `keys`        | Array of [DirectAccessKey](#directaccesskey)   | No       | Array of keys to display in the grid. Mutually exclusive with `client_page`. One of `keys` or `client_page` must be set.  |
+| `client_page` | [ClientPageConfig](#client-page-configuration) | No       | Configuration for a dynamic client list page. Mutually exclusive with `keys`. One of `keys` or `client_page` must be set. |
+
+### Client Page Configuration
+
+A client page displays a dynamic list of online clients instead of a static grid of keys.
+
+| Field         | Type                 | Required | Description                                                                                                                                                    |
+| :------------ | :------------------- | :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `include`     | Array of Strings     | No       | List of callsign patterns to include. Supports glob syntax (e.g., `"LO*"`, `"*_APP"`). If empty, all clients are eligible.                                     |
+| `exclude`     | Array of Strings     | No       | List of callsign patterns to exclude. Clients matching these patterns are never shown. Supports glob syntax.                                                   |
+| `priority`    | Array of Strings     | No       | Ordered list of callsign patterns to determine sort priority. Earlier patterns have higher priority. Default: `["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND"]`. |
+| `frequencies` | FrequencyDisplayMode | No       | Controls frequency display on keys.                                                                                                                            |
+| `grouping`    | ClientGroupMode      | No       | Controls how keys are grouped.                                                                                                                                 |
+
+**Valid `frequencies` values:**
+
+- `"ShowAll"` (default), `"HideAll"`
+
+**Valid `grouping` values:**
+
+- `"None"`: Do not group
+- `"Fir"`: Group by first 2 chars
+- `"Icao"`: Group by first 4 chars
+- `"FirAndIcao"` (default): Group by FIR then ICAO code
+
+### DirectAccessKey
+
+Represents a single callable button.
+
+| Field        | Type                                  | Required | Description                                                                                                               |
+| :----------- | :------------------------------------ | :------- | :------------------------------------------------------------------------------------------------------------------------ |
+| `label`      | Array of strings                      | Yes      | Multi-line label (up to 3 lines). Can be empty array for blank keys.                                                      |
+| `station_id` | String                                | No       | Station ID to call when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.    |
+| `page`       | [DirectAccessPage](#directaccesspage) | No       | Subpage to open when pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled. |
+
 ## Tabbed Profile Components
 
 ### Tab
 
 Represents a single tab in a tabbed profile.
 
-| Field   | Type             | Required | Description                           |
-| :------ | :--------------- | :------- | :------------------------------------ |
-| `label` | String           | Yes      | Tab name displayed in the interface.  |
-| `page`  | DirectAccessPage | Yes      | The page containing the grid of keys. |
-
-### DirectAccessPage
-
-Defines a grid layout of direct access keys.
-
-| Field  | Type                     | Required | Description                             |
-| :----- | :----------------------- | :------- | :-------------------------------------- |
-| `rows` | Integer                  | Yes      | Number of rows in the grid (minimum 1). |
-| `keys` | Array of DirectAccessKey | Yes      | Array of keys to display in the grid.   |
-
-### DirectAccessKey
-
-Represents a single callable button.
-
-| Field        | Type             | Required | Description                                                                                                               |
-| :----------- | :--------------- | :------- | :------------------------------------------------------------------------------------------------------------------------ |
-| `label`      | Array of strings | Yes      | Multi-line label (up to 3 lines). Can be empty array for blank keys.                                                      |
-| `station_id` | String           | No       | Station ID to call when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.    |
-| `page`       | DirectAccessPage | No       | Subpage to open when pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled. |
+| Field   | Type                                  | Required | Description                           |
+| :------ | :------------------------------------ | :------- | :------------------------------------ |
+| `label` | String                                | Yes      | Tab name displayed in the interface.  |
+| `page`  | [DirectAccessPage](#directaccesspage) | Yes      | The page containing the grid of keys. |
 
 ## Geo Profile Components
+
+### GeoNode
+
+A `GeoNode` is one of the following:
+
+- [GeoPageContainer](#geopagecontainer)
+- [GeoPageButton](#geopagebutton)
+- [GeoPageDivider](#geopagedivider)
 
 ### GeoPageContainer
 
 A layout container that arranges child nodes using flexbox.
 
-| Field             | Type              | Required | Description                                     |
-| :---------------- | :---------------- | :------- | :---------------------------------------------- |
-| `direction`       | String            | Yes      | Flex direction: `"row"` or `"col"`.             |
-| `children`        | Array of GeoNodes | Yes      | Child nodes (containers, buttons, or dividers). |
-| `height`          | String            | No       | Container height (e.g., `"100%"`, `"20rem"`).   |
-| `width`           | String            | No       | Container width (e.g., `"100%"`, `"20rem"`).    |
-| `padding`         | Number            | No       | Padding on all sides (≥ 0).                     |
-| `padding_left`    | Number            | No       | Left padding (≥ 0).                             |
-| `padding_right`   | Number            | No       | Right padding (≥ 0).                            |
-| `padding_top`     | Number            | No       | Top padding (≥ 0).                              |
-| `padding_bottom`  | Number            | No       | Bottom padding (≥ 0).                           |
-| `gap`             | Number            | No       | Gap between child elements (≥ 0).               |
-| `justify_content` | String            | No       | Flexbox justify-content property.               |
-| `align_items`     | String            | No       | Flexbox align-items property.                   |
+| Field             | Type                          | Required | Description                                     |
+| :---------------- | :---------------------------- | :------- | :---------------------------------------------- |
+| `direction`       | FlexDirection                 | Yes      | Flex direction.                                 |
+| `children`        | Array of [GeoNodes](#geonode) | Yes      | Child nodes (containers, buttons, or dividers). |
+| `height`          | String                        | No       | Container height (e.g., `"100%"`, `"20rem"`).   |
+| `width`           | String                        | No       | Container width (e.g., `"100%"`, `"20rem"`).    |
+| `padding`         | Number                        | No       | Padding on all sides (≥ 0).                     |
+| `padding_left`    | Number                        | No       | Left padding (≥ 0).                             |
+| `padding_right`   | Number                        | No       | Right padding (≥ 0).                            |
+| `padding_top`     | Number                        | No       | Top padding (≥ 0).                              |
+| `padding_bottom`  | Number                        | No       | Bottom padding (≥ 0).                           |
+| `gap`             | Number                        | No       | Gap between child elements (≥ 0).               |
+| `justify_content` | JustifyContent                | No       | Flexbox justify-content property.               |
+| `align_items`     | AlignItems                    | No       | Flexbox align-items property.                   |
 
-**Valid `justify_content` values:**
+**Valid `FlexDirection` values:**
+
+- `"row"`, `"col"`
+
+**Valid `JustifyContent` values:**
 
 - `"flex-start"`, `"flex-end"`, `"center"`, `"space-between"`, `"space-around"`, `"space-evenly"`
 
-**Valid `align_items` values:**
+**Valid `AlignItems` values:**
 
 - `"flex-start"`, `"flex-end"`, `"center"`, `"stretch"`, `"baseline"`
 
@@ -156,11 +195,11 @@ A layout container that arranges child nodes using flexbox.
 
 A clickable button that can trigger a direct access page or call a station.
 
-| Field   | Type             | Required | Description                                                |
-| :------ | :--------------- | :------- | :--------------------------------------------------------- |
-| `label` | Array of strings | Yes      | Multi-line label (1-3 lines, cannot be empty).             |
-| `size`  | Number           | Yes      | Button size (> 0). Controls relative sizing in the layout. |
-| `page`  | DirectAccessPage | No       | Optional nested page to display when button is pressed.    |
+| Field   | Type                                  | Required | Description                                                |
+| :------ | :------------------------------------ | :------- | :--------------------------------------------------------- |
+| `label` | Array of strings                      | Yes      | Multi-line label (1-3 lines, cannot be empty).             |
+| `size`  | Number                                | Yes      | Button size (> 0). Controls relative sizing in the layout. |
+| `page`  | [DirectAccessPage](#directaccesspage) | No       | Optional nested page to display when button is pressed.    |
 
 ### GeoPageDivider
 
