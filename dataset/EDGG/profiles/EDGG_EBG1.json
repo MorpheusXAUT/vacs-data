@@ -90,8 +90,9 @@
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "TAU"
+                    ],
+                    "station_id": "EDGG-TAU"
                 },
                 {
                     "label": [
