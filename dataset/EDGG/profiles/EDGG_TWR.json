@@ -153,7 +153,7 @@
       }
     },
     {
-      "label": "DL + DK",
+      "label": "DL/DK",
       "page": {
         "rows": 5,
         "keys": [
@@ -326,7 +326,7 @@
       }
     },
     {
-      "label": "DS + Minor",
+      "label": "DS/Min",
       "page": {
         "rows": 7,
         "keys": [
@@ -426,7 +426,8 @@
           },
           {
             "label": [
-              "DGAT"
+              "DGAT",
+              "Feeder"
             ],
             "station_id": "EDGG-DGAT"
           },
@@ -475,9 +476,8 @@
           },
           {
             "label": [
-              "DLAT"
-            ],
-            "station_id": "EDGG-DLAT"
+              ""
+            ]
           },
           {
             "label": [
@@ -558,9 +558,10 @@
           },
           {
             "label": [
-              "PAL"
+              "DLAT",
+              "Feeder"
             ],
-            "station_id": "EDGG-PAL"
+            "station_id": "EDGG-DLAT"
           },
           {
             "label": [
@@ -599,8 +600,9 @@
           },
           {
             "label": [
-              ""
-            ]
+              "PAL"
+            ],
+            "station_id": "EDGG-PAL"
           },
           {
             "label": [
@@ -631,7 +633,7 @@
       }
     },
     {
-      "label": "Military",
+      "label": "MIL",
       "page": {
         "rows": 6,
         "keys": [
@@ -779,20 +781,8 @@
           },
           {
             "label": [
-              "DKA"
-            ],
-            "station_id": "EDGG-DKA"
-          },
-          {
-            "label": [
               "TNNT"
             ]
-          },
-          {
-            "label": [
-              "DFAN"
-            ],
-            "station_id": "EDGG-DFAN"
           },
           {
             "label": [
@@ -800,6 +790,16 @@
               "Tower"
             ],
             "station_id": "EDGG-TNNT"
+          },
+          {
+            "label": [
+              ""
+            ]
+          },
+          {
+            "label": [
+              ""
+            ]
           },
           {
             "label": [
@@ -814,6 +814,18 @@
               "Ground"
             ],
             "station_id": "EDGG-TOUG"
+          },
+          {
+            "label": [
+              "DKA"
+            ],
+            "station_id": "EDGG-DKA"
+          },
+          {
+            "label": [
+              "DFAN"
+            ],
+            "station_id": "EDGG-DFAN"
           }
         ]
       }
