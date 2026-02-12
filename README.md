@@ -27,7 +27,8 @@ We welcome contributions from FIR staff and community members! Please refer to t
 1.  [Fork the repository](https://github.com/MorpheusXAUT/vacs-data/fork).
 2.  Make your changes in your FIR's directory (or create it if it doesn't exist).
 3.  Validate your changes using the provided JSON schemas or the `vacs-data` tool.
-4.  [Submit a Pull Request](https://github.com/MorpheusXAUT/vacs-data/compare).
+4.  [Submit a Pull Request](https://github.com/MorpheusXAUT/vacs-data/compare). Please make sure to enable "Allow edits by maintainers" so that the autofix.ci bot can automatically push formatting fixes to your PR branch.
+5.  Make sure to check our [contribution guidelines](CONTRIBUTING.md) for more information.
 
 ## License
 
