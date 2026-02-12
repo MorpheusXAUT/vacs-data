@@ -37,7 +37,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           fetch-depth: 0
           ref: ${{ inputs.ref }}
@@ -91,12 +91,12 @@ jobs:
       release_body: ${{ steps.git-cliff.outputs.content }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           fetch-depth: 0
 
       - name: Generate a changelog
-        uses: orhun/git-cliff-action@v4.7.0
+        uses: orhun/git-cliff-action@e16f179f0be49ecdfe63753837f20b9531642772 # v4.7.0
         id: git-cliff
         with:
           config: tools/cliff.toml
@@ -126,7 +126,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           fetch-depth: 0
           persist-credentials: false
@@ -137,7 +137,7 @@ jobs:
           targets: ${{ matrix.target }}
 
       - name: Cache cargo
-        uses: Swatinem/rust-cache@v2.8.2
+        uses: Swatinem/rust-cache@779680da715d629ac1d338a641029a2f4372abb5 # v2.8.2
         with:
           shared-key: ${{ matrix.platform }}
           workspaces: "tools -> target"
@@ -161,7 +161,7 @@ jobs:
           mv "target/${{ matrix.target }}/release/${{ steps.vars.outputs.binary_name }}" "target/${{ matrix.target }}/release/${{ steps.vars.outputs.release_binary_name }}"
 
       - name: Upload binary artifact
-        uses: actions/upload-artifact@v6.0.0
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
         with:
           name: vacs-data-${{ matrix.platform }}
           if-no-files-found: error
@@ -171,7 +171,7 @@ jobs:
 
       - name: Attest build provenance
         if: ${{ !github.event.repository.private || github.event.repository.owner.type == 'Organization' }}
-        uses: actions/attest-build-provenance@v3.2.0
+        uses: actions/attest-build-provenance@96278af6caaf10aea03fd8d33a09a777ca52d62f # v3.2.0
         with:
           subject-path: |
             tools/target/${{ matrix.target }}/release/${{ steps.vars.outputs.release_binary_name }}
@@ -184,7 +184,7 @@ jobs:
       contents: write
     steps:
       - name: Download binaries
-        uses: actions/download-artifact@v7.0.0
+        uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 #v7.0.0
         with:
           path: dist
           pattern: vacs-data-*
@@ -199,7 +199,7 @@ jobs:
           done
 
       - name: Create/update GitHub release
-        uses: softprops/action-gh-release@v2.5.0
+        uses: softprops/action-gh-release@a06a81a03ee405af7f2048a818ed3f03bbf83c7b # v2.5.0
         with:
           tag_name: ${{ needs.prep.outputs.tag }}
           name: ${{ needs.prep.outputs.release_name }}
