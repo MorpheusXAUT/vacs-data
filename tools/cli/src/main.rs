@@ -2,7 +2,6 @@ mod cli;
 
 use crate::cli::{Cli, Command, ImportCommand};
 use clap::Parser;
-use vacs_data_diagnostics::log;
 
 pub fn main() {
     let cli = Cli::parse();
@@ -10,10 +9,7 @@ pub fn main() {
 
     match cli.cmd {
         Command::Validate { input_pos, input } => {
-            let Some(input) = input.or(input_pos) else {
-                log::error("Missing input path. Either provide INPUT or use --i/--input.");
-                std::process::exit(2);
-            };
+            let input = input.or(input_pos).unwrap();
 
             if vacs_data_validator::validate(&input).is_err() {
                 std::process::exit(1);
@@ -28,18 +24,15 @@ pub fn main() {
                     output,
                     overwrite,
                     merge,
+                    format,
                 },
         } => {
-            let Some(input) = input.or(input_pos) else {
-                log::error("Missing input path. Either provide INPUT or use --i/--input.");
-                std::process::exit(2);
-            };
-            let Some(output) = output.or(output_pos) else {
-                log::error("Missing output path. Either provide OUTPUT or use --o/--output.");
-                std::process::exit(2);
-            };
+            let input = input.or(input_pos).unwrap();
+            let output = output.or(output_pos).unwrap();
 
-            if vacs_data_importer::vatglasses::parse(&input, &output, overwrite, merge).is_err() {
+            if vacs_data_importer::vatglasses::parse(&input, &output, overwrite, merge, format)
+                .is_err()
+            {
                 std::process::exit(1);
             }
         }
@@ -53,20 +46,17 @@ pub fn main() {
                     prefixes,
                     overwrite,
                     merge,
+                    format,
                 },
         } => {
-            let Some(input) = input.or(input_pos) else {
-                log::error("Missing input path. Either provide INPUT or use --i/--input.");
-                std::process::exit(2);
-            };
-            let Some(output) = output.or(output_pos) else {
-                log::error("Missing output path. Either provide OUTPUT or use --o/--output.");
-                std::process::exit(2);
-            };
+            let input = input.or(input_pos).unwrap();
+            let output = output.or(output_pos).unwrap();
             let prefixes = prefixes.unwrap_or_default();
 
-            if vacs_data_importer::euroscope::parse(&input, &output, &prefixes, overwrite, merge)
-                .is_err()
+            if vacs_data_importer::euroscope::parse(
+                &input, &output, &prefixes, overwrite, merge, format,
+            )
+            .is_err()
             {
                 std::process::exit(1);
             }

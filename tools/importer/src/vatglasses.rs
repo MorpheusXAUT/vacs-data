@@ -13,6 +13,7 @@ pub fn parse(
     output: &PathBuf,
     overwrite: bool,
     merge: bool,
+    format: crate::OutputFormat,
 ) -> Result<(), Box<dyn std::error::Error>> {
     log::info(format_args!(
         "Parsing VATglasses data from {input:?} to {output:?}"
@@ -21,11 +22,22 @@ pub fn parse(
     crate::check_input_exists(input)?;
     crate::ensure_output_directory(output)?;
 
-    let output_stations =
-        crate::check_output_file(output, "stations.toml", "Stations", overwrite, merge)?;
+    let ext = format.ext();
+    let output_stations = crate::check_output_file(
+        output,
+        &format!("stations.{ext}"),
+        "Stations",
+        overwrite,
+        merge,
+    )?;
 
-    let output_positions =
-        crate::check_output_file(output, "positions.toml", "Positions", overwrite, merge)?;
+    let output_positions = crate::check_output_file(
+        output,
+        &format!("positions.{ext}"),
+        "Positions",
+        overwrite,
+        merge,
+    )?;
 
     let file = match std::fs::File::open(input) {
         Ok(f) => f,
@@ -82,11 +94,11 @@ pub fn parse(
 
     stations.stations.sort_by(|a, b| a.id.cmp(&b.id));
 
-    let serialized_stations = match toml::to_string_pretty(&stations) {
+    let serialized_stations = match crate::format::serialize(&stations, format) {
         Ok(s) => s,
         Err(err) => {
             log::error(format_args!("Failed to serialize stations: {err:?}"));
-            return Err(err.into());
+            return Err(err);
         }
     };
 
@@ -132,11 +144,11 @@ pub fn parse(
             .then_with(|| a.id.cmp(&b.id))
     });
 
-    let serialized_positions = match toml::to_string_pretty(&positions) {
+    let serialized_positions = match crate::format::serialize(&positions, format) {
         Ok(s) => s,
         Err(err) => {
             log::error(format_args!("Failed to serialize positions: {err:?}"));
-            return Err(err.into());
+            return Err(err);
         }
     };
 
