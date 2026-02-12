@@ -1,5 +1,8 @@
 pub mod euroscope;
+pub mod format;
 pub mod vatglasses;
+
+pub use format::OutputFormat;
 
 use std::path::{Path, PathBuf};
 use vacs_data_diagnostics::log;
