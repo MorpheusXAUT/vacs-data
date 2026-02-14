@@ -1,0 +1,125 @@
+{
+    "id": "EFIN",
+    "type": "Tabbed",
+    "tabs": [
+        {
+            "label": [
+                "ETU",
+                "SIVU"
+            ],
+            "page": {
+                "rows": 7,
+                "keys": [
+                    {
+                        "label": [
+                            "EFIN",
+                            "SUPER"
+                        ],
+                        "station_id": "EFIN_FMP"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC A"
+                        ],
+                        "station_id": "EFIN_A"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC B"
+                        ],
+                        "station_id": "EFIN_B"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC C"
+                        ],
+                        "station_id": "EFIN_C"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC D"
+                        ],
+                        "station_id": "EFIN_D"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC E"
+                        ],
+                        "station_id": "EFIN_E"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC F"
+                        ],
+                        "station_id": "EFIN_F"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC G"
+                        ],
+                        "station_id": "EFIN_G"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC H"
+                        ],
+                        "station_id": "EFIN_H"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC J"
+                        ],
+                        "station_id": "EFIN_J"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC K"
+                        ],
+                        "station_id": "EFIN_K"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC L"
+                        ],
+                        "station_id": "EFIN_L"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC M"
+                        ],
+                        "station_id": "EFIN_M"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC N"
+                        ],
+                        "station_id": "EFIN_N"
+                    },
+                    {
+                        "label": [
+                            "EFIN",
+                            "SEC V"
+                        ],
+                        "station_id": "EFIN_V"
+                    },
+                    {
+                        "label": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
