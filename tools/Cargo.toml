@@ -3,7 +3,7 @@ resolver = "3"
 members = ["cli", "diagnostics", "importer", "validator"]
 
 [workspace.package]
-version = "0.1.0"
+version = "0.4.0"
 edition = "2024"
 license = "Apache-2.0 OR MIT"
 repository = "https://github.com/MorpheusXAUT/vacs-data"
@@ -17,7 +17,7 @@ encoding_rs_io = "0.1.7"
 serde = { version = "1.0.228", features = ["derive"] }
 serde_json = "1.0.149"
 thiserror = "2.0.18"
-toml = { version = "0.9.11", features = ["serde"] }
+toml = { version = "1.0.0", features = ["serde"] }
 tracing = "0.1.44"
 tracing-subscriber = { version = "0.3.22", features = ["env-filter", "json"] }
 vacs-data-diagnostics = { path = "./diagnostics" }

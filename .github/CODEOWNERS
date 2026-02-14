@@ -1,0 +1,12 @@
+# Default code owners unless overridden below
+* @MorpheusXAUT @IamLuisAUT
+
+# Explicitly specify code owners for GitHub config, such as workflows or CODEOWNERS, and other relevant files
+/.github/ @MorpheusXAUT @IamLuisAUT
+/docs/ @MorpheusXAUT @IamLuisAUT
+LICENSE* @MorpheusXAUT @IamLuisAUT
+README.md @MorpheusXAUT @IamLuisAUT
+CONTRIBUTING.md @MorpheusXAUT @IamLuisAUT
+
+# Dataset owners
+/dataset/LO/ @MorpheusXAUT @IamLuisAUT

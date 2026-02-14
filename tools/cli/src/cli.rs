@@ -13,7 +13,7 @@ pub struct Cli {
     #[arg(short, long)]
     pub quiet: bool,
 
-    /// Logging output format
+    /// Logging output format. Supported: human, github
     #[arg(long, default_value_t = LogFormat::Human)]
     pub log_format: LogFormat,
 
@@ -28,9 +28,10 @@ pub struct Cli {
 #[derive(Debug, Subcommand)]
 pub enum Command {
     /// Run validations on the whole dataset
+    #[command(arg_required_else_help = true)]
     Validate {
-        /// Dataset root to validate (positional). Defaults to repo dataset/ if found, else "."
-        #[arg(value_name = "INPUT")]
+        /// Dataset root to validate (positional).
+        #[arg(value_name = "INPUT", required_unless_present = "input")]
         input_pos: Option<PathBuf>,
 
         /// Dataset root to validate
@@ -48,13 +49,14 @@ pub enum Command {
 #[derive(Debug, Subcommand)]
 pub enum ImportCommand {
     /// Import data from the VATglasses project, converting it to vacs dataset format
+    #[command(arg_required_else_help = true)]
     Vatglasses {
         /// Input JSON file (positional)
-        #[arg(value_name = "INPUT")]
+        #[arg(value_name = "INPUT", required_unless_present = "input")]
         input_pos: Option<PathBuf>,
 
         /// Output directory (positional)
-        #[arg(value_name = "OUTPUT")]
+        #[arg(value_name = "OUTPUT", required_unless_present = "output")]
         output_pos: Option<PathBuf>,
 
         /// Input JSON file
@@ -64,6 +66,10 @@ pub enum ImportCommand {
         /// Output directory
         #[arg(short, long)]
         output: Option<PathBuf>,
+
+        /// Format to use for output files. Supported: toml, json
+        #[arg(short, long, default_value_t = vacs_data_importer::OutputFormat::Toml)]
+        format: vacs_data_importer::OutputFormat,
 
         /// Overwrite existing files
         #[arg(long, conflicts_with = "merge")]
@@ -75,13 +81,14 @@ pub enum ImportCommand {
     },
 
     /// Import data from an EuroScope sectorfile, converting it to vacs dataset format
+    #[command(arg_required_else_help = true)]
     Euroscope {
         /// Input JSON file (positional)
-        #[arg(value_name = "INPUT")]
+        #[arg(value_name = "INPUT", required_unless_present = "input")]
         input_pos: Option<PathBuf>,
 
         /// Output directory (positional)
-        #[arg(value_name = "OUTPUT")]
+        #[arg(value_name = "OUTPUT", required_unless_present = "output")]
         output_pos: Option<PathBuf>,
 
         /// Input JSON file
@@ -91,6 +98,10 @@ pub enum ImportCommand {
         /// Output directory
         #[arg(short, long)]
         output: Option<PathBuf>,
+
+        /// Format to use for output files. Supported: toml, json
+        #[arg(short, long, default_value_t = vacs_data_importer::OutputFormat::Toml)]
+        format: vacs_data_importer::OutputFormat,
 
         /// Prefixes to filter positions by
         #[arg(short, long, value_name = "PREFIX")]

@@ -1,0 +1,17 @@
+{
+  "plugins": ["prettier-plugin-toml"],
+  "overrides": [
+    {
+      "files": "*.json",
+      "options": { "parser": "json" }
+    },
+    {
+      "files": "*.toml",
+      "options": { "parser": "toml" }
+    },
+    {
+      "files": "*.md",
+      "options": { "parser": "markdown" }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+name: autofix.ci
+on:
+  pull_request:
+    paths:
+      - "dataset/**"
+      - ".github/workflows/autofix.yml"
+  push:
+    branches: ["main"]
+    paths:
+      - "dataset/**"
+      - ".github/workflows/autofix.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  autofix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - name: Setup Node (LTS)
+        uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
+        with:
+          node-version: "lts/*"
+          cache: "npm"
+          cache-dependency-path: |
+            package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Format dataset
+        run: npm run format
+
+      - uses: autofix-ci/action@7a166d7532b277f34e16238930461bf77f9d7ed8 # v1.3.3
+        with:
+          commit-message: "chore(dataset): format with prettier"
