@@ -278,7 +278,7 @@
     },
     {
       "id": "ZGZU_CTR",
-      "controlled_by": "ZGZU_CTR"
+      "controlled_by": ["ZGZU_CTR"]
     },
     {
       "id": "ZGNN_CTR",
