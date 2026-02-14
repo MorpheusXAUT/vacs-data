@@ -34,11 +34,11 @@
 			  },
 			  {
 				"label": ["LOWW","APP"],
-				"station_id": "LOWW_APP"
+				"station_id": "LOWW_M_APP"
 			  },
 			  {
 				"label": ["LOWW","TWR"],
-				"station_id": "LOWW_TWR"
+				"station_id": "LOWW_E_TWR"
 			  }
 			],
 			"rows": 6
@@ -63,22 +63,19 @@
 			  "page": {
 				"keys": [
 				  {
-					"label": ["305-660","SH"],
-					"station_id": "LKAA_SH"
+					"label": ["305-660","SH"]
 				  },
 				  {
-					"label": ["125-305","SL"],
-					"station_id": "LKAA_SL"
-				  },
-				  {
-					"label": []
+					"label": ["125-305","SL"]
 				  },
 				  {
 					"label": []
 				  },
 				  {
-					"label": ["LKTB","APP"],
-					"station_id": "LKTB_APP"
+					"label": []
+				  },
+				  {
+					"label": ["LKTB","APP"]
 				  },
 				  {
 					"label": []
@@ -93,38 +90,31 @@
 			  "page": {
 				"keys": [
 				  {
-					"label": ["365-660","J"],
-					"station_id": "EPKK-J_365-660"
+					"label": ["365-660","J"]
 				  },
 				  {
-					"label": ["335-365","J"],
-					"station_id": "EPKK-J_365-660"
+					"label": ["335-365","J"]
 				  },
 				  {
-					"label": ["95-335","J"],
-					"station_id": "EPKK-J_365-660"
+					"label": ["95-335","J"]
 				  },
 				  {
 					"label": []
 				  },
 				  {
-					"label": ["EPKK","APP"],
-					"station_id": "EPKK"
+					"label": ["EPKK","APP"]
 				  },
 				  {
 					"label": []
 				  },
 				  {
-					"label": ["365-660","R"],
-					"station_id": "EPKK-R_365-660"
+					"label": ["365-660","R"]
 				  },
 				  {
-					"label": ["335-365","R"],
-					"station_id": "EPKK-R_365-660"
+					"label": ["335-365","R"]
 				  },
 				  {
-					"label": ["95-335","R"],
-					"station_id": "EPKK-R_365-660"
+					"label": ["95-335","R"]
 				  },
 				  {
 					"label": []
@@ -308,11 +298,11 @@
                       },
                       {
                         "label": ["LZKZ", "APP"],
-                        "station_id": "LOVV_E5"
+                        "station_id": "LZKZ_APP"
                       },
                       {
                         "label": ["LZKZ", "TWR"],
-                        "station_id": "LOVV_E4"
+                        "station_id": "LZKZ_TWR"
                       },
                       {
                         "label": []
@@ -327,23 +317,19 @@
                   "page": {
                     "keys": [
                       {
-                        "label": ["LZBB", "FIS"],
-                        "station_id": "LZBB_I"
+                        "label": ["LZBB", "FIS"]
                       },
                       {
                         "label": []
                       },
                       {
-                        "label": ["LOVV", "FIS"],
-                        "station_id": "LOVV_I"
+                        "label": ["LOVV", "FIS"]
                       },
                       {
-                        "label": ["LOWW", "FIS"],
-                        "station_id": "LOWW_I"
+                        "label": ["LOWW", "FIS"]
                       },
                       {
-                        "label": ["LKAA", "FIS"],
-                        "station_id": "LKAA_I"
+                        "label": ["LKAA", "FIS"]
                       },
                       {
                         "label": []
@@ -355,23 +341,19 @@
                         "label": ["EPKK","FIS"]
                       },
                       {
-                        "label": ["UKLV","FIS"],
-                        "station_id": "UKLV"
+                        "label": ["UKLV","FIS"]
                       },
                       {
                         "label": []
                       },
                       {
-                        "label": ["LHCC","EAST","FIS"],
-						"station_id": "LHCC_E_FIC"
+                        "label": ["LHCC","EAST","FIS"]
                       },						  
                       {
-                        "label": ["LHBP","FIS"],
-						"station_id": "LHCC_N_FIC"
+                        "label": ["LHBP","FIS"]
                       },				  
                       {
-                        "label": ["LHCC","WEST","FIS"],
-						"station_id": "LHCC_W_FIC"
+                        "label": ["LHCC","WEST","FIS"]
                       },
                       {
                         "label": []
@@ -396,39 +378,31 @@
 			  "page": {
 				"keys": [
 				  {
-					"label": ["365-660","WT"],
-					"station_id": "LHCC_WT"
+					"label": ["365-660","WT"]
 				  },
 				  {
-					"label": ["345-365","WU"],
-					"station_id": "LHCC_WU"
+					"label": ["345-365","WU"]
 				  },
 				  {
-					"label": ["GND-195","WL"],
-					"station_id": "LHCC_WL"
+					"label": ["GND-195","WL"]
 				  },
 				  {
 					"label": []
 				  },
 				  {
-					"label": ["LHBP","ARR"],
-					"station_id": "LHBP_W"
+					"label": ["LHBP","ARR"]
 				  },
 				  {
-					"label": ["LHBP","DEP"],
-					"station_id": "LHBP_E"
+					"label": ["LHBP","DEP"]
 				  },
 				  {
-					"label": ["365-660","ET"],
-					"station_id": "LHCC_ET"
+					"label": ["365-660","ET"]
 				  },
 				  {
-					"label": ["345-365","EU"],
-					"station_id": "LHCC_ET"
+					"label": ["345-365","EU"]
 				  },
 				  {
-					"label": ["GND-195","EL"],
-					"station_id": "LHCC_ET"
+					"label": ["GND-195","EL"]
 				  },
 				  {
 					"label": []
@@ -440,12 +414,10 @@
 					"label": []
 				  },
 				  {
-					"label": ["365-660","NT"],
-					"station_id": "LHCC_NT"
+					"label": ["365-660","NT"]
 				  },
 				  {
-					"label": ["345-365","NU"],
-					"station_id": "LHCC_NT"
+					"label": ["345-365","NU"]
 				  },
 				  {
 					"label": []
@@ -484,8 +456,7 @@
 			  "page": {
 				"keys": [
 				  {
-					"label": ["UKLV"],
-					"station_id": "UKLV"
+					"label": ["UKLV"]
 				  },
 				  {
 					"label": []
@@ -497,8 +468,7 @@
 					"label": []
 				  },
 				  {
-					"label": ["UKLU"],
-					"station_id": "UKLU"
+					"label": ["UKLU"]
 				  },
 				  {
 					"label": []

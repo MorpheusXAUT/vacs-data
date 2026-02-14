@@ -1,39 +1,39 @@
 {
   "stations": [
     {
-      "id": "LZBB_East_0L",
+      "id": "LZBB_EAST_0L",
       "controlled_by": [
         "LZBB_CTR"
       ]
     },
     {
-      "id": "LZBB_East_1U",
+      "id": "LZBB_EAST_1U",
       "controlled_by": [	  
         "LZBB_U_CTR",
 		"LZBB_CTR"
 	  ]
     },
     {
-      "id": "LZBB_Center_0L",
+      "id": "LZBB_CENTER_0L",
       "controlled_by": [
         "LZBB_CTR"
       ]
     },
     {
-      "id": "LZBB_Center_1U",
+      "id": "LZBB_CENTER_1U",
       "controlled_by": [	  
         "LZBB_U_CTR",
 		"LZBB_CTR"
 	  ]
     },
     {
-      "id": "LZBB_West_0L",
+      "id": "LZBB_WEST_0L",
       "controlled_by": [
         "LZBB_CTR"
       ]
     },
     {
-      "id": "LZBB_West_1U",
+      "id": "LZBB_WEST_1U",
       "controlled_by": [
         "LZBB_U_CTR",
 		"LZBB_CTR"
@@ -47,14 +47,14 @@
     },
     {
       "id": "LZIB_APP",
-      "parent_id": "LZBB_East_0L",
+      "parent_id": "LZBB_EAST_0L",
       "controlled_by": [
         "LZIB_APP"
       ]
     },
     {
       "id": "LZKZ_APP",
-      "parent_id": "LZBB_West_0L",
+      "parent_id": "LZBB_WEST_0L",
       "controlled_by": [
         "LZKZ_APP"
 	  ]
@@ -68,7 +68,7 @@
     },
     {
       "id": "LZTT_TWR",
-      "parent_id": "LZBB_West_0L",
+      "parent_id": "LZBB_WEST_0L",
       "controlled_by": [
 		"LZTT_TWR"
 	  ]
@@ -96,4 +96,3 @@
     }
   ]
 }
-
