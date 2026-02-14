@@ -397,6 +397,24 @@
                     "FIS",
                     "SW"
                   ]
+                },
+                {
+                  "label": [
+                    "EPGD",
+                    "FIS"
+                  ]
+                },
+                {
+                  "label": [
+                    "EPPO",
+                    "FIS"
+                  ]
+                },
+                {
+                  "label": [
+                    "ESMM",
+                    "FIS"
+                  ]
                 }
               ]
             }
