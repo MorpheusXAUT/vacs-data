@@ -1,21 +1,15 @@
 {
   "json.schemas": [
     {
-      "fileMatch": [
-        "dataset/**/profiles/*.json"
-      ],
+      "fileMatch": ["dataset/**/profiles/*.json"],
       "url": "./docs/schemas/profiles.schema.json"
     },
     {
-      "fileMatch": [
-        "dataset/**/positions.json"
-      ],
+      "fileMatch": ["dataset/**/positions.json"],
       "url": "./docs/schemas/positions.schema.json"
     },
     {
-      "fileMatch": [
-        "dataset/**/stations.json"
-      ],
+      "fileMatch": ["dataset/**/stations.json"],
       "url": "./docs/schemas/stations.schema.json"
     }
   ]
