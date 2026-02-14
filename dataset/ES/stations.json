@@ -2,9 +2,7 @@
   "stations": [
     {
       "id": "ESAA FMP",
-      "controlled_by": [
-        "ESAA_FMP"
-      ]
+      "controlled_by": ["ESAA_FMP"]
     },
     {
       "id": "ESCF APP",
@@ -21,9 +19,7 @@
     },
     {
       "id": "ESCF DIR",
-      "controlled_by": [
-        "ESCF_F_APP"
-      ]
+      "controlled_by": ["ESCF_F_APP"]
     },
     {
       "id": "ESCF GND",
@@ -41,9 +37,7 @@
     },
     {
       "id": "ESCF PAR",
-      "controlled_by": [
-        "ESCF_P_APP"
-      ]
+      "controlled_by": ["ESCF_P_APP"]
     },
     {
       "id": "ESCF TWR",
@@ -92,9 +86,7 @@
     },
     {
       "id": "ESCR",
-      "controlled_by": [
-        "ESCR_CTR"
-      ]
+      "controlled_by": ["ESCR_CTR"]
     },
     {
       "id": "ESDF APP",
@@ -123,9 +115,7 @@
     },
     {
       "id": "ESDF PAR",
-      "controlled_by": [
-        "ESDF_P_APP"
-      ]
+      "controlled_by": ["ESDF_P_APP"]
     },
     {
       "id": "ESDF TWR",
@@ -141,33 +131,23 @@
     },
     {
       "id": "ESDK",
-      "controlled_by": [
-        "ESDK_CTR"
-      ]
+      "controlled_by": ["ESDK_CTR"]
     },
     {
       "id": "ESFR APP",
-      "controlled_by": [
-        "ESFR_APP"
-      ]
+      "controlled_by": ["ESFR_APP"]
     },
     {
       "id": "ESFR TWR",
-      "controlled_by": [
-        "ESFR_TWR"
-      ]
+      "controlled_by": ["ESFR_TWR"]
     },
     {
       "id": "ESGG ARR",
-      "controlled_by": [
-        "ESGG_A_APP"
-      ]
+      "controlled_by": ["ESGG_A_APP"]
     },
     {
       "id": "ESGG DEL",
-      "controlled_by": [
-        "ESGG_DEL"
-      ]
+      "controlled_by": ["ESGG_DEL"]
     },
     {
       "id": "ESGG APP-E",
@@ -183,9 +163,7 @@
     },
     {
       "id": "ESGG GND",
-      "controlled_by": [
-        "ESGG_GND"
-      ],
+      "controlled_by": ["ESGG_GND"],
       "parent_id": "ESGG TWR"
     },
     {
@@ -302,9 +280,7 @@
     },
     {
       "id": "ESIB PAR",
-      "controlled_by": [
-        "ESIB_P_APP"
-      ]
+      "controlled_by": ["ESIB_P_APP"]
     },
     {
       "id": "ESIB TWR",
@@ -373,12 +349,7 @@
     },
     {
       "id": "ESMM 2",
-      "controlled_by": [
-        "ESMM_2_CTR",
-        "ESMM_5_CTR",
-        "ESMM_6_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESMM_2_CTR", "ESMM_5_CTR", "ESMM_6_CTR", "ESAA_CTR"]
     },
     {
       "id": "ESMM 3",
@@ -392,21 +363,11 @@
     },
     {
       "id": "ESMM 4",
-      "controlled_by": [
-        "ESMM_4_CTR",
-        "ESMM_5_CTR",
-        "ESMM_2_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESMM_4_CTR", "ESMM_5_CTR", "ESMM_2_CTR", "ESAA_CTR"]
     },
     {
       "id": "ESMM 5",
-      "controlled_by": [
-        "ESMM_5_CTR",
-        "ESMM_4_CTR",
-        "ESMM_2_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESMM_5_CTR", "ESMM_4_CTR", "ESMM_2_CTR", "ESAA_CTR"]
     },
     {
       "id": "ESMM 6",
@@ -455,26 +416,15 @@
     },
     {
       "id": "ESMM IN",
-      "controlled_by": [
-        "ESMM_IN_APP",
-        "ESMM_IS_APP"
-      ]
+      "controlled_by": ["ESMM_IN_APP", "ESMM_IS_APP"]
     },
     {
       "id": "ESMM IS",
-      "controlled_by": [
-        "ESMM_IS_APP",
-        "ESMM_IN_APP"
-      ]
+      "controlled_by": ["ESMM_IS_APP", "ESMM_IN_APP"]
     },
     {
       "id": "ESMM K",
-      "controlled_by": [
-        "ESMM_K_CTR",
-        "ESMM_2_CTR",
-        "ESMM_5_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESMM_K_CTR", "ESMM_2_CTR", "ESMM_5_CTR", "ESAA_CTR"]
     },
     {
       "id": "ESMM L",
@@ -501,15 +451,11 @@
     },
     {
       "id": "ESMM XK",
-      "controlled_by": [
-        "ESMM_XK_CTR"
-      ]
+      "controlled_by": ["ESMM_XK_CTR"]
     },
     {
       "id": "ESMS XL",
-      "controlled_by": [
-        "ESMS_XL_APP"
-      ]
+      "controlled_by": ["ESMS_XL_APP"]
     },
     {
       "id": "ESMM Y",
@@ -575,17 +521,11 @@
     },
     {
       "id": "ESMV APP",
-      "controlled_by": [
-        "ESMV_APP",
-        "ESMV_TWR"
-      ]
+      "controlled_by": ["ESMV_APP", "ESMV_TWR"]
     },
     {
       "id": "ESMV TWR",
-      "controlled_by": [
-        "ESMV_TWR",
-        "ESMV_APP"
-      ]
+      "controlled_by": ["ESMV_TWR", "ESMV_APP"]
     },
     {
       "id": "ESMX TWR",
@@ -622,17 +562,11 @@
     },
     {
       "id": "ESNJ APP",
-      "controlled_by": [
-        "ESNJ_APP",
-        "ESNJ_TWR"
-      ]
+      "controlled_by": ["ESNJ_APP", "ESNJ_TWR"]
     },
     {
       "id": "ESNJ TWR",
-      "controlled_by": [
-        "ESNJ_TWR",
-        "ESNJ_APP"
-      ]
+      "controlled_by": ["ESNJ_TWR", "ESNJ_APP"]
     },
     {
       "id": "ESNK AFIS",
@@ -786,12 +720,7 @@
     },
     {
       "id": "ESOS 1",
-      "controlled_by": [
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESOS_1_CTR", "ESOS_9_CTR", "ESOS_3_CTR", "ESAA_CTR"]
     },
     {
       "id": "ESOS 2",
@@ -868,12 +797,7 @@
     },
     {
       "id": "ESOS 9",
-      "controlled_by": [
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESOS_9_CTR", "ESOS_1_CTR", "ESOS_3_CTR", "ESAA_CTR"]
     },
     {
       "id": "ESOS F",
@@ -887,27 +811,15 @@
     },
     {
       "id": "ESOS K",
-      "controlled_by": [
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESOS_K_CTR", "ESOS_N_CTR", "ESOS_3_CTR", "ESAA_CTR"]
     },
     {
       "id": "ESOS N",
-      "controlled_by": [
-        "ESOS_N_CTR",
-        "ESOS_K_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESOS_N_CTR", "ESOS_K_CTR", "ESOS_3_CTR", "ESAA_CTR"]
     },
     {
       "id": "ESOS XK",
-      "controlled_by": [
-        "ESOS_XK_CTR"
-      ]
+      "controlled_by": ["ESOS_XK_CTR"]
     },
     {
       "id": "ESOS YK",
@@ -965,15 +877,11 @@
     },
     {
       "id": "ESPA DIR",
-      "controlled_by": [
-        "ESPA_F_APP"
-      ]
+      "controlled_by": ["ESPA_F_APP"]
     },
     {
       "id": "ESPA PAR",
-      "controlled_by": [
-        "ESPA_P_APP"
-      ]
+      "controlled_by": ["ESPA_P_APP"]
     },
     {
       "id": "ESPA TWR",
@@ -1001,9 +909,7 @@
     },
     {
       "id": "ESPE PAR",
-      "controlled_by": [
-        "ESPE_P_APP"
-      ]
+      "controlled_by": ["ESPE_P_APP"]
     },
     {
       "id": "ESPE TWR",
@@ -1019,24 +925,15 @@
     },
     {
       "id": "ESPF",
-      "controlled_by": [
-        "ESPF_CTR"]
+      "controlled_by": ["ESPF_CTR"]
     },
     {
       "id": "ESOS DIR-W",
-      "controlled_by": [
-        "ESSA_A_APP",
-        "ESSA_F_APP"
-      ]
+      "controlled_by": ["ESSA_A_APP", "ESSA_F_APP"]
     },
     {
       "id": "ESSA DEL",
-      "controlled_by": [
-        "ESSA_DEL",
-        "ESSA_W_GND",
-        "ESSA_N_GND",
-        "ESSA_E_GND"
-      ]
+      "controlled_by": ["ESSA_DEL", "ESSA_W_GND", "ESSA_N_GND", "ESSA_E_GND"]
     },
     {
       "id": "ESOS ARR-E",
@@ -1061,11 +958,7 @@
     },
     {
       "id": "ESSA GND-E",
-      "controlled_by": [
-        "ESSA_E_GND",
-        "ESSA_W_GND",
-        "ESSA_N_GND"
-      ]
+      "controlled_by": ["ESSA_E_GND", "ESSA_W_GND", "ESSA_N_GND"]
     },
     {
       "id": "ESSA TWR-E",
@@ -1084,18 +977,11 @@
     },
     {
       "id": "ESOS DIR-E",
-      "controlled_by": [
-        "ESSA_F_APP",
-        "ESSA_A_APP",
-        "ESSA_E_APP"
-      ]
+      "controlled_by": ["ESSA_F_APP", "ESSA_A_APP", "ESSA_E_APP"]
     },
     {
       "id": "ESSA GND-N",
-      "controlled_by": [
-        "ESSA_N_GND",
-        "ESSA_W_GND"
-      ]
+      "controlled_by": ["ESSA_N_GND", "ESSA_W_GND"]
     },
     {
       "id": "ESSA TWR-S",
@@ -1137,9 +1023,7 @@
     },
     {
       "id": "ESSA GND-W",
-      "controlled_by": [
-        "ESSA_W_GND"
-      ]
+      "controlled_by": ["ESSA_W_GND"]
     },
     {
       "id": "ESSA TWR-W",
@@ -1170,9 +1054,7 @@
     },
     {
       "id": "ESSB GND",
-      "controlled_by": [
-        "ESSB_GND"
-      ]
+      "controlled_by": ["ESSB_GND"]
     },
     {
       "id": "ESSB TWR",
@@ -1239,15 +1121,11 @@
     },
     {
       "id": "ESSR OS",
-      "controlled_by": [
-        "ESSR_CTR"
-      ]
+      "controlled_by": ["ESSR_CTR"]
     },
     {
       "id": "ESSR MM",
-      "controlled_by": [
-        "ESSR_MM_APP"
-      ]
+      "controlled_by": ["ESSR_MM_APP"]
     },
     {
       "id": "ESST AFIS",
