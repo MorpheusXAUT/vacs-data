@@ -139,7 +139,7 @@ Represents a single callable button.
 
 | Field        | Type                                  | Required | Description                                                                                                               |
 | :----------- | :------------------------------------ | :------- | :------------------------------------------------------------------------------------------------------------------------ |
-| `label`      | Array of strings                      | Yes      | Multi-line label (up to 3 lines). Can be empty array for blank keys.                                                      |
+| `label`      | String or Array of strings            | Yes      | Multi-line label (up to 3 lines). Can be empty string or empty array for blank keys.                                      |
 | `station_id` | String                                | No       | Station ID to call when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.    |
 | `page`       | [DirectAccessPage](#directaccesspage) | No       | Subpage to open when pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled. |
 
@@ -149,10 +149,10 @@ Represents a single callable button.
 
 Represents a single tab in a tabbed profile.
 
-| Field   | Type                                  | Required | Description                           |
-| :------ | :------------------------------------ | :------- | :------------------------------------ |
-| `label` | String                                | Yes      | Tab name displayed in the interface.  |
-| `page`  | [DirectAccessPage](#directaccesspage) | Yes      | The page containing the grid of keys. |
+| Field   | Type                                  | Required | Description                                                                  |
+| :------ | :------------------------------------ | :------- | :--------------------------------------------------------------------------- |
+| `label` | String or Array of strings            | Yes      | Multi-line tab name (1-3 lines, cannot be empty) displayed in the interface. |
+| `page`  | [DirectAccessPage](#directaccesspage) | Yes      | The page containing the grid of keys.                                        |
 
 ## Geo Profile Components
 
@@ -201,7 +201,7 @@ A clickable button that can trigger a direct access page or call a station.
 
 | Field   | Type                                  | Required | Description                                                |
 | :------ | :------------------------------------ | :------- | :--------------------------------------------------------- |
-| `label` | Array of strings                      | Yes      | Multi-line label (1-3 lines, cannot be empty).             |
+| `label` | String or Array of strings            | Yes      | Multi-line label (1-3 lines, cannot be empty).             |
 | `size`  | Number                                | Yes      | Button size (> 0). Controls relative sizing in the layout. |
 | `page`  | [DirectAccessPage](#directaccesspage) | No       | Optional nested page to display when button is pressed.    |
 
@@ -232,6 +232,7 @@ The following validation rules apply:
   - All size values (`height`, `width`) must match pattern `^\d+(%|rem)$`
   - All numeric values (padding, gap, size, thickness) must be appropriate to their type (non-negative or positive)
 - Labels:
+  - Can be provided as a single string or an array of strings
   - Can have up to 3 lines
   - Geo button labels must have at least 1 line
   - Direct access key labels can be empty (for blank keys)

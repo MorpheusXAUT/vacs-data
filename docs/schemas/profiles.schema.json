@@ -26,6 +26,10 @@
         "type": "string"
       }
     },
+    "LabelStringOrLines": {
+      "description": "Label that can be either a single string or an array of strings (lines).",
+      "oneOf": [{ "type": "string" }, { "$ref": "#/$defs/LabelLines" }]
+    },
     "FlexDirection": {
       "type": "string",
       "enum": ["row", "col"]
@@ -100,7 +104,7 @@
       "additionalProperties": false,
       "required": ["label"],
       "properties": {
-        "label": { "$ref": "#/$defs/LabelLines" },
+        "label": { "$ref": "#/$defs/LabelStringOrLines" },
         "station_id": { "$ref": "#/$defs/StationId" },
         "page": { "$ref": "#/$defs/DirectAccessPage" }
       },
@@ -133,7 +137,19 @@
       "additionalProperties": false,
       "required": ["label", "page"],
       "properties": {
-        "label": { "type": "string", "minLength": 1 },
+        "label": {
+          "allOf": [
+            { "$ref": "#/$defs/LabelStringOrLines" },
+            {
+              "if": { "type": "array" },
+              "then": { "minItems": 1 }
+            },
+            {
+              "if": { "type": "string" },
+              "then": { "minLength": 1 }
+            }
+          ]
+        },
         "page": { "$ref": "#/$defs/DirectAccessPage" }
       }
     },
@@ -144,7 +160,17 @@
       "properties": {
         "label": {
           "description": "Geo page button labels must be non-empty and cannot exceed 3 lines.",
-          "allOf": [{ "$ref": "#/$defs/LabelLines" }, { "minItems": 1 }]
+          "allOf": [
+            { "$ref": "#/$defs/LabelStringOrLines" },
+            {
+              "if": { "type": "array" },
+              "then": { "minItems": 1 }
+            },
+            {
+              "if": { "type": "string" },
+              "then": { "minLength": 1 }
+            }
+          ]
         },
         "size": {
           "$ref": "#/$defs/PositiveNumber"
