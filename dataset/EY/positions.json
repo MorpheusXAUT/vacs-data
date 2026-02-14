@@ -4,73 +4,74 @@
 			"id":"EYKA_APP",
 			"prefixes":["EYKA"],
 			"frequency": "124.205",
-			"facility_type":"APP",
+			"facility_type":"APP"
 		},
 		{
 			"id":"EYKA_I_APP",
 			"prefixes":["EYKA"],
 			"frequency": "124.605",
-			"facility_type":"APP",
+			"facility_type":"APP"
 		},
 		{
 			"id":"EYPA_APP",
 			"prefixes":["EYPA"],
 			"frequency": "124.305",
-			"facility_type":"APP",
+			"facility_type":"APP"
 		},
 		{
 			"id":"EYPA_I_APP",
 			"prefixes":["EYPA"],
 			"frequency": "125.730",
-			"facility_type":"APP",
+			"facility_type":"APP"
 		},
 		{
 			"id":"EYSA_APP",
 			"prefixes":["EYSA"],
 			"frequency": "120.405",
-			"facility_type":"APP",
+			"facility_type":"APP"
 		},
 		{
 			"id":"EYVI_APP",
 			"prefixes":["EYVI"],
 			"frequency": "120.705",
-			"facility_type":"APP",
+			"facility_type":"APP"
 		},
 		{
 			"id":"EYVI_I_APP",
 			"prefixes":["EYVI"],
 			"frequency": "123.855",
-			"facility_type":"APP",
+			"facility_type":"APP"
 		},
 		{
 			"id":"EYVI_TWR",
 			"prefixes":["EYVI"],
 			"frequency": "118.205",
-			"facility_type":"TWR",
+			"facility_type":"TWR"
 		},
 		{
 			"id":"EYVL_CTR",
 			"prefixes":["EYVL"],
 			"frequency": "133.305",
-			"facility_type":"CTR",
+			"facility_type":"CTR"
 		},
 		{
 			"id":"EYVL_E_CTR",
 			"prefixes":["EYVL"],
 			"frequency": "135.380",
-			"facility_type":"CTR",
+			"facility_type":"CTR"
 		},
 		{
 			"id":"EYVL_M_CTR",
 			"prefixes":["EYVL"],
 			"frequency": "133.430",
-			"facility_type":"CTR",
+			"facility_type":"CTR"
 		},
 		{
 			"id":"EYVL_U_CTR",
 			"prefixes":["EYVL"],
 			"frequency": "132.280",
-			"facility_type":"CTR",
+			"facility_type":"CTR"
 		}
 	]
+
 }
