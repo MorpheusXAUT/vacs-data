@@ -320,11 +320,8 @@ id = "EPKK_FIS"
 controlled_by = ["EPKK_I_APP", "EPWW_I_CTR"]
 
 [[stations]]
-controlled_by = [
-    "EPKI_R_TWR"
-    "EPSY_I_APP",
-    "EPWW_I_CTR",
-]id = "EPKI"
+id = "EPKI"
+controlled_by = ["EPKI_R_TWR", "EPSY_I_APP", "EPWW_I_CTR"]
 
 [[stations]]
 id = "EPKM"
