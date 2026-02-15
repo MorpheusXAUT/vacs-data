@@ -1,7 +1,7 @@
 {
   "stations": [
     {
-      "id": "EYVL",
+      "id": "EYVL-L",
       "controlled_by": [
         "EYVL_CTR"
       ]
@@ -36,8 +36,15 @@
       ]
     },
     {
+      "id": "EYVI_I_APP",
+      "parent_id": "EYVL-E",
+      "controlled_by": [
+        "EYVI_APP"
+      ]
+    },
+    {
       "id": "EYSA_APP",
-      "parent_id": "EYVL",
+      "parent_id": "EYVL-L",
       "controlled_by": [
         "EYSA_APP"
 	    ]
@@ -50,8 +57,22 @@
 	     ]
     },
     {
+      "id": "EYKA_I_APP",
+      "parent_id": "EYVL-E",
+	     "controlled_by": [
+		     "EYKA_APP"
+	     ]
+    },
+    {
       "id": "EYPA_APP",
-      "parent_id": "EYVL",
+      "parent_id": "EYVL-L",
+	    "controlled_by": [
+		    "EYPA_APP"
+	    ]
+    },
+    {
+      "id": "EYPA_I_APP",
+      "parent_id": "EYVL-L",
 	    "controlled_by": [
 		    "EYPA_APP"
 	    ]
@@ -61,27 +82,6 @@
       "parent_id": "EYVI_APP",
       "controlled_by": [
 		    "EYVI_TWR"
-	    ]
-    },
-    {
-      "id": "EYSA_TWR",
-      "parent_id": "EYSA_APP",
-      "controlled_by": [
-		    "EYSA_TWR"
-	    ]
-    },
-    {
-      "id": "EYKA_TWR",
-      "parent_id": "EYKA_APP",
-      "controlled_by": [
-		    "EYKA_TWR"
-	    ]
-    },
-    {
-      "id": "EYPA_TWR",
-      "parent_id": "EYPA_TWR",
-      "controlled_by": [
-		    "EYPA_TWR"
 	    ]
     }
   ]
