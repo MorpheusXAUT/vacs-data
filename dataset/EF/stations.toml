@@ -141,6 +141,15 @@ controlled_by = [
 ]
 
 # EFHK
+
+[[stations]]
+id = "EFHK_TWR_COR"
+controlled_by = [
+    "EFHK_TWR_COR",
+    "EFHK_E_TWR",
+    "EFHK_E_APP",
+]
+
 [[stations]]
 id = "EFHK_RE"
 controlled_by = [
