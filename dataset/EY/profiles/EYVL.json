@@ -19,10 +19,12 @@
           "page": {
             "keys": [
               {
-                "label": ["365-660", "CTR"]
+                "label": ["365-660", "CTR"],
+                "station_id":"ESMM_6_CTR"
               },
               {
-                "label": ["95-365", "CTR"]
+                "label": ["95-365", "CTR"],
+                "station_id":"ESMM_7_CTR"
               }
             ],
             "rows": 4
