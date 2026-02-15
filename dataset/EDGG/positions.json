@@ -1,21 +1,14 @@
 {
   "positions": [
     {
-      "id": "EDYY_CH_CTR",
-      "prefixes": ["EDYY"],
-      "frequency": "128.810",
-      "facility_type": "CTR",
-      "profile_id": "EDGG"
-    },
-    {
-      "id": "EDYY_CL_CTR",
-      "prefixes": ["EDYY"],
-      "frequency": "133.955",
-      "facility_type": "CTR",
-      "profile_id": "EDGG"
-    },
-    {
       "id": "EDYY_MH_CTR",
+      "prefixes": ["EDYY"],
+      "frequency": "133.215",
+      "facility_type": "CTR",
+      "profile_id": "EDGG"
+    },
+    {
+      "id": "EDYY_MM_CTR",
       "prefixes": ["EDYY"],
       "frequency": "130.110",
       "facility_type": "CTR",
@@ -24,7 +17,7 @@
     {
       "id": "EDYY_ML_CTR",
       "prefixes": ["EDYY"],
-      "frequency": "130.110",
+      "frequency": "122.185",
       "facility_type": "CTR",
       "profile_id": "EDGG"
     },
@@ -39,20 +32,6 @@
       "id": "EDYY_RL_CTR",
       "prefixes": ["EDYY"],
       "frequency": "128.790",
-      "facility_type": "CTR",
-      "profile_id": "EDGG"
-    },
-    {
-      "id": "EDYY_SH_CTR",
-      "prefixes": ["EDYY"],
-      "frequency": "131.380",
-      "facility_type": "CTR",
-      "profile_id": "EDGG"
-    },
-    {
-      "id": "EDYY_SL_CTR",
-      "prefixes": ["EDYY"],
-      "frequency": "134.710",
       "facility_type": "CTR",
       "profile_id": "EDGG"
     },
@@ -150,7 +129,7 @@
     {
       "id": "EDGG_CSH_CTR",
       "prefixes": ["EDGG"],
-      "frequency": "135.050",
+      "frequency": "135.030",
       "facility_type": "CTR",
       "profile_id": "EDGG"
     },
@@ -178,7 +157,7 @@
     {
       "id": "EDGG_CA_CTR",
       "prefixes": ["EDGG"],
-      "frequency": "132.230",
+      "frequency": "133.835",
       "facility_type": "CTR",
       "profile_id": "EDGG"
     },
@@ -279,6 +258,12 @@
       "frequency": "134.800",
       "facility_type": "CTR",
       "profile_id": "EDGG"
+    },
+    {
+      "id": "EDGG_PSA_CTR",
+      "prefixes": ["EDGG"],
+      "frequency": "125.405",
+      "facility_type": "CTR"
     },
     {
       "id": "EDGG_KTG_CTR",
