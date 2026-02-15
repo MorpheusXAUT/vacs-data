@@ -140,7 +140,7 @@ controlled_by = [
     "EFIN_C_CTR",
 ]
 
-# EFHK
+
 
 [[stations]]
 id = "EFHK_TWR_COR"
@@ -200,7 +200,7 @@ controlled_by = [
     "EFHK_DEL"
 ]
 
-# Regional APP (+R TWR)
+
 [[stations]]
 id = "EFHA_COR"
 controlled_by = [
@@ -269,7 +269,7 @@ controlled_by = [
     "EFTU_R_TWR",
 ]
 
-# Regional TWR/GND/DEL
+
 [[stations]]
 id = "EFHA_TWR"
 controlled_by = [
@@ -411,7 +411,7 @@ controlled_by = [
 ]
 
 
-# AFIS
+
 
 [[stations]]
 id = "EFET"

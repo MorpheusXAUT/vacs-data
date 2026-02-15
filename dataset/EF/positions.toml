@@ -1,9 +1,9 @@
-# EFIN ACC / FMP
+
 
 [[positions]]
 id="EFIN_FMP"
 prefixes=["EFIN"]
-frequency="121.300" # Placeholder, FMP selecting frequency of primary ACC sector (D) seems sensible though
+frequency="121.300" 
 facility_type="FMP"
 profile_id="EFIN"
 
@@ -106,7 +106,7 @@ profile_id="EFIN"
 
 
 
-# EFHK
+
 [[positions]]
 id="EFHK_FMP"
 prefixes=["EFHK"]
@@ -162,21 +162,18 @@ frequency="118.125"
 facility_type="DEL"
 
 [[positions]]
-id="EFHK_C_GND" # Deicing supervisor
+id="EFHK_C_GND"  
 prefixes=["EFHK"]
 frequency="133.850"
 facility_type="GND"
 
 [[positions]]
-id="EFHK_D_GND" # Deicing operator
+id="EFHK_D_GND" 
 prefixes=["EFHK"]
 frequency="121.675"
 facility_type="GND"
 
 
-
-
-# Regional airports APP
 
 
 [[positions]]
@@ -253,7 +250,6 @@ facility_type="APP"
 
 
 
-# Regional airports TWR/GND/DEL
 
 [[positions]]
 id="EFHA_TWR"
@@ -435,9 +431,6 @@ prefixes=["EFVA"]
 frequency="120.950"
 facility_type="TWR"
 
-
-
-# AFIS
 [[positions]]
 id="EFET_I_TWR"
 prefixes=["EFET"]
