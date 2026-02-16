@@ -402,7 +402,7 @@
         }
     },
     {
-        "label": "C/CH",
+        "label": ["C/CH", "(CA)"],
         "page": {
             "rows": 6,
             "keys": [
@@ -870,7 +870,7 @@
         }
     },
     {
-        "label": "S/SH",
+        "label": ["S/SH", "(SA)"],
         "page": {
             "rows": 6,
             "keys": [
@@ -1087,19 +1087,155 @@
                 },
                 {
                     "label": [
-                        "LFST",
-                        "STA"
-                    ]
+                        "DFAN"
+                    ],
+                    "station_id": "EDGG-DFAN"
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "DFTC"
+                    ],
+                    "station_id": "EDGG-DFTC"
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "EDDF",
+                        "more..."
+                    ],
+                    "page": {
+                        "rows": 4,
+                        "keys": [
+                            {
+                                "label": [
+                                    "DFAS"
+                                ],
+                                "station_id": "EDGG-DFAS"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "N",
+                                    "TWR"
+                                ],
+                                "station_id": "EDGG-DFTN"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "C",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DFGC"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "DEL"
+                                ],
+                                "station_id": "EDGG-DFC"
+                            },
+                            {
+                                "label": [
+                                    "DFANT"
+                                ],
+                                "station_id": "EDGG-DFANT"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "W",
+                                    "TWR"
+                                ],
+                                "station_id": "EDGG-DFTW"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "W",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DFGW"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "DFAST"
+                                ],
+                                "station_id": "EDGG-DFAST"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "S",
+                                    "TWR"
+                                ],
+                                "station_id": "EDGG-DFTS"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "E",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DFGE"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "ICE"
+                                ],
+                                "station_id": "EDGG-DFGI"
+                            },
+                            {
+                                "label": [
+                                    "DFDN"
+                                ],
+                                "station_id": "EDGG-DFDN"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DFG"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "DFDS"
+                                ],
+                                "station_id": "EDGG-DFDS"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
                 },
                 {
                     "label": [
@@ -1168,8 +1304,8 @@
                 },
                 {
                     "label": [
-                        "LSAZ",
-                        "SZN"
+                        "LFST",
+                        "STA"
                     ]
                 },
                 {
@@ -1196,7 +1332,8 @@
                 },
                 {
                     "label": [
-                        ""
+                        "LSAZ",
+                        "SZN"
                     ]
                 },
                 {
