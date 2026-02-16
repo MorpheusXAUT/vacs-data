@@ -1,0 +1,296 @@
+[[stations]]
+id = "EFIN_FMP"
+controlled_by = ["EFIN_FMP"]
+
+[[stations]]
+id = "EFIN_A"
+controlled_by = ["EFIN_A_CTR", "EFIN_D_CTR", "EFIN_C_CTR"]
+
+[[stations]]
+id = "EFIN_B"
+controlled_by = ["EFIN_B_CTR", "EFIN_C_CTR", "EFIN_D_CTR"]
+
+[[stations]]
+id = "EFIN_C"
+controlled_by = ["EFIN_C_CTR", "EFIN_D_CTR"]
+
+[[stations]]
+id = "EFIN_D"
+controlled_by = ["EFIN_D_CTR", "EFIN_C_CTR"]
+
+[[stations]]
+id = "EFIN_E"
+controlled_by = ["EFIN_E_CTR", "EFIN_F_CTR", "EFIN_D_CTR", "EFIN_C_CTR"]
+
+[[stations]]
+id = "EFIN_F"
+controlled_by = ["EFIN_F_CTR", "EFIN_D_CTR", "EFIN_C_CTR"]
+
+[[stations]]
+id = "EFIN_G"
+controlled_by = ["EFIN_G_CTR", "EFIN_D_CTR", "EFIN_C_CTR"]
+
+[[stations]]
+id = "EFIN_H"
+controlled_by = [
+  "EFIN_H_CTR",
+  "EFIN_V_CTR",
+  "EFIN_M_CTR",
+  "EFIN_G_CTR",
+  "EFIN_F_CTR",
+  "EFIN_D_CTR",
+]
+
+[[stations]]
+id = "EFIN_J"
+controlled_by = [
+  "EFIN_J_CTR",
+  "EFIN_H_CTR",
+  "EFIN_V_CTR",
+  "EFIN_M_CTR",
+  "EFIN_G_CTR",
+  "EFIN_F_CTR",
+  "EFIN_D_CTR",
+]
+
+[[stations]]
+id = "EFIN_K"
+controlled_by = [
+  "EFIN_K_CTR",
+  "EFIN_M_CTR",
+  "EFIN_A_CTR",
+  "EFIN_G_CTR",
+  "EFIN_F_CTR",
+  "EFIN_D_CTR",
+  "EFIN_C_CTR",
+]
+
+[[stations]]
+id = "EFIN_L"
+controlled_by = [
+  "EFIN_L_CTR",
+  "EFIN_N_CTR",
+  "EFIN_M_CTR",
+  "EFIN_A_CTR",
+  "EFIN_G_CTR",
+  "EFIN_F_CTR",
+  "EFIN_D_CTR",
+  "EFIN_C_CTR",
+]
+
+[[stations]]
+id = "EFIN_M"
+controlled_by = [
+  "EFIN_M_CTR",
+  "EFIN_A_CTR",
+  "EFIN_G_CTR",
+  "EFIN_F_CTR",
+  "EFIN_D_CTR",
+  "EFIN_C_CTR",
+]
+
+[[stations]]
+id = "EFIN_N"
+controlled_by = [
+  "EFIN_M_CTR",
+  "EFIN_A_CTR",
+  "EFIN_G_CTR",
+  "EFIN_F_CTR",
+  "EFIN_D_CTR",
+  "EFIN_C_CTR",
+]
+
+[[stations]]
+id = "EFIN_V"
+controlled_by = [
+  "EFIN_V_CTR",
+  "EFIN_M_CTR",
+  "EFIN_G_CTR",
+  "EFIN_F_CTR",
+  "EFIN_D_CTR",
+  "EFIN_C_CTR",
+]
+
+[[stations]]
+id = "EFHK_TWR_COR"
+controlled_by = ["EFHK_FMP", "EFHK_E_TWR", "EFHK_E_APP"]
+
+[[stations]]
+id = "EFHK_RE"
+controlled_by = ["EFHK_E_APP", "EFHK_W_APP"]
+
+[[stations]]
+id = "EFHK_RW"
+controlled_by = ["EFHK_W_APP", "EFHK_E_APP"]
+
+[[stations]]
+id = "EFHK_AE"
+controlled_by = ["EFHK_R_APP"]
+
+[[stations]]
+id = "EFHK_AW"
+controlled_by = ["EFHK_A_APP"]
+
+[[stations]]
+id = "EFHK_TWE"
+controlled_by = ["EFHK_E_TWR"]
+
+[[stations]]
+id = "EFHK_TWW"
+controlled_by = ["EFHK_W_TWR"]
+
+[[stations]]
+id = "EFHK_GND"
+controlled_by = ["EFHK_GND"]
+
+[[stations]]
+id = "EFHK_CLD"
+controlled_by = ["EFHK_DEL"]
+
+[[stations]]
+id = "EFHA_COR"
+controlled_by = ["EFHA_APP", "EFHA_R_TWR"]
+
+[[stations]]
+id = "EFJY_COR"
+controlled_by = ["EFJY_APP", "EFJY_R_TWR"]
+
+[[stations]]
+id = "EFKU_COR"
+controlled_by = ["EFKU_APP", "EFKU_R_TWR"]
+
+[[stations]]
+id = "EFOU_COR"
+controlled_by = ["EFOU_APP", "EFOU_R_TWR"]
+
+[[stations]]
+id = "EFPO_COR"
+controlled_by = ["EFPO_APP", "EFPO_R_TWR"]
+
+[[stations]]
+id = "EFRO_COR"
+controlled_by = ["EFRO_APP", "EFRO_R_TWR"]
+
+[[stations]]
+id = "EFRO_ARR"
+controlled_by = ["EFRO_R_APP"]
+
+[[stations]]
+id = "EFTP_COR"
+controlled_by = ["EFTP_APP", "EFTP_R_TWR"]
+
+[[stations]]
+id = "EFTP_ARR"
+controlled_by = ["EFTP_R_APP"]
+
+[[stations]]
+id = "EFTU_COR"
+controlled_by = ["EFTU_APP", "EFTU_R_TWR"]
+
+[[stations]]
+id = "EFHA_TWR"
+controlled_by = ["EFHA_TWR", "EFHA_R_TWR"]
+
+[[stations]]
+id = "EFIV_TWR"
+controlled_by = ["EFIV_R_TWR"]
+
+[[stations]]
+id = "EFJO_TWR"
+controlled_by = ["EFJO_R_TWR"]
+
+[[stations]]
+id = "EFJY_TWR"
+controlled_by = ["EFJY_TWR", "EFJY_R_TWR"]
+
+[[stations]]
+id = "EFJY_GND"
+controlled_by = ["EFJY_GND"]
+
+[[stations]]
+id = "EFKE_TWR"
+controlled_by = ["EFKE_R_TWR"]
+
+[[stations]]
+id = "EFKK_TWR"
+controlled_by = ["EFKK_R_TWR"]
+
+[[stations]]
+id = "EFKS_TWR"
+controlled_by = ["EFKS_R_TWR"]
+
+[[stations]]
+id = "EFKT_TWR"
+controlled_by = ["EFKT_R_TWR"]
+
+[[stations]]
+id = "EFKT_DEL"
+controlled_by = ["EFKT_DEL"]
+
+[[stations]]
+id = "EFKU_TWR"
+controlled_by = ["EFKU_TWR", "EFKU_R_TWR"]
+
+[[stations]]
+id = "EFLP_TWR"
+controlled_by = ["EFLP_P_TWR"]
+
+[[stations]]
+id = "EFMA_TWR"
+controlled_by = ["EFMA_R_TWR"]
+
+[[stations]]
+id = "EFOU_TWR"
+controlled_by = ["EFOU_TWR", "EFOU_R_TWR"]
+
+[[stations]]
+id = "EFPO_TWR"
+controlled_by = ["EFPO_TWR", "EFPO_R_TWR"]
+
+[[stations]]
+id = "EFRO_TWR"
+controlled_by = ["EFRO_TWR", "EFRO_R_TWR"]
+
+[[stations]]
+id = "EFRO_DEL"
+controlled_by = ["EFRO_DEL"]
+
+[[stations]]
+id = "EFTP_TWR"
+controlled_by = ["EFTP_TWR", "EFTP_R_TWR"]
+
+[[stations]]
+id = "EFTP_GND"
+controlled_by = ["EFTP_GND"]
+
+[[stations]]
+id = "EFTU_TWR"
+controlled_by = ["EFTU_TWR", "EFTU_R_TWR"]
+
+[[stations]]
+id = "EFUT_TWR"
+controlled_by = ["EFUT_P_TWR"]
+
+[[stations]]
+id = "EFVA_TWR"
+controlled_by = ["EFVA_R_TWR"]
+
+[[stations]]
+id = "EFET"
+controlled_by = ["EFET_I_TWR"]
+
+[[stations]]
+id = "EFKI"
+controlled_by = ["EFKI_I_TWR"]
+
+[[stations]]
+id = "EFMI"
+controlled_by = ["EFMI_I_TWR"]
+
+[[stations]]
+id = "EFSA"
+controlled_by = ["EFSA_I_TWR"]
+
+[[stations]]
+id = "EFSI"
+controlled_by = ["EFSI_I_TWR"]

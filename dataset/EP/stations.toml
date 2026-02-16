@@ -1,0 +1,660 @@
+[[stations]]
+id = "EPWWB_HIGH"
+controlled_by = [
+  "EPWW_U_CTR",
+  "EPWW_B_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+]
+
+[[stations]]
+id = "EPWWB_MID"
+controlled_by = [
+  "EPWW_B_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWWB_LOW"
+controlled_by = [
+  "EPWW_B_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWWC_HIGH"
+controlled_by = ["EPWW_U_CTR", "EPWW_C_CTR", "EPWW_CTR"]
+
+[[stations]]
+id = "EPWWC_MID"
+controlled_by = ["EPWW_C_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWC_LOW"
+controlled_by = ["EPWW_C_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWD_HIGH"
+controlled_by = ["EPWW_U_CTR", "EPWW_D_CTR", "EPWW_CTR"]
+
+[[stations]]
+id = "EPWWD_MID"
+controlled_by = ["EPWW_D_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWD_LOW"
+controlled_by = ["EPWW_D_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWE_HIGH"
+controlled_by = ["EPWW_U_CTR", "EPWW_E_CTR", "EPWW_N_CTR", "EPWW_CTR"]
+
+[[stations]]
+id = "EPWWE_MID"
+controlled_by = ["EPWW_E_CTR", "EPWW_N_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWE_LOW"
+controlled_by = ["EPWW_E_CTR", "EPWW_N_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWF_HIGH"
+controlled_by = [
+  "EPWW_U_CTR",
+  "EPWW_F_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+]
+
+[[stations]]
+id = "EPWWF_MID"
+controlled_by = [
+  "EPWW_F_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWWF_LOW"
+controlled_by = [
+  "EPWW_F_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWWG_HIGH"
+controlled_by = ["EPWW_U_CTR", "EPWW_G_CTR", "EPWW_N_CTR", "EPWW_CTR"]
+
+[[stations]]
+id = "EPWWG_MID"
+controlled_by = ["EPWW_G_CTR", "EPWW_N_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWG_LOW"
+controlled_by = ["EPWW_G_CTR", "EPWW_N_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWJ_HIGH"
+controlled_by = ["EPWW_U_CTR", "EPWW_J_CTR", "EPWW_CTR"]
+
+[[stations]]
+id = "EPWWJ_MID"
+controlled_by = ["EPWW_J_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWJ_LOW"
+controlled_by = ["EPWW_J_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWN_HIGH"
+controlled_by = ["EPWW_U_CTR", "EPWW_N_CTR", "EPWW_CTR"]
+
+[[stations]]
+id = "EPWWN_MID"
+controlled_by = ["EPWW_N_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWN_LOW"
+controlled_by = ["EPWW_N_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWR_HIGH"
+controlled_by = ["EPWW_U_CTR", "EPWW_R_CTR", "EPWW_J_CTR", "EPWW_CTR"]
+
+[[stations]]
+id = "EPWWR_MID"
+controlled_by = ["EPWW_R_CTR", "EPWW_J_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWR_LOW"
+controlled_by = ["EPWW_R_CTR", "EPWW_J_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWT_HIGH"
+controlled_by = ["EPWW_U_CTR", "EPWW_CTR"]
+
+[[stations]]
+id = "EPWWT_MID"
+controlled_by = ["EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWWT_LOW"
+controlled_by = ["EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPBA"
+controlled_by = ["EPBA_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPBC"
+controlled_by = ["EPBC_I_TWR", "EPWA_I_APP", "EPSY_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPBK"
+controlled_by = ["EPBK_R_TWR", "EPSY_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPBY_CTR"
+controlled_by = [
+  "EPBY_TWR",
+  "EPGD_APP",
+  "EPWW_F_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPBY_TMA"
+controlled_by = [
+  "EPBY_TWR",
+  "EPGD_APP",
+  "EPWW_F_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPDE_MCTR"
+controlled_by = ["EPDE_TWR", "EPDE_APP"]
+
+[[stations]]
+id = "EPDE_MTMA"
+controlled_by = ["EPDE_APP"]
+
+[[stations]]
+id = "EPGD_CTR"
+controlled_by = [
+  "EPGD_TWR",
+  "EPGD_L_APP",
+  "EPGD_APP",
+  "EPWW_F_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPGD_LTMA"
+controlled_by = [
+  "EPGD_L_APP",
+  "EPGD_APP",
+  "EPWW_F_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPGD_UTMA"
+controlled_by = [
+  "EPGD_APP",
+  "EPWW_F_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPGD_FIS"
+controlled_by = ["EPGD_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPGL"
+controlled_by = ["EPGL_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPGY"
+controlled_by = ["EPGY_R_TWR", "EPSY_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPJA"
+controlled_by = ["EPJA_R_TWR", "EPGD_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPKA"
+controlled_by = ["EPKA_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPKK_CTR"
+controlled_by = [
+  "EPKK_TWR",
+  "EPKK_KK_APP",
+  "EPKK_APP",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPKK_TMA_E"
+controlled_by = [
+  "EPKK_E_APP",
+  "EPKK_APP",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPKK_KK_DIR07"
+controlled_by = [
+  "EPKK_KK_APP",
+  "EPKK_APP",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPKK_KK_DIR25"
+controlled_by = [
+  "EPKK_KK_APP",
+  "EPKK_E_APP",
+  "EPKK_APP",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPKK_KT_DIR08"
+controlled_by = ["EPKT_TWR", "EPKK_APP", "EPWW_J_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPKK_KT_DIR26"
+controlled_by = [
+  "EPKT_TWR",
+  "EPKK_E_APP",
+  "EPKK_APP",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPKK_TMA_W"
+controlled_by = ["EPKK_APP", "EPWW_J_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPKK_FIS"
+controlled_by = ["EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPKI"
+controlled_by = ["EPKI_R_TWR", "EPSY_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPKM"
+controlled_by = ["EPKM_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPKP"
+controlled_by = ["EPKP_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPKR"
+controlled_by = ["EPKR_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPKS_MCTR"
+controlled_by = ["EPKS_TWR"]
+
+[[stations]]
+id = "EPKT_CTR"
+controlled_by = [
+  "EPKT_TWR",
+  "EPKT_TWR",
+  "EPKK_APP",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPLB_CTR"
+controlled_by = [
+  "EPLB_TWR",
+  "EPWW_R_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPLB_TMA"
+controlled_by = [
+  "EPLB_TWR",
+  "EPWW_R_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPLL_CTR"
+controlled_by = [
+  "EPLL_TWR",
+  "EPWA_S_APP",
+  "EPWA_N_APP",
+  "EPWA_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPLL_TMA"
+controlled_by = [
+  "EPLL_TWR",
+  "EPWA_S_APP",
+  "EPWA_N_APP",
+  "EPWA_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPLR"
+controlled_by = ["EPLR_R_TWR", "EPWA_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPML"
+controlled_by = ["EPML_I_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPMO_CTR"
+controlled_by = [
+  "EPMO_TWR",
+  "EPWA_N_APP",
+  "EPWA_S_APP",
+  "EPWA_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPNT"
+controlled_by = ["EPNT_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPOD"
+controlled_by = ["EPOD_R_TWR", "EPSY_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPPO_CTR"
+controlled_by = [
+  "EPPO_TWR",
+  "EPPO_N_APP",
+  "EPWW_D_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPPO_TMA_N"
+controlled_by = ["EPPO_N_APP", "EPWW_D_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPPO_TMA_S"
+controlled_by = ["EPPO_S_APP", "EPPO_N_APP", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPPO_FIS"
+controlled_by = ["EPPO_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPPZ"
+controlled_by = ["EPPZ_R_TWR", "EPSY_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPRA_CTR"
+controlled_by = [
+  "EPRA_TWR",
+  "EPWA_S_APP",
+  "EPWA_N_APP",
+  "EPWA_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPRA_TMA"
+controlled_by = [
+  "EPRA_TWR",
+  "EPWA_S_APP",
+  "EPWA_N_APP",
+  "EPWA_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPRZ_CTR"
+controlled_by = [
+  "EPRZ_TWR",
+  "EPWW_R_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPRZ_TMA"
+controlled_by = [
+  "EPKK_RZ_APP",
+  "EPKK_E_APP",
+  "EPKK_APP",
+  "EPRZ_TWR",
+  "EPWW_R_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPSC_CTR"
+controlled_by = [
+  "EPSC_TWR",
+  "EPWW_B_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPSC_TMA"
+controlled_by = [
+  "EPSC_TWR",
+  "EPWW_B_CTR",
+  "EPWW_G_CTR",
+  "EPWW_N_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPSY_CTR"
+controlled_by = ["EPSY_TWR", "EPWW_N_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPSY_TMA"
+controlled_by = ["EPSY_TWR", "EPWW_N_CTR", "EPWW_CTR", "EPWW_U_CTR"]
+
+[[stations]]
+id = "EPWA_CTR"
+controlled_by = [
+  "EPWA_TWR",
+  "EPWA_F_APP",
+  "EPWA_APP",
+  "EPWA_N_APP",
+  "EPWA_S_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWA_DIR"
+controlled_by = [
+  "EPWA_F_APP",
+  "EPWA_APP",
+  "EPWA_S_APP",
+  "EPWA_N_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWA_TMA"
+controlled_by = [
+  "EPWA_APP",
+  "EPWA_S_APP",
+  "EPWA_N_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWA_TMA_N"
+controlled_by = [
+  "EPWA_N_APP",
+  "EPWA_S_APP",
+  "EPWA_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWA_TMA_S"
+controlled_by = [
+  "EPWA_S_APP",
+  "EPWA_N_APP",
+  "EPWA_APP",
+  "EPWW_E_CTR",
+  "EPWW_C_CTR",
+  "EPWW_N_CTR",
+  "EPWW_J_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPWA_FIS_S"
+controlled_by = ["EPWA_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPWA_FIS_N"
+controlled_by = ["EPSY_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPWR_CTR"
+controlled_by = [
+  "EPWR_TWR",
+  "EPPO_S_APP",
+  "EPPO_N_APP",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPZG_CTR"
+controlled_by = [
+  "EPZG_TWR",
+  "EPPO_N_APP",
+  "EPWW_D_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPZG_TMA"
+controlled_by = [
+  "EPZG_TWR",
+  "EPPO_N_APP",
+  "EPWW_D_CTR",
+  "EPWW_CTR",
+  "EPWW_U_CTR",
+]
+
+[[stations]]
+id = "EPZP"
+controlled_by = ["EPZP_R_TWR", "EPPO_I_APP", "EPWW_I_CTR"]
+
+[[stations]]
+id = "EPZR"
+controlled_by = ["EPZR_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
