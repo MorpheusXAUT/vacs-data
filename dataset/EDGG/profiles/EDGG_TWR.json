@@ -15,25 +15,31 @@
           },
           {
             "label": [
-              "DFANT"
+              "DFANT",
+              "Feeder"
             ],
             "station_id": "EDGG-DFANT"
           },
           {
             "label": [
-              "DFTC"
+              "EDDF",
+              "C",
+              "TWR"
             ],
             "station_id": "EDGG-DFTC"
           },
           {
             "label": [
-              "DFGC"
+              "EDDF",
+              "C",
+              "GND"
             ],
             "station_id": "EDGG-DFGC"
           },
           {
             "label": [
-              "DFC"
+              "EDDF",
+              "DEL"
             ],
             "station_id": "EDGG-DFC"
           },
@@ -45,19 +51,24 @@
           },
           {
             "label": [
-              "DFAST"
+              "DFAST",
+              "Feeder"
             ],
             "station_id": "EDGG-DFAST"
           },
           {
             "label": [
-              "DFTW"
+              "EDDF",
+              "W",
+              "TWR"
             ],
             "station_id": "EDGG-DFTW"
           },
           {
             "label": [
-              "DFGW"
+              "EDDF",
+              "W",
+              "GND"
             ],
             "station_id": "EDGG-DFGW"
           },
@@ -79,18 +90,23 @@
           },
           {
             "label": [
-              "DFTN"
+              "EDDF",
+              "N",
+              "TWR"
             ],
             "station_id": "EDGG-DFTN"
           },
           {
             "label": [
-              "DFGE"
+              "EDDF",
+              "E",
+              "GND"
             ],
             "station_id": "EDGG-DFGE"
           },
           {
             "label": [
+              "EDDF",
               "ICE"
             ],
             "station_id": "EDGG-DFGI"
@@ -108,13 +124,17 @@
           },
           {
             "label": [
-              "DFTS"
+              "EDDF",
+              "S",
+              "TWR"
             ],
             "station_id": "EDGG-DFTS"
           },
           {
             "label": [
-              "DFGS"
+              "EDDF",
+              "S",
+              "GND"
             ],
             "station_id": "EDGG-DFGS"
           },
@@ -140,7 +160,8 @@
           },
           {
             "label": [
-              "DFG"
+              "EDDF",
+              "GND"
             ],
             "station_id": "EDGG_DFG"
           },
@@ -165,25 +186,30 @@
           },
           {
             "label": [
-              "DLAT"
+              "DLAT",
+              "Feeder"
             ],
             "station_id": "EDGG-DLAT"
           },
           {
             "label": [
-              "DLT"
+              "EDDL",
+              "TWR"
             ],
             "station_id": "EDGG-DLT"
           },
           {
             "label": [
-              "DLGE"
+              "EDDL",
+              "E",
+              "GND"
             ],
             "station_id": "EDGG-DLGE"
           },
           {
             "label": [
-              "DLC"
+              "EDDL",
+              "DEL"
             ],
             "station_id": "EDGG-DLC"
           },
@@ -205,7 +231,9 @@
           },
           {
             "label": [
-              "DLGW"
+              "EDDL",
+              "W",
+              "GND"
             ],
             "station_id": "EDGG-DLGW"
           },
@@ -279,19 +307,22 @@
           },
           {
             "label": [
-              "DKT"
+              "EDDK",
+              "TWR"
             ],
             "station_id": "EDGG-DKT"
           },
           {
             "label": [
-              "DKG"
+              "EDDK",
+              "GND"
             ],
             "station_id": "EDGG-DKG"
           },
           {
             "label": [
-              "DKC"
+              "EDDK",
+              "DEL"
             ],
             "station_id": "EDGG-DKC"
           },
@@ -303,7 +334,8 @@
           },
           {
             "label": [
-              "DKAT"
+              "DKAT",
+              "Feeder"
             ],
             "station_id": "EDGG-DKAT"
           },
@@ -326,7 +358,7 @@
       }
     },
     {
-      "label": "DS/Min",
+      "label": ["DS", "Minors"],
       "page": {
         "rows": 7,
         "keys": [
@@ -351,21 +383,21 @@
           {
             "label": [
               "EDDS",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-DST"
           },
           {
             "label": [
               "EDDS",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-DSG"
           },
           {
             "label": [
               "EDDS",
-              "Delivery"
+              "DEL"
             ],
             "station_id": "EDGG-DSC"
           },
@@ -393,28 +425,28 @@
           {
             "label": [
               "EDSB",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-SBT"
           },
           {
             "label": [
               "EDSB",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-SBG"
           },
           {
             "label": [
               "EDDG",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-DGT"
           },
           {
             "label": [
               "EDDG",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-DGG"
           },
@@ -439,7 +471,7 @@
           {
             "label": [
               "EDLM",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-FMT"
           },
@@ -451,14 +483,14 @@
           {
             "label": [
               "EDDR",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-DRT"
           },
           {
             "label": [
               "EDDR",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-DRG"
           },
@@ -482,28 +514,28 @@
           {
             "label": [
               "EDFH",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-FHT"
           },
           {
             "label": [
               "EDFH",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-FHG"
           },
           {
             "label": [
               "EDLN",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-LNT"
           },
           {
             "label": [
               "EDLN",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-LNG"
           },
@@ -527,21 +559,21 @@
           {
             "label": [
               "EDLP",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-LPT"
           },
           {
             "label": [
               "EDLP",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-LPG"
           },
           {
             "label": [
               "EDLV",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-LVT"
           },
@@ -571,14 +603,14 @@
           {
             "label": [
               "EDLW",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-LWT"
           },
           {
             "label": [
               "EDLW",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-LWG"
           },
@@ -645,7 +677,7 @@
           {
             "label": [
               "ETSB",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-TOUT"
           },
@@ -657,7 +689,7 @@
           {
             "label": [
               "EDTL",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-TLT"
           },
@@ -679,14 +711,14 @@
           {
             "label": [
               "ETAD",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-TADT"
           },
           {
             "label": [
               "ETAD",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-TADG"
           },
@@ -715,14 +747,14 @@
           {
             "label": [
               "ETAR",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-TART"
           },
           {
             "label": [
               "ETAR",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-TARG"
           },
@@ -734,14 +766,14 @@
           {
             "label": [
               "ETHF",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-THFT"
           },
           {
             "label": [
               "ETHF",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-THFG"
           },
@@ -753,7 +785,7 @@
           {
             "label": [
               "ETHN",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-THNT"
           },
@@ -770,7 +802,7 @@
           {
             "label": [
               "ETNG",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-TNGA"
           },
@@ -787,7 +819,7 @@
           {
             "label": [
               "ETNN",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-TNNT"
           },
@@ -804,14 +836,14 @@
           {
             "label": [
               "ETOU",
-              "Tower"
+              "TWR"
             ],
             "station_id": "EDGG-TOUT"
           },
           {
             "label": [
               "ETOU",
-              "Ground"
+              "GND"
             ],
             "station_id": "EDGG-TOUG"
           },
