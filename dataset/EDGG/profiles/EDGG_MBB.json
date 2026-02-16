@@ -26,7 +26,6 @@
                 },
                 {
                     "label": [
-                        "EDDL",
                         "DLA"
                     ],
                     "station_id": "EDGG-DLA"
@@ -126,7 +125,6 @@
                 },
                 {
                     "label": [
-                        "EDDK",
                         "NOR"
                     ],
                     "station_id": "EDGG-NOR"
@@ -168,7 +166,8 @@
                             },
                             {
                                 "label": [
-                                    "DKAT"
+                                    "DKAT",
+                                    "Feeder"
                                 ],
                                 "station_id": "EDGG-DKAT"
                             },
@@ -206,7 +205,6 @@
                 },
                 {
                     "label": [
-                        "EDDG",
                         "HMM"
                     ],
                     "station_id": "EDGG-HMM"
@@ -246,7 +244,6 @@
                 },
                 {
                     "label": [
-                        "EDLP",
                         "PADL"
                     ],
                     "station_id": "EDGG-PADL"
@@ -1248,8 +1245,10 @@
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "EDDG",
+                        "TWR"
+                    ],
+                    "station_id": "EDGG-DGT"
                 },
                 {
                     "label": [
@@ -1279,15 +1278,16 @@
                 },
                 {
                     "label": [
-                        "continue",
-                        "with",
-                        "app+twr"
-                    ]
+                        "DLA"
+                    ],
+                    "station_id": "EDGG-DLA"
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "EDDL",
+                        "TWR"
+                    ],
+                    "station_id": "EDGG-DLT"
                 },
                 {
                     "label": [
@@ -1317,13 +1317,16 @@
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "DKA"
+                    ],
+                    "station_id": "EDGG-DKA"
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "EDDK",
+                        "TWR"
+                    ],
+                    "station_id": "EDGG-DKT"
                 },
                 {
                     "label": [
@@ -1352,13 +1355,17 @@
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "DFAN"
+                    ],
+                    "station_id": "EDGG-DFAN"
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "EDDF",
+                        "C",
+                        "TWR"
+                    ],
+                    "station_id": "EDGG-DFTC"
                 },
                 {
                     "label": [
@@ -1386,13 +1393,235 @@
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "APP"
+                    ],
+                    "page": {
+                        "rows": 2,
+                        "keys": [
+                            {
+                                "label": [
+                                    "DKLA"
+                                ],
+                                "station_id": "EDGG-DKLA"
+                            },
+                            {
+                                "label": [
+                                    "DLAT",
+                                    "Feeder"
+                                ],
+                                "station_id": "EDGG-DLAT"
+                            },
+                            {
+                                "label": [
+                                    "BOT"
+                                ],
+                                "station_id": "EDGG-BOT"
+                            },
+                            {
+                                "label": [
+                                    "PADL"
+                                ],
+                                "station_id": "EDGG-PADL"
+                            },
+                            {
+                                "label": [
+                                    "NOR"
+                                ],
+                                "station_id": "EDGG-NOR"
+                            },
+                            {
+                                "label": [
+                                    "DKAT",
+                                    "Feeder"
+                                ],
+                                "station_id": "EDGG-DKAT"
+                            },
+                            {
+                                "label": [
+                                    "DFAS"
+                                ],
+                                "station_id": "EDGG-DFAS"
+                            },
+                            {
+                                "label": [
+                                    "DFAST",
+                                    "Feeder"
+                                ],
+                                "station_id": "EDGG-DFAST"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "DFANT",
+                                    "Feeder"
+                                ],
+                                "station_id": "EDGG-DFANT"
+                            },
+                            {
+                                "label": [
+                                    "DFDN"
+                                ],
+                                "station_id": "EDGG-DFDN"
+                            },
+                            {
+                                "label": [
+                                    "DFDS"
+                                ],
+                                "station_id": "EDGG-DFDS"
+                            }
+                        ]
+                    }
                 },
                 {
                     "label": [
-                        ""
-                    ]
+                        "TWR",
+                        "GND"
+                    ],
+                    "page": {
+                        "rows": 3,
+                        "keys": [
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "EDDL",
+                                    "E",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DLGE"
+                            },{
+                                "label": [
+                                    "EDDL",
+                                    "DEL"
+                                ],
+                                "station_id": "EDGG-DLC"
+                            },{
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "EDDL",
+                                    "W",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DLGW"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "EDDK",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DKG"
+                            },
+                            {
+                                "label": [
+                                    "EDDK",
+                                    "DEL"
+                                ],
+                                "station_id": "EDGG-DKC"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "C",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DFGC"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "DEL"
+                                ],
+                                "station_id": "EDGG-DFC"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "N",
+                                    "TWR"
+                                ],
+                                "station_id": "EDGG-DFTN"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "W",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DFGW"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "S",
+                                    "TWR"
+                                ],
+                                "station_id": "EDGG-DFTS"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "E",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DFGE"
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "ICE"
+                                ],
+                                "station_id": "EDGG-DFGI"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "label": [
+                                    "EDDF",
+                                    "GND"
+                                ],
+                                "station_id": "EDGG-DFG"
+                            },
+                            {
+                                "label": [
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
                 },
                 {
                     "label": [
