@@ -1,0 +1,102 @@
+{
+  "positions": [
+    {
+      "id": "LZBB_CTR",
+      "prefixes": ["LZBB"],
+      "frequency": "134.475",
+      "facility_type": "CTR",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZBB_I_CTR",
+      "prefixes": ["LZBB"],
+      "frequency": "124.300",
+      "facility_type": "CTR",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZBB_U_CTR",
+      "prefixes": ["LZBB"],
+      "frequency": "127.425",
+      "facility_type": "CTR",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZIB_APP",
+      "prefixes": ["LZIB"],
+      "frequency": "134.930",
+      "facility_type": "APP",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZIB_TWR",
+      "prefixes": ["LZIB"],
+      "frequency": "118.305",
+      "facility_type": "TWR",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZIB_GND",
+      "prefixes": ["LZIB"],
+      "frequency": "120.905",
+      "facility_type": "GND",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZKZ_APP",
+      "prefixes": ["LZKZ"],
+      "frequency": "129.355",
+      "facility_type": "APP",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZKZ_TWR",
+      "prefixes": ["LZKZ"],
+      "frequency": "120.405",
+      "facility_type": "TWR",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZMC_APP",
+      "prefixes": ["LZMC"],
+      "frequency": "129.575",
+      "facility_type": "APP",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZPP_TWR",
+      "prefixes": ["LZPP"],
+      "frequency": "118.580",
+      "facility_type": "TWR",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZSL_APP",
+      "prefixes": ["LZSL"],
+      "frequency": "119.150",
+      "facility_type": "APP",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZSL_TWR",
+      "prefixes": ["LZSL"],
+      "frequency": "122.905",
+      "facility_type": "TWR",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZTT_TWR",
+      "prefixes": ["LZTT"],
+      "frequency": "121.350",
+      "facility_type": "TWR",
+      "profile_id": "LZBB"
+    },
+    {
+      "id": "LZZI_TWR",
+      "prefixes": ["LZZI"],
+      "frequency": "124.155",
+      "facility_type": "TWR",
+      "profile_id": "LZBB"
+    }
+  ]
+}

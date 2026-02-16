@@ -1,0 +1,18 @@
+[package]
+name = "vacs-data-importer"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+publish.workspace = true
+
+[dependencies]
+console = { workspace = true }
+encoding_rs = { workspace = true }
+encoding_rs_io = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+toml = { workspace = true }
+vacs-data-diagnostics = { workspace = true }
+vacs-protocol = { workspace = true }
+vacs-vatsim = { workspace = true }

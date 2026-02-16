@@ -14,16 +14,27 @@ This includes guides for:
 - [Positions](docs/dataset/positions.md)
 - [Profiles](docs/dataset/profiles.md)
 
+## Tools
+
+Because the dataset is large and complex, we provide a set of command-line tools to help maintain it. These tools can be used to validate the dataset against the schema and import data from other formats.
+
+See the **[Tools Documentation](tools/README.md)** for more information.
+
 ## Contributing
 
 We welcome contributions from FIR staff and community members! Please refer to the [Dataset Documentation](docs/dataset/README.md) for detailed instructions on the file formats and directory structure.
 
 1.  [Fork the repository](https://github.com/MorpheusXAUT/vacs-data/fork).
 2.  Make your changes in your FIR's directory (or create it if it doesn't exist).
-3.  Validate your changes using the provided JSON schemas.
-4.  [Submit a Pull Request](https://github.com/MorpheusXAUT/vacs-data/compare).
+3.  Validate your changes using the provided JSON schemas or the `vacs-data` tool.
+4.  [Submit a Pull Request](https://github.com/MorpheusXAUT/vacs-data/compare). Please make sure to enable "Allow edits by maintainers" so that the autofix.ci bot can automatically push formatting fixes to your PR branch.
+5.  Make sure to check our [contribution guidelines](CONTRIBUTING.md) for more information.
 
 ## License
+
+This repository contains both a dataset and tools to manage it. Due to the different nature of the contents, multiple licenses apply.
+
+### Dataset license
 
 The dataset content of this repository is [licensed](LICENSE) under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.
 
@@ -37,3 +48,11 @@ The dataset content of this repository is [licensed](LICENSE) under the **[Creat
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - **NonCommercial** — You may not use the material for commercial purposes.
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+### Tools license
+
+The tools in this repository (`tools/`) are licensed under either of:
+
+- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+- MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+  at your option.

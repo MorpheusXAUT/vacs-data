@@ -483,7 +483,44 @@
             },
             {
               "label": ["CWP"],
-              "size": 6.25
+              "size": 6.25,
+              "page": {
+                "rows": 6,
+                "client_page": {
+                  "include": [
+                    "LO*",
+                    "EDMM*",
+                    "EDUU*",
+                    "EDDM*",
+                    "ADR*",
+                    "EUC*",
+                    "LD*",
+                    "LH*",
+                    "LIM*",
+                    "LIP*",
+                    "LJ*",
+                    "LK*",
+                    "LS*",
+                    "LZ*"
+                  ],
+                  "exclude": ["LON*"],
+                  "priority": [
+                    "LO*_FMP",
+                    "*_FMP",
+                    "LO*_CTR",
+                    "*_CTR",
+                    "LOWW*_APP",
+                    "LO*_APP",
+                    "*_APP",
+                    "LOWW*_TWR",
+                    "LO*_TWR",
+                    "*_TWR",
+                    "LO*_GND",
+                    "*_GND",
+                    "LO*"
+                  ]
+                }
+              }
             }
           ]
         }

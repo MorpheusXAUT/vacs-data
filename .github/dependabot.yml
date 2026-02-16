@@ -1,0 +1,24 @@
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  - package-ecosystem: "cargo"
+    directory: "/tools"
+    schedule:
+      interval: weekly
+      day: monday
+      time: "05:30" # UTC
+    open-pull-requests-limit: 20
+    rebase-strategy: auto
+    versioning-strategy: auto
+    labels: ["dependencies"]
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: monday
+      time: "06:30" # UTC
+    open-pull-requests-limit: 10
+    rebase-strategy: auto
+    labels: ["dependencies"]

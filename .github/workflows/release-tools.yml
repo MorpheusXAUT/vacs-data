@@ -1,0 +1,211 @@
+name: Release • Tools
+
+on:
+  push:
+    tags:
+      - "vacs-data-v*"
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version to publish (1.2.3, v1.2.3, or vacs-data-v1.2.3)"
+        required: true
+        type: string
+      ref:
+        description: "Git ref to build (branch/tag/SHA). Empty = default branch tip."
+        required: false
+        default: ""
+        type: string
+
+permissions: {}
+
+defaults:
+  run:
+    shell: bash
+    working-directory: tools
+
+jobs:
+  prep:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      version: ${{ steps.vars.outputs.version }}
+      tag: ${{ steps.vars.outputs.tag }}
+      draft: ${{ steps.vars.outputs.draft }}
+      prerelease: ${{ steps.vars.outputs.prerelease }}
+      release_name: ${{ steps.vars.outputs.release_name }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 0
+          ref: ${{ inputs.ref }}
+
+      - name: Resolve version & tag
+        id: vars
+        shell: bash
+        run: |
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
+            RAW="${{ inputs.version }}"
+          else
+            RAW="${GITHUB_REF_NAME}"  # e.g. vacs-data-v1.2.3
+          fi
+
+          # Extract X.Y.Z from: 1.2.3 | v1.2.3 | vacs-data-v1.2.3 | 1.2.3-rc.1
+          if [[ "$RAW" =~ ([0-9]+\.[0-9]+\.[0-9]+(-[A-Za-z0-9.-]+)?) ]]; then
+            VER="${BASH_REMATCH[1]}"
+          else
+            echo "Could not parse semver from: $RAW" >&2
+            exit 1
+          fi
+
+          TAG="vacs-data-v${VER}"
+          REL_NAME="vacs-data: v${VER}"
+
+          # Draft release when manual; published on tag-push
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
+            DRAFT=true
+          else
+            DRAFT=false
+          fi
+
+          # Mark prerelease if version contains a prerelease part (e.g., -rc.1)
+          if [[ "$VER" =~ -[A-Za-z0-9] ]]; then
+            PRERELEASE=true
+          else
+            PRERELEASE=false
+          fi
+
+          echo "version=$VER"       >> "$GITHUB_OUTPUT"
+          echo "tag=$TAG"           >> "$GITHUB_OUTPUT"
+          echo "draft=$DRAFT"       >> "$GITHUB_OUTPUT"
+          echo "prerelease=$PRERELEASE" >> "$GITHUB_OUTPUT"
+          echo "release_name=$REL_NAME" >> "$GITHUB_OUTPUT"
+
+  generate-changelog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      release_body: ${{ steps.git-cliff.outputs.content }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 0
+
+      - name: Generate a changelog
+        uses: orhun/git-cliff-action@e16f179f0be49ecdfe63753837f20b9531642772 # v4.7.0
+        id: git-cliff
+        with:
+          config: tools/cliff.toml
+          args: -vv --latest --no-exec --github-repo ${{ github.repository }}
+
+  build:
+    needs: [prep]
+    name: Build ${{ matrix.platform }}
+    runs-on: ${{ matrix.os }}
+    permissions:
+      contents: read
+      attestations: write
+      id-token: write
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            platform: linux-x86_64
+            target: x86_64-unknown-linux-gnu
+          - os: windows-latest
+            platform: windows-x86_64
+            target: x86_64-pc-windows-msvc
+          - os: macos-latest
+            platform: macos-aarch64
+            target: aarch64-apple-darwin
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: ${{ matrix.target }}
+
+      - name: Cache cargo
+        uses: Swatinem/rust-cache@779680da715d629ac1d338a641029a2f4372abb5 # v2.8.2
+        with:
+          shared-key: ${{ matrix.platform }}
+          workspaces: "tools -> target"
+
+      - name: Set binary name
+        id: vars
+        run: |
+          EXT=""
+          if [[ "${{ matrix.platform }}" == *"windows"* ]]; then
+            EXT=".exe"
+          fi
+
+          echo "binary_name=vacs-data$EXT" >> "$GITHUB_OUTPUT"
+          echo "release_binary_name=vacs-data-${{ needs.prep.outputs.version }}-${{ matrix.platform }}$EXT" >> "$GITHUB_OUTPUT"
+
+      - name: Build binary
+        run: cargo build --release --locked --bin vacs-data --target ${{ matrix.target }}
+
+      - name: Rename binary to include platform
+        run: |
+          mv "target/${{ matrix.target }}/release/${{ steps.vars.outputs.binary_name }}" "target/${{ matrix.target }}/release/${{ steps.vars.outputs.release_binary_name }}"
+
+      - name: Upload binary artifact
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
+        with:
+          name: vacs-data-${{ matrix.platform }}
+          if-no-files-found: error
+          retention-days: 30
+          path: |
+            tools/target/${{ matrix.target }}/release/${{ steps.vars.outputs.release_binary_name }}
+
+      - name: Attest build provenance
+        if: ${{ !github.event.repository.private || github.event.repository.owner.type == 'Organization' }}
+        uses: actions/attest-build-provenance@96278af6caaf10aea03fd8d33a09a777ca52d62f # v3.2.0
+        with:
+          subject-path: |
+            tools/target/${{ matrix.target }}/release/${{ steps.vars.outputs.release_binary_name }}
+
+  release:
+    needs: [prep, generate-changelog, build]
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/')
+    permissions:
+      contents: write
+    steps:
+      - name: Download binaries
+        uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 #v7.0.0
+        with:
+          path: dist
+          pattern: vacs-data-*
+          merge-multiple: true
+
+      - name: Generate checksums
+        working-directory: dist
+        run: |
+          for f in *; do
+            [[ "$f" == *.sha512 ]] && continue
+            shasum -a 512 "$f" > "$f.sha512"
+          done
+
+      - name: Create/update GitHub release
+        uses: softprops/action-gh-release@a06a81a03ee405af7f2048a818ed3f03bbf83c7b # v2.5.0
+        with:
+          tag_name: ${{ needs.prep.outputs.tag }}
+          name: ${{ needs.prep.outputs.release_name }}
+          draft: ${{ needs.prep.outputs.draft }}
+          prerelease: ${{ needs.prep.outputs.prerelease }}
+          make_latest: ${{ needs.prep.outputs.draft == 'false' && needs.prep.outputs.prerelease == 'false' }}
+          body: ${{ needs.generate-changelog.outputs.release_body }}
+          files: |
+            dist/**
