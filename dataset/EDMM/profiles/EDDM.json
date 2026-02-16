@@ -8,168 +8,107 @@
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "SWA"
-            ],
+            "label": ["SWA"],
             "station_id": "EDMM-SWA"
           },
           {
-            "label": [
-              "WLD"
-            ],
+            "label": ["WLD"],
             "station_id": "EDMM-WLD"
           },
           {
-            "label": [
-              "NDG"
-            ],
+            "label": ["NDG"],
             "station_id": "EDMM-NDG"
           },
           {
-            "label": [
-              "FUE"
-            ],
+            "label": ["FUE"],
             "station_id": "EDMM-FUE"
           },
           {
-            "label": [
-              "EDDM",
-              "TWR-N"
-            ],
+            "label": ["EDDM", "TWR-N"],
             "station_id": "EDDM-TWR-N"
           },
           {
-            "label": [
-              "EDDM",
-              "DEL"
-            ],
+            "label": ["EDDM", "DEL"],
             "station_id": "EDDM-DEL"
           },
           {
-            "label": [
-              "ALB"
-            ],
+            "label": ["ALB"],
             "station_id": "EDMM-ALB"
           },
           {
-            "label": [
-              "DMNH"
-            ],
+            "label": ["DMNH"],
             "station_id": "EDMM-DMNH"
           },
           {
-            "label": [
-              "DMSH"
-            ],
+            "label": ["DMSH"],
             "station_id": "EDMM-DMSH"
           },
           {
-            "label": [
-              "STA"
-            ],
+            "label": ["STA"],
             "station_id": "EDMM-STA"
           },
           {
-            "label": [
-              "EDDM",
-              "GND-N"
-            ],
+            "label": ["EDDM", "GND-N"],
             "station_id": "EDDM-GND-N"
           },
           {
-            "label": [
-              "EDDM",
-              "APN 1"
-            ],
+            "label": ["EDDM", "APN 1"],
             "station_id": "EDDM-APN-1"
           },
           {
-            "label": [
-              "RDG"
-            ],
+            "label": ["RDG"],
             "station_id": "EDMM-RDG"
           },
           {
-            "label": [
-              "DMNL"
-            ],
+            "label": ["DMNL"],
             "station_id": "EDMM-DMNL"
           },
           {
-            "label": [
-              "DMSL"
-            ],
+            "label": ["DMSL"],
             "station_id": "EDMM-DMSL"
           },
           {
-            "label": [
-              "TEG"
-            ],
+            "label": ["TEG"],
             "station_id": "EDMM-TEG"
           },
           {
-            "label": [
-              "EDDM",
-              "TWR-S"
-            ],
+            "label": ["EDDM", "TWR-S"],
             "station_id": "EDDM-TWR-S"
           },
           {
-            "label": [
-              "EDDM",
-              "APN 2"
-            ],
+            "label": ["EDDM", "APN 2"],
             "station_id": "EDDM-APN-2"
           },
           {
-            "label": [
-              "EGG"
-            ],
+            "label": ["EGG"],
             "station_id": "EDMM-EGG"
           },
           {
-            "label": [
-              "DMNAT"
-            ],
+            "label": ["DMNAT"],
             "station_id": "EDMM-DMND"
           },
           {
-            "label": [
-              "DMSAT"
-            ],
+            "label": ["DMSAT"],
             "station_id": "EDMM-DMSD"
           },
           {
-            "label": [
-              "TRU"
-            ],
+            "label": ["TRU"],
             "station_id": "EDMM-TRU"
           },
           {
-            "label": [
-              "EDDM",
-              "GND-S"
-            ],
+            "label": ["EDDM", "GND-S"],
             "station_id": "EDDM-GND-S"
           },
           {
-            "label": [
-              "EDDM",
-              "APN 3"
-            ],
+            "label": ["EDDM", "APN 3"],
             "station_id": "EDDM-APN-3"
           },
           {
-            "label": [
-              "DMAG"
-            ],
+            "label": ["DMAG"],
             "station_id": "EDMM-DMAG"
           },
           {
-            "label": [
-              "EDDM",
-              "APP-FB"
-            ],
+            "label": ["EDDM", "APP-FB"],
             "station_id": "EDMM-DMFB"
           },
           {
@@ -185,24 +124,15 @@
             "label": []
           },
           {
-            "label": [
-              "EDMA",
-              "TWR"
-            ],
+            "label": ["EDMA", "TWR"],
             "station_id": "EDMA-TWR"
           },
           {
-            "label": [
-              "EDMO",
-              "TWR"
-            ],
+            "label": ["EDMO", "TWR"],
             "station_id": "EDMO-TWR"
           },
           {
-            "label": [
-              "ETSN",
-              "TWR"
-            ]
+            "label": ["ETSN", "TWR"]
           },
           {
             "label": []
@@ -214,10 +144,7 @@
             "label": []
           },
           {
-            "label": [
-              "GG",
-              "GGCIDO"
-            ]
+            "label": ["GG", "GGCIDO"]
           },
           {
             "label": []
@@ -229,24 +156,15 @@
             "label": []
           },
           {
-            "label": [
-              "LOVV",
-              "B 125+"
-            ],
+            "label": ["LOVV", "B 125+"],
             "station_id": "LOVV_B1"
           },
           {
-            "label": [
-              "LOWS",
-              "APP"
-            ],
+            "label": ["LOWS", "APP"],
             "station_id": "LOWS_APP"
           },
           {
-            "label": [
-              "EDMM",
-              "FMP"
-            ],
+            "label": ["EDMM", "FMP"],
             "station_id": "EDMM-FMP"
           },
           {
@@ -259,17 +177,11 @@
             "label": []
           },
           {
-            "label": [
-              "LOWL",
-              "APP"
-            ],
+            "label": ["LOWL", "APP"],
             "station_id": "LOWL_APP"
           },
           {
-            "label": [
-              "LOWI",
-              "APP"
-            ],
+            "label": ["LOWI", "APP"],
             "station_id": "LOWI_APP"
           }
         ]
