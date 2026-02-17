@@ -1,0 +1,557 @@
+[[stations]]
+id = "EDMM-FMP"
+controlled_by = ["EDMM_FMP"]
+
+[[stations]]
+id = "EDMM-ALB"
+controlled_by = [
+  "EDMM_ALB_CTR",
+  "EDMM_WLD_CTR",
+  "EDMM_RDG_CTR",
+  "EDMM_EGG_CTR",
+  "EDMM_ZUG_CTR",
+]
+
+[[stations]]
+id = "EDMM-BBG"
+controlled_by = ["EDMM_BBG_CTR", "EDMM_HOF_CTR", "EDMM_RDG_CTR"]
+
+[[stations]]
+id = "EDMM-EGG"
+controlled_by = [
+  "EDMM_EGG_CTR",
+  "EDMM_RDG_CTR",
+  "EDMM_RDG_CTR",
+  "EDMM_WLD_CTR",
+  "EDMM_ZUG_CTR",
+]
+
+[[stations]]
+id = "EDMM-FUE"
+controlled_by = [
+  "EDMM_FUE_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_STA_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-GER"
+controlled_by = ["EDMM_GER_CTR", "EDMM_HAL_CTR", "EDMM_MEI_CTR", "EDMM_HOF_CTR"]
+
+[[stations]]
+id = "EDMM-HAL"
+controlled_by = ["EDMM_HAL_CTR", "EDMM_GER_CTR", "EDMM_MEI_CTR", "EDMM_HOF_CTR"]
+
+[[stations]]
+id = "EDMM-HOF"
+controlled_by = ["EDMM_HOF_CTR", "EDMM_BBG_CTR", "EDMM_RDG_CTR"]
+
+[[stations]]
+id = "EDMM-MEI"
+controlled_by = ["EDMM_MEI_CTR", "EDMM_GER_CTR", "EDMM_HOF_CTR", "EDMM_HAL_CTR"]
+
+[[stations]]
+id = "EDMM-NDG"
+controlled_by = [
+  "EDMM_NDG_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_WLD_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-RDG"
+controlled_by = [
+  "EDMM_RDG_CTR",
+  "EDMM_EGG_CTR",
+  "EDMM_ALB_CTR",
+  "EDMM_WLD_CTR",
+  "EDMM_ZUG_CTR",
+]
+
+[[stations]]
+id = "EDMM-STA"
+controlled_by = [
+  "EDMM_STA_CTR",
+  "EDMM_FUE_CTR",
+  "EDMM_TEG_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-TEG"
+controlled_by = [
+  "EDMM_TEG_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_STA_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-TRU"
+controlled_by = [
+  "EDMM_TRU_CTR",
+  "EDMM_TEG_CTR",
+  "EDMM_STA_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-WLD"
+controlled_by = [
+  "EDMM_WLD_CTR",
+  "EDMM_NDG_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-ZUG"
+controlled_by = [
+  "EDMM_ZUG_CTR",
+  "EDMM_FUE_CTR",
+  "EDMM_STA_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_RDG_CTR",
+]
+
+# EDUU
+[[stations]]
+id = "EDUU-ALP"
+controlled_by = [
+  "EDUU_ALP_CTR",
+  "EDUU_ISA_CTR",
+  "EDUU_CHI_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_FUE_CTR",
+  "EDMM_STA_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDUU-CHI"
+controlled_by = [
+  "EDUU_CHI_CTR",
+  "EDUU_ISA_CTR",
+  "EDUU_ALP_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_STA_CTR",
+  "EDMM_TEG_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDUU-DON"
+controlled_by = [
+  "EDUU_DON_CTR",
+  "EDUU_ERL_CTR",
+  "EDUU_CHI_CTR",
+  "EDMM_RDG_CTR",
+  "EDMM_EGG_CTR",
+  "EDMM_ALB_CTR",
+  "EDMM_WLD_CTR",
+  "EDMM_ZUG_CTR",
+]
+
+[[stations]]
+id = "EDUU-ERL"
+controlled_by = [
+  "EDUU_ERL_CTR",
+  "EDUU_SAL_CTR",
+  "EDMM_BBG_CTR",
+  "EDMM_HOF_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDUU-ISA"
+controlled_by = [
+  "EDUU_ISA_CTR",
+  "EDUU_CHI_CTR",
+  "EDMM_NDG_CTR",
+  "EDMM_WLD_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDUU-SAL"
+controlled_by = [
+  "EDUU_SAL_CTR",
+  "EDUU_SPE_CTR",
+  #    "EDUU_H12_CTR",
+  "EDMM_GER_CTR",
+  "EDMM_MEI_CTR",
+  "EDMM_HOF_CTR",
+  "EDMM_HAL_CTR",
+]
+
+[[stations]]
+id = "EDUU-SPE"
+controlled_by = [
+  "EDUU_SPE_CTR",
+  "EDUU_SAL_CTR",
+  #    "EDUU_H12_CTR",
+  "EDMM_MEI_CTR",
+  "EDMM_GER_CTR",
+  "EDMM_HOF_CTR",
+  "EDMM_HAL_CTR",
+]
+
+# Approaches
+[[stations]]
+id = "EDMM-DMNH"
+controlled_by = [
+  "EDDM_NH_APP",
+  "EDDM_NL_APP",
+  "EDDM_SH_APP",
+  "EDDM_SL_APP",
+  "EDDM_ND_APP",
+  "EDDM_SD_APP",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-DMNL"
+controlled_by = [
+  "EDDM_NL_APP",
+  "EDDM_NH_APP",
+  "EDDM_SH_APP",
+  "EDDM_SL_APP",
+  "EDDM_ND_APP",
+  "EDDM_SD_APP",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-DMND"
+controlled_by = [
+  "EDDM_ND_APP",
+  "EDDM_NL_APP",
+  "EDDM_NH_APP",
+  "EDDM_SH_APP",
+  "EDDM_SL_APP",
+  "EDDM_SD_APP",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-DMSH"
+controlled_by = [
+  "EDDM_SH_APP",
+  "EDDM_SL_APP",
+  "EDDM_NL_APP",
+  "EDDM_NH_APP",
+  "EDDM_SD_APP",
+  "EDDM_ND_APP",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-DMSL"
+controlled_by = [
+  "EDDM_SL_APP",
+  "EDDM_SH_APP",
+  "EDDM_NL_APP",
+  "EDDM_NH_APP",
+  "EDDM_SD_APP",
+  "EDDM_ND_APP",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-DMSD"
+controlled_by = [
+  "EDDM_SD_APP",
+  "EDDM_ND_APP",
+  "EDDM_SL_APP",
+  "EDDM_SH_APP",
+  "EDDM_NL_APP",
+  "EDDM_NH_APP",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-DMAG"
+controlled_by = [
+  "EDDM_NL_APP",
+  "EDDM_NH_APP",
+  "EDDM_SH_APP",
+  "EDDM_SL_APP",
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-DMFB"
+controlled_by = ["EDDM_FB_APP"]
+
+[[stations]]
+id = "EDMM-TRN"
+controlled_by = [
+  "EDDP_TRN_APP",
+  "EDDP_TRS_APP",
+  "EDMM_GER_CTR",
+  "EDMM_HAL_CTR",
+  "EDMM_MEI_CTR",
+  "EDMM_HOF_CTR",
+]
+
+[[stations]]
+id = "EDMM-DPND"
+controlled_by = [
+  "EDDP_ND_APP",
+  "EDDP_TRN_APP",
+  "EDDP_TRS_APP",
+  "EDMM_GER_CTR",
+  "EDMM_HAL_CTR",
+  "EDMM_MEI_CTR",
+  "EDMM_HOF_CTR",
+]
+
+[[stations]]
+id = "EDMM-TRS"
+controlled_by = [
+  "EDDP_TRS_APP",
+  "EDDP_TRN_APP",
+  "EDMM_GER_CTR",
+  "EDMM_HAL_CTR",
+  "EDMM_MEI_CTR",
+  "EDMM_HOF_CTR",
+]
+
+[[stations]]
+id = "EDMM-DPSD"
+controlled_by = [
+  "EDDP_SD_APP",
+  "EDDP_TRS_APP",
+  "EDDP_TRN_APP",
+  "EDMM_GER_CTR",
+  "EDMM_HAL_CTR",
+  "EDMM_MEI_CTR",
+  "EDMM_HOF_CTR",
+]
+
+[[stations]]
+id = "EDMM-FRK"
+controlled_by = ["EDDN_FRK_APP", "EDMM_BBG_CTR", "EDMM_HOF_CTR", "EDMM_RDG_CTR"]
+
+[[stations]]
+id = "EDMM-DND"
+controlled_by = [
+  "EDDN_D_APP",
+  "EDDN_FRK_APP",
+  "EDMM_BBG_CTR",
+  "EDMM_HOF_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-SAS"
+controlled_by = [
+  "EDDC_SAS_APP",
+  "EDMM_MEI_CTR",
+  "EDDP_TRS_APP",
+  "EDMM_GER_CTR",
+  "EDMM_HOF_CTR",
+  "EDMM_HAL_CTR",
+]
+
+[[stations]]
+id = "EDMM-SWA"
+controlled_by = [
+  "EDMM_SWA_APP",
+  "EDMM_NDG_CTR",
+  "EDMM_WLD_CTR",
+  "EDMM_ALB_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "EDMM-ILR"
+controlled_by = [
+  "EDJA_ILR_APP",
+  "EDMM_SWA_APP",
+  "EDMM_FUE_CTR",
+  "EDMM_ZUG_CTR",
+  "EDMM_STA_CTR",
+  "EDMM_TRU_CTR",
+  "EDMM_RDG_CTR",
+]
+
+[[stations]]
+id = "LSFA-ARFA"
+controlled_by = [
+  # LSZH_APP, LSAS_CTR sadly not on vacs
+  "EDMM_ZUG_CTR",
+  "EDMM_RDG_CTR",
+]
+
+# TWR/GND EDDM
+[[stations]]
+id = "EDDM-TWR-N"
+controlled_by = ["EDDM_N_TWR", "EDDM_S_TWR"]
+parent_id = "EDMM-DMNL"
+
+[[stations]]
+id = "EDDM-TWR-S"
+controlled_by = ["EDDM_S_TWR", "EDDM_N_TWR"]
+parent_id = "EDMM-DMSL"
+
+[[stations]]
+id = "EDDM-GND-N"
+controlled_by = ["EDDM_N_GND"]
+parent_id = "EDDM-TWR-N"
+
+[[stations]]
+id = "EDDM-GND-S"
+controlled_by = ["EDDM_S_GND"]
+parent_id = "EDDM-TWR-S"
+
+[[stations]]
+id = "EDDM-ICE"
+controlled_by = ["EDDM_I_GND"]
+parent_id = "EDDM-TWR-N"
+
+[[stations]]
+id = "EDDM-APN-1"
+controlled_by = ["EDDM_1_GND", "EDDM_2_GND", "EDDM_3_GND"]
+parent_id = "EDDM-TWR-N"
+
+[[stations]]
+id = "EDDM-APN-2"
+controlled_by = ["EDDM_2_GND", "EDDM_3_GND", "EDDM_1_GND"]
+parent_id = "EDDM-TWR-N"
+
+[[stations]]
+id = "EDDM-APN-3"
+controlled_by = ["EDDM_3_GND", "EDDM_2_GND", "EDDM_1_GND"]
+parent_id = "EDDM-TWR-N"
+
+[[stations]]
+id = "EDDM-DEL"
+controlled_by = ["EDDM_DEL"]
+parent_id = "EDDM-APN-2"
+
+# TWR/GND EDDP
+[[stations]]
+id = "EDDP-TWR-N"
+controlled_by = ["EDDP_N_TWR", "EDDP_S_TWR"]
+parent_id = "EDMM-TRN"
+
+[[stations]]
+id = "EDDP-TWR-S"
+controlled_by = ["EDDP_S_TWR", "EDDP_N_TWR"]
+parent_id = "EDMM-TRS"
+
+[[stations]]
+id = "EDDP-GND"
+controlled_by = ["EDDP_GND"]
+parent_id = "EDDP-TWR-S"
+
+[[stations]]
+id = "EDDP-DEL"
+controlled_by = ["EDDP_DEL"]
+parent_id = "EDDP-GND"
+
+# TWR/GND EDDN
+[[stations]]
+id = "EDDN-TWR"
+controlled_by = ["EDDN_TWR"]
+parent_id = "EDMM-FRK"
+
+[[stations]]
+id = "EDDN-GND"
+controlled_by = ["EDDN_GND"]
+parent_id = "EDDN-TWR"
+
+# TWR/GND EDDC
+[[stations]]
+id = "EDDC-TWR"
+controlled_by = ["EDDC_TWR"]
+parent_id = "EDMM-SAS"
+
+[[stations]]
+id = "EDDC-GND"
+controlled_by = ["EDDP_GND"]
+parent_id = "EDDC-TWR"
+
+[[stations]]
+id = "EDDC-APN"
+controlled_by = ["EDDC_A_GND"]
+parent_id = "EDDC-GND"
+
+# TWR/GND EDDE
+[[stations]]
+id = "EDDE-TWR"
+controlled_by = ["EDDE_TWR"]
+parent_id = "EDMM-TRS"
+
+[[stations]]
+id = "EDDE-GND"
+controlled_by = ["EDDP_GND"]
+parent_id = "EDDE-TWR"
+
+[[stations]]
+id = "EDDE-APN"
+controlled_by = ["EDDE_A_GND"]
+parent_id = "EDDE-GND"
+
+# TWR/GND EDJA
+[[stations]]
+id = "EDJA-TWR"
+controlled_by = ["EDJA_TWR"]
+parent_id = "EDMM-ILR"
+
+[[stations]]
+id = "EDJA-GND"
+controlled_by = ["EDJA_GND"]
+parent_id = "EDJA-TWR"
+
+# TWR EDMA
+[[stations]]
+id = "EDMA-TWR"
+controlled_by = ["EDMA_TWR"]
+parent_id = "EDMM-DMAG"
+
+# TWR EDMO
+[[stations]]
+id = "EDMO-TWR"
+controlled_by = ["EDMO_TWR"]
+parent_id = "EDMM-DMSL"
+
+# TWR EDQM
+[[stations]]
+id = "EDQM-TWR"
+controlled_by = ["EDQM_TWR"]
+parent_id = "EDMM-FRK"
+
+# TWR ARFA
+[[stations]]
+id = "EDNY-TWR"
+controlled_by = ["EDNY_TWR"]
+parent_id = "LSFA-ARFA"
+
+[[stations]]
+id = "LSZR-TWR"
+controlled_by = ["LSZR_TWR"]
+parent_id = "LSFA-ARFA"
