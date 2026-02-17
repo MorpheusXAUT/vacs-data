@@ -872,7 +872,7 @@
     {
         "label": ["S/SH", "(SA)"],
         "page": {
-            "rows": 6,
+            "rows": 7,
             "keys": [
                 {
                     "label": [
@@ -892,6 +892,12 @@
                         "MAN"
                     ],
                     "station_id": "EDGG-MAN"
+                },
+                {
+                    "label": [
+                        "KTG"
+                    ],
+                    "station_id": "EDGG-KTG"
                 },
                 {
                     "label": [
@@ -978,6 +984,12 @@
                 },
                 {
                     "label": [
+                        "KNG"
+                    ],
+                    "station_id": "EDGG-KNG"
+                },
+                {
+                    "label": [
                         ""
                     ]
                 },
@@ -1013,6 +1025,12 @@
                         "BAD"
                     ],
                     "station_id": "EDGG-BAD"
+                },
+                {
+                    "label": [
+                        "DKB"
+                    ],
+                    "station_id": "EDGG-DKB"
                 },
                 {
                     "label": [
@@ -1052,6 +1070,12 @@
                 },
                 {
                     "label": [
+                        "LBU"
+                    ],
+                    "station_id": "EDGG-LBU"
+                },
+                {
+                    "label": [
                         "NKRL"
                     ],
                     "station_id": "EDGG-NKRL"
@@ -1081,9 +1105,17 @@
                 },
                 {
                     "label": [
-                        "KTG"
+                        "EDGG",
+                        "KIR"
                     ],
-                    "station_id": "EDGG-KTG"
+                    "station_id": "EDGG-KIR"
+                },
+                {
+                    "label": [
+                        "EDGG",
+                        "PFA"
+                    ],
+                    "station_id": "EDGG-PFA"
                 },
                 {
                     "label": [
@@ -1251,9 +1283,17 @@
                 },
                 {
                     "label": [
-                        "KNG"
+                        "EDGG",
+                        "TAU"
                     ],
-                    "station_id": "EDGG-KNG"
+                    "station_id": "EDGG-TAU"
+                },
+                {
+                    "label": [
+                        "EDGG",
+                        "SIG"
+                    ],
+                    "station_id": "EDGG-SIG"
                 },
                 {
                     "label": [
@@ -1286,9 +1326,17 @@
                 },
                 {
                     "label": [
-                        "DKB"
+                        "EDGG",
+                        "GIN"
                     ],
-                    "station_id": "EDGG-DKB"
+                    "station_id": "EDGG-GIN"
+                },
+                {
+                    "label": [
+                        "EDGG",
+                        "HEF"
+                    ],
+                    "station_id": "EDGG-HEF"
                 },
                 {
                     "label": [
@@ -1320,9 +1368,15 @@
                 },
                 {
                     "label": [
-                        "LBU"
+                        "EDGG",
+                        "GED"
                     ],
-                    "station_id": "EDGG-LBU"
+                    "station_id": "EDGG-GED"
+                },
+                {
+                    "label": [
+                        ""
+                    ]
                 },
                 {
                     "label": [
