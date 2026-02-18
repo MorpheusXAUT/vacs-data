@@ -1,0 +1,325 @@
+{
+  "id": "EYVL",
+  "type": "Geo",
+  "direction": "row",
+  "align_items": "center",
+  "padding": 0.5,
+  "gap": 1.5,
+  "justify_content": "space-between",
+  "children": [
+    {
+      "direction": "col",
+      "height": "100%",
+      "justify_content": "center",
+      "gap": 0.75,
+      "children": [
+        {
+          "label": ["ESSA"],
+          "size": 6.25,
+          "page": {
+            "keys": [
+              {
+                "label": ["365-660", "CTR"]
+              },
+              {
+                "label": ["95-365", "CTR"]
+              }
+            ],
+            "rows": 4
+          }
+        }
+      ]
+    },
+    {
+      "direction": "col",
+      "height": "100%",
+      "width": "100%",
+      "justify_content": "space-between",
+      "gap": 0.75,
+      "children": [
+        {
+          "direction": "row",
+          "justify_content": "center",
+          "children": [
+            {
+              "label": ["EVRR", "RA"],
+              "size": 6.25,
+              "page": {
+                "keys": [
+                  {
+                    "label": ["95-660", "S", "CTR"]
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["95-660", "E", "CTR"]
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["EVRA", "APP"]
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  }
+                ],
+                "rows": 4
+              }
+            }
+          ]
+        },
+        {
+          "direction": "col",
+          "align_items": "center",
+          "gap": 0.25,
+          "children": [
+            {
+              "direction": "row",
+              "gap": 0.5,
+              "children": [
+                {
+                  "label": ["WEST", "PA/SA"],
+                  "size": 10,
+                  "page": {
+                    "keys": [
+                      {
+                        "label": ["EYVL", "E", "CTR"],
+                        "station_id": "EYVL-L"
+                      },
+                      {
+                        "label": ["EYVL", "U", "CTR"],
+                        "station_id": "EYVL-U"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["EYPA", "APP"],
+                        "station_id": "EYPA_APP"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["EYSA", "APP"],
+                        "station_id": "EYSA_APP"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      }
+                    ],
+                    "rows": 6
+                  }
+                },
+                {
+                  "label": ["WEST", "VI/KA"],
+                  "size": 10,
+                  "page": {
+                    "keys": [
+                      {
+                        "label": ["EYVL", "W", "CTR"],
+                        "station_id": "EYVL-L"
+                      },
+                      {
+                        "label": ["EYVL", "U", "CTR"],
+                        "station_id": "EYVL-U"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["EYVI", "APP"],
+                        "station_id": "EYVI_APP"
+                      },
+                      {
+                        "label": ["EYVI", "TWR"],
+                        "station_id": "EYVI_TWR"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["EYKA", "APP"],
+                        "station_id": "EYKA_APP"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      }
+                    ],
+                    "rows": 6
+                  }
+                },
+                {
+                  "label": ["FIS"],
+                  "size": 10,
+                  "page": {
+                    "keys": [
+                      {
+                        "label": ["EYVL", "FIS"]
+                      },
+                      {
+                        "label": ["EYPA", "FIS"],
+                        "station_id": "EYPA_I_APP"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["EYKA", "FIS"],
+                        "station_id": "EYKA_I_APP"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["EYVI", "FIS"],
+                        "station_id": "EYVI_I_APP"
+                      },
+                      {
+                        "label": ["EVRR", "FIS"]
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["UMMV", "FIS"]
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["EPWW", "FIS"]
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["ESAA", "FIS"]
+                      },
+                      {
+                        "label": []
+                      }
+                    ],
+                    "rows": 2
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "direction": "row",
+          "justify_content": "center",
+          "padding_left": 3,
+          "padding_right": 3,
+          "children": [
+            {
+              "label": ["EPWW"],
+              "size": 6.25,
+              "page": {
+                "keys": [
+                  {
+                    "label": ["95-660", "CTR"]
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  }
+                ],
+                "rows": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "direction": "row",
+      "height": "100%",
+      "gap": 1,
+      "children": [
+        {
+          "direction": "col",
+          "height": "100%",
+          "justify_content": "center",
+          "gap": 0.75,
+          "children": [
+            {
+              "label": ["UMMV"],
+              "size": 6.25,
+              "page": {
+                "keys": [
+                  {
+                    "label": ["GND-660", "CTR"]
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  }
+                ],
+                "rows": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

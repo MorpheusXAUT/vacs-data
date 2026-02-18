@@ -1,0 +1,488 @@
+[[positions]]
+id = "EDMM_FMP"
+prefixes = ["EDMM"]
+frequency = "199.998"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-NORTH"
+
+# EDMM CTR
+[[positions]]
+id = "EDMM_ALB_CTR"
+prefixes = ["EDMM"]
+frequency = "129.100"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-NORTH"
+
+[[positions]]
+id = "EDMM_BBG_CTR"
+prefixes = ["EDMM"]
+frequency = "133.615"
+facility_type = "CTR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDMM_EGG_CTR"
+prefixes = ["EDMM"]
+frequency = "129.555"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-NORTH"
+
+[[positions]]
+id = "EDMM_FUE_CTR"
+prefixes = ["EDMM"]
+frequency = "133.550"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDMM_GER_CTR"
+prefixes = ["EDMM"]
+frequency = "133.230"
+facility_type = "CTR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDMM_HAL_CTR"
+prefixes = ["EDMM"]
+frequency = "118.235"
+facility_type = "CTR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDMM_HOF_CTR"
+prefixes = ["EDMM"]
+frequency = "133.565"
+facility_type = "CTR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDMM_MEI_CTR"
+prefixes = ["EDMM"]
+frequency = "124.960"
+facility_type = "CTR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDMM_NDG_CTR"
+prefixes = ["EDMM"]
+frequency = "125.140"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-NORTH"
+
+[[positions]]
+id = "EDMM_RDG_CTR"
+prefixes = ["EDMM"]
+frequency = "132.555"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-NORTH"
+
+[[positions]]
+id = "EDMM_STA_CTR"
+prefixes = ["EDMM"]
+frequency = "132.455"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDMM_TEG_CTR"
+prefixes = ["EDMM"]
+frequency = "133.680"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDMM_TRU_CTR"
+prefixes = ["EDMM"]
+frequency = "132.635"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDMM_WLD_CTR"
+prefixes = ["EDMM"]
+frequency = "136.230"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-NORTH"
+
+[[positions]]
+id = "EDMM_ZUG_CTR"
+prefixes = ["EDMM"]
+frequency = "134.150"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-SOUTH"
+
+# EDUU CTR
+[[positions]]
+id = "EDUU_ALP_CTR"
+prefixes = ["EDUU"]
+frequency = "133.755"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDUU_CHI_CTR"
+prefixes = ["EDUU"]
+frequency = "123.390"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDUU_DON_CTR"
+prefixes = ["EDUU"]
+frequency = "127.290"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-NORTH"
+
+[[positions]]
+id = "EDUU_ERL_CTR"
+prefixes = ["EDUU"]
+frequency = "136.405"
+facility_type = "CTR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDUU_ISA_CTR"
+prefixes = ["EDUU"]
+frequency = "136.335"
+facility_type = "CTR"
+profile_id = "EDMM-WEST-NORTH"
+
+[[positions]]
+id = "EDUU_SAL_CTR"
+prefixes = ["EDUU"]
+frequency = "133.860"
+facility_type = "CTR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDUU_SPE_CTR"
+prefixes = ["EDUU"]
+frequency = "133.285"
+facility_type = "CTR"
+profile_id = "EDMM-EAST"
+
+# EDDM APP
+[[positions]]
+id = "EDDM_ND_APP"
+prefixes = ["EDDM"]
+frequency = "118.830"
+facility_type = "APP"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_NH_APP"
+prefixes = ["EDDM"]
+frequency = "128.030"
+facility_type = "APP"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_NL_APP"
+prefixes = ["EDDM"]
+frequency = "123.905"
+facility_type = "APP"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_SD_APP"
+prefixes = ["EDDM"]
+frequency = "132.305"
+facility_type = "APP"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_SH_APP"
+prefixes = ["EDDM"]
+frequency = "120.780"
+facility_type = "APP"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_SL_APP"
+prefixes = ["EDDM"]
+frequency = "127.955"
+facility_type = "APP"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_FB_APP"
+prefixes = ["EDDM"]
+frequency = "131.230"
+facility_type = "APP"
+profile_id = "EDDM"
+
+# EDDN APP
+[[positions]]
+id = "EDDN_FRK_APP"
+prefixes = ["EDDN"]
+frequency = "129.525"
+facility_type = "APP"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDN_D_APP"
+prefixes = ["EDDN"]
+frequency = "119.475"
+facility_type = "APP"
+profile_id = "EDMM-EAST"
+
+# EDDP APP
+[[positions]]
+id = "EDDP_TRN_APP"
+prefixes = ["EDDP"]
+frequency = "126.065"
+facility_type = "APP"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDP_TRS_APP"
+prefixes = ["EDDP"]
+frequency = "126.175"
+facility_type = "APP"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDP_ND_APP"
+prefixes = ["EDDP"]
+frequency = "120.840"
+facility_type = "APP"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDP_SD_APP"
+prefixes = ["EDDP"]
+frequency = "129.765"
+facility_type = "APP"
+profile_id = "EDMM-EAST"
+
+# EDDC APP
+[[positions]]
+id = "EDDC_SAS_APP"
+prefixes = ["EDDC"]
+frequency = "125.875"
+facility_type = "APP"
+profile_id = "EDMM-EAST"
+
+# OTHER APP
+[[positions]]
+id = "EDJA_ILR_APP"
+prefixes = ["EDJA"]
+frequency = "129.450"
+facility_type = "APP"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDMM_SWA_APP"
+prefixes = ["EDMM"]
+frequency = "136.525"
+facility_type = "APP"
+profile_id = "EDMM-WEST-NORTH"
+
+[[positions]]
+id = "EDMA_APP"
+prefixes = ["EDMA"]
+frequency = "128.255"
+facility_type = "APP"
+profile_id = "EDMM-WEST-NORTH"
+
+# EDDM TWR/GND
+[[positions]]
+id = "EDDM_N_TWR"
+prefixes = ["EDDM"]
+frequency = "118.705"
+facility_type = "TWR"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_S_TWR"
+prefixes = ["EDDM"]
+frequency = "120.505"
+facility_type = "TWR"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_1_GND"
+prefixes = ["EDDM"]
+frequency = "121.780"
+facility_type = "GND"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_2_GND"
+prefixes = ["EDDM"]
+frequency = "121.710"
+facility_type = "GND"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_3_GND"
+prefixes = ["EDDM"]
+frequency = "121.930"
+facility_type = "GND"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_I_GND"
+prefixes = ["EDDM"]
+frequency = "121.990"
+facility_type = "GND"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_N_GND"
+prefixes = ["EDDM"]
+frequency = "121.980"
+facility_type = "GND"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_S_GND"
+prefixes = ["EDDM"]
+frequency = "121.830"
+facility_type = "GND"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDDM_DEL"
+prefixes = ["EDDM"]
+frequency = "121.730"
+facility_type = "DEL"
+profile_id = "EDDM"
+
+# EDDP TWR/GND
+[[positions]]
+id = "EDDP_N_TWR"
+prefixes = ["EDDP"]
+frequency = "125.955"
+facility_type = "TWR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDP_S_TWR"
+prefixes = ["EDDP"]
+frequency = "121.105"
+facility_type = "TWR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDP_GND"
+prefixes = ["EDDP"]
+frequency = "121.805"
+facility_type = "GND"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDP_DEL"
+prefixes = ["EDDP"]
+frequency = "121.680"
+facility_type = "DEL"
+profile_id = "EDMM-EAST"
+
+# EDDN TWR/GND
+[[positions]]
+id = "EDDN_TWR"
+prefixes = ["EDDN"]
+frequency = "118.305"
+facility_type = "TWR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDN_GND"
+prefixes = ["EDDN"]
+frequency = "121.760"
+facility_type = "GND"
+profile_id = "EDMM-EAST"
+
+# EBG WEST TWR/GND
+[[positions]]
+id = "EDJA_TWR"
+prefixes = ["EDJA"]
+frequency = "126.855"
+facility_type = "TWR"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDJA_GND"
+prefixes = ["EDJA"]
+frequency = "121.680"
+facility_type = "GND"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "EDMA_TWR"
+prefixes = ["EDMA"]
+frequency = "124.980"
+facility_type = "TWR"
+profile_id = "EDDM"
+
+[[positions]]
+id = "EDMO_TWR"
+prefixes = ["EDMO"]
+frequency = "119.555"
+facility_type = "TWR"
+profile_id = "EDDM"
+
+# EBG EAST TWR/GND
+[[positions]]
+id = "EDDC_TWR"
+prefixes = ["EDDC"]
+frequency = "122.930"
+facility_type = "TWR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDC_A_GND"
+prefixes = ["EDDC"]
+frequency = "121.755"
+facility_type = "GND"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDC_GND"
+prefixes = ["EDDC"]
+frequency = "121.980"
+facility_type = "GND"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDE_TWR"
+prefixes = ["EDDE"]
+frequency = "121.155"
+facility_type = "TWR"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDE_A_GND"
+prefixes = ["EDDE"]
+frequency = "121.905"
+facility_type = "GND"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDDE_GND"
+prefixes = ["EDDE"]
+frequency = "121.755"
+facility_type = "GND"
+profile_id = "EDMM-EAST"
+
+[[positions]]
+id = "EDQM_TWR"
+prefixes = ["EDQM"]
+frequency = "124.355"
+facility_type = "TWR"
+profile_id = "EDMM-EAST"
+
+# ARFA
+[[positions]]
+id = "EDNY_TWR"
+prefixes = ["EDNY"]
+frequency = "120.080"
+facility_type = "TWR"
+profile_id = "EDMM-WEST-SOUTH"
+
+[[positions]]
+id = "LSZR_TWR"
+prefixes = ["LSZR"]
+frequency = "135.430"
+facility_type = "TWR"
+profile_id = "EDMM-WEST-SOUTH"

@@ -1,0 +1,208 @@
+{
+  "positions": [
+    {
+      "id": "WSSS_DEL",
+      "prefixes": ["WSSS"],
+      "frequency": "121.650",
+      "facility_type": "DEL"
+    },
+    {
+      "id": "WSSS_2_DEL",
+      "prefixes": ["WSSS"],
+      "frequency": "119.600",
+      "facility_type": "DEL"
+    },
+    {
+      "id": "WSSS_1_GND",
+      "prefixes": ["WSSS"],
+      "frequency": "121.850",
+      "facility_type": "DEL"
+    },
+    {
+      "id": "WSSS_2_GND",
+      "prefixes": ["WSSS"],
+      "frequency": "121.725",
+      "facility_type": "GND"
+    },
+    {
+      "id": "WSSS_3_GND",
+      "prefixes": ["WSSS"],
+      "frequency": "124.300",
+      "facility_type": "GND"
+    },
+    {
+      "id": "WSSS_4_GND",
+      "prefixes": ["WSSS"],
+      "frequency": "122.550",
+      "facility_type": "GND"
+    },
+    {
+      "id": "WSSS_5_GND",
+      "prefixes": ["WSSS"],
+      "frequency": "127.275",
+      "facility_type": "GND"
+    },
+    {
+      "id": "WSSS_G_GND",
+      "prefixes": ["WSSS"],
+      "frequency": "121.900",
+      "facility_type": "GND"
+    },
+    {
+      "id": "WSSL_GND",
+      "prefixes": ["WSSL"],
+      "frequency": "121.600",
+      "facility_type": "GND"
+    },
+    {
+      "id": "WSAP_GND",
+      "prefixes": ["WSAP"],
+      "frequency": "121.700",
+      "facility_type": "GND"
+    },
+    {
+      "id": "WIDD_GND",
+      "prefixes": ["WIDD"],
+      "frequency": "121.950",
+      "facility_type": "GND"
+    },
+    {
+      "id": "WSSS_1_TWR",
+      "prefixes": ["WSSS"],
+      "frequency": "118.600",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "WSSS_2_TWR",
+      "prefixes": ["WSSS"],
+      "frequency": "118.250",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "WSSS_3_TWR",
+      "prefixes": ["WSSS"],
+      "frequency": "131.400",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "WSSS_C_TWR",
+      "prefixes": ["WSSS"],
+      "frequency": "199.998",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "WSSL_TWR",
+      "prefixes": ["WSSL"],
+      "frequency": "118.450",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "WSAP_TWR",
+      "prefixes": ["WSAP"],
+      "frequency": "118.050",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "WIDD_TWR",
+      "prefixes": ["WIDD"],
+      "frequency": "118.700",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "WIDN_TWR",
+      "prefixes": ["WIDN"],
+      "frequency": "118.950",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "WSSS_APP",
+      "prefixes": ["WSSS"],
+      "frequency": "124.600",
+      "facility_type": "APP"
+    },
+    {
+      "id": "WSSS_N_APP",
+      "prefixes": ["WSSS"],
+      "frequency": "124.050",
+      "facility_type": "APP"
+    },
+    {
+      "id": "WSSS_F_APP",
+      "prefixes": ["WSSS"],
+      "frequency": "119.300",
+      "facility_type": "APP"
+    },
+    {
+      "id": "WSSS_DEP",
+      "prefixes": ["WSSS"],
+      "frequency": "120.300",
+      "facility_type": "DEP"
+    },
+    {
+      "id": "WSSS_C_APP",
+      "prefixes": ["WSSS"],
+      "frequency": "199.998",
+      "facility_type": "APP"
+    },
+    {
+      "id": "WSAP_APP",
+      "prefixes": ["WSAP"],
+      "frequency": "127.700",
+      "facility_type": "APP"
+    },
+    {
+      "id": "WIDN_APP",
+      "prefixes": ["WIDN"],
+      "frequency": "130.200",
+      "facility_type": "APP"
+    },
+    {
+      "id": "WSJC_1_CTR",
+      "prefixes": ["WSJC"],
+      "frequency": "134.400",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "WSJC_2_CTR",
+      "prefixes": ["WSJC"],
+      "frequency": "133.250",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "WSJC_3_CTR",
+      "prefixes": ["WSJC"],
+      "frequency": "133.800",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "WSJC_4_CTR",
+      "prefixes": ["WSJC"],
+      "frequency": "134.200",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "WSJC_5_CTR",
+      "prefixes": ["WSJC"],
+      "frequency": "133.600",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "WSJC_6_CTR",
+      "prefixes": ["WSJC"],
+      "frequency": "134.700",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "WSJC_7_CTR",
+      "prefixes": ["WSJC"],
+      "frequency": "123.700",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "WSJC_8_CTR",
+      "prefixes": ["WSJC"],
+      "frequency": "134.350",
+      "facility_type": "CTR"
+    }
+  ]
+}
