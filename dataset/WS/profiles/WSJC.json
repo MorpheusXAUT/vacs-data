@@ -94,7 +94,7 @@
             "label": [
               "GMC 4(E)"
             ],
-            "station_id": "WSSS_4_GND"
+            "station_id": "WSSS_4E_GND"
           },
           {
             "label": []
@@ -117,7 +117,7 @@
             "label": [
               "GMC 4(W)"
             ],
-            "station_id": "WSSS_4_GND"
+            "station_id": "WSSS_4W_GND"
           },
           {
             "label": []
@@ -218,8 +218,7 @@
           {
             "label": [
               "JHB APP"
-            ],
-            "station_id": "WMKJ_APP"
+            ]
           },
           {
             "label": [
@@ -245,8 +244,7 @@
           {
             "label": [
               "KUL APP"
-            ],
-            "station_id": "WMKK_APP"
+            ]
           },
           {
             "label": []
@@ -263,8 +261,7 @@
           {
             "label": [
               "KUA APP"
-            ],
-            "station_id": "WMKD_APP"
+            ]
           },
           {
             "label": [
@@ -311,8 +308,7 @@
           {
             "label": [
               "JHB RWC"
-            ],
-            "station_id": "WMKJ_TWR"
+            ]
           },
           {
             "label": []
@@ -395,15 +391,13 @@
             "label": [
               "WMFC",
               "SECT 2"
-            ],
-            "station_id": "WMFC_2_CTR"
+            ]
           },
           {
             "label": [
               "WIIF",
               "PKU"
-            ],
-            "station_id": "WIIF_PU_CTR"
+            ]
           },
           {
             "label": []
@@ -424,15 +418,13 @@
             "label": [
               "WMFC",
               "SECT 3"
-            ],
-            "station_id": "WMFC_3_CTR"
+            ]
           },
           {
             "label": [
               "WIIF",
               "PKP"
-            ],
-            "station_id": "WIIF_PP_CTR"
+            ]
           },
           {
             "label": []
@@ -440,8 +432,7 @@
           {
             "label": [
               "ASEA 2"
-            ],
-            "station_id": "ASEA_2_FSS"
+            ]
           },
           {
             "label": [
@@ -453,15 +444,13 @@
             "label": [
               "WMFC",
               "SECT 4"
-            ],
-            "station_id": "WMFC_4_CTR"
+            ]
           },
           {
             "label": [
               "WIIF",
               "TPG"
-            ],
-            "station_id": "WIIF_TG_CTR"
+            ]
           },
           {
             "label": []
@@ -479,15 +468,13 @@
             "label": [
               "VTBB",
               "SOUTH"
-            ],
-            "station_id": "VTBB_S_CTR"
+            ]
           },
           {
             "label": [
               "WIIF",
               "NTA"
-            ],
-            "station_id": "WIIF_NA_CTR"
+            ]
           },
           {
             "label": []
@@ -505,15 +492,13 @@
             "label": [
               "VVHM",
               "SECT 3"
-            ],
-            "station_id": "VVHM_3_CTR"
+            ]
           },
           {
             "label": [
               "WBGG",
               "CTR"
-            ],
-            "station_id": "WBGG_CTR"
+            ]
           },
           {
             "label": []
@@ -531,15 +516,13 @@
             "label": [
               "VVHM",
               "SECT 4"
-            ],
-            "station_id": "VVHM_4_CTR"
+            ]
           },
           {
             "label": [
               "WBFC",
               "SECT 1"
-            ],
-            "station_id": "WBFC_CTR"
+            ]
           },
           {
             "label": []
@@ -558,15 +541,13 @@
             "label": [
               "VVHM",
               "SECT 5"
-            ],
-            "station_id": "VVHM_5_CTR"
+            ]
           },
           {
             "label": [
               "WBFC",
               "SECT 2"
-            ],
-            "station_id": "WBFC_2_CTR"
+            ]
           },
           {
             "label": []
@@ -586,15 +567,13 @@
             "label": [
               "MNL",
               "SECT 4"
-            ],
-            "station_id": "RPHI_4_CTR"
+            ]
           },
           {
             "label": [
               "WBFC",
               "SECT 3"
-            ],
-            "station_id": "WBFC_3_CTR"
+            ]
           },
           {
             "label": []
