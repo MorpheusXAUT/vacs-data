@@ -3,112 +3,79 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": [
-        "ESSA"
-      ],
+      "label": ["ESSA"],
       "page": {
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "DEP-W"
-            ],
+            "label": ["DEP-W"],
             "station_id": "ESOS DEP-W"
           },
           {
-            "label": [
-              "ARR-W"
-            ],
+            "label": ["ARR-W"],
             "station_id": "ESOS ARR-W"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "TWR-W",
-              ""
-            ],
+            "label": ["TWR-W", ""],
             "station_id": "ESSA TWR-W"
           },
           {
-            "label": [
-              "GND-W"
-            ],
+            "label": ["GND-W"],
             "station_id": "ESSA GND-W"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "APP-C"
-            ],
+            "label": ["APP-C"],
             "station_id": "ESOS ARR-E"
           },
           {
-            "label": [
-              "DIR"
-            ],
+            "label": ["DIR"],
             "station_id": "ESOS DIR-W"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "TWR-E"
-            ],
+            "label": ["TWR-E"],
             "station_id": "ESSA TWR-E"
           },
           {
-            "label": [
-              "GND-N"
-            ],
+            "label": ["GND-N"],
             "station_id": "ESSA GND-N"
           },
           {
-            "label": [
-              "DEL"
-            ],
+            "label": ["DEL"],
             "station_id": "ESSA DEL"
           },
           {
-            "label": [
-              "DEP-E"
-            ],
+            "label": ["DEP-E"],
             "station_id": "ESOS DEP-E"
           },
           {
-            "label": [
-              "ARR-E"
-            ],
+            "label": ["ARR-E"],
             "station_id": "ESOS ARR-E"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "TWR-S"
-            ],
+            "label": ["TWR-S"],
             "station_id": "ESSA TWR-S"
           },
           {
-            "label": [
-              "GND-E"
-            ],
+            "label": ["GND-E"],
             "station_id": "ESSA GND-E"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "",
-              "WS",
-              ""
-            ],
+            "label": ["", "WS", ""],
             "station_id": "ESAA FMP"
           },
           {
@@ -121,17 +88,11 @@
             "label": []
           },
           {
-            "label": [
-              "CM",
-              "TWR"
-            ],
+            "label": ["CM", "TWR"],
             "station_id": "ESCM TWR"
           },
           {
-            "label": [
-              "SB",
-              "TWR"
-            ],
+            "label": ["SB", "TWR"],
             "station_id": "ESSB TWR"
           }
         ]
