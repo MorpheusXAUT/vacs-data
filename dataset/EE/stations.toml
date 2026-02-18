@@ -14,12 +14,7 @@ parent_id = "EETT_W"
 
 [[stations]]
 id = "EETT_W"
-controlled_by = [
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-    "EETT_E_CTR",
-    "EETT_S_CTR",
-]
+controlled_by = ["EETT_W_CTR", "EETT_N_CTR", "EETT_E_CTR", "EETT_S_CTR"]
 
 # EETT E1 East Sector
 
@@ -29,12 +24,7 @@ parent_id = "EETT_E"
 
 [[stations]]
 id = "EETT_E"
-controlled_by = [
-    "EETT_E_CTR",
-    "EETT_S_CTR",
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-]
+controlled_by = ["EETT_E_CTR", "EETT_S_CTR", "EETT_W_CTR", "EETT_N_CTR"]
 
 # EETT W12+W21+W22+W23 North Sector incl W22 FED
 
@@ -57,12 +47,7 @@ parent_id = "EETT_N"
 
 [[stations]]
 id = "EETT_N"
-controlled_by = [
-    "EETT_N_CTR",
-    "EETT_W_CTR",
-    "EETT_E_CTR",
-    "EETT_S_CTR",
-]
+controlled_by = ["EETT_N_CTR", "EETT_W_CTR", "EETT_E_CTR", "EETT_S_CTR"]
 
 # EETT E2 South Sector /not used/
 
@@ -72,12 +57,7 @@ parent_id = "EETT_S"
 
 [[stations]]
 id = "EETT_S"
-controlled_by = [
-    "EETT_S_CTR",
-    "EETT_E_CTR",
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-]
+controlled_by = ["EETT_S_CTR", "EETT_E_CTR", "EETT_W_CTR", "EETT_N_CTR"]
 
 # EETT_FIS Flight Information Sector
 
@@ -88,32 +68,17 @@ controlled_by = ["EETT_I_CTR"]
 [[stations]]
 id = "EETT_W_FIS"
 parent_id = "EETT_FIS"
-controlled_by = [
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-    "EETT_E_CTR",
-    "EETT_S_CTR",
-]
+controlled_by = ["EETT_W_CTR", "EETT_N_CTR", "EETT_E_CTR", "EETT_S_CTR"]
 
 [[stations]]
 id = "EETT_E_FIS"
 parent_id = "EETT_FIS"
-controlled_by = [
-    "EETT_E_CTR",
-    "EETT_S_CTR",
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-]
+controlled_by = ["EETT_E_CTR", "EETT_S_CTR", "EETT_W_CTR", "EETT_N_CTR"]
 
 [[stations]]
 id = "EETT_S_FIS"
 parent_id = "EETT_S"
-controlled_by = [
-    "EETT_S_CTR",
-    "EETT_E_CTR",
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-]
+controlled_by = ["EETT_S_CTR", "EETT_E_CTR", "EETT_W_CTR", "EETT_N_CTR"]
 
 # EETN
 
