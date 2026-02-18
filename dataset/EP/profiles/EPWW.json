@@ -393,7 +393,182 @@
             "label": [
               "ACC",
               "KRAJ"
-            ]
+            ],
+            "page": {
+              "rows": 4,
+              "keys": [
+                {
+                  "label": [
+                    "C",
+                    "L",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_C"
+                },
+                {
+                  "label": [
+                    "F",
+                    "L",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_F"
+                },
+                {
+                  "label": [
+                    "T",
+                    "LM",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_TM"
+                },
+                {
+                  "label": [
+                    "ALL FIR",
+                    "LM",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_ALL"
+                },
+                {
+                  "label": [
+                    "D",
+                    "L",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_D"
+                },
+                {
+                  "label": [
+                    "FG",
+                    "LM",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_FG"
+                },
+                {
+                  "label": [
+                    "TC+J",
+                    "LM",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_TCJ"
+                },
+                {
+                  "label": [
+                    "ALL FIR",
+                    "H",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_ALH"
+                },
+                {
+                  "label": [
+                    "DB+T",
+                    "LM",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_DBT"
+                },
+                {
+                  "label": [
+                    "G",
+                    "L",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_G"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": [
+                    "EFIR",
+                    "LMH",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_E"
+                },
+                {
+                  "label": [
+                    "DBF+G",
+                    "LM",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_DBF"
+                },
+                {
+                  "label": [
+                    "J",
+                    "L",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_J"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": [
+                    "NFIR",
+                    "LMH",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_N"
+                },
+                {
+                  "label": [
+                    "DT",
+                    "LM",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_DT"
+                },
+                {
+                  "label": [
+                    "JR",
+                    "LM",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_JR"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": [
+                    "SFIR",
+                    "LMH",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_S"
+                },
+                {
+                  "label": [
+                    "DTC",
+                    "LMH",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_DTC"
+                },
+                {
+                  "label": [
+                    "NE",
+                    "LMH",
+                    "EC"
+                  ],
+                  "station_id": "EPWW_NE"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": [
+                    "FMP"
+                  ],
+                  "station_id": "EPWW_FMP"
+                }
+              ]
+            }
           },
           {
             "label": []
@@ -402,7 +577,74 @@
             "label": [
               "MALMO",
               "UMKK"
-            ]
+            ],
+            "page": {
+              "rows": 2,
+              "keys": [
+                {
+                  "label": [
+                    "ESMM",
+                    "2",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "APP",
+                    "ESMS",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "ESMM",
+                    "9",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "ESMM",
+                    "8",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "ESMM",
+                    "6",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "ESMM",
+                    "7",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "ESAA",
+                    "CTR",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "UMKK",
+                    "",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "FMP"
+                  ],
+                  "station_id": "EPWW_FMP"
+                }
+              ]
+            }
           },
           {
             "label": [
@@ -410,8 +652,72 @@
               "MINSK"
             ],
             "page": {
-              "rows": 4,
-              "keys": []
+              "rows": 5,
+              "keys": [
+                {
+                  "label": [
+                    "EYVL",
+                    "U",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "EYVL",
+                    "M",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "EYVL",
+                    "",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "EYVL",
+                    "E",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "FMP",
+                    "",
+                    ""
+                  ],
+                  "station_id": "EPWW_FMP"
+                },
+                {
+                  "label": [
+                    "UMMV",
+                    "N",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "UMMV",
+                    "W",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "UMMV",
+                    "",
+                    "EC"
+                  ]
+                },
+                {
+                  "label": [
+                    "TWR",
+                    "UMBB"
+                  ]
+                }
+              ]
             }
           },
           {
