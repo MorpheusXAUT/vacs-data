@@ -3,7 +3,9 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "PRIM",
+      "label": [
+        "PRIM"
+      ],
       "page": {
         "rows": 6,
         "keys": [
@@ -788,31 +790,36 @@
                   "label": [
                     "MM",
                     "TRN"
-                  ]
+                  ],
+                  "station_id": "EDMM-TRN"
                 },
                 {
                   "label": [
                     "MM",
                     "SAS"
-                  ]
+                  ],
+                  "station_id": "EDMM-SAS"
                 },
                 {
                   "label": [
                     "MM",
                     "HAL"
-                  ]
+                  ],
+                  "station_id": "EDMM-HAL"
                 },
                 {
                   "label": [
                     "MM",
                     "GER"
-                  ]
+                  ],
+                  "station_id": "EDMM-GER"
                 },
                 {
                   "label": [
                     "MM",
                     "MEI"
-                  ]
+                  ],
+                  "station_id": "EDMM-MEI"
                 }
               ]
             }
@@ -955,42 +962,48 @@
                     "EPWW",
                     "B",
                     "-335"
-                  ]
+                  ],
+                  "station_id": "EPWWB_LOW"
                 },
                 {
                   "label": [
                     "EPWW",
                     "B",
                     "335-365"
-                  ]
+                  ],
+                  "station_id": "EPWWB_MID"
                 },
                 {
                   "label": [
                     "EPWW",
                     "B",
                     "+365"
-                  ]
+                  ],
+                  "station_id": "EPWWB_HIGH"
                 },
                 {
                   "label": [
                     "EPWW",
                     "D",
                     "-335"
-                  ]
+                  ],
+                  "station_id": "EPWWD_LOW"
                 },
                 {
                   "label": [
                     "EPWW",
                     "D",
                     "335-365"
-                  ]
+                  ],
+                  "station_id": "EPWWD_MID"
                 },
                 {
                   "label": [
                     "EPWW",
                     "D",
                     "+365"
-                  ]
+                  ],
+                  "station_id": "EPWWD_HIGH"
                 }
               ]
             }
@@ -1083,7 +1096,8 @@
                   "label": [
                     "EDMM",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "EDMM-FMP"
                 },
                 {
                   "label": [
@@ -1095,13 +1109,15 @@
                   "label": [
                     "ESAA",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "ESAA FMP"
                 },
                 {
                   "label": [
                     "EPWW",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "EPWW_FMP"
                 },
                 {
                   "label": [

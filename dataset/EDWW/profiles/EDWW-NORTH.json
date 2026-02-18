@@ -3,7 +3,9 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "PRIM",
+      "label": [
+        "PRIM"
+      ],
       "page": {
         "rows": 6,
         "keys": [
@@ -566,7 +568,8 @@
                   "label": [
                     "EDMM",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "EDMM-FMP"
                 },
                 {
                   "label": [
@@ -578,13 +581,15 @@
                   "label": [
                     "ESMM",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "ESAA FMP"
                 },
                 {
                   "label": [
                     "EPWW",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "EPWW_FMP"
                 },
                 {
                   "label": [

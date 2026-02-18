@@ -3,7 +3,9 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "PRIM",
+      "label": [
+        "PRIM"
+      ],
       "page": {
         "rows": 6,
         "keys": [
@@ -629,7 +631,8 @@
                   "label": [
                     "EDMM",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "EDMM-FMP"
                 },
                 {
                   "label": [
@@ -641,13 +644,15 @@
                   "label": [
                     "ESAA",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "EDMM-FMP"
                 },
                 {
                   "label": [
                     "EPWW",
                     "FMP"
-                  ]
+                  ],
+                  "station_id": "EDMM-FMP"
                 },
                 {
                   "label": [
@@ -767,7 +772,8 @@
             "label": [
               "MM",
               "TRN"
-            ]
+            ],
+            "station_id": "EDMM-TRN"
           },
           {
             "label": [
@@ -808,7 +814,8 @@
             "label": [
               "MM",
               "HAL"
-            ]
+            ],
+            "station_id": "EDMM-HAL"
           }
         ]
       }

@@ -3,7 +3,9 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "PRIM",
+      "label": [
+        "PRIM"
+      ],
       "page": {
         "rows": 6,
         "keys": [
@@ -35,7 +37,8 @@
             "label": [
               "EPWW",
               "B"
-            ]
+            ],
+            "station_id": "EPWWB_LOW"
           },
           {
             "label": [
@@ -72,7 +75,8 @@
             "label": [
               "EPWW",
               "D"
-            ]
+            ],
+            "station_id": "EPWWD_LOW"
           },
           {
             "label": [
@@ -111,7 +115,8 @@
             "label": [
               "EPGD",
               "FIS"
-            ]
+            ],
+            "station_id": "EPGD_FIS"
           },
           {
             "label": [
@@ -194,7 +199,8 @@
             "label": [
               "EPPO",
               "FIS"
-            ]
+            ],
+            "station_id": "EPPO_FIS"
           },
           {
             "label": [
