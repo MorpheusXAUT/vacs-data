@@ -96,9 +96,9 @@
       "controlled_by": ["VHHH_F_APP"]
     },
     {
-      "id": "VHHH_P_APP",
+      "id": "VHHX_P_APP",
       "parent_id": "VHHH_APP",
-      "controlled_by": ["VHHH_P_APP"]
+      "controlled_by": ["VHHX_P_APP"]
     },
     {
       "id": "VHHH_N_DEP",

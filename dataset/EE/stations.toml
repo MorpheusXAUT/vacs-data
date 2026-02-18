@@ -1,0 +1,127 @@
+# EETT_W11 + EETT_W31 + EETT_W32
+# West Sector
+
+[[stations]]
+id = "EETT_W11"
+parent_id = "EETT_W"
+
+[[stations]]
+id = "EETT_W31"
+parent_id = "EETT_W"
+
+[[stations]]
+id = "EETT_W32"
+parent_id = "EETT_W"
+
+[[stations]]
+id = "EETT_W_FIS"
+parent_id = "EETT_W"
+controlled_by = ["EETT_I_CTR"]
+
+[[stations]]
+id = "EETT_W"
+controlled_by = ["EETT_W_CTR", "EETT_N_CTR", "EETT_E_CTR", "EETT_S_CTR"]
+
+# EETT_E1
+# East Sector
+
+[[stations]]
+id = "EETT_E1"
+parent_id = "EETT_E"
+
+[[stations]]
+id = "EETT_E_FIS"
+parent_id = "EETT_E"
+controlled_by = ["EETT_I_CTR"]
+
+[[stations]]
+id = "EETT_E"
+controlled_by = ["EETT_E_CTR", "EETT_S_CTR", "EETT_W_CTR", "EETT_N_CTR"]
+
+# EETT_W12 + EETT_W21 + EETT_W22 + EETT_W23
+# North Sector incl EETT_W22 INTOR Feeder
+
+[[stations]]
+id = "EETT_W12"
+parent_id = "EETT_N"
+
+[[stations]]
+id = "EETT_W21"
+parent_id = "EETT_N"
+
+[[stations]]
+id = "EETT_FED"
+parent_id = "EETT_N"
+controlled_by = ["EETT_H_APP"]
+
+[[stations]]
+id = "EETT_W23"
+parent_id = "EETT_N"
+
+[[stations]]
+id = "EETT_N"
+controlled_by = ["EETT_N_CTR", "EETT_W_CTR", "EETT_E_CTR", "EETT_S_CTR"]
+
+# EETT_E2
+# South Sector /not used/
+
+[[stations]]
+id = "EETT_E2"
+parent_id = "EETT_S"
+
+[[stations]]
+id = "EETT_S_FIS"
+parent_id = "EETT_S"
+controlled_by = ["EETT_I_CTR"]
+
+[[stations]]
+id = "EETT_S"
+controlled_by = ["EETT_S_CTR", "EETT_E_CTR", "EETT_W_CTR", "EETT_N_CTR"]
+
+# EETN APP + EETN DIR
+
+[[stations]]
+id = "EETN_APP"
+controlled_by = [
+  "EETN_APP",
+  "EETT_N_CTR",
+  "EETT_W_CTR",
+  "EETT_E_CTR",
+  "EETT_S_CTR",
+]
+
+[[stations]]
+id = "EETN_D_APP"
+controlled_by = ["EETN_D_APP"]
+
+# EEEI, EETN and Regional AFIS
+
+[[stations]]
+id = "EEEI"
+parent_id = "EETN_APP"
+controlled_by = ["EEEI_TWR"]
+
+[[stations]]
+id = "EEKA"
+parent_id = "EETT_W_FIS"
+controlled_by = ["EEKA_I_TWR"]
+
+[[stations]]
+id = "EEKE"
+parent_id = "EETT_W_FIS"
+controlled_by = ["EEKE_I_TWR"]
+
+[[stations]]
+id = "EEPU"
+parent_id = "EETT_S_FIS"
+controlled_by = ["EEPU_I_TWR"]
+
+[[stations]]
+id = "EETN_TWR"
+parent_id = "EETN_APP"
+controlled_by = ["EETN_TWR"]
+
+[[stations]]
+id = "EETU"
+parent_id = "EETT_E_FIS"
+controlled_by = ["EETU_I_TWR"]

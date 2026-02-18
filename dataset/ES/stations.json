@@ -977,7 +977,7 @@
     },
     {
       "id": "ESOS DIR-E",
-      "controlled_by": ["ESSA_F_APP", "ESSA_A_APP", "ESSA_E_APP"]
+      "controlled_by": ["ESSA_F_APP", "ESSA_A_APP"]
     },
     {
       "id": "ESSA GND-N",

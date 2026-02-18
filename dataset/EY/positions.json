@@ -1,0 +1,88 @@
+{
+  "positions": [
+    {
+      "id": "EYKA_APP",
+      "prefixes": ["EYKA"],
+      "frequency": "124.205",
+      "facility_type": "APP",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYKA_I_APP",
+      "prefixes": ["EYKA"],
+      "frequency": "124.605",
+      "facility_type": "APP",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYPA_APP",
+      "prefixes": ["EYPA"],
+      "frequency": "124.305",
+      "facility_type": "APP",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYPA_I_APP",
+      "prefixes": ["EYPA"],
+      "frequency": "125.730",
+      "facility_type": "APP",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYSA_APP",
+      "prefixes": ["EYSA"],
+      "frequency": "120.405",
+      "facility_type": "APP",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYVI_APP",
+      "prefixes": ["EYVI"],
+      "frequency": "120.705",
+      "facility_type": "APP",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYVI_I_APP",
+      "prefixes": ["EYVI"],
+      "frequency": "123.855",
+      "facility_type": "APP",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYVI_TWR",
+      "prefixes": ["EYVI"],
+      "frequency": "118.205",
+      "facility_type": "TWR",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYVL_CTR",
+      "prefixes": ["EYVL"],
+      "frequency": "133.305",
+      "facility_type": "CTR",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYVL_E_CTR",
+      "prefixes": ["EYVL"],
+      "frequency": "135.380",
+      "facility_type": "CTR",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYVL_M_CTR",
+      "prefixes": ["EYVL"],
+      "frequency": "133.430",
+      "facility_type": "CTR",
+      "profile_id": "EYVL"
+    },
+    {
+      "id": "EYVL_U_CTR",
+      "prefixes": ["EYVL"],
+      "frequency": "132.280",
+      "facility_type": "CTR",
+      "profile_id": "EYVL"
+    }
+  ]
+}
