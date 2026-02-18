@@ -17,10 +17,28 @@ frequency = "118.055"
 facility_type = "TWR"
 
 [[positions]]
+id = "EENA_RDO"
+prefixes = ["EENA"]
+frequency = "125.950"
+facility_type = "RDO"
+
+[[positions]]
 id = "EEPU_I_TWR"
 prefixes = ["EEPU"]
 frequency = "135.305"
 facility_type = "TWR"
+
+[[positions]]
+id = "EERA_RDO"
+prefixes = ["EERA"]
+frequency = "131.030"
+facility_type = "RDO"
+
+[[positions]]
+id = "EERI_RDO"
+prefixes = ["EERI"]
+frequency = "118.455"
+facility_type = "RDO"
 
 [[positions]]
 id = "EETN_TWR"
@@ -105,3 +123,9 @@ id = "EETU_I_TWR"
 prefixes = ["EETU"]
 frequency = "133.905"
 facility_type = "TWR"
+
+[[positions]]
+id = "EEVI_RDO"
+prefixes = ["EEVI"]
+frequency = "119.180"
+facility_type = "RDO"

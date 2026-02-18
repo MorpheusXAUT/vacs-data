@@ -1,5 +1,4 @@
-# EETT_W11 + EETT_W31 + EETT_W32
-# West Sector
+# EETT W11+W31+W32 West Sector
 
 [[stations]]
 id = "EETT_W11"
@@ -14,32 +13,20 @@ id = "EETT_W32"
 parent_id = "EETT_W"
 
 [[stations]]
-id = "EETT_W_FIS"
-parent_id = "EETT_W"
-controlled_by = ["EETT_I_CTR"]
-
-[[stations]]
 id = "EETT_W"
 controlled_by = ["EETT_W_CTR", "EETT_N_CTR", "EETT_E_CTR", "EETT_S_CTR"]
 
-# EETT_E1
-# East Sector
+# EETT E1 East Sector
 
 [[stations]]
 id = "EETT_E1"
 parent_id = "EETT_E"
 
 [[stations]]
-id = "EETT_E_FIS"
-parent_id = "EETT_E"
-controlled_by = ["EETT_I_CTR"]
-
-[[stations]]
 id = "EETT_E"
 controlled_by = ["EETT_E_CTR", "EETT_S_CTR", "EETT_W_CTR", "EETT_N_CTR"]
 
-# EETT_W12 + EETT_W21 + EETT_W22 + EETT_W23
-# North Sector incl EETT_W22 INTOR Feeder
+# EETT W12+W21+W22+W23 North Sector incl W22 FED
 
 [[stations]]
 id = "EETT_W12"
@@ -62,44 +49,71 @@ parent_id = "EETT_N"
 id = "EETT_N"
 controlled_by = ["EETT_N_CTR", "EETT_W_CTR", "EETT_E_CTR", "EETT_S_CTR"]
 
-# EETT_E2
-# South Sector /not used/
+# EETT E2 South Sector /not used/
 
 [[stations]]
 id = "EETT_E2"
 parent_id = "EETT_S"
 
 [[stations]]
-id = "EETT_S_FIS"
-parent_id = "EETT_S"
-controlled_by = ["EETT_I_CTR"]
-
-[[stations]]
 id = "EETT_S"
 controlled_by = ["EETT_S_CTR", "EETT_E_CTR", "EETT_W_CTR", "EETT_N_CTR"]
 
-# EETN APP + EETN DIR
+# EETT_FIS Flight Information Sector
+
+[[stations]]
+id = "EETT_FIS"
+controlled_by = ["EETT_I_CTR"]
+
+[[stations]]
+id = "EETT_W_FIS"
+parent_id = "EETT_FIS"
+controlled_by = ["EETT_W_CTR", "EETT_N_CTR", "EETT_E_CTR", "EETT_S_CTR"]
+
+[[stations]]
+id = "EETT_E_FIS"
+parent_id = "EETT_FIS"
+controlled_by = ["EETT_E_CTR", "EETT_S_CTR", "EETT_W_CTR", "EETT_N_CTR"]
+
+[[stations]]
+id = "EETT_S_FIS"
+parent_id = "EETT_S"
+controlled_by = ["EETT_S_CTR", "EETT_E_CTR", "EETT_W_CTR", "EETT_N_CTR"]
+
+# EETN
 
 [[stations]]
 id = "EETN_APP"
-controlled_by = [
-  "EETN_APP",
-  "EETT_N_CTR",
-  "EETT_W_CTR",
-  "EETT_E_CTR",
-  "EETT_S_CTR",
-]
+parent_id = "EETT_N"
+controlled_by = ["EETN_APP"]
 
 [[stations]]
-id = "EETN_D_APP"
+id = "EETN_DIR"
 controlled_by = ["EETN_D_APP"]
 
-# EEEI, EETN and Regional AFIS
+[[stations]]
+id = "EETN_TWR"
+parent_id = "EETN_APP"
+controlled_by = ["EETN_TWR"]
+
+[[stations]]
+id = "EETN_RMP"
+parent_id = "EETN_TWR"
+controlled_by = ["EETN_C_RMP"]
+
+[[stations]]
+id = "EETN_ICE"
+parent_id = "EETN_TWR"
+controlled_by = ["EETN_D_RMP"]
+
+# EEEI
 
 [[stations]]
 id = "EEEI"
 parent_id = "EETN_APP"
 controlled_by = ["EEEI_TWR"]
+
+# AFIS
 
 [[stations]]
 id = "EEKA"
@@ -117,11 +131,39 @@ parent_id = "EETT_S_FIS"
 controlled_by = ["EEPU_I_TWR"]
 
 [[stations]]
-id = "EETN_TWR"
-parent_id = "EETN_APP"
-controlled_by = ["EETN_TWR"]
-
-[[stations]]
 id = "EETU"
 parent_id = "EETT_E_FIS"
 controlled_by = ["EETU_I_TWR"]
+
+# Airfield clubs
+
+[[stations]]
+id = "EENA"
+parent_id = "EETT_E_FIS"
+controlled_by = ["EENA_RDO"]
+
+[[stations]]
+id = "EERA"
+parent_id = "EETN_APP"
+controlled_by = ["EERA_RDO"]
+
+[[stations]]
+id = "EERI"
+parent_id = "EETT_E_FIS"
+controlled_by = ["EERI_RDO"]
+
+[[stations]]
+id = "EEVI"
+parent_id = "EETT_S_FIS"
+controlled_by = ["EEVI_RDO"]
+
+# Non-sectorized or administrative positions
+
+[[stations]]
+id = "EETT_OPSUP"
+controlled_by = ["EETT_Y_FMP"]
+
+[[stations]]
+id = "EETT_FMP"
+parent_id = "EETT_OPSUP"
+controlled_by = ["EETT_Z_FMP"]
