@@ -192,7 +192,7 @@ id = "EEVI"
 parent_id = "EETT_S_FIS"
 controlled_by = ["EEVI_RDO"]
 
-# Non-sectorized, planning or administrative positions
+# Non-sectorized or administrative positions
 
 [[stations]]
 id = "EETT_OPSUP"
