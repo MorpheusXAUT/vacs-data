@@ -20,12 +20,7 @@ controlled_by = ["EETT_I_CTR"]
 
 [[stations]]
 id = "EETT_W"
-controlled_by = [
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-    "EETT_E_CTR",
-    "EETT_S_CTR",
-]
+controlled_by = ["EETT_W_CTR", "EETT_N_CTR", "EETT_E_CTR", "EETT_S_CTR"]
 
 # EETT_E1
 # East Sector
@@ -41,12 +36,7 @@ controlled_by = ["EETT_I_CTR"]
 
 [[stations]]
 id = "EETT_E"
-controlled_by = [
-    "EETT_E_CTR",
-    "EETT_S_CTR",
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-]
+controlled_by = ["EETT_E_CTR", "EETT_S_CTR", "EETT_W_CTR", "EETT_N_CTR"]
 
 # EETT_W12 + EETT_W21 + EETT_W22 + EETT_W23
 # North Sector incl EETT_W22 INTOR Feeder
@@ -70,12 +60,7 @@ parent_id = "EETT_N"
 
 [[stations]]
 id = "EETT_N"
-controlled_by = [
-    "EETT_N_CTR",
-    "EETT_W_CTR",
-    "EETT_E_CTR",
-    "EETT_S_CTR",
-]
+controlled_by = ["EETT_N_CTR", "EETT_W_CTR", "EETT_E_CTR", "EETT_S_CTR"]
 
 # EETT_E2
 # South Sector /not used/
@@ -91,23 +76,18 @@ controlled_by = ["EETT_I_CTR"]
 
 [[stations]]
 id = "EETT_S"
-controlled_by = [
-    "EETT_S_CTR",
-    "EETT_E_CTR",
-    "EETT_W_CTR",
-    "EETT_N_CTR",
-]
+controlled_by = ["EETT_S_CTR", "EETT_E_CTR", "EETT_W_CTR", "EETT_N_CTR"]
 
 # EETN APP + EETN DIR
 
 [[stations]]
 id = "EETN_APP"
 controlled_by = [
-    "EETN_APP",
-    "EETT_N_CTR",
-    "EETT_W_CTR",
-    "EETT_E_CTR",
-    "EETT_S_CTR",
+  "EETN_APP",
+  "EETT_N_CTR",
+  "EETT_W_CTR",
+  "EETT_E_CTR",
+  "EETT_S_CTR",
 ]
 
 [[stations]]
