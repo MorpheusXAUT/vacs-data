@@ -23,7 +23,7 @@ jobs:
           echo "Checking for AIRAC cycle on $TODAY..."
 
           # Read YAML file and look for current date
-          CYCLE=$(grep "^$TODAY:" .github/airac-cycles.yaml | cut -d '"' -f 2 || true)
+          CYCLE=$(grep "^$TODAY:" .github/airac-cycles.yml | cut -d '"' -f 2 || true)
 
           if [[ -n "$CYCLE" ]]; then
             echo "Found AIRAC cycle: $CYCLE"
@@ -43,8 +43,8 @@ jobs:
           TAG_NAME="airac-$CYCLE"
 
           # Check if tag exists
-          if git rev-parse "$TAG_NAME" >/dev/null 2>&1; then
-             echo "Tag $TAG_NAME already exists, skipping."
+          if git ls-remote --tags origin "refs/tags/$TAG_NAME" | grep -q .; then
+             echo "Tag $TAG_NAME already exists on remote, skipping."
              exit 0
           fi
 
