@@ -138,7 +138,7 @@
           "EDUU_SLN_CTR",
           "EDUU_C_CTR",
           "EDUU_CW_CTR",
-          "EDGG_DKBH_CTR",
+          "EDGG_DKH_CTR",
           "EDGG_SH_CTR",
           "EDGG_CSH_CTR"
         ]
@@ -317,7 +317,7 @@
     {
       "id": "EDGG-NKRH",
       "controlled_by": [
-          "EDGG_NKRH_CTR",
+          "EDGG_NKR_CTR",
           "EDGG_MAN_CTR",
           "EDGG_BAD_CTR",
           "EDGG_BAH_CTR",
@@ -535,12 +535,12 @@
     {
       "id": "EDGG-DFAN",
       "controlled_by": [
-          "EDDF_DFAN_APP",
-          "EDDF_DFANT_APP",
-          "EDDF_DFDN_APP",
-          "EDDF_DFAS_APP",
-          "EDDF_DFAST_APP",
-          "EDDF_DFDS_APP",
+          "EDDF_N_APP",
+          "EDDF_H_APP",
+          "EDDF_N_DEP",
+          "EDDF_S_APP",
+          "EDDF_L_APP",
+          "EDDF_S_DEP",
           "EDGG_RUD_CTR",
           "EDGG_DKB_CTR",
           "EDGG_CA_CTR",
@@ -551,12 +551,12 @@
     {
       "id": "EDGG-DFAS",
       "controlled_by": [
-          "EDDF_DFAS_APP",
-          "EDDF_DFAST_APP",
-          "EDDF_DFDS_APP",
-          "EDDF_DFAN_APP",
-          "EDDF_DFANT_APP",
-          "EDDF_DFDN_APP",
+          "EDDF_S_APP",
+          "EDDF_L_APP",
+          "EDDF_S_DEP",
+          "EDDF_N_APP",
+          "EDDF_H_APP",
+          "EDDF_N_DEP",
           "EDGG_RUD_CTR",
           "EDGG_DKB_CTR",
           "EDGG_SA_CTR",
@@ -567,10 +567,10 @@
     {
       "id": "EDGG-DFDN",
       "controlled_by": [
-          "EDDF_DFDN_APP",
-          "EDDF_DFDS_APP",
-          "EDDF_DFAN_APP",
-          "EDDF_DFAS_APP",
+          "EDDF_N_DEP",
+          "EDDF_S_DEP",
+          "EDDF_N_APP",
+          "EDDF_S_APP",
           "EDGG_RUD_CTR",
           "EDGG_DKB_CTR",
           "EDGG_CA_CTR",
@@ -580,10 +580,10 @@
     {
       "id": "EDGG-DFDS",
       "controlled_by": [
-          "EDDF_DFDS_APP",
-          "EDDF_DFDN_APP",
-          "EDDF_DFAS_APP",
-          "EDDF_DFAN_APP",
+          "EDDF_S_DEP",
+          "EDDF_N_DEP",
+          "EDDF_S_APP",
+          "EDDF_N_APP",
           "EDGG_RUD_CTR",
           "EDGG_DKB_CTR",
           "EDGG_SA_CTR",
@@ -593,10 +593,10 @@
     {
       "id": "EDGG-DFANT",
       "controlled_by": [
-          "EDDF_DFANT_APP",
-          "EDDF_DFAST_APP",
-          "EDDF_DFAN_APP",
-          "EDDF_DFAS_APP",
+          "EDDF_H_APP",
+          "EDDF_L_APP",
+          "EDDF_N_APP",
+          "EDDF_S_APP",
           "EDGG_RUD_CTR",
           "EDGG_DKB_CTR",
           "EDGG_CA_CTR",
@@ -606,10 +606,10 @@
     {
       "id": "EDGG-DFAST",
       "controlled_by": [
-          "EDDF_DFAST_APP",
-          "EDDF_DFANT_APP",
-          "EDDF_DFAS_APP",
-          "EDDF_DFAN_APP",
+          "EDDF_L_APP",
+          "EDDF_H_APP",
+          "EDDF_S_APP",
+          "EDDF_N_APP",
           "EDGG_RUD_CTR",
           "EDGG_DKB_CTR",
           "EDGG_SA_CTR",
@@ -658,7 +658,7 @@
       "id": "EDGG-NKRL",
       "controlled_by": [
           "EDFM_NKL_APP",
-          "EDGG_NKRH_CTR",
+          "EDGG_NKR_CTR",
           "EDGG_MAN_CTR",
           "EDGG_BAD_CTR",
           "EDGG_BAH_CTR",
@@ -809,7 +809,7 @@
     },
     {
       "id": "EDGG-DSTV",
-      "controlled_by": ["EDDS_V_TWR"],
+      "controlled_by": ["EDDS_VFR_TWR"],
       "parent_id": "EDGG-DST"
     },
     {
@@ -855,7 +855,7 @@
     {
       "id": "EDGG-FMT",
       "controlled_by": ["EDFM_TWR"],
-      "parent_id": "EDGG-NKL"
+      "parent_id": "EDGG-NKRL"
     },
     {
       "id": "EDGG-LNT",
