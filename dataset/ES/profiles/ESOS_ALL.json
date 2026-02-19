@@ -618,17 +618,9 @@
       "page": {
         "rows": 6,
         "client_page": {
-          "include": [
-            "EN*",
-            "EVRR*",
-          ],
-          "exclude": [
-          ],
-          "priority": [
-            "*_FMP",
-            "*_CTR",
-            "*_APP"
-          ]
+          "include": ["EN*", "EVRR*"],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP"]
         }
       }
     }
