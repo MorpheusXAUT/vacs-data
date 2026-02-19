@@ -156,7 +156,7 @@
         ]
     },
     {
-      "id": "EDGG_PAD",
+      "id": "EDGG-PAD",
       "controlled_by": ["EDGG_PAD_CTR"]
     },
     {
@@ -903,7 +903,7 @@
       "parent_id": "EDGG-SBT"
     },
     {
-      "id": "EDGG-LTL",
+      "id": "EDGG-TLT",
       "controlled_by": ["EDTL_TWR"],
       "parent_id": "EDGG-STG"
     },
