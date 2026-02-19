@@ -5,35 +5,35 @@
       "prefixes": ["EDYY"],
       "frequency": "133.215",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDYY_MM_CTR",
       "prefixes": ["EDYY"],
       "frequency": "130.110",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDYY_ML_CTR",
       "prefixes": ["EDYY"],
       "frequency": "122.185",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDYY_RH_CTR",
       "prefixes": ["EDYY"],
       "frequency": "122.835",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDYY_RL_CTR",
       "prefixes": ["EDYY"],
       "frequency": "128.790",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDUU_CW_CTR",
@@ -46,222 +46,224 @@
       "prefixes": ["EDUU"],
       "frequency": "136.560",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDUU_C_CTR",
       "prefixes": ["EDUU"],
       "frequency": "130.260",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDUU_FUL_CTR",
       "prefixes": ["EDUU"],
       "frequency": "122.785",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_UPR"
     },
     {
       "id": "EDUU_FFM_CTR",
       "prefixes": ["EDUU"],
       "frequency": "132.330",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_UPR"
     },
     {
       "id": "EDUU_NTM_CTR",
       "prefixes": ["EDUU"],
       "frequency": "132.080",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_UPR"
     },
     {
       "id": "EDUU_WUR_CTR",
       "prefixes": ["EDUU"],
       "frequency": "134.085",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_UPR"
     },
     {
       "id": "EDUU_TGO_CTR",
       "prefixes": ["EDUU"],
       "frequency": "132.405",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_UPR"
     },
     {
       "id": "EDUU_SLN_CTR",
       "prefixes": ["EDUU"],
       "frequency": "120.930",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_UPR"
     },
     {
       "id": "EDGG_NH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "136.480",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_N_CTR",
       "prefixes": ["EDGG"],
       "frequency": "118.215",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_PAH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "136.625",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_PAD_CTR",
       "prefixes": ["EDGG"],
       "frequency": "135.650",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG6"
     },
     {
       "id": "EDGG_CSH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "135.030",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_CS_CTR",
       "prefixes": ["EDGG"],
       "frequency": "135.310",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_CH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "127.925",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_CO_CTR",
       "prefixes": ["EDGG"],
       "frequency": "130.975",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_C_CTR",
       "prefixes": ["EDGG"],
       "frequency": "133.815",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_CA_CTR",
       "prefixes": ["EDGG"],
       "frequency": "133.835",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_HEF_CTR",
       "prefixes": ["EDGG"],
       "frequency": "127.725",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG3"
     },
     {
       "id": "EDGG_GED_CTR",
       "prefixes": ["EDGG"],
       "frequency": "124.430",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG3"
     },
     {
       "id": "EDGG_GIH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "128.075",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG3"
     },
     {
       "id": "EDGG_GIN_CTR",
       "prefixes": ["EDGG"],
       "frequency": "124.730",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG3"
     },
     {
       "id": "EDGG_SIG_CTR",
       "prefixes": ["EDGG"],
       "frequency": "124.900",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG3"
     },
     {
       "id": "EDGG_TAU_CTR",
       "prefixes": ["EDGG"],
       "frequency": "127.625",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG3"
     },
     {
       "id": "EDGG_RUH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "135.725",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG5"
     },
     {
       "id": "EDGG_RUD_CTR",
       "prefixes": ["EDGG"],
       "frequency": "133.435",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG5"
     },
     {
       "id": "EDGG_KIR_CTR",
       "prefixes": ["EDGG"],
       "frequency": "133.460",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG5"
     },
     {
       "id": "EDGG_SH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "123.010",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_S_CTR",
       "prefixes": ["EDGG"],
       "frequency": "136.315",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_SA_CTR",
       "prefixes": ["EDGG"],
       "frequency": "131.365",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_MAN_CTR",
       "prefixes": ["EDGG"],
       "frequency": "132.155",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG2"
     },
     {
       "id": "EDGG_HAB_CTR",
       "prefixes": ["EDGG"],
       "frequency": "134.800",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG4"
     },
     {
       "id": "EDGG_PSA_CTR",
@@ -274,70 +276,70 @@
       "prefixes": ["EDGG"],
       "frequency": "123.280",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG4"
     },
     {
       "id": "EDGG_DKH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "133.340",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG4"
     },
     {
       "id": "EDGG_DKB_CTR",
       "prefixes": ["EDGG"],
       "frequency": "125.200",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG4"
     },
     {
       "id": "EDGG_KNG_CTR",
       "prefixes": ["EDGG"],
       "frequency": "125.680",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG4"
     },
     {
       "id": "EDGG_NKR_CTR",
       "prefixes": ["EDGG"],
       "frequency": "127.500",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG2"
     },
     {
       "id": "EDGG_LBU_CTR",
       "prefixes": ["EDGG"],
       "frequency": "127.050",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG2"
     },
     {
       "id": "EDGG_BAH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "124.035",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG2"
     },
     {
       "id": "EDGG_BAD_CTR",
       "prefixes": ["EDGG"],
       "frequency": "131.300",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG2"
     },
     {
       "id": "EDGG_AH_CTR",
       "prefixes": ["EDGG"],
       "frequency": "125.935",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_A_CTR",
       "prefixes": ["EDGG"],
       "frequency": "132.230",
       "facility_type": "CTR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_MBB"
     },
     {
       "id": "EDGG_KL_APP",
@@ -351,154 +353,154 @@
       "prefixes": ["EDDG"],
       "frequency": "129.300",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG6"
     },
     {
       "id": "EDDG_F_APP",
       "prefixes": ["EDDG"],
       "frequency": "129.180",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG6"
     },
     {
       "id": "EDDL_BOT_APP",
       "prefixes": ["EDDL"],
       "frequency": "119.110",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG1"
     },
     {
       "id": "EDDL_DEP",
       "prefixes": ["EDDL"],
       "frequency": "121.355",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG1"
     },
     {
       "id": "EDDL_APP",
       "prefixes": ["EDDL"],
       "frequency": "128.555",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG1"
     },
     {
       "id": "EDDL_F_APP",
       "prefixes": ["EDDL"],
       "frequency": "128.655",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG1"
     },
     {
       "id": "EDDK_NOR_APP",
       "prefixes": ["EDDK"],
       "frequency": "127.365",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG7"
     },
     {
       "id": "EDDK_F_APP",
       "prefixes": ["EDDK"],
       "frequency": "121.055",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG7"
     },
     {
       "id": "EDDK_APP",
       "prefixes": ["EDDK"],
       "frequency": "135.350",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG7"
     },
     {
       "id": "EDLP_PAL_APP",
       "prefixes": ["EDLP"],
       "frequency": "125.225",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG6"
     },
     {
       "id": "EDDF_N_APP",
       "prefixes": ["EDDF"],
       "frequency": "120.805",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_DFAN"
     },
     {
       "id": "EDDF_S_APP",
       "prefixes": ["EDDF"],
       "frequency": "125.355",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_DFAN"
     },
     {
       "id": "EDDF_H_APP",
       "prefixes": ["EDDF"],
       "frequency": "127.280",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_DFAN"
     },
     {
       "id": "EDDF_L_APP",
       "prefixes": ["EDDF"],
       "frequency": "118.505",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_DFAN"
     },
     {
       "id": "EDDF_N_DEP",
       "prefixes": ["EDDF"],
       "frequency": "120.155",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_DFAN"
     },
     {
       "id": "EDDF_S_DEP",
       "prefixes": ["EDDF"],
       "frequency": "136.130",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_DFAN"
     },
     {
       "id": "EDFH_EIF_APP",
       "prefixes": ["EDFH"],
       "frequency": "125.600",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG5"
     },
     {
       "id": "EDDR_PFA_APP",
       "prefixes": ["EDDR"],
       "frequency": "129.675",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG5"
     },
     {
       "id": "EDDS_STG_APP",
       "prefixes": ["EDDS"],
       "frequency": "125.050",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG8"
     },
     {
       "id": "EDDS_REU_APP",
       "prefixes": ["EDDS"],
       "frequency": "119.200",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG8"
     },
     {
       "id": "EDDS_F_APP",
       "prefixes": ["EDDS"],
       "frequency": "119.850",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG8"
     },
     {
       "id": "EDFM_NKL_APP",
       "prefixes": ["EDFM"],
       "frequency": "129.355",
       "facility_type": "APP",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_EBG2"
     },
     {
       "id": "ETAD_APP",
@@ -554,370 +556,370 @@
       "prefixes": ["EDDL"],
       "frequency": "118.305",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDL_E_GND",
       "prefixes": ["EDDL"],
       "frequency": "121.605",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDL_W_GND",
       "prefixes": ["EDDL"],
       "frequency": "121.680",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDL_DEL",
       "prefixes": ["EDDL"],
       "frequency": "121.780",
       "facility_type": "DEL",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDK_TWR",
       "prefixes": ["EDDK"],
       "frequency": "124.980",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDK_GND",
       "prefixes": ["EDDK"],
       "frequency": "121.730",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },   
     {
       "id": "EDDK_P_GND",
       "prefixes": ["EDDK"],
       "frequency": "121.955",
-      "facility_type": "GND"
+      "facility_type": "EDGG_TWR"
     },
     {
       "id": "EDDK_DEL",
       "prefixes": ["EDDK"],
       "frequency": "121.855",
       "facility_type": "DEL",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_C_TWR",
       "prefixes": ["EDDF"],
       "frequency": "118.780",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_W_TWR",
       "prefixes": ["EDDF"],
       "frequency": "124.855",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_N_TWR",
       "prefixes": ["EDDF"],
       "frequency": "136.500",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_S_TWR",
       "prefixes": ["EDDF"],
       "frequency": "119.905",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_C_GND",
       "prefixes": ["EDDF"],
       "frequency": "121.855",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_W_GND",
       "prefixes": ["EDDF"],
       "frequency": "121.755",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_E_GND",
       "prefixes": ["EDDF"],
       "frequency": "121.955",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_S_GND",
       "prefixes": ["EDDF"],
       "frequency": "121.655",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_ICE_GND",
       "prefixes": ["EDDF"],
       "frequency": "121.985",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_GND",
       "prefixes": ["EDDF"],
       "frequency": "121.805",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDF_DEL",
       "prefixes": ["EDDF"],
       "frequency": "122.035",
       "facility_type": "DEL",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDS_TWR",
       "prefixes": ["EDDS"],
       "frequency": "118.805",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDS_VFR_TWR",
       "prefixes": ["EDDS"],
       "frequency": "119.055",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDS_GND",
       "prefixes": ["EDDS"],
       "frequency": "118.605",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDS_DEL",
       "prefixes": ["EDDS"],
       "frequency": "121.915",
       "facility_type": "DEL",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDG_TWR",
       "prefixes": ["EDDG"],
       "frequency": "129.805",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDG_GND",
       "prefixes": ["EDDG"],
       "frequency": "121.880",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDR_TWR",
       "prefixes": ["EDDR"],
       "frequency": "118.355",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDDR_GND",
       "prefixes": ["EDDR"],
       "frequency": "118.555",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDFH_TWR",
       "prefixes": ["EDFH"],
       "frequency": "119.655",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDFH_GND",
       "prefixes": ["EDFH"],
       "frequency": "121.980",
-      "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "facility_type": "GND",
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDFM_TWR",
       "prefixes": ["EDFM"],
       "frequency": "129.780",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDLN_TWR",
       "prefixes": ["EDLN"],
       "frequency": "120.455",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDLN_GND",
       "prefixes": ["EDLN"],
       "frequency": "121.930",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDLP_TWR",
       "prefixes": ["EDLP"],
       "frequency": "133.380",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDLP_GND",
       "prefixes": ["EDLP"],
       "frequency": "121.930",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDLV_TWR",
       "prefixes": ["EDLV"],
       "frequency": "129.405",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDLW_TWR",
       "prefixes": ["EDLW"],
       "frequency": "134.180",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDLW_GND",
       "prefixes": ["EDLW"],
       "frequency": "121.830",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDSB_TWR",
       "prefixes": ["EDSB"],
       "frequency": "134.105",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDSB_GND",
       "prefixes": ["EDSB"],
       "frequency": "121.830",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDTL_TWR",
       "prefixes": ["EDTL"],
       "frequency": "125.180",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETAD_TWR",
       "prefixes": ["ETAD"],
       "frequency": "122.200",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETAD_GND",
       "prefixes": ["ETAD"],
       "frequency": "121.865",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETAD_DEL",
       "prefixes": ["ETAD"],
       "frequency": "120.905",
       "facility_type": "DEL",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETAR_TWR",
       "prefixes": ["ETAR"],
       "frequency": "133.205",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETAR_GND",
       "prefixes": ["ETAR"],
       "frequency": "121.775",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETHF_TWR",
       "prefixes": ["ETHF"],
       "frequency": "122.300",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETHF_GND",
       "prefixes": ["ETHF"],
       "frequency": "131.450",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETHN_TWR",
       "prefixes": ["ETHN"],
       "frequency": "134.205",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETNG_TWR",
       "prefixes": ["ETNG"],
       "frequency": "120.055",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETNN_TWR",
       "prefixes": ["ETNN"],
       "frequency": "136.205",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETOU_TWR",
       "prefixes": ["ETOU"],
       "frequency": "122.100",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETOU_GND",
       "prefixes": ["ETOU"],
       "frequency": "126.555",
       "facility_type": "GND",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "ETSB_TWR",
       "prefixes": ["ETSB"],
       "frequency": "129.060",
       "facility_type": "TWR",
-      "profile_id": "EDGG"
+      "profile_id": "EDGG_TWR"
     },
     {
       "id": "EDEH_I_TWR",
@@ -995,7 +997,7 @@
       "id": "EDFE_GND",
       "prefixes": ["EDFE"],
       "frequency": "121.730",
-      "facility_type": "GND"
+      "facility_type": "EDGG_TWR"
     },
     {
       "id": "EDFG_I_TWR",
@@ -1836,6 +1838,6 @@
       "prefixes": ["EDTZ"],
       "frequency": "124.355",
       "facility_type": "TWR"
-    },
+    }
   ]
 }
