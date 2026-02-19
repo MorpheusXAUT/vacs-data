@@ -592,7 +592,7 @@
       "frequency": "121.730",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR"
-    },   
+    },
     {
       "id": "EDDK_P_GND",
       "prefixes": ["EDDK"],
@@ -992,7 +992,7 @@
       "prefixes": ["EDFE"],
       "frequency": "118.405",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "EDFE_GND",
       "prefixes": ["EDFE"],
@@ -1277,7 +1277,7 @@
     },
     {
       "id": "EDKN_I_TWR",
-      "prefixes": [ "EDKN"],
+      "prefixes": ["EDKN"],
       "frequency": "133.580",
       "facility_type": "TWR"
     },

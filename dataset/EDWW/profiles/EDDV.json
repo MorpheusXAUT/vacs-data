@@ -8,53 +8,34 @@
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "HAN"
-            ],
+            "label": ["HAN"],
             "station_id": "EDWW-HAN"
           },
           {
-            "label": [
-              "DVAT"
-            ],
+            "label": ["DVAT"],
             "station_id": "EDWW-DVAT"
           },
           {
-            "label": [
-              "TWR"
-            ],
+            "label": ["TWR"],
             "station_id": "EDDV-TWR"
           },
           {
-            "label": [
-              "GND"
-            ],
+            "label": ["GND"],
             "station_id": "EDDV-GND"
           },
           {
-            "label": [
-              "DEL"
-            ],
+            "label": ["DEL"],
             "station_id": "EDDV-DEL"
           },
           {
-            "label": [
-              "EDWW",
-              "FMP"
-            ]
+            "label": ["EDWW", "FMP"]
           },
           {
-            "label": [
-              "ETNW",
-              "APP"
-            ],
+            "label": ["ETNW", "APP"],
             "station_id": "ETNW-APP"
           },
           {
-            "label": [
-              "ETNW",
-              "TWR"
-            ],
+            "label": ["ETNW", "TWR"],
             "station_id": "ETNW-TWR"
           }
         ]

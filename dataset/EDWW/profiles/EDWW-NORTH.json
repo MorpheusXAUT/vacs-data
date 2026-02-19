@@ -3,599 +3,342 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": [
-        "PRIM"
-      ],
+      "label": ["PRIM"],
       "page": {
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "YY",
-              "JEV",
-              "-365"
-            ],
+            "label": ["YY", "JEV", "-365"],
             "station_id": "EDYY-JL"
           },
           {
-            "label": [
-              "YY",
-              "MNS",
-              "-355"
-            ],
+            "label": ["YY", "MNS", "-355"],
             "station_id": "EDYY-ML"
           },
           {
-            "label": [
-              "UU",
-              "OSE 1",
-              "-365"
-            ],
+            "label": ["UU", "OSE 1", "-365"],
             "station_id": "EDUU-OSE12"
           },
           {
-            "label": [
-              "ALR"
-            ],
+            "label": ["ALR"],
             "station_id": "EDWW-ALR"
           },
           {
-            "label": [
-              "EID"
-            ],
+            "label": ["EID"],
             "station_id": "EDWW-EID"
           },
           {
-            "label": [
-              "EMS"
-            ],
+            "label": ["EMS"],
             "station_id": "EDWW-EMS"
           },
           {
-            "label": [
-              "YY",
-              "JEV",
-              "+365"
-            ],
+            "label": ["YY", "JEV", "+365"],
             "station_id": "EDYY-JH"
           },
           {
-            "label": [
-              "YY",
-              "MNS",
-              "+355"
-            ],
+            "label": ["YY", "MNS", "+355"],
             "station_id": "EDYY-MH"
           },
           {
-            "label": [
-              "UU",
-              "OSE 2",
-              "+365"
-            ],
+            "label": ["UU", "OSE 2", "+365"],
             "station_id": "EDUU-OSE22"
           },
           {
-            "label": [
-              "HEI"
-            ],
+            "label": ["HEI"],
             "station_id": "EDWW-HEI"
           },
           {
-            "label": [
-              "FRI"
-            ],
+            "label": ["FRI"],
             "station_id": "EDWW-FRI"
           },
           {
-            "label": [
-              "HRZ"
-            ],
+            "label": ["HRZ"],
             "station_id": "EDWW-HRZ"
           },
           {
-            "label": [
-              "YY",
-              "HOL",
-              "-365"
-            ],
+            "label": ["YY", "HOL", "-365"],
             "station_id": "EDYY-HL"
           },
           {
-            "label": [
-              "YY",
-              "CEL",
-              "-355"
-            ],
+            "label": ["YY", "CEL", "-355"],
             "station_id": "EDYY-CL"
           },
           {
-            "label": [
-              "UU",
-              "HVL 1",
-              "-365"
-            ],
+            "label": ["UU", "HVL 1", "-365"],
             "station_id": "EDUU-HVL12"
           },
           {
-            "label": [
-              "HAM"
-            ],
+            "label": ["HAM"],
             "station_id": "EDWW-HAM"
           },
           {
-            "label": [
-              "MRZ"
-            ],
+            "label": ["MRZ"],
             "station_id": "EDWW-MRZ"
           },
           {
-            "label": [
-              "HAN"
-            ],
+            "label": ["HAN"],
             "station_id": "EDWW-HAN"
           },
           {
-            "label": [
-              "YY",
-              "HOL",
-              "+365"
-            ],
+            "label": ["YY", "HOL", "+365"],
             "station_id": "EDYY-HH"
           },
           {
-            "label": [
-              "YY",
-              "CEL",
-              "+355"
-            ],
+            "label": ["YY", "CEL", "+355"],
             "station_id": "EDYY-CH"
           },
           {
-            "label": [
-              "UU",
-              "HVL 2",
-              "+365"
-            ],
+            "label": ["UU", "HVL 2", "+365"],
             "station_id": "EDUU-HVL22"
           },
           {
-            "label": [
-              "HAMW"
-            ],
+            "label": ["HAMW"],
             "station_id": "EDWW-HAMW"
           },
           {
-            "label": [
-              "MAR"
-            ],
+            "label": ["MAR"],
             "station_id": "EDWW-MAR"
           },
           {
-            "label": [
-              "DH",
-              "GND/TWR"
-            ],
+            "label": ["DH", "GND/TWR"],
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "DH",
-                    "TWR"
-                  ],
+                  "label": ["DH", "TWR"],
                   "station_id": "EDDH-TWR"
                 },
                 {
-                  "label": [
-                    "DH",
-                    "APN",
-                    "EAST"
-                  ],
+                  "label": ["DH", "APN", "EAST"],
                   "station_id": "EDDH-GND_E"
                 },
                 {
-                  "label": [
-                    "DH",
-                    "APN",
-                    "WEST"
-                  ],
+                  "label": ["DH", "APN", "WEST"],
                   "station_id": "EDDH-GND_W"
                 },
                 {
-                  "label": [
-                    "DH",
-                    "DEL"
-                  ],
+                  "label": ["DH", "DEL"],
                   "station_id": "EDDH-DEL"
                 }
               ]
             }
           },
           {
-            "label": [
-              "EKDK",
-              "C",
-              "285-365"
-            ]
+            "label": ["EKDK", "C", "285-365"]
           },
           {
-            "label": [
-              "YY",
-              "DELTA"
-            ]
+            "label": ["YY", "DELTA"]
           },
           {
-            "label": [
-              "EGPX",
-              "HUMBER"
-            ]
+            "label": ["EGPX", "HUMBER"]
           },
           {
-            "label": [
-              "EHAA",
-              "WEST"
-            ]
+            "label": ["EHAA", "WEST"]
           },
           {
-            "label": [
-              "MIL",
-              "TWR/APP"
-            ],
+            "label": ["MIL", "TWR/APP"],
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "ETNH",
-                    "TWR"
-                  ],
+                  "label": ["ETNH", "TWR"],
                   "station_id": "ETNH_TWR"
                 },
                 {
-                  "label": [
-                    "ETNH",
-                    "APP"
-                  ],
+                  "label": ["ETNH", "APP"],
                   "station_id": "ETNH_APP"
                 },
                 {
-                  "label": [
-                    "ETNS",
-                    "TWR"
-                  ],
+                  "label": ["ETNS", "TWR"],
                   "station_id": "ETNS_TWR"
                 },
                 {
-                  "label": [
-                    "ETNS",
-                    "APP"
-                  ],
+                  "label": ["ETNS", "APP"],
                   "station_id": "ETNS_APP"
                 },
                 {
-                  "label": [
-                    "ETMN",
-                    "TWR"
-                  ],
+                  "label": ["ETMN", "TWR"],
                   "station_id": "ETMN_TWR"
                 },
                 {
-                  "label": [
-                    "ETMN",
-                    "APP"
-                  ],
+                  "label": ["ETMN", "APP"],
                   "station_id": "ETMN_APP"
                 },
                 {
-                  "label": [
-                    "ETNT",
-                    "TWR"
-                  ],
+                  "label": ["ETNT", "TWR"],
                   "station_id": "ETNT_TWR"
                 },
                 {
-                  "label": [
-                    "ETNT",
-                    "APP"
-                  ],
+                  "label": ["ETNT", "APP"],
                   "station_id": "ETNT_APP"
                 }
               ]
             }
           },
           {
-            "label": [
-              "HI",
-              "TWR"
-            ],
+            "label": ["HI", "TWR"],
             "station_id": "EDHI-TWR"
           },
           {
-            "label": [
-              "EKDK",
-              "C",
-              "+365"
-            ]
+            "label": ["EKDK", "C", "+365"]
           },
           {
-            "label": [
-              "EKDK",
-              "D",
-              "-285"
-            ]
+            "label": ["EKDK", "D", "-285"]
           },
           {
-            "label": [
-              "EHMC"
-            ]
+            "label": ["EHMC"]
           },
           {
-            "label": [
-              "EHAA",
-              "EAST"
-            ]
+            "label": ["EHAA", "EAST"]
           },
           {
-            "label": [
-              "TRAMON",
-              "SUNRISE",
-              "LONESHIP"
-            ],
+            "label": ["TRAMON", "SUNRISE", "LONESHIP"],
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "TRAMON"
-                  ]
+                  "label": ["TRAMON"]
                 },
                 {
-                  "label": [
-                    "SUNRISE"
-                  ]
+                  "label": ["SUNRISE"]
                 },
                 {
-                  "label": [
-                    "LONESHIP"
-                  ]
+                  "label": ["LONESHIP"]
                 }
               ]
             }
           },
           {
-            "label": [
-              "HL",
-              "GND/TWR"
-            ],
+            "label": ["HL", "GND/TWR"],
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "HL",
-                    "TWR"
-                  ],
+                  "label": ["HL", "TWR"],
                   "station_id": "EDHL-TWR"
                 },
                 {
-                  "label": [
-                    "HL",
-                    "GND"
-                  ],
+                  "label": ["HL", "GND"],
                   "station_id": "EDHL-GND"
                 }
               ]
             }
           },
           {
-            "label": [
-              "EKDK",
-              "A",
-              "285-365"
-            ]
+            "label": ["EKDK", "A", "285-365"]
           },
           {
-            "label": [
-              "EKDK",
-              "I",
-              "-285"
-            ]
+            "label": ["EKDK", "I", "-285"]
           },
           {
-            "label": [
-              "EKDK",
-              "N",
-              "-365"
-            ]
+            "label": ["EKDK", "N", "-365"]
           },
           {
-            "label": [
-              "EHGG",
-              "APP"
-            ]
+            "label": ["EHGG", "APP"]
           },
           {
-            "label": [
-              "XW",
-              "TWR"
-            ],
+            "label": ["XW", "TWR"],
             "station_id": "EDXW-TWR"
           },
           {
-            "label": [
-              "DW",
-              "GND/TWR"
-            ],
+            "label": ["DW", "GND/TWR"],
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "DW",
-                    "TWR"
-                  ],
+                  "label": ["DW", "TWR"],
                   "station_id": "EDDW-TWR"
                 },
                 {
-                  "label": [
-                    "DW",
-                    "GND"
-                  ],
+                  "label": ["DW", "GND"],
                   "station_id": "EDDW-GND"
                 }
               ]
             }
           },
           {
-            "label": [
-              "EKDK",
-              "A",
-              "+365"
-            ]
+            "label": ["EKDK", "A", "+365"]
           },
           {
-            "label": [
-              "EKDK",
-              "B",
-              "-285"
-            ]
+            "label": ["EKDK", "B", "-285"]
           },
           {
-            "label": [
-              "EKDK",
-              "N",
-              "+365"
-            ]
+            "label": ["EKDK", "N", "+365"]
           },
           {
-            "label": [
-              "AFIS"
-            ],
+            "label": ["AFIS"],
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "HK",
-                    "INFO"
-                  ],
+                  "label": ["HK", "INFO"],
                   "station_id": "EDHK-AFIS"
                 },
                 {
-                  "label": [
-                    "WE",
-                    "INFO"
-                  ],
+                  "label": ["WE", "INFO"],
                   "station_id": "EDWE-AFIS"
                 },
                 {
-                  "label": [
-                    "WI",
-                    "INFO"
-                  ],
+                  "label": ["WI", "INFO"],
                   "station_id": "EDWI-AFIS"
                 }
               ]
             }
           },
           {
-            "label": [
-              "FIS"
-            ],
+            "label": ["FIS"],
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "FIS",
-                    "DB"
-                  ]
+                  "label": ["FIS", "DB"]
                 },
                 {
-                  "label": [
-                    "FIS",
-                    "DC"
-                  ]
+                  "label": ["FIS", "DC"]
                 },
                 {
-                  "label": [
-                    "FIS",
-                    "DH"
-                  ]
+                  "label": ["FIS", "DH"]
                 },
                 {
-                  "label": [
-                    "FIS",
-                    "DL"
-                  ]
+                  "label": ["FIS", "DL"]
                 },
                 {
-                  "label": [
-                    "FIS",
-                    "DV"
-                  ]
+                  "label": ["FIS", "DV"]
                 },
                 {
-                  "label": [
-                    "FIS",
-                    "SW"
-                  ]
+                  "label": ["FIS", "SW"]
                 }
               ]
             }
           },
           {
-            "label": [
-              "FMP"
-            ],
+            "label": ["FMP"],
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "EDWW",
-                    "FMP"
-                  ]
+                  "label": ["EDWW", "FMP"]
                 },
                 {
-                  "label": [
-                    "EDGG",
-                    "FMP"
-                  ]
+                  "label": ["EDGG", "FMP"]
                 },
                 {
-                  "label": [
-                    "EDMM",
-                    "FMP"
-                  ],
+                  "label": ["EDMM", "FMP"],
                   "station_id": "EDMM-FMP"
                 },
                 {
-                  "label": [
-                    "EKDK",
-                    "FMP"
-                  ]
+                  "label": ["EKDK", "FMP"]
                 },
                 {
-                  "label": [
-                    "ESMM",
-                    "FMP"
-                  ],
+                  "label": ["ESMM", "FMP"],
                   "station_id": "ESAA FMP"
                 },
                 {
-                  "label": [
-                    "EPWW",
-                    "FMP"
-                  ],
+                  "label": ["EPWW", "FMP"],
                   "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": [
-                    "EHAA",
-                    "FMP"
-                  ]
+                  "label": ["EHAA", "FMP"]
                 }
               ]
             }

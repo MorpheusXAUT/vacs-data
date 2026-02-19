@@ -8,167 +8,96 @@
         "rows": 5,
         "keys": [
           {
-            "label": [
-              "DFAN"
-            ],
+            "label": ["DFAN"],
             "station_id": "EDGG-DFAN"
           },
           {
-            "label": [
-              "DFANT",
-              "Feeder"
-            ],
+            "label": ["DFANT", "Feeder"],
             "station_id": "EDGG-DFANT"
           },
           {
-            "label": [
-              "EDDF",
-              "C",
-              "TWR"
-            ],
+            "label": ["EDDF", "C", "TWR"],
             "station_id": "EDGG-DFTC"
           },
           {
-            "label": [
-              "EDDF",
-              "C",
-              "GND"
-            ],
+            "label": ["EDDF", "C", "GND"],
             "station_id": "EDGG-DFGC"
           },
           {
-            "label": [
-              "EDDF",
-              "DEL"
-            ],
+            "label": ["EDDF", "DEL"],
             "station_id": "EDGG-DFC"
           },
           {
-            "label": [
-              "DFAS"
-            ],
+            "label": ["DFAS"],
             "station_id": "EDGG-DFAS"
           },
           {
-            "label": [
-              "DFAST",
-              "Feeder"
-            ],
+            "label": ["DFAST", "Feeder"],
             "station_id": "EDGG-DFAST"
           },
           {
-            "label": [
-              "EDDF",
-              "W",
-              "TWR"
-            ],
+            "label": ["EDDF", "W", "TWR"],
             "station_id": "EDGG-DFTW"
           },
           {
-            "label": [
-              "EDDF",
-              "W",
-              "GND"
-            ],
+            "label": ["EDDF", "W", "GND"],
             "station_id": "EDGG-DFGW"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "DFDN"
-            ],
+            "label": ["DFDN"],
             "station_id": "EDGG-DFDN"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDDF",
-              "N",
-              "TWR"
-            ],
+            "label": ["EDDF", "N", "TWR"],
             "station_id": "EDGG-DFTN"
           },
           {
-            "label": [
-              "EDDF",
-              "E",
-              "GND"
-            ],
+            "label": ["EDDF", "E", "GND"],
             "station_id": "EDGG-DFGE"
           },
           {
-            "label": [
-              "EDDF",
-              "ICE"
-            ],
+            "label": ["EDDF", "ICE"],
             "station_id": "EDGG-DFGI"
           },
           {
-            "label": [
-              "DFDS"
-            ],
+            "label": ["DFDS"],
             "station_id": "EDGG-DFDS"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDDF",
-              "S",
-              "TWR"
-            ],
+            "label": ["EDDF", "S", "TWR"],
             "station_id": "EDGG-DFTS"
           },
           {
-            "label": [
-              "EDDF",
-              "S",
-              "GND"
-            ],
+            "label": ["EDDF", "S", "GND"],
             "station_id": "EDGG-DFGS"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDDF",
-              "GND"
-            ],
+            "label": ["EDDF", "GND"],
             "station_id": "EDGG-DFG"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           }
         ]
       }
@@ -179,180 +108,109 @@
         "rows": 5,
         "keys": [
           {
-            "label": [
-              "DLA"
-            ],
+            "label": ["DLA"],
             "station_id": "EDGG-DLA"
           },
           {
-            "label": [
-              "DLAT",
-              "Feeder"
-            ],
+            "label": ["DLAT", "Feeder"],
             "station_id": "EDGG-DLAT"
           },
           {
-            "label": [
-              "EDDL",
-              "TWR"
-            ],
+            "label": ["EDDL", "TWR"],
             "station_id": "EDGG-DLT"
           },
           {
-            "label": [
-              "EDDL",
-              "E",
-              "GND"
-            ],
+            "label": ["EDDL", "E", "GND"],
             "station_id": "EDGG-DLGE"
           },
           {
-            "label": [
-              "EDDL",
-              "DEL"
-            ],
+            "label": ["EDDL", "DEL"],
             "station_id": "EDGG-DLC"
           },
           {
-            "label": [
-              "BOT"
-            ],
+            "label": ["BOT"],
             "station_id": "EDGG-BOT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDDL",
-              "W",
-              "GND"
-            ],
+            "label": ["EDDL", "W", "GND"],
             "station_id": "EDGG-DLGW"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "DLD"
-            ],
+            "label": ["DLD"],
             "station_id": "EDGG-DLD"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "DKLA"
-            ],
+            "label": ["DKLA"],
             "station_id": "EDGG-DKLA"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "NOR"
-            ],
+            "label": ["NOR"],
             "station_id": "EDGG-NOR"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDDK",
-              "TWR"
-            ],
+            "label": ["EDDK", "TWR"],
             "station_id": "EDGG-DKT"
           },
           {
-            "label": [
-              "EDDK",
-              "GND"
-            ],
+            "label": ["EDDK", "GND"],
             "station_id": "EDGG-DKG"
           },
           {
-            "label": [
-              "EDDK",
-              "DEL"
-            ],
+            "label": ["EDDK", "DEL"],
             "station_id": "EDGG-DKC"
           },
           {
-            "label": [
-              "DKA"
-            ],
+            "label": ["DKA"],
             "station_id": "EDGG-DKA"
           },
           {
-            "label": [
-              "DKAT",
-              "Feeder"
-            ],
+            "label": ["DKAT", "Feeder"],
             "station_id": "EDGG-DKAT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           }
         ]
       }
@@ -363,303 +221,183 @@
         "rows": 7,
         "keys": [
           {
-            "label": [
-              "STG"
-            ],
+            "label": ["STG"],
             "station_id": "EDGG-STG"
           },
           {
-            "label": [
-              "DSAT",
-              "Feeder"
-            ],
+            "label": ["DSAT", "Feeder"],
             "station_id": "EDGG-DSAT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDDS",
-              "TWR"
-            ],
+            "label": ["EDDS", "TWR"],
             "station_id": "EDGG-DST"
           },
           {
-            "label": [
-              "EDDS",
-              "GND"
-            ],
+            "label": ["EDDS", "GND"],
             "station_id": "EDGG-DSG"
           },
           {
-            "label": [
-              "EDDS",
-              "DEL"
-            ],
+            "label": ["EDDS", "DEL"],
             "station_id": "EDGG-DSC"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "REU"
-            ],
+            "label": ["REU"],
             "station_id": "EDGG-REU"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDSB",
-              "TWR"
-            ],
+            "label": ["EDSB", "TWR"],
             "station_id": "EDGG-SBT"
           },
           {
-            "label": [
-              "EDSB",
-              "GND"
-            ],
+            "label": ["EDSB", "GND"],
             "station_id": "EDGG-SBG"
           },
           {
-            "label": [
-              "EDDG",
-              "TWR"
-            ],
+            "label": ["EDDG", "TWR"],
             "station_id": "EDGG-DGT"
           },
           {
-            "label": [
-              "EDDG",
-              "GND"
-            ],
+            "label": ["EDDG", "GND"],
             "station_id": "EDGG-DGG"
           },
           {
-            "label": [
-              "HMM"
-            ],
+            "label": ["HMM"],
             "station_id": "EDGG-HMM"
           },
           {
-            "label": [
-              "DGAT",
-              "Feeder"
-            ],
+            "label": ["DGAT", "Feeder"],
             "station_id": "EDGG-DGAT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDLM",
-              "TWR"
-            ],
+            "label": ["EDLM", "TWR"],
             "station_id": "EDGG-FMT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDDR",
-              "TWR"
-            ],
+            "label": ["EDDR", "TWR"],
             "station_id": "EDGG-DRT"
           },
           {
-            "label": [
-              "EDDR",
-              "GND"
-            ],
+            "label": ["EDDR", "GND"],
             "station_id": "EDGG-DRG"
           },
           {
-            "label": [
-              "NKRL"
-            ],
+            "label": ["NKRL"],
             "station_id": "EDGG-NKRL"
           },
           {
-            "label": [
-              "DLA"
-            ],
+            "label": ["DLA"],
             "station_id": "EDGG-DLA"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDFH",
-              "TWR"
-            ],
+            "label": ["EDFH", "TWR"],
             "station_id": "EDGG-FHT"
           },
           {
-            "label": [
-              "EDFH",
-              "GND"
-            ],
+            "label": ["EDFH", "GND"],
             "station_id": "EDGG-FHG"
           },
           {
-            "label": [
-              "EDLN",
-              "TWR"
-            ],
+            "label": ["EDLN", "TWR"],
             "station_id": "EDGG-LNT"
           },
           {
-            "label": [
-              "EDLN",
-              "GND"
-            ],
+            "label": ["EDLN", "GND"],
             "station_id": "EDGG-LNG"
           },
           {
-            "label": [
-              "PFA"
-            ],
+            "label": ["PFA"],
             "station_id": "EDGG-PFA"
           },
           {
-            "label": [
-              "DLD"
-            ],
+            "label": ["DLD"],
             "station_id": "EDGG-DLD"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDLP",
-              "TWR"
-            ],
+            "label": ["EDLP", "TWR"],
             "station_id": "EDGG-LPT"
           },
           {
-            "label": [
-              "EDLP",
-              "GND"
-            ],
+            "label": ["EDLP", "GND"],
             "station_id": "EDGG-LPG"
           },
           {
-            "label": [
-              "EDLV",
-              "TWR"
-            ],
+            "label": ["EDLV", "TWR"],
             "station_id": "EDGG-LVT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EIF"
-            ],
+            "label": ["EIF"],
             "station_id": "EDGG-EIF"
           },
           {
-            "label": [
-              "DLAT",
-              "Feeder"
-            ],
+            "label": ["DLAT", "Feeder"],
             "station_id": "EDGG-DLAT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDLW",
-              "TWR"
-            ],
+            "label": ["EDLW", "TWR"],
             "station_id": "EDGG-LWT"
           },
           {
-            "label": [
-              "EDLW",
-              "GND"
-            ],
+            "label": ["EDLW", "GND"],
             "station_id": "EDGG-LWG"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "BOT"
-            ],
+            "label": ["BOT"],
             "station_id": "EDGG-BOT"
           },
           {
-            "label": [
-              "PAL"
-            ],
+            "label": ["PAL"],
             "station_id": "EDGG-PADL"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           }
         ]
       }
@@ -670,193 +408,115 @@
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "TSBA"
-            ]
+            "label": ["TSBA"]
           },
           {
-            "label": [
-              "ETSB",
-              "TWR"
-            ],
+            "label": ["ETSB", "TWR"],
             "station_id": "EDGG-TOUT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "EDTL",
-              "TWR"
-            ],
+            "label": ["EDTL", "TWR"],
             "station_id": "EDGG-TLT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "TADA"
-            ]
+            "label": ["TADA"]
           },
           {
-            "label": [
-              "ETAD",
-              "TWR"
-            ],
+            "label": ["ETAD", "TWR"],
             "station_id": "EDGG-TADT"
           },
           {
-            "label": [
-              "ETAD",
-              "GND"
-            ],
+            "label": ["ETAD", "GND"],
             "station_id": "EDGG-TADG"
           },
           {
-            "label": [
-              "ETAD",
-              "Clearance"
-            ],
+            "label": ["ETAD", "Clearance"],
             "station_id": "EDGG-TADC"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "TARA"
-            ]
+            "label": ["TARA"]
           },
           {
-            "label": [
-              "ETAR",
-              "TWR"
-            ],
+            "label": ["ETAR", "TWR"],
             "station_id": "EDGG-TART"
           },
           {
-            "label": [
-              "ETAR",
-              "GND"
-            ],
+            "label": ["ETAR", "GND"],
             "station_id": "EDGG-TARG"
           },
           {
-            "label": [
-              "THFA"
-            ]
+            "label": ["THFA"]
           },
           {
-            "label": [
-              "ETHF",
-              "TWR"
-            ],
+            "label": ["ETHF", "TWR"],
             "station_id": "EDGG-THFT"
           },
           {
-            "label": [
-              "ETHF",
-              "GND"
-            ],
+            "label": ["ETHF", "GND"],
             "station_id": "EDGG-THFG"
           },
           {
-            "label": [
-              "THNA"
-            ]
+            "label": ["THNA"]
           },
           {
-            "label": [
-              "ETHN",
-              "TWR"
-            ],
+            "label": ["ETHN", "TWR"],
             "station_id": "EDGG-THNT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "TNGA"
-            ]
+            "label": ["TNGA"]
           },
           {
-            "label": [
-              "ETNG",
-              "TWR"
-            ],
+            "label": ["ETNG", "TWR"],
             "station_id": "EDGG-TNGT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "TNNT"
-            ]
+            "label": ["TNNT"]
           },
           {
-            "label": [
-              "ETNN",
-              "TWR"
-            ],
+            "label": ["ETNN", "TWR"],
             "station_id": "EDGG-TNNT"
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              ""
-            ]
+            "label": [""]
           },
           {
-            "label": [
-              "ETOU",
-              "TWR"
-            ],
+            "label": ["ETOU", "TWR"],
             "station_id": "EDGG-TOUT"
           },
           {
-            "label": [
-              "ETOU",
-              "GND"
-            ],
+            "label": ["ETOU", "GND"],
             "station_id": "EDGG-TOUG"
           },
           {
-            "label": [
-              "DKA"
-            ],
+            "label": ["DKA"],
             "station_id": "EDGG-DKA"
           },
           {
-            "label": [
-              "DFAN"
-            ],
+            "label": ["DFAN"],
             "station_id": "EDGG-DFAN"
           }
         ]

@@ -8,68 +8,43 @@
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "HAM"
-            ],
+            "label": ["HAM"],
             "station_id": "EDWW-HAM"
           },
           {
-            "label": [
-              "TWR"
-            ],
+            "label": ["TWR"],
             "station_id": "EDDH-TWR"
           },
           {
-            "label": [
-              "TWR",
-              "VFR"
-            ],
+            "label": ["TWR", "VFR"],
             "station_id": "EDDH-TWR_VFR"
           },
           {
-            "label": [
-              "APN",
-              "E"
-            ],
+            "label": ["APN", "E"],
             "station_id": "EDDH-GND_E"
           },
           {
-            "label": [
-              "APN",
-              "W"
-            ],
+            "label": ["APN", "W"],
             "station_id": "EDDH-GND_W"
           },
           {
-            "label": [
-              "DEL"
-            ],
+            "label": ["DEL"],
             "station_id": "EDDH-DEL"
           },
           {
-            "label": [
-              "HAMW"
-            ],
+            "label": ["HAMW"],
             "station_id": "EDWW-HAMW"
           },
           {
-            "label": [
-              "DHAT"
-            ],
+            "label": ["DHAT"],
             "station_id": "EDWW-DHAT"
           },
           {
-            "label": [
-              "HI",
-              "TWR"
-            ],
+            "label": ["HI", "TWR"],
             "station_id": "EDHI-TWR"
           },
           {
-            "label": [
-              "EDWW",
-              "FMP"
-            ]
+            "label": ["EDWW", "FMP"]
           }
         ]
       }

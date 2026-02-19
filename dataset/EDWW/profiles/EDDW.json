@@ -8,28 +8,19 @@
         "rows": 6,
         "keys": [
           {
-            "label": [
-              "FRI"
-            ],
+            "label": ["FRI"],
             "station_id": "EDWW-FRI"
           },
           {
-            "label": [
-              "TWR"
-            ],
+            "label": ["TWR"],
             "station_id": "EDDW-TWR"
           },
           {
-            "label": [
-              "GND"
-            ],
+            "label": ["GND"],
             "station_id": "EDDW-GND"
           },
           {
-            "label": [
-              "EDWW",
-              "FMP"
-            ]
+            "label": ["EDWW", "FMP"]
           }
         ]
       }
