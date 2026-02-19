@@ -1,5 +1,5 @@
 {
-  "id": "EDWW-APP",
+  "id": "EDDW-APP",
   "type": "Tabbed",
   "tabs": [
     {
@@ -164,7 +164,7 @@
               "DW",
               "GND"
             ],
-            "station_id": "EDWW-GND"
+            "station_id": "EDDW-GND"
           },
           {
             "label": [
