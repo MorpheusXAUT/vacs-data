@@ -146,6 +146,10 @@
         ]
     },
     {
+      "id": "EDGG-DGAT",
+      "controlled_by": ["EDDG_F_APP"]
+    },
+    {
       "id": "EDGG-PAD",
       "controlled_by": ["EDGG_PAD_CTR"]
     },

@@ -878,7 +878,7 @@
                     "label": [
                         "SLN"
                     ],
-                    "station_id": "EDGG-SLN"
+                    "station_id": "EDUU-SLN"
                 },
                 {
                     "label": [
@@ -967,7 +967,7 @@
                     "label": [
                         "TGO"
                     ],
-                    "station_id": "EDGG-TGO"
+                    "station_id": "EDUU-TGO"
                 },
                 {
                     "label": [
@@ -1011,7 +1011,7 @@
                     "label": [
                         "WUR"
                     ],
-                    "station_id": "EDGG-WUR"
+                    "station_id": "EDUU-WUR"
                 },
                 {
                     "label": [
@@ -1491,7 +1491,7 @@
                         "EDUU",
                         "WUR"
                     ],
-                    "station_id": "EDGG-WUR"
+                    "station_id": "EDUU-WUR"
                 },
                 {
                     "label": [
