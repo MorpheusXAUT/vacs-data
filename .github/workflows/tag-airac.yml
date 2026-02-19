@@ -23,7 +23,7 @@ jobs:
           echo "Checking for AIRAC cycle on $TODAY..."
 
           # Read YAML file and look for current date
-          CYCLE=$(grep "^$TODAY:" .github/airac-cycles.yaml | cut -d '"' -f 2 || true)
+          CYCLE=$(grep "^$TODAY:" .github/airac-cycles.yml | cut -d '"' -f 2 || true)
 
           if [[ -n "$CYCLE" ]]; then
             echo "Found AIRAC cycle: $CYCLE"
