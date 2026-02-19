@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-        "label": "N/NH",
+        "label": ["N/NH", ""],
         "page": {
             "rows": 6,
             "keys": [
@@ -1400,7 +1400,7 @@
         }
     },
     {
-        "label": "A/AH",
+        "label": ["A/AH", ""],
         "page": {
             "rows": 6,
             "keys": [
@@ -1421,7 +1421,7 @@
                     "label": [
                         "PADH"
                     ],
-                    "station_id": "EDGG-PADH"
+                    "station_id": "EDGG-PAH"
                 },
                 {
                     "label": [
@@ -1529,7 +1529,7 @@
                         "EDUU",
                         "SLN"
                     ],
-                    "station_id": "EDGG-SLN"
+                    "station_id": "EDUU-SLN"
                 },
                 {
                     "label": [

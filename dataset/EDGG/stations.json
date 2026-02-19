@@ -927,17 +927,17 @@
       "parent_id": "EDGG-TART"
     },
     {
-      "id": "EDGG-THFA",
+      "id": "EDGG-THFT",
       "controlled_by": ["ETHF_TWR"],
       "parent_id": "EDGG-HEF"
     },
     {
       "id": "EDGG-THFG",
       "controlled_by": ["ETHF_GND"],
-      "parent_id": "EDGG-THFA"
+      "parent_id": "EDGG-THFT"
     },
     {
-      "id": "EDGG-THNA",
+      "id": "EDGG-THNT",
       "controlled_by": ["ETHN_TWR"],
       "parent_id": "EDGG-DKB"
     },

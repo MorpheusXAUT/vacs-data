@@ -449,8 +449,7 @@
                 "label": [
                     "EDYY",
                     "SL"
-                ],
-                "station_id": "EDYY-SL"
+                ]
             },
             {
                 "label": [
@@ -550,15 +549,13 @@
                 "label": [
                     "EDUU",
                     "SAL"
-                ],
-                "station_id": "EDUU-SAL"
+                ]
             },
             {
                 "label": [
                     "EDUU",
                     "ERL"
-                ],
-                "station_id": "EDUU-ERL"
+                ]
             },
             {
                 "label": [
@@ -712,8 +709,7 @@
                 "label": [
                     "EDUU",
                     "ERL"
-                ],
-                "station_id": "EDUU-ERL"
+                ]
             },
             {
                 "label": [
