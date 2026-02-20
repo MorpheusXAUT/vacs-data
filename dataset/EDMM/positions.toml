@@ -2,7 +2,7 @@
 id = "EDMM_FMP"
 prefixes = ["EDMM"]
 frequency = "199.998"
-facility_type = "CTR"
+facility_type = "FMP"
 profile_id = "EDMM-WEST-NORTH"
 
 # EDMM CTR
