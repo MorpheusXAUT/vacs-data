@@ -1,0 +1,259 @@
+{
+  "id": "ESGG_APP",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESGG"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["MM", "4"],
+            "station_id": "ESMM 4"
+          },
+          {
+            "label": ["MM", "XK"],
+            "station_id": "ESMM XK"
+          },
+          {
+            "label": ["EKDK", "L"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["", "APP-W"],
+            "station_id": "ESGG APP-W"
+          },
+          {
+            "label": ["", "DEL"],
+            "station_id": "ESGG DEL"
+          },
+          {
+            "label": ["MM", "5"],
+            "station_id": "ESMM 5"
+          },
+          {
+            "label": ["MM", "K"],
+            "station_id": "ESMM K"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["", "ARR"],
+            "station_id": "ESGG ARR"
+          },
+          {
+            "label": ["", "GND"],
+            "station_id": "ESGG GND"
+          },
+          {
+            "label": ["MM", "IN"],
+            "station_id": "ESMM IN"
+          },
+          {
+            "label": ["MM", "IS"],
+            "station_id": "ESMM IS"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["GT", "TWR"],
+            "station_id": "ESGT TWR"
+          },
+          {
+            "label": ["", "APP-E"],
+            "station_id": "ESGG APP-E"
+          },
+          {
+            "label": ["", "TWR"],
+            "station_id": "ESGG TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["IB", "APP"],
+            "station_id": "ESIB APP"
+          },
+          {
+            "label": ["IB", "TWR"],
+            "station_id": "ESIB TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["WS", ""],
+            "station_id": "ESAA FMP"
+          },
+          {
+            "label": ["EKDK", "FMP"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["IB", "PAR"],
+            "station_id": "ESIB PAR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["ESAA"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["OS", "1"],
+            "station_id": "ESOS 1"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OS", "3"],
+            "station_id": "ESOS 3"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OK", "TWR"],
+            "station_id": "ESOK TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OE", "TWR"],
+            "station_id": "ESOE TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["MT", "TWR"],
+            "station_id": "ESMT TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["IA", "APP"],
+            "station_id": "ESIA APP"
+          },
+          {
+            "label": ["GJ", "TWR"],
+            "station_id": "ESGJ TWR"
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["MIL"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["COB", ""],
+            "station_id": "ESPF"
+          },
+          {
+            "label": ["GRI", ""],
+            "station_id": "ESCR"
+          },
+          {
+            "label": ["BSH", ""],
+            "station_id": "ESDK"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["FR", "APP"],
+            "station_id": "ESFR APP"
+          },
+          {
+            "label": ["FR", "TWR"],
+            "station_id": "ESFR TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["MV", "APP"],
+            "station_id": "ESMV APP"
+          },
+          {
+            "label": ["MV", "TWR", ""],
+            "station_id": "ESMV TWR"
+          }
+        ]
+      }
+    }
+  ]
+}
