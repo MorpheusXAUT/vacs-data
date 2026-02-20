@@ -144,6 +144,14 @@ id = "EFHK_GND"
 controlled_by = ["EFHK_GND"]
 
 [[stations]]
+id = "EFHK_DEICE_CO"
+controlled_by = ["EFHK_C_GND"]
+
+[[stations]]
+id = "EFHK_DEICE_OP"
+controlled_by = ["EFHK_D_GND"]
+
+[[stations]]
 id = "EFHK_CLD"
 controlled_by = ["EFHK_DEL"]
 
