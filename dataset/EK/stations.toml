@@ -346,10 +346,6 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EKDKN"
-controlled_by = ["EKDK_N_CTR", "EKDK_V_CTR", "EKDK_CTR", "EKDK_UV_CTR"]
-
-[[stations]]
 id = "EKDKUV"
 controlled_by = ["EKDK_UV_CTR", "EKDK_V_CTR", "EKDK_N_CTR", "EKDK_CTR"]
 
