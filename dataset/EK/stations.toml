@@ -168,61 +168,61 @@ controlled_by = [
 [[stations]]
 id = "EKCH_A_GND"
 controlled_by = [
-    "EKCH_A_GND",
-    "EKCH_B_GND",
-    "EKCH_C_GND",
-    "EKCH_C_TWR",
-    "EKCH_A_TWR",
-    "EKCH_D_TWR",
-    "EKCH_F_APP",
-    "EKCH_W_APP",
-    "EKCH_O_APP",
-    "EKDK_I_CTR",
-    "EKDK_B_CTR",
-    "EKDK_D_CTR",
-    "EKDK_E_CTR",
-    "EKDK_UC_CTR",
-    "EKDK_CTR"
+  "EKCH_A_GND",
+  "EKCH_B_GND",
+  "EKCH_C_GND",
+  "EKCH_C_TWR",
+  "EKCH_A_TWR",
+  "EKCH_D_TWR",
+  "EKCH_F_APP",
+  "EKCH_W_APP",
+  "EKCH_O_APP",
+  "EKDK_I_CTR",
+  "EKDK_B_CTR",
+  "EKDK_D_CTR",
+  "EKDK_E_CTR",
+  "EKDK_UC_CTR",
+  "EKDK_CTR",
 ]
 
 [[stations]]
 id = "EKCH_B_GND"
 controlled_by = [
-    "EKCH_B_GND",
-    "EKCH_A_GND",
-    "EKCH_C_GND",
-    "EKCH_C_TWR",
-    "EKCH_A_TWR",
-    "EKCH_D_TWR",
-    "EKCH_F_APP",
-    "EKCH_W_APP",
-    "EKCH_O_APP",
-    "EKDK_I_CTR",
-    "EKDK_B_CTR",
-    "EKDK_D_CTR",
-    "EKDK_E_CTR",
-    "EKDK_UC_CTR",
-    "EKDK_CTR"
+  "EKCH_B_GND",
+  "EKCH_A_GND",
+  "EKCH_C_GND",
+  "EKCH_C_TWR",
+  "EKCH_A_TWR",
+  "EKCH_D_TWR",
+  "EKCH_F_APP",
+  "EKCH_W_APP",
+  "EKCH_O_APP",
+  "EKDK_I_CTR",
+  "EKDK_B_CTR",
+  "EKDK_D_CTR",
+  "EKDK_E_CTR",
+  "EKDK_UC_CTR",
+  "EKDK_CTR",
 ]
 
 [[stations]]
 id = "EKCH_C_GND"
 controlled_by = [
-    "EKCH_C_GND",
-    "EKCH_A_GND",
-    "EKCH_B_GND",
-    "EKCH_C_TWR",
-    "EKCH_A_TWR",
-    "EKCH_D_TWR",
-    "EKCH_F_APP",
-    "EKCH_W_APP",
-    "EKCH_O_APP",
-    "EKDK_I_CTR",
-    "EKDK_B_CTR",
-    "EKDK_D_CTR",
-    "EKDK_E_CTR",
-    "EKDK_UC_CTR",
-    "EKDK_CTR"
+  "EKCH_C_GND",
+  "EKCH_A_GND",
+  "EKCH_B_GND",
+  "EKCH_C_TWR",
+  "EKCH_A_TWR",
+  "EKCH_D_TWR",
+  "EKCH_F_APP",
+  "EKCH_W_APP",
+  "EKCH_O_APP",
+  "EKDK_I_CTR",
+  "EKDK_B_CTR",
+  "EKDK_D_CTR",
+  "EKDK_E_CTR",
+  "EKDK_UC_CTR",
+  "EKDK_CTR",
 ]
 
 [[stations]]
@@ -238,7 +238,7 @@ controlled_by = [
   "EKDK_UA_CTR",
   "EKDK_UC_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -252,7 +252,7 @@ controlled_by = [
   "EKDK_UA_CTR",
   "EKDK_UC_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -263,7 +263,7 @@ controlled_by = [
   "EKDK_UC_CTR",
   "EKDK_UA_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -277,7 +277,7 @@ controlled_by = [
   "EKDK_UC_CTR",
   "EKDK_UA_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -291,7 +291,7 @@ controlled_by = [
   "EKDK_UC_CTR",
   "EKDK_UA_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -305,7 +305,7 @@ controlled_by = [
   "EKDK_UA_CTR",
   "EKDK_UC_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -315,7 +315,7 @@ controlled_by = [
   "EKDK_V_CTR",
   "EKDK_N_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -330,7 +330,7 @@ controlled_by = [
   "EKDK_C_CTR",
   "EKDK_UC_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -342,7 +342,7 @@ controlled_by = [
   "EKDK_UA_CTR",
   "EKDK_CTR",
   "EKDK_UN_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -366,7 +366,7 @@ controlled_by = [
   "EKDK_V_CTR",
   "EKDK_N_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -377,7 +377,7 @@ controlled_by = [
   "EKDK_V_CTR",
   "EKDK_N_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -389,7 +389,7 @@ controlled_by = [
   "EKDK_V_CTR",
   "EKDK_N_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -403,7 +403,7 @@ controlled_by = [
   "EKDK_UC_CTR",
   "EKDK_UA_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -419,7 +419,7 @@ controlled_by = [
   "EKDK_D_CTR",
   "EKDK_E_CTR",
   "EKDK_UC_CTR",
-  "EKDK_CTR"
+  "EKDK_CTR",
 ]
 
 [[stations]]
@@ -436,7 +436,7 @@ controlled_by = [
   "EKDK_D_CTR",
   "EKDK_E_CTR",
   "EKDK_UC_CTR",
-  "EKDK_CTR"
+  "EKDK_CTR",
 ]
 
 [[stations]]
@@ -447,7 +447,7 @@ controlled_by = [
   "EKDK_C_CTR",
   "EKDK_UA_CTR",
   "EKDK_UC_CTR",
-  "EKDK_CTR"
+  "EKDK_CTR",
 ]
 
 [[stations]]
@@ -458,7 +458,7 @@ controlled_by = [
   "EKDK_N_CTR",
   "EKDK_V_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -468,7 +468,7 @@ controlled_by = [
   "EKDK_N_CTR",
   "EKDK_V_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -479,7 +479,7 @@ controlled_by = [
   "EKDK_N_CTR",
   "EKDK_V_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -491,7 +491,7 @@ controlled_by = [
   "EKDK_V_CTR",
   "EKDK_N_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -502,7 +502,7 @@ controlled_by = [
   "EKDK_V_CTR",
   "EKDK_N_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
 
 [[stations]]
@@ -514,5 +514,5 @@ controlled_by = [
   "EKDK_V_CTR",
   "EKDK_N_CTR",
   "EKDK_CTR",
-  "EKDK_UV_CTR"
+  "EKDK_UV_CTR",
 ]
