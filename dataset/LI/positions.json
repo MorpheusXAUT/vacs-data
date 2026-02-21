@@ -4,204 +4,175 @@
       "id": "LIMM_WS2_CTR",
       "prefixes": ["LIMM"],
       "frequency": "135.455",
-      "facility_type": "CTR",
-      "profile_id": "LIMM"
+      "facility_type": "CTR"
     },
     {
       "id": "LIMM_EN2_CTR",
       "prefixes": ["LIMM"],
       "frequency": "127.450",
-      "facility_type": "CTR",
-      "profile_id": "LIMM"
+      "facility_type": "CTR"
     },
     {
       "id": "LIMM_ES2_CTR",
       "prefixes": ["LIMM"],
       "frequency": "130.730",
-      "facility_type": "CTR",
-      "profile_id": "LIMM"
+      "facility_type": "CTR"
     },
     {
       "id": "LIMM_WN2_CTR",
       "prefixes": ["LIMM"],
       "frequency": "128.015",
-      "facility_type": "CTR",
-      "profile_id": "LIMM"
+      "facility_type": "CTR"
     },
     {
       "id": "LIMM_WS5_CTR",
       "prefixes": ["LIMM"],
       "frequency": "122.730",
-      "facility_type": "CTR",
-      "profile_id": "LIMM"
+      "facility_type": "CTR"
     },
     {
       "id": "LIMM_ES5_CTR",
       "prefixes": ["LIMM"],
       "frequency": "136.035",
-      "facility_type": "CTR",
-      "profile_id": "LIMM"
+      "facility_type": "CTR"
     },
     {
       "id": "LIMM_ANE_APP",
       "prefixes": ["LIMM"],
       "frequency": "126.750",
-      "facility_type": "APP",
-      "profile_id": "LIMM"
+      "facility_type": "APP"
     },
     {
       "id": "LIMM_ADE_APP",
       "prefixes": ["LIMM"],
       "frequency": "126.300",
-      "facility_type": "APP",
-      "profile_id": "LIMM"
+      "facility_type": "APP"
     },
     {
       "id": "LIMM_ASW_APP",
       "prefixes": ["LIMM"],
       "frequency": "125.630",
-      "facility_type": "APP",
-      "profile_id": "LIMM"
+      "facility_type": "APP"
     },
     {
       "id": "LIMM_MAR_APP",
       "prefixes": ["LIMM"],
       "frequency": "132.705",
-      "facility_type": "APP",
-      "profile_id": "LIMM"
+      "facility_type": "APP"
     },
     {
       "id": "LIMM_LAR_APP",
       "prefixes": ["LIMM"],
       "frequency": "133.180",
-      "facility_type": "APP",
-      "profile_id": "LIMM"
+      "facility_type": "APP"
     },
     {
       "id": "LIMC_TWR",
       "prefixes": ["LIMC"],
       "frequency": "128.350",
-      "facility_type": "TWR",
-      "profile_id": "LIMM"
+      "facility_type": "TWR"
     },
     {
       "id": "LIMC_E_TWR",
       "prefixes": ["LIMC"],
       "frequency": "123.600",
-      "facility_type": "TWR",
-      "profile_id": "LIMM"
+      "facility_type": "TWR"
     },
     {
       "id": "LIMC_W_GND",
       "prefixes": ["LIMC"],
       "frequency": "121.900",
-      "facility_type": "GND",
-      "profile_id": "LIMM"
+      "facility_type": "GND"
     },
     {
       "id": "LIMC_N_GND",
       "prefixes": ["LIMC"],
       "frequency": "121.825",
-      "facility_type": "GND",
-      "profile_id": "LIMM"
+      "facility_type": "GND"
     },
     {
       "id": "LIMC_DEL",
       "prefixes": ["LIMC"],
       "frequency": "120.900",
-      "facility_type": "DEL",
-      "profile_id": "LIMM"
+      "facility_type": "DEL"
     },
     {
       "id": "LIMC_O_DEL",
       "prefixes": ["LIMC"],
       "frequency": "131.880",
-      "facility_type": "DEL",
-      "profile_id": "LIMM"
+      "facility_type": "DEL"
     },
     {
       "id": "LIME_TWR",
       "prefixes": ["LIME"],
       "frequency": "125.875",
-      "facility_type": "TWR",
-      "profile_id": "LIMM"
+      "facility_type": "TWR"
     },
     {
       "id": "LIME_GND",
       "prefixes": ["LIME"],
       "frequency": "120.505",
-      "facility_type": "GND",
-      "profile_id": "LIMM"
+      "facility_type": "GND"
     },
     {
       "id": "LIME_DEL",
       "prefixes": ["LIME"],
       "frequency": "134.105",
-      "facility_type": "DEL",
-      "profile_id": "LIMM"
+      "facility_type": "DEL"
     },
     {
       "id": "LIMF_TWR",
       "prefixes": ["LIMF"],
       "frequency": "118.500",
-      "facility_type": "TWR",
-      "profile_id": "LIMM"
+      "facility_type": "TWR"
     },
     {
       "id": "LIMF_GND",
       "prefixes": ["LIMF"],
       "frequency": "121.705",
-      "facility_type": "GND",
-      "profile_id": "LIMM"
+      "facility_type": "GND"
     },
     {
       "id": "LIMF_WN0_APP",
       "prefixes": ["LIMF"],
       "frequency": "129.275",
-      "facility_type": "APP",
-      "profile_id": "LIMM"
+      "facility_type": "APP"
     },
     {
       "id": "LIMJ_GND",
       "prefixes": ["LIMJ"],
       "frequency": "121.800",
-      "facility_type": "GND",
-      "profile_id": "LIMM"
+      "facility_type": "GND"
     },
     {
       "id": "LIMJ_TWR",
       "prefixes": ["LIMJ"],
       "frequency": "118.600",
-      "facility_type": "TWR",
-      "profile_id": "LIMM"
+      "facility_type": "TWR"
     },
     {
       "id": "LIMJ_APP",
       "prefixes": ["LIMJ"],
       "frequency": "119.600",
-      "facility_type": "APP",
-      "profile_id": "LIMM"
+      "facility_type": "APP"
     },
     {
       "id": "LIML_TWR",
       "prefixes": ["LIML"],
       "frequency": "118.400",
-      "facility_type": "TWR",
-      "profile_id": "LIMM"
+      "facility_type": "TWR"
     },
     {
       "id": "LIML_GND",
       "prefixes": ["LIML"],
       "frequency": "121.800",
-      "facility_type": "GND",
-      "profile_id": "LIMM"
+      "facility_type": "GND"
     },
     {
       "id": "LIML_DEL",
       "prefixes": ["LIML"],
       "frequency": "119.250",
-      "facility_type": "DEL",
-      "profile_id": "LIMM"
+      "facility_type": "DEL"
     }
   ]
 }
