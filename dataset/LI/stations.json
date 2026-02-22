@@ -343,10 +343,6 @@
       "controlled_by": ["LIPP_CW2_CTR", "LIPP_CW3_CTR", "LIPP_CE1_CTR"]
     },
     {
-      "id": "LIPP-CW3",
-      "controlled_by": ["LIPP_CW3_CTR", "LIPP_CW2_CTR", "LIPP_CE1_CTR"]
-    },
-    {
       "id": "LIPP-NE2",
       "controlled_by": ["LIPP_NE2_CTR", "LIPP_NW1_CTR", "LIPP_CE1_CTR"]
     },
