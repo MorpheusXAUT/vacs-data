@@ -16,7 +16,8 @@
             "station_id": "ESMM XK"
           },
           {
-            "label": ["EKDK", "L"]
+            "label": ["EKDK", "L"],
+            "station_id": "EKDKL"
           },
           {
             "label": []
@@ -99,7 +100,8 @@
             "station_id": "ESAA FMP"
           },
           {
-            "label": ["EKDK", "FMP"]
+            "label": ["EKDK", "FMP"],
+            "station_id": "EKDKFMP"
           },
           {
             "label": []

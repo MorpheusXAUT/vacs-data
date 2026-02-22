@@ -1,5 +1,5 @@
 {
-  "id": "ESMM_ALL",
+  "id": "ESMM_EAST",
   "type": "Tabbed",
   "tabs": [
     {
@@ -141,8 +141,7 @@
             "station_id": "ESMK TWR"
           },
           {
-            "label": ["EKRN", "TWR"],
-            "station_id": "EKRN TWR"
+            "label": ["EKRN", "TWR"]
           }
         ]
       }
@@ -268,121 +267,44 @@
       }
     },
     {
-      "label": ["FIR W"],
+      "label": ["FIR"],
       "page": {
         "rows": 6,
         "keys": [
           {
-            "label": ["ENOS", "4"]
-          },
-          {
-            "label": ["ENOS", "FARRIS", "APP"]
+            "label": ["EFIN", "D"],
+            "station_id": "EFIN_D"
           },
           {
             "label": []
           },
           {
-            "label": ["EKDK", "UV"],
-            "station_id": "EKDKUV"
-          },
-          {
-            "label": ["EKDK", "UC"],
-            "station_id": "EKDKUC"
+            "label": ["EKDK", "FMP"],
+            "station_id": "EKDKFMP"
           },
           {
             "label": ["EKDK", "UA"],
             "station_id": "EKDKUA"
           },
           {
-            "label": ["ENOS", "3"]
-          },
-          {
-            "label": ["ENOS", "OSLO", "APP"]
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EKDK", "V"],
-            "station_id": "EKDKV"
-          },
-          {
-            "label": ["EKDK", "C"],
-            "station_id": "EKDKC"
-          },
-          {
             "label": ["EKDK", "A"],
             "station_id": "EKDKA"
-          },
-          {
-            "label": ["ENOS", "2"]
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EKDK", "L"],
-            "station_id": "EKDKL"
-          },
-          {
-            "label": ["EKDK", "D"],
-            "station_id": "EKDKD"
           },
           {
             "label": ["EKDK", "B"],
             "station_id": "EKDKB"
           },
           {
-            "label": []
+            "label": ["EFIN", "C"],
+            "station_id": "EFIN_C"
           },
           {
-            "label": ["EKRK", "APP"],
-            "station_id": "EKRKAPP"
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
           },
           {
-            "label": ["EKCH", "DEP-R"],
-            "station_id": "EKCHDEPR"
-          },
-          {
-            "label": ["EKCH", "APP-W"],
-            "station_id": "EKCHAPPW"
-          },
-          {
-            "label": ["EKDK", "E"],
-            "station_id": "EKDKE"
-          },
-          {
-            "label": ["EKDK", "I"],
-            "station_id": "EKDKI"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EKCH", "APP-CO", ""],
+            "label": ["EKCH", "APP-CO"],
             "station_id": "EKCHAPPCO"
-          },
-          {
-            "label": ["EKCH", "FIN"],
-            "station_id": "EKCHFIN"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
           },
           {
             "label": ["EKCH", "DEP-K"],
@@ -393,27 +315,15 @@
             "station_id": "EKCHAPPE"
           },
           {
+            "label": ["EKCH", "FIN"],
+            "station_id": "EKCHFIN"
+          },
+          {
+            "label": ["EFIN", "B"],
+            "station_id": "EFIN_B"
+          },
+          {
             "label": []
-          },
-          {
-            "label": ["EKDK", "FMP"],
-            "station_id": "EKDKFMP"
-          }
-        ]
-      }
-    },
-    {
-      "label": ["FIR E"],
-      "page": {
-        "rows": 6,
-        "keys": [
-          {
-            "label": ["EFIN", "C"],
-            "station_id": "EFIN_C"
-          },
-          {
-            "label": ["EFIN", "D"],
-            "station_id": "EFIN_D"
           },
           {
             "label": []
@@ -431,12 +341,11 @@
             "station_id": "EDWW-MRZ"
           },
           {
-            "label": ["EFIN", "B"],
-            "station_id": "EFIN_B"
+            "label": ["EETT", "FMP"],
+            "station_id": "EETT_FMP"
           },
           {
-            "label": ["EFIN", "FMP"],
-            "station_id": "EFIN_FMP"
+            "label": ["EVRR", "FIS"]
           },
           {
             "label": []
@@ -454,14 +363,14 @@
             "station_id": "EPWWF_LOW"
           },
           {
-            "label": ["EETT", "FMP"],
-            "station_id": "EETT_FMP"
+            "label": ["EETT", "FIS"],
+            "station_id": "EETT_W_FIS"
           },
           {
-            "label": []
+            "label": ["EVRR N"]
           },
           {
-            "label": []
+            "label": ["EVRR S"]
           },
           {
             "label": ["EPWW", "B HIGH"],
@@ -476,14 +385,12 @@
             "station_id": "EPWWB_LOW"
           },
           {
-            "label": ["EETT", "FIS"],
-            "station_id": "EETT_W_FIS"
+            "label": ["EETT", "W"],
+            "station_id": "EETT_W"
           },
           {
-            "label": ["EVRR", "FIS"]
-          },
-          {
-            "label": []
+            "label": ["EYVL", "L"],
+            "station_id": "EYVL-L"
           },
           {
             "label": []
@@ -495,23 +402,6 @@
           {
             "label": ["EPGD", "APP"],
             "station_id": "EPGD_UTMA"
-          },
-          {
-            "label": ["EETT", "W"],
-            "station_id": "EETT_W"
-          },
-          {
-            "label": ["EVRR N"]
-          },
-          {
-            "label": ["EVRR S"]
-          },
-          {
-            "label": ["EYVL", "L"],
-            "station_id": "EYVL-L"
-          },
-          {
-            "label": []
           },
           {
             "label": ["UMKK"]
