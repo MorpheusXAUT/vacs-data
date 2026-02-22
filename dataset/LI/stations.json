@@ -351,6 +351,17 @@
       "controlled_by": ["LIPP_NE2_CTR", "LIPP_NW1_CTR", "LIPP_CE1_CTR"]
     },
     {
+      "id": "LIPP-NE3",
+      "controlled_by": [
+        "LIPP_NE3_CTR",
+        "LIPP_NE6_CTR",
+        "LIPP_NE8_CTR",
+        "LIMM_U_CTR",
+        "LIPP_NW1_CTR",
+        "LIPP_CE1_CTR"
+      ]
+    },
+    {
       "id": "LIPP-NE6",
       "controlled_by": [
         "LIPP_NE6_CTR",
@@ -374,7 +385,83 @@
     },
     {
       "id": "LIPP-NW1",
-      "controlled_by": ["LIPP_NE8_CTR", "LIPP_CW3_CTR", "LIPP_CE1_CTR"]
+      "controlled_by": ["LIPP_NW1_CTR", "LIPP_CW3_CTR", "LIPP_CE1_CTR"]
+    },
+    {
+      "id": "LIPP-CE3",
+      "controlled_by": [
+        "LIPP_NE3_CTR",
+        "LIPP_CE1_CTR"
+      ]
+    },
+    {
+      "id": "LIPP-CE4",
+      "controlled_by": [
+        "LIPP_NE3_CTR",
+        "LIPP_NE8_CTR",
+        "LIMM_U_CTR",
+        "LIPP_CE1_CTR"
+      ]
+    },
+    {
+      "id": "LIPP-CE6",
+      "controlled_by": [
+        "LIPP_NE6_CTR",
+        "LIPP_NE8_CTR",
+        "LIPP_NE3_CTR",
+        "LIMM_U_CTR",
+        "LIPP_CE1_CTR"
+      ]
+    },
+    {
+      "id": "LIPP-CE8",
+      "controlled_by": [
+        "LIPP_NE8_CTR",
+        "LIPP_NE6_CTR",
+        "LIPP_NE3_CTR",
+        "LIMM_U_CTR",
+        "LIPP_CE1_CTR"
+      ]
+    },
+    {
+      "id": "LIPP-CW3",
+      "controlled_by": [
+        "LIPP_NE3_CTR",
+        "LIPP_CW3_CTR",
+        "LIPP_CE1_CTR"
+      ]
+    },
+    {
+      "id": "LIPP-CW4",
+      "controlled_by": [
+        "LIPP_NE3_CTR",
+        "LIPP_NE8_CTR",
+        "LIPP_CW3_CTR",
+        "LIMM_U_CTR",
+        "LIPP_CE1_CTR"
+      ]
+    },
+    {
+      "id": "LIPP-CW6",
+      "controlled_by": [
+        "LIPP_NE6_CTR",
+        "LIPP_NE8_CTR",
+        "LIPP_NE3_CTR",
+        "LIPP_CW3_CTR",
+        "LIMM_U_CTR",
+        "LIPP_CE1_CTR"
+      ]
+    },
+    {
+      "id": "LIPP-CW8",
+      "controlled_by": [
+        "LIPP_NE8_CTR",
+        "LIPP_NE6_CTR",
+        "LIPP_NE3_CTR",
+        "LIPP_CW3_CTR",
+        "LIMM_U_CTR",
+        "LIPP_CE1_CTR"
+      ]
     },
     {
       "id": "LIPP-SD2",
