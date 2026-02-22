@@ -28,7 +28,7 @@
             "station_id": "LSFA-ARFA"
           },
           {
-            "label": []
+            "label": ["LSZH", "APP"]
           },
           {
             "label": ["WLD"],
@@ -100,7 +100,19 @@
                   "label": ["GG", "GGIDM"]
                 },
                 {
-                  "label": []
+                  "label": ["EPWW", "FIS"]
+                },
+                {
+                  "label": ["LKAA", "FIS"]
+                },
+                {
+                  "label": ["LOVV", "FIS"]
+                },
+                {
+                  "label": ["LIPP", "FIS"]
+                },
+                {
+                  "label": ["LSAS", "FIS"]
                 }
               ]
             }
@@ -145,16 +157,17 @@
                   "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": []
+                  "label": ["LKAA", "FMP"]
                 },
                 {
-                  "label": []
+                  "label": ["LIPP", "FMP"],
+                  "station_id": "LIPP-FMP"
                 },
                 {
-                  "label": []
+                  "label": ["LSAS", "FMP"]
                 },
                 {
-                  "label": []
+                  "label": ["LOVV", "FMP"]
                 }
               ]
             }
@@ -172,13 +185,13 @@
             "station_id": "EDGG-REU"
           },
           {
-            "label": ["LSAS", "U 245"]
+            "label": ["LSAS", "U 245+"]
           },
           {
-            "label": ["LSAZ", "E"]
+            "label": ["LSAZ", "E 245-"]
           },
           {
-            "label": ["LSAZ", "S"]
+            "label": ["LSAZ", "S 245-"]
           },
           {
             "label": ["UU", "CHI"],
@@ -206,11 +219,11 @@
             "station_id": "EDUU-ISA"
           },
           {
-            "label": ["LOVV", "W27"],
+            "label": ["LOVV", "W27 315+"],
             "station_id": "LOVV_W7"
           },
           {
-            "label": ["LOVV", "W1"],
+            "label": ["LOVV", "W1 315-"],
             "station_id": "LOVV_W1"
           },
           {
@@ -221,18 +234,18 @@
             "label": []
           },
           {
-            "label": ["LSZH", "APP"]
+            "label": []
           },
           {
             "label": ["UU", "DON"],
             "station_id": "EDUU-DON"
           },
           {
-            "label": ["LOVV", "B27"],
+            "label": ["LOVV", "B27 315+"],
             "station_id": "LOVV_B7"
           },
           {
-            "label": ["LOVV", "B1"],
+            "label": ["LOVV", "B1 315-"],
             "station_id": "LOVV_B1"
           },
           {

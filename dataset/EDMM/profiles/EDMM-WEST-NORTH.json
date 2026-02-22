@@ -100,7 +100,19 @@
                   "label": ["GG", "GGIDM"]
                 },
                 {
-                  "label": []
+                  "label": ["EPWW", "FIS"]
+                },
+                {
+                  "label": ["LKAA", "FIS"]
+                },
+                {
+                  "label": ["LOVV", "FIS"]
+                },
+                {
+                  "label": ["LIPP", "FIS"]
+                },
+                {
+                  "label": ["LSAS", "FIS"]
                 }
               ]
             }
@@ -145,16 +157,17 @@
                   "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": []
+                  "label": ["LKAA", "FMP"]
                 },
                 {
-                  "label": []
+                  "label": ["LIPP", "FMP"],
+                  "station_id": "LIPP-FMP"
                 },
                 {
-                  "label": []
+                  "label": ["LSAS", "FMP"]
                 },
                 {
-                  "label": []
+                  "label": ["LOVV", "FMP"]
                 }
               ]
             }
@@ -196,11 +209,11 @@
             "station_id": "EDGG-KTG"
           },
           {
-            "label": ["LOVV", "B 345"],
+            "label": ["LOVV", "B27 315+"],
             "station_id": "LOVV_B7"
           },
           {
-            "label": ["LOVV", "B 315"],
+            "label": ["LOVV", "B1 315-"],
             "station_id": "LOVV_B1"
           },
           {
@@ -218,26 +231,26 @@
             "label": []
           },
           {
-            "label": ["LOVV", "N 345"],
+            "label": ["LOVV", "N27 345+"],
             "station_id": "LOVV_N7"
           },
           {
-            "label": ["LOVV", "N 315"],
+            "label": ["LOVV", "N1 315-"],
             "station_id": "LOVV_N1"
           },
           {
-            "label": ["LOWS", "APP"],
-            "station_id": "LOWS_APP"
+            "label": ["LOWI", "APP"],
+            "station_id": "LOWI_APP"
           },
           {
             "label": ["UU", "DON"],
             "station_id": "EDUU-DON"
           },
           {
-            "label": ["LKAA", "355"]
+            "label": ["LKAA", "W 305+"]
           },
           {
-            "label": ["LKAA", "305"]
+            "label": ["LKAA", "W 305-"]
           },
           {
             "label": []
@@ -247,8 +260,8 @@
             "station_id": "LOWL_APP"
           },
           {
-            "label": ["LOWI", "APP"],
-            "station_id": "LOWI_APP"
+            "label": ["LOWS", "APP"],
+            "station_id": "LOWS_APP"
           }
         ]
       }
