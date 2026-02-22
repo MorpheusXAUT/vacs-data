@@ -648,7 +648,8 @@
     },
     {
       "id": "ESSA DEL",
-      "controlled_by": ["ESSA_DEL", "ESSA_W_GND", "ESSA_N_GND", "ESSA_E_GND"]
+      "controlled_by": ["ESSA_DEL", "ESSA_W_GND", "ESSA_N_GND", "ESSA_E_GND"],
+      "parent_id": "ESSA TWR-W"
     },
     {
       "id": "ESOS ARR-E",
