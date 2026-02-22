@@ -5,7 +5,7 @@
     {
       "label": "EBG3",
       "page": {
-        "rows": 6,
+        "rows": 5,
         "keys": [
           {
             "label": ["NTM"],
@@ -26,9 +26,6 @@
           {
             "label": ["EDDF", "C", "TWR"],
             "station_id": "EDGG-DFTC"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["FFM"],
@@ -119,9 +116,6 @@
             }
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["FUL"],
             "station_id": "EDUU-FUL"
           },
@@ -130,7 +124,7 @@
             "station_id": "EDGG-GIN"
           },
           {
-            "label": ["PFA"],
+            "label": ["EDDR", "PFA"],
             "station_id": "EDGG-PFA"
           },
           {
@@ -139,9 +133,6 @@
           {
             "label": ["ETOU", "TWR"],
             "station_id": "EDGG-TOUT"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["EDUU", "SLN"],
@@ -183,9 +174,6 @@
             "label": [""]
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDUU", "WUR"],
             "station_id": "EDUU-WUR"
           },
@@ -204,10 +192,8 @@
             "label": [""]
           },
           {
-            "label": [""]
-          },
-          {
-            "label": ["EDUU", "SAL"]
+            "label": ["EDUU", "SAL"],
+            "station_id": "EDUU-SAL"
           },
           {
             "label": ["RUD"],
@@ -221,13 +207,12 @@
             "label": [""]
           },
           {
-            "label": ["EDMM", "SAL"]
+            "label": ["EDMM", "HAL"],
+            "station_id": "EDMM-HAL"
           },
           {
-            "label": [""]
-          },
-          {
-            "label": ["EDUU", "ERL"]
+            "label": ["EDUU", "ERL"],
+            "station_id": "EDUU-ERL"
           },
           {
             "label": ["KIR"],
@@ -242,13 +227,12 @@
             "station_id": "EDGG-PAD"
           },
           {
-            "label": ["EDMM", "GER"]
+            "label": ["EDMM", "GER"],
+            "station_id": "EDMM-GER"
           },
           {
-            "label": [""]
-          },
-          {
-            "label": ["EDYY", "SL"]
+            "label": ["EDYY", "SL"],
+            "station_id": "EDYY-SL"
           },
           {
             "label": [""]
@@ -258,13 +242,12 @@
             "station_id": "EDGG-HAB"
           },
           {
-            "label": ["EDWW", "HRZ"]
+            "label": ["EDWW", "HRZ"],
+            "station_id": "EDWW-HRZ"
           },
           {
-            "label": ["EDMM", "BBG"]
-          },
-          {
-            "label": [""]
+            "label": ["EDMM", "BBG"],
+            "station_id": "EDMM-BBG"
           }
         ]
       }

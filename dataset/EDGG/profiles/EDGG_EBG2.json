@@ -5,7 +5,7 @@
     {
       "label": "EBG2",
       "page": {
-        "rows": 6,
+        "rows": 5,
         "keys": [
           {
             "label": ["SLN"],
@@ -20,15 +20,12 @@
             "station_id": "EDGG-STG"
           },
           {
-            "label": ["DSAT", "Feeder"],
+            "label": ["EDDF", "DSAT", "Feeder"],
             "station_id": "EDGG-DSAT"
           },
           {
             "label": ["EDDS", "TWR"],
             "station_id": "EDGG-DST"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["TGO"],
@@ -50,9 +47,6 @@
             "station_id": "EDGG-SBT"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["WUR"],
             "station_id": "EDUU-WUR"
           },
@@ -65,14 +59,12 @@
             "station_id": "EDGG-DFAS"
           },
           {
-            "label": [""]
+            "label": ["EDDF", "DFDS"],
+            "station_id": "EDGG-DFDS"
           },
           {
             "label": ["EDTL", "TWR"],
             "station_id": "EDGG-TLT"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["EDUU", "FUL"],
@@ -83,7 +75,7 @@
             "station_id": "EDGG-NKRH"
           },
           {
-            "label": ["NKRL"],
+            "label": ["EDFM", "NKRL"],
             "station_id": "EDGG-NKRL"
           },
           {
@@ -94,18 +86,12 @@
             "station_id": "EDGG-FMT"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDUU", "FFM"],
             "station_id": "EDUU-FFM"
           },
           {
             "label": ["DKB"],
             "station_id": "EDGG-DKB"
-          },
-          {
-            "label": [""]
           },
           {
             "label": [""]
@@ -129,10 +115,8 @@
             "station_id": "EDGG-PSA"
           },
           {
-            "label": [""]
-          },
-          {
-            "label": ["EDMM", "WLD"]
+            "label": ["EDMM", "WLD"],
+            "station_id": "EDMM-WLD"
           },
           {
             "label": ["LSAS", "SZN"]
@@ -148,10 +132,8 @@
             "label": [""]
           },
           {
-            "label": [""]
-          },
-          {
-            "label": ["EDMM", "NDG"]
+            "label": ["EDMM", "NDG"],
+            "station_id": "EDMM-NDG"
           },
           {
             "label": ["LSAS", "SZE"]
@@ -164,14 +146,12 @@
             "station_id": "EDGG-KIR"
           },
           {
-            "label": ["EDGG", "PFA"],
+            "label": ["EDDR", "PFA"],
             "station_id": "EDGG-PFA"
           },
           {
-            "label": [""]
-          },
-          {
-            "label": ["EDMM", "FUE"]
+            "label": ["EDMM", "FUE"],
+            "station_id": "EDMM-FUE"
           },
           {
             "label": ["LSAS", "SZU"]

@@ -5,7 +5,7 @@
     {
       "label": "EBG 6",
       "page": {
-        "rows": 6,
+        "rows": 5,
         "keys": [
           {
             "label": ["ML"],
@@ -22,9 +22,6 @@
           {
             "label": ["EDDG", "TWR"],
             "station_id": "EDGG-DGT"
-          },
-          {
-            "label": [""]
           },
           {
             "label": [""]
@@ -49,9 +46,6 @@
             "station_id": "EDGG-LPG"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDUU", "FFM"],
             "station_id": "EDUU-FFM"
           },
@@ -69,9 +63,6 @@
           {
             "label": ["EDLW", "GND"],
             "station_id": "EDGG-LWG"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["EDUU", "FUL"],
@@ -92,10 +83,8 @@
             "label": [""]
           },
           {
-            "label": [""]
-          },
-          {
-            "label": ["EDYY", "SL"]
+            "label": ["EDYY", "SL"],
+            "station_id": "EDYY-SL"
           },
           {
             "label": [""]
@@ -111,31 +100,26 @@
             "label": [""]
           },
           {
-            "label": [""]
-          },
-          {
-            "label": ["EDYY", "CL"]
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": ["EDWW", "HRZ"]
-          },
-          {
-            "label": ["EDWW", "EMS"]
+            "label": ["EDYY", "CL"],
+            "station_id": "EDYY-CL"
           },
           {
             "label": [""]
           },
           {
+            "label": ["EDWW", "HRZ"],
+            "station_id": "EDWW-HRZ"
+          },
+          {
+            "label": ["EDWW", "EMS"],
+            "station_id": "EDWW-EMS"
+          },
+          {
             "label": [""]
           },
           {
-            "label": ["EDYY", "JL"]
-          },
-          {
-            "label": [""]
+            "label": ["EDYY", "JL"],
+            "station_id": "EDYY-JL"
           },
           {
             "label": [""]
@@ -150,16 +134,14 @@
             "label": [""]
           },
           {
-            "label": ["EDYY", "HL"]
+            "label": ["EDYY", "HL"],
+            "station_id": "EDYY-HL"
           },
           {
             "label": ["EDYY", "YYD"]
           },
           {
             "label": ["EHAA", "ACE"]
-          },
-          {
-            "label": [""]
           },
           {
             "label": [""]
