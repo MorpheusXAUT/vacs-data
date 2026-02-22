@@ -385,10 +385,7 @@
     },
     {
       "id": "LIPP-CE3",
-      "controlled_by": [
-        "LIPP_NE3_CTR",
-        "LIPP_CE1_CTR"
-      ]
+      "controlled_by": ["LIPP_NE3_CTR", "LIPP_CE1_CTR"]
     },
     {
       "id": "LIPP-CE4",
@@ -421,11 +418,7 @@
     },
     {
       "id": "LIPP-CW3",
-      "controlled_by": [
-        "LIPP_NE3_CTR",
-        "LIPP_CW3_CTR",
-        "LIPP_CE1_CTR"
-      ]
+      "controlled_by": ["LIPP_NE3_CTR", "LIPP_CW3_CTR", "LIPP_CE1_CTR"]
     },
     {
       "id": "LIPP-CW4",
