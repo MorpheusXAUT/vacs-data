@@ -7,15 +7,9 @@
     {
       "id": "ESCF APP",
       "controlled_by": [
-        "ESCF_APP",
-        "ESSP_APP",
-        "ESSL_TWR",
-        "ESSR_CTR",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESCF_APP"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESCF DIR",
@@ -28,12 +22,9 @@
         "ESCF_TWR",
         "ESSL_TWR",
         "ESSR_CTR",
-        "ESSP_APP",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSP_APP"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESCF PAR",
@@ -45,12 +36,9 @@
         "ESCF_TWR",
         "ESSL_TWR",
         "ESSR_CTR",
-        "ESSP_APP",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSP_APP"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESCM APP",
@@ -63,12 +51,9 @@
         "ESOS_9_CTR",
         "ESOS_1_CTR",
         "ESOS_3_CTR",
-        "ESAA_CTR",
-        "ESOS_4_CTR",
-        "ESOS_F_CTR",
-        "ESOS_N_CTR",
-        "ESOS_K_CTR"
-      ]
+        "ESAA_CTR"
+      ],
+      "parent_id": "ESOS_9_CTR"
     },
     {
       "id": "ESCM TWR",
@@ -76,13 +61,9 @@
         "ESCM_TWR",
         "ESCM_APP",
         "ESSR_CTR",
-        "ESSA_W_APP",
-        "ESSA_E_APP",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSA_W_APP"
+      ],
+      "parent_id": "ESOS ARR-E"
     },
     {
       "id": "ESCR",
@@ -93,12 +74,9 @@
       "controlled_by": [
         "ESDF_APP",
         "ESDF_TWR",
-        "ESSR_CTR",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS_9_CTR"
     },
     {
       "id": "ESDF GND",
@@ -106,12 +84,9 @@
         "ESDF_GND",
         "ESDF_TWR",
         "ESDF_APP",
-        "ESSR_CTR",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS_9_CTR"
     },
     {
       "id": "ESDF PAR",
@@ -122,12 +97,9 @@
       "controlled_by": [
         "ESDF_TWR",
         "ESDF_APP",
-        "ESSR_CTR",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS_9_CTR"
     },
     {
       "id": "ESDK",
@@ -148,7 +120,7 @@
     {
       "id": "ESGG DEL",
       "controlled_by": ["ESGG_DEL"],
-      "parent_id": "ESGG GND"
+      "parent_id": "ESGG_GND"
     },
     {
       "id": "ESGG APP-E",
@@ -197,12 +169,9 @@
       "id": "ESGJ TWR",
       "controlled_by": [
         "ESGJ_TWR",
-        "ESSR_CTR",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESGT TWR",
@@ -225,27 +194,18 @@
       "controlled_by": [
         "ESIA_APP",
         "ESIA_TWR",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR",
-        "ESOE_TWR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESIA TWR",
       "controlled_by": [
         "ESIA_TWR",
         "ESIA_APP",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESIB APP",
@@ -302,51 +262,34 @@
       "id": "ESKM AFIS",
       "controlled_by": [
         "ESKM_I_TWR",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESKN TWR",
       "controlled_by": [
         "ESKN_TWR",
         "ESSR_CTR",
-        "ESSP_APP",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSP_APP"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESKS TWR",
       "controlled_by": [
         "ESKS_TWR",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESMK TWR",
       "controlled_by": [
         "ESMK_TWR",
-        "ESSR_MM_APP",
-        "ESMS_APP",
-        "ESMM_K_CTR",
-        "ESMM_8_CTR",
-        "ESMM_7_CTR",
-        "ESMM_Y_CTR",
-        "ESMM_2_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM L"
     },
     {
       "id": "ESMM 2",
@@ -473,52 +416,34 @@
       "id": "ESMQ TWR",
       "controlled_by": [
         "ESMQ_TWR",
-        "ESSR_CTR",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 9"
     },
     {
       "id": "ESMS GND",
       "controlled_by": [
         "ESMS_GND",
         "ESMS_TWR",
-        "ESSR_MM_APP",
-        "ESMS_APP",
-        "ESMM_K_CTR",
-        "ESMM_8_CTR",
-        "ESMM_7_CTR",
-        "ESMM_Y_CTR",
-        "ESMM_2_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM L"
     },
     {
       "id": "ESMS TWR",
       "controlled_by": [
         "ESMS_TWR",
-        "ESSR_MM_APP",
-        "ESMS_APP",
-        "ESMM_K_CTR",
-        "ESMM_8_CTR",
-        "ESMM_7_CTR",
-        "ESMM_Y_CTR",
-        "ESMM_2_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM L"
     },
     {
       "id": "ESMT TWR",
       "controlled_by": [
         "ESMT_TWR",
-        "ESSR_MM_APP",
-        "ESMM_K_CTR",
-        "ESMM_2_CTR",
-        "ESMM_5_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM K"
     },
     {
       "id": "ESMV APP",
@@ -532,34 +457,25 @@
       "id": "ESMX TWR",
       "controlled_by": [
         "ESMX_TWR",
-        "ESSR_CTR",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESND AFIS",
       "controlled_by": [
         "ESND_I_TWR",
-        "ESSR_CTR",
-        "ESOS_N_CTR",
-        "ESOS_K_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS N"
     },
     {
       "id": "ESNG AFIS",
       "controlled_by": [
         "ESNG_I_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESNJ APP",
@@ -573,151 +489,106 @@
       "id": "ESNK AFIS",
       "controlled_by": [
         "ESNK_I_TWR",
-        "ESSR_CTR",
-        "ESOS_F_CTR",
-        "ESOS_N_CTR",
-        "ESOS_K_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS F"
     },
     {
       "id": "ESNL AFIS",
       "controlled_by": [
         "ESNL_I_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESNN TWR",
       "controlled_by": [
         "ESNN_TWR",
-        "ESSR_CTR",
-        "ESOS_F_CTR",
-        "ESOS_N_CTR",
-        "ESOS_K_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS F"
     },
     {
       "id": "ESNO TWR",
       "controlled_by": [
         "ESNO_TWR",
-        "ESSR_CTR",
-        "ESOS_F_CTR",
-        "ESOS_N_CTR",
-        "ESOS_K_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS F"
     },
     {
       "id": "ESNQ TWR",
       "controlled_by": [
         "ESNQ_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESNS TWR",
       "controlled_by": [
         "ESNS_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESNU TWR",
       "controlled_by": [
         "ESNU_TWR",
-        "ESSR_CTR",
-        "ESOS_F_CTR",
-        "ESOS_N_CTR",
-        "ESOS_K_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS F"
     },
     {
       "id": "ESNV AFIS",
       "controlled_by": [
         "ESNV_I_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESNX TWR",
       "controlled_by": [
         "ESNX_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
+        "ESSR_CTR"
       ]
+      ,
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESNZ TWR",
       "controlled_by": [
         "ESNZ_TWR",
-        "ESSR_CTR",
-        "ESOS_N_CTR",
-        "ESOS_K_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS N"
     },
     {
       "id": "ESOE TWR",
       "controlled_by": [
         "ESOE_TWR",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESOH AFIS",
       "controlled_by": [
         "ESOH_I_TWR",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESOK TWR",
       "controlled_by": [
         "ESOK_TWR",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESOS 1",
@@ -732,11 +603,6 @@
         "ESOS_1_CTR",
         "ESOS_3_CTR",
         "ESAA_CTR",
-        "ESMM_W_CTR",
-        "ESMM_2_CTR",
-        "ESMM_Y_CTR",
-        "ESMM_5_CTR",
-        "ESMM_6_CTR"
       ]
     },
     {
@@ -778,12 +644,7 @@
         "ESOS_1_CTR",
         "ESOS_9_CTR",
         "ESOS_3_CTR",
-        "ESAA_CTR",
-        "ESMM_W_CTR",
-        "ESMM_2_CTR",
-        "ESMM_Y_CTR",
-        "ESMM_5_CTR",
-        "ESMM_6_CTR"
+        "ESAA_CTR"
       ]
     },
     {
@@ -824,13 +685,7 @@
     },
     {
       "id": "ESOS YK",
-      "controlled_by": [
-        "ESOS_YK_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+      "controlled_by": ["ESOS_YK_CTR"]
     },
     {
       "id": "ESOW APP",
@@ -845,7 +700,6 @@
         "ESOS_N_CTR",
         "ESOS_1_CTR",
         "ESAA_CTR",
-        "ESSU_I_TWR"
       ]
     },
     {
@@ -861,7 +715,6 @@
         "ESOS_N_CTR",
         "ESOS_1_CTR",
         "ESAA_CTR",
-        "ESSU_I_TWR"
       ]
     },
     {
@@ -869,12 +722,9 @@
       "controlled_by": [
         "ESPA_APP",
         "ESPA_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESPA DIR",
@@ -889,24 +739,18 @@
       "controlled_by": [
         "ESPA_TWR",
         "ESPA_APP",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESPE APP",
       "controlled_by": [
         "ESPE_APP",
         "ESPE_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESPE PAR",
@@ -917,12 +761,9 @@
       "controlled_by": [
         "ESPE_TWR",
         "ESPE_APP",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESPF",
@@ -939,27 +780,21 @@
     {
       "id": "ESOS ARR-E",
       "controlled_by": [
-        "ESSA_E_APP",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSA_E_APP"
+      ],
+      "parent_id": "ESOS 9"
     },
     {
       "id": "ESOS DEP-E",
       "controlled_by": [
-        "ESSA_E_DEP",
-        "ESSA_E_APP",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSA_E_DEP"
+      ],
+      "parent_id": "ESOS ARR-E"
     },
     {
       "id": "ESSA GND-E",
-      "controlled_by": ["ESSA_E_GND", "ESSA_W_GND", "ESSA_N_GND"]
+      "controlled_by": ["ESSA_E_GND", "ESSA_W_GND", "ESSA_N_GND"],
+      "parent_id": "ESSA TWR-W"
     },
     {
       "id": "ESSA TWR-E",
@@ -985,30 +820,12 @@
       "controlled_by": ["ESSA_N_GND", "ESSA_W_GND"]
     },
     {
-      "id": "ESSA TWR-S",
-      "controlled_by": [
-        "ESSA_S_TWR",
-        "ESSA_E_TWR",
-        "ESSA_W_TWR",
-        "ESSA_E_APP",
-        "ESSA_W_APP",
-        "ESSR_CTR",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
-    },
-    {
       "id": "ESOS ARR-W",
       "controlled_by": [
         "ESSA_W_APP",
-        "ESSA_E_APP",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSA_E_APP"
+      ],
+      "parent_id": "ESOS 9"
     },
     {
       "id": "ESOS DEP-W",
@@ -1024,7 +841,8 @@
     },
     {
       "id": "ESSA GND-W",
-      "controlled_by": ["ESSA_W_GND"]
+      "controlled_by": ["ESSA_W_GND"],
+      "parent_id": "ESSA TWR-W"
     },
     {
       "id": "ESSA TWR-W",
@@ -1046,16 +864,14 @@
       "controlled_by": [
         "ESSB_APP",
         "ESSA_W_APP",
-        "ESSA_E_APP",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSA_E_APP"
+      ],
+      "parent_id": "ESOS 9"
     },
     {
       "id": "ESSB GND",
-      "controlled_by": ["ESSB_GND"]
+      "controlled_by": ["ESSB_GND"],
+      "parent_id": "ESSB TWR"
     },
     {
       "id": "ESSB TWR",
@@ -1064,61 +880,42 @@
         "ESSR_CTR",
         "ESSB_APP",
         "ESSA_W_APP",
-        "ESSA_E_APP",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSA_E_APP"
+      ],
+      "parent_id": "ESOS 9"
     },
     {
       "id": "ESSD TWR",
       "controlled_by": [
         "ESSD_TWR",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESSL TWR",
       "controlled_by": [
         "ESSL_TWR",
         "ESSR_CTR",
-        "ESSP_APP",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSP_APP"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESSP APP",
       "controlled_by": [
-        "ESSP_APP",
-        "ESKN_TWR",
-        "ESSR_CTR",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR",
-        "ESSP_TWR"
-      ]
+        "ESSP_APP"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESSP TWR",
       "controlled_by": [
         "ESSP_TWR",
         "ESSR_CTR",
-        "ESSP_APP",
-        "ESOS_1_CTR",
-        "ESOS_9_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSP_APP"
+      ],
+      "parent_id": "ESOS 1"
     },
     {
       "id": "ESSR OS",
@@ -1132,13 +929,9 @@
       "id": "ESST AFIS",
       "controlled_by": [
         "ESST_I_TWR",
-        "ESSR_CTR",
-        "ESOS_3_CTR",
-        "ESOS_8_CTR",
-        "ESOS_N_CTR",
-        "ESOS_1_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 3"
     },
     {
       "id": "ESSU AFIS",
@@ -1161,67 +954,45 @@
       "controlled_by": [
         "ESSV_APP",
         "ESSV_TWR",
-        "ESSR_CTR",
-        "ESOS_2_CTR",
-        "ESOS_7_CTR",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS 2"
     },
     {
       "id": "ESSV TWR",
       "controlled_by": [
         "ESSV_TWR",
         "ESSV_APP",
-        "ESSR_CTR",
-        "ESOS_2_CTR",
-        "ESOS_7_CTR",
-        "ESOS_9_CTR",
-        "ESOS_1_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR" 
+      ],
+      "parent_id": "ESOS 2"
     },
     {
       "id": "ESTA APP",
       "controlled_by": [
         "ESTA_APP",
         "ESTA_TWR",
-        "ESSR_MM_APP",
-        "ESMT_TWR",
-        "ESMM_K_CTR",
-        "ESMM_2_CTR",
-        "ESMM_5_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM K"
     },
     {
       "id": "ESTA TWR",
       "controlled_by": [
         "ESTA_TWR",
         "ESTA_APP",
-        "ESSR_MM_APP",
-        "ESMM_K_CTR",
-        "ESMM_2_CTR",
-        "ESMM_5_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM K"
     },
     {
       "id": "ESTL APP",
       "controlled_by": [
         "ESTL_APP",
         "ESTL_TWR",
-        "ESSR_MM_APP",
-        "ESTA_APP",
-        "ESTA_TWR",
-        "ESMM_K_CTR",
-        "ESMM_2_CTR",
-        "ESMM_5_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM K"
     },
     {
       "id": "ESTL GND",
@@ -1229,46 +1000,34 @@
         "ESTL_GND",
         "ESTL_TWR",
         "ESTL_APP",
-        "ESSR_MM_APP",
-        "ESMM_K_CTR",
-        "ESMM_2_CTR",
-        "ESMM_5_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM K"
     },
     {
       "id": "ESTL TWR",
       "controlled_by": [
         "ESTL_TWR",
         "ESTL_APP",
-        "ESSR_MM_APP",
-        "ESMM_K_CTR",
-        "ESMM_2_CTR",
-        "ESMM_5_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_MM_APP"
+      ],
+      "parent_id": "ESMM K"
     },
     {
       "id": "ESUP AFIS",
       "controlled_by": [
         "ESUP_I_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     },
     {
       "id": "ESUT AFIS",
       "controlled_by": [
         "ESUT_I_TWR",
-        "ESSR_CTR",
-        "ESOS_K_CTR",
-        "ESOS_N_CTR",
-        "ESOS_3_CTR",
-        "ESAA_CTR"
-      ]
+        "ESSR_CTR"
+      ],
+      "parent_id": "ESOS K"
     }
   ]
 }
