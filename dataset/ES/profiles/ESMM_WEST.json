@@ -1,5 +1,5 @@
 {
-  "id": "ESMM_ALL",
+  "id": "ESMM_WEST",
   "type": "Tabbed",
   "tabs": [
     {
@@ -268,7 +268,7 @@
       }
     },
     {
-      "label": ["FIR W"],
+      "label": ["FIR "],
       "page": {
         "rows": 6,
         "keys": [
@@ -398,123 +398,6 @@
           {
             "label": ["EKDK", "FMP"],
             "station_id": "EKDKFMP"
-          }
-        ]
-      }
-    },
-    {
-      "label": ["FIR E"],
-      "page": {
-        "rows": 6,
-        "keys": [
-          {
-            "label": ["EFIN", "C"],
-            "station_id": "EFIN_C"
-          },
-          {
-            "label": ["EFIN", "D"],
-            "station_id": "EFIN_D"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EDUU", "OSE2"],
-            "station_id": "EDUU-OSE22"
-          },
-          {
-            "label": ["EDUU", "OSE1", ""],
-            "station_id": "EDUU-OSE12"
-          },
-          {
-            "label": ["EDWW", "MRZ"],
-            "station_id": "EDWW-MRZ"
-          },
-          {
-            "label": ["EFIN", "B"],
-            "station_id": "EFIN_B"
-          },
-          {
-            "label": ["EFIN", "FMP"],
-            "station_id": "EFIN_FMP"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EPWW", "F HIGH", ""],
-            "station_id": "EPWWF_HIGH"
-          },
-          {
-            "label": ["EPWW", "F MID"],
-            "station_id": "EPWWF_MID"
-          },
-          {
-            "label": ["EPWW", "F LOW"],
-            "station_id": "EPWWF_LOW"
-          },
-          {
-            "label": ["EETT", "FMP"],
-            "station_id": "EETT_FMP"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EPWW", "B HIGH"],
-            "station_id": "EPWWB_HIGH"
-          },
-          {
-            "label": ["EPWW", "B MID"],
-            "station_id": "EPWWB_MID"
-          },
-          {
-            "label": ["EPWW", "B LOW"],
-            "station_id": "EPWWB_LOW"
-          },
-          {
-            "label": ["EETT", "FIS"],
-            "station_id": "EETT_W_FIS"
-          },
-          {
-            "label": ["EVRR", "FIS"]
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EPGD", "FIS"],
-            "station_id": "EPGD_FIS"
-          },
-          {
-            "label": ["EPGD", "APP"],
-            "station_id": "EPGD_UTMA"
-          },
-          {
-            "label": ["EETT", "W"],
-            "station_id": "EETT_W"
-          },
-          {
-            "label": ["EVRR N"]
-          },
-          {
-            "label": ["EVRR S"]
-          },
-          {
-            "label": ["EYVL", "L"],
-            "station_id": "EYVL-L"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["UMKK"]
           }
         ]
       }
