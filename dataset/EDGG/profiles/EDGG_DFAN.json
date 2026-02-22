@@ -100,7 +100,7 @@
             "label": [""]
           },
           {
-            "label": ["PFA"],
+            "label": ["PFA", "APP"],
             "station_id": "EDGG-PFA"
           },
           {
