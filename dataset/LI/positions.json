@@ -5,49 +5,49 @@
       "prefixes": ["LIBB"],
       "frequency": "128.300",
       "facility_type": "CTR"
-    }, 
+    },
     {
       "id": "LIBB_I_CTR",
       "prefixes": ["LIBB"],
       "frequency": "131.125",
       "facility_type": "CTR"
-    }, 
+    },
     {
       "id": "LIBA_APP",
       "prefixes": ["LIBA"],
       "frequency": "118.855",
       "facility_type": "APP"
-    }, 
+    },
     {
       "id": "LIBG_APP",
       "prefixes": ["LIBG"],
       "frequency": "118.700",
       "facility_type": "APP"
-    }, 
+    },
     {
       "id": "LIBN_APP",
       "prefixes": ["LIBA"],
       "frequency": "118.955",
       "facility_type": "APP"
-    }, 
+    },
     {
       "id": "LIBP_APP",
       "prefixes": ["LIBP"],
       "frequency": "120.050",
       "facility_type": "APP"
-    }, 
+    },
     {
       "id": "LIBR_CS0_APP",
       "prefixes": ["LIBR"],
       "frequency": "118.750",
       "facility_type": "APP"
-    }, 
+    },
     {
       "id": "LIBA_TWR",
       "prefixes": ["LIBA"],
       "frequency": "118.205",
       "facility_type": "TWR"
-    }, 
+    },
     {
       "id": "LIBC_I_TWR",
       "prefixes": ["LIBC"],
@@ -95,7 +95,7 @@
       "prefixes": ["LIMM"],
       "frequency": "136.985",
       "facility_type": "FMP"
-    },    
+    },
     {
       "id": "LIMM_EN2_CTR",
       "prefixes": ["LIMM"],
@@ -353,7 +353,7 @@
       "prefixes": ["LIPX"],
       "frequency": "121.755",
       "facility_type": "GND"
-    },    
+    },
     {
       "id": "LIMC_DEL",
       "prefixes": ["LIMC"],
@@ -383,235 +383,235 @@
       "prefixes": ["LIPP"],
       "frequency": "136.985",
       "facility_type": "FMP"
-    }, 
+    },
     {
       "id": "LIPP_CE1_CTR",
       "prefixes": ["LIPP"],
       "frequency": "120.725",
       "facility_type": "CTR"
-    },  
+    },
     {
       "id": "LIPP_CW2_CTR",
       "prefixes": ["LIPP"],
       "frequency": "128.575",
       "facility_type": "CTR"
-    },    
+    },
     {
       "id": "LIPP_CW3_CTR",
       "prefixes": ["LIPP"],
       "frequency": "125.485",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_MIL_CTR",
       "prefixes": ["LIPP"],
       "frequency": "136.475",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_NE2_CTR",
       "prefixes": ["LIPP"],
       "frequency": "130.525",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_NE3_CTR",
       "prefixes": ["LIPP"],
       "frequency": "132.860",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_NE6_CTR",
       "prefixes": ["LIPP"],
       "frequency": "134.390",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_NE8_CTR",
       "prefixes": ["LIPP"],
       "frequency": "127.380",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_NW1_CTR",
       "prefixes": ["LIPP"],
       "frequency": "125.900",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_SD2_CTR",
       "prefixes": ["LIPP"],
       "frequency": "133.940",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_SD3_CTR",
       "prefixes": ["LIPP"],
       "frequency": "133.705",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_SD5_CTR",
       "prefixes": ["LIPP"],
       "frequency": "136.465",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_SD7_CTR",
       "prefixes": ["LIPP"],
       "frequency": "133.305",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPP_SW1_CTR",
       "prefixes": ["LIPP"],
       "frequency": "134.750",
       "facility_type": "CTR"
-    },   
+    },
     {
       "id": "LIPA_APP",
       "prefixes": ["LIPA"],
       "frequency": "120.975",
       "facility_type": "APP"
-    },   
+    },
     {
       "id": "LIPE_W_APP",
       "prefixes": ["LIPE"],
       "frequency": "118.150",
       "facility_type": "APP"
-    },   
+    },
     {
       "id": "LIPE_E_APP",
       "prefixes": ["LIPE"],
       "frequency": "133.775",
       "facility_type": "APP"
-    },   
+    },
     {
       "id": "LIPH_APP",
       "prefixes": ["LIPH"],
       "frequency": "120.405",
       "facility_type": "APP"
-    },   
+    },
     {
       "id": "LIPP_I_APP",
       "prefixes": ["LIPP"],
       "frequency": "124.150",
       "facility_type": "APP"
-    },   
+    },
     {
       "id": "LIPQ_CE0_APP",
       "prefixes": ["LIPQ"],
       "frequency": "119.175",
       "facility_type": "APP"
-    },   
+    },
     {
       "id": "LIPY_APP",
       "prefixes": ["LIPY"],
       "frequency": "125.325",
       "facility_type": "APP"
-    },   
+    },
     {
       "id": "LIPZ_SE0_APP",
       "prefixes": ["LIPZ"],
       "frequency": "118.900",
       "facility_type": "APP"
-    },   
+    },
     {
       "id": "LIPA_TWR",
       "prefixes": ["LIPA"],
       "frequency": "134.100",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPB_I_TWR",
       "prefixes": ["LIPB"],
       "frequency": "120.600",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPE_TWR",
       "prefixes": ["LIPE"],
       "frequency": "120.800",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPH_TWR",
       "prefixes": ["LIPH"],
       "frequency": "118.700",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPK_TWR",
       "prefixes": ["LIPK"],
       "frequency": "119.750",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPN_I_TWR",
       "prefixes": ["LIPN"],
       "frequency": "125.255",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPQ_TWR",
       "prefixes": ["LIPQ"],
       "frequency": "130.205",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPR_TWR",
       "prefixes": ["LIPR"],
       "frequency": "131.225",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPU_I_TWR",
       "prefixes": ["LIPU"],
       "frequency": "123.250",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPV_I_TWR",
       "prefixes": ["LIPV"],
       "frequency": "118.525",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPY_TWR",
       "prefixes": ["LIPY"],
       "frequency": "119.805",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPZ_TWR",
       "prefixes": ["LIPZ"],
       "frequency": "120.200",
       "facility_type": "TWR"
-    },   
+    },
     {
       "id": "LIPA_GND",
       "prefixes": ["LIPA"],
       "frequency": "122.100",
       "facility_type": "GND"
-    },   
+    },
     {
       "id": "LIPE_GND",
       "prefixes": ["LIPE"],
       "frequency": "121.925",
       "facility_type": "GND"
-    },   
+    },
     {
       "id": "LIPZ_GND",
       "prefixes": ["LIPZ"],
       "frequency": "121.705",
       "facility_type": "GND"
-    },   
+    },
     {
       "id": "LIPZ_DEL",
       "prefixes": ["LIPZ"],
       "frequency": "118.255",
       "facility_type": "DEL"
-    },   
+    },
     {
       "id": "LIDT_I_TWR",
       "prefixes": ["LIDT"],
@@ -623,7 +623,7 @@
       "prefixes": ["LIRR"],
       "frequency": "136.975",
       "facility_type": "FMP"
-    },    
+    },
     {
       "id": "LIRR_ND1_CTR",
       "prefixes": ["LIRR"],
@@ -827,7 +827,7 @@
       "prefixes": ["LIRR"],
       "frequency": "127.950",
       "facility_type": "APP"
-    },  
+    },
     {
       "id": "LIRR_AWL_APP",
       "prefixes": ["LIRR"],
