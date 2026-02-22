@@ -408,7 +408,8 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["TSBA"]
+            "label": ["TSBA"],
+            "station_id": "EDGG-TSBA"
           },
           {
             "label": ["ETSB", "TWR"],
@@ -428,7 +429,8 @@
             "label": [""]
           },
           {
-            "label": ["TADA"]
+            "label": ["TADA"],
+            "station_id": "EDGG-TADA"
           },
           {
             "label": ["ETAD", "TWR"],
@@ -449,7 +451,8 @@
             "label": [""]
           },
           {
-            "label": ["TARA"]
+            "label": ["TARA"],
+            "station_id": "EDGG-TARA"
           },
           {
             "label": ["ETAR", "TWR"],
@@ -460,7 +463,8 @@
             "station_id": "EDGG-TARG"
           },
           {
-            "label": ["THFA"]
+            "label": ["THFA"],
+            "station_id": "EDGG-THFA"
           },
           {
             "label": ["ETHF", "TWR"],
@@ -471,7 +475,8 @@
             "station_id": "EDGG-THFG"
           },
           {
-            "label": ["THNA"]
+            "label": ["THNA"],
+            "station_id": "EDGG-THNA"
           },
           {
             "label": ["ETHN", "TWR"],
@@ -481,7 +486,8 @@
             "label": [""]
           },
           {
-            "label": ["TNGA"]
+            "label": ["TNGA"],
+            "station_id": "EDGG-TNGA"
           },
           {
             "label": ["ETNG", "TWR"],
@@ -491,7 +497,8 @@
             "label": [""]
           },
           {
-            "label": ["TNNT"]
+            "label": ["TNNA"],
+            "station_id": "EDGG-TNNA"
           },
           {
             "label": ["ETNN", "TWR"],
@@ -512,12 +519,24 @@
             "station_id": "EDGG-TOUG"
           },
           {
-            "label": ["DKA"],
+            "label": ["EDDK", "DKA"],
             "station_id": "EDGG-DKA"
           },
           {
-            "label": ["DFAN"],
+            "label": ["EDDF", "DFAN"],
             "station_id": "EDGG-DFAN"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
           }
         ]
       }
