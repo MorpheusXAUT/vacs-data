@@ -66,6 +66,7 @@
         "EDUU_C_CTR",
         "EDUU_CW_CTR",
         "EDGG_GIH_CTR",
+        "EDGG_CH_CTR",
         "EDGG_AH_CTR",
         "EDGG_CSH_CTR"
       ]
@@ -860,9 +861,14 @@
       "parent_id": "EDGG-STG"
     },
     {
+      "id": "EDGG-TADA",
+      "controlled_by": ["ETAD_APP"],
+      "parent_id": "EDGG-EIF"
+    },
+    {
       "id": "EDGG-TADT",
       "controlled_by": ["ETAD_TWR"],
-      "parent_id": "EDGG-EIF"
+      "parent_id": "EDGG-TADA"
     },
     {
       "id": "EDGG-TADG",
@@ -875,19 +881,28 @@
       "parent_id": "EDGG-TADG"
     },
     {
+      "id": "EDGG-TARA",
+      "controlled_by": ["ETAR_APP"],
+      "parent_id": "EDGG-PFA"
+    },
+    {
       "id": "EDGG-TART",
       "controlled_by": ["ETAR_TWR"],
-      "parent_id": "EDGG-PFA"
+      "parent_id": "EDGG-TARA"
     },
     {
       "id": "EDGG-TARG",
       "controlled_by": ["ETAR_GND"],
       "parent_id": "EDGG-TART"
+    },{
+      "id": "EDGG-THFA",
+      "controlled_by": ["ETHF_APP"],
+      "parent_id": "EDGG-HEF"
     },
     {
       "id": "EDGG-THFT",
       "controlled_by": ["ETHF_TWR"],
-      "parent_id": "EDGG-HEF"
+      "parent_id": "EDGG-THFA"
     },
     {
       "id": "EDGG-THFG",
@@ -895,19 +910,34 @@
       "parent_id": "EDGG-THFT"
     },
     {
+      "id": "EDGG-THNA",
+      "controlled_by": ["ETHN_APP"],
+      "parent_id": "EDGG-DKB"
+    },
+    {
       "id": "EDGG-THNT",
       "controlled_by": ["ETHN_TWR"],
-      "parent_id": "EDGG-DKB"
+      "parent_id": "EDGG-THNA"
+    },
+    {
+      "id": "EDGG-TNGA",
+      "controlled_by": ["ETNG_APP"],
+      "parent_id": "EDGG-BOT"
     },
     {
       "id": "EDGG-TNGT",
       "controlled_by": ["ETNG_TWR"],
-      "parent_id": "EDGG-BOT"
+      "parent_id": "EDGG-TNGA"
+    },
+    {
+      "id": "EDGG-TNNA",
+      "controlled_by": ["ETNN_APP"],
+      "parent_id": "EDGG-DKA"
     },
     {
       "id": "EDGG-TNNT",
       "controlled_by": ["ETNN_TWR"],
-      "parent_id": "EDGG-DKA"
+      "parent_id": "EDGG-TNNA"
     },
     {
       "id": "EDGG-TOUT",
@@ -918,11 +948,15 @@
       "id": "EDGG-TOUG",
       "controlled_by": ["ETOU_GND"],
       "parent_id": "EDGG-TOUT"
+    },{
+      "id": "EDGG-TSBA",
+      "controlled_by": ["ETSB_APP"],
+      "parent_id": "EDGG-EIF"
     },
     {
       "id": "EDGG-TSBT",
       "controlled_by": ["ETSB_TWR"],
-      "parent_id": "EDGG-EIF"
+      "parent_id": "EDGG-TSBA"
     }
   ]
 }
