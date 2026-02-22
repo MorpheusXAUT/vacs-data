@@ -63,7 +63,8 @@
             "label": [""]
           },
           {
-            "label": ["EDMM", "FUE"]
+            "label": ["EDMM", "FUE"],
+            "station_id": "EDMM-FUE"
           },
           {
             "label": ["EDGG", "NKRL"],
@@ -81,7 +82,8 @@
             "label": [""]
           },
           {
-            "label": ["EDMM", "NDG"]
+            "label": ["EDMM", "NDG"],
+            "station_id": "EDMM-NDG"
           },
           {
             "label": ["EDGG", "PFA"],
