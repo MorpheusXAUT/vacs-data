@@ -5,7 +5,7 @@
     {
       "label": "EBG5",
       "page": {
-        "rows": 6,
+        "rows": 5,
         "keys": [
           {
             "label": ["NTM"],
@@ -26,9 +26,6 @@
           {
             "label": ["EDDF", "C", "TWR"],
             "station_id": "EDGG-DFTC"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["FFM"],
@@ -119,9 +116,6 @@
             }
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDUU", "SLN"],
             "station_id": "EDUU-SLN"
           },
@@ -139,9 +133,6 @@
           {
             "label": ["EDFH", "TWR"],
             "station_id": "EDGG-FHT"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["EDYY", "RL"],
@@ -163,9 +154,6 @@
             "station_id": "EDGG-TOUT"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDYY", "LNH"]
           },
           {
@@ -184,9 +172,6 @@
             "station_id": "EDGG-TART"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDYY", "LXH"]
           },
           {
@@ -195,9 +180,6 @@
           {
             "label": ["EDDK", "DKA"],
             "station_id": "EDGG-DKA"
-          },
-          {
-            "label": [""]
           },
           {
             "label": [""]
@@ -228,16 +210,10 @@
             "label": [""]
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["LFST", "APP"]
           },
           {
             "label": ["ELLX", "APP"]
-          },
-          {
-            "label": [""]
           },
           {
             "label": [""]

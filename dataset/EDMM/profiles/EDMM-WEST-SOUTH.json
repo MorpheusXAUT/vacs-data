@@ -28,7 +28,7 @@
             "station_id": "LSFA-ARFA"
           },
           {
-            "label": []
+            "label": ["LSZH", "APP"]
           },
           {
             "label": ["WLD"],
@@ -100,7 +100,19 @@
                   "label": ["GG", "GGIDM"]
                 },
                 {
-                  "label": []
+                  "label": ["EPWW", "FIS"]
+                },
+                {
+                  "label": ["LKAA", "FIS"]
+                },
+                {
+                  "label": ["LOVV", "FIS"]
+                },
+                {
+                  "label": ["LIPP", "FIS"]
+                },
+                {
+                  "label": ["LSAS", "FIS"]
                 }
               ]
             }
@@ -145,16 +157,17 @@
                   "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": []
+                  "label": ["LKAA", "FMP"]
                 },
                 {
-                  "label": []
+                  "label": ["LIPP", "FMP"],
+                  "station_id": "LIPP-FMP"
                 },
                 {
-                  "label": []
+                  "label": ["LSAS", "FMP"]
                 },
                 {
-                  "label": []
+                  "label": ["LOVV", "FMP"]
                 }
               ]
             }
@@ -172,13 +185,13 @@
             "station_id": "EDGG-REU"
           },
           {
-            "label": ["LSAS", "U 245"]
+            "label": ["LSAS", "U 245+"]
           },
           {
-            "label": ["LSAZ", "E"]
+            "label": ["LSAZ", "E 245-"]
           },
           {
-            "label": ["LSAZ", "S"]
+            "label": ["LSAZ", "S 245-"]
           },
           {
             "label": ["UU", "CHI"],
@@ -193,24 +206,27 @@
             "station_id": "EDGG-LBU"
           },
           {
-            "label": ["LIPP", "N8 365"]
+            "label": ["LIPP", "N8 365+"],
+            "station_id": "LIPP-NE8"
           },
           {
-            "label": ["LIPP", "N6 335", ""]
+            "label": ["LIPP", "N6 335+", ""],
+            "station_id": "LIPP-NE6"
           },
           {
-            "label": ["LIPP", "N3 285"]
+            "label": ["LIPP", "N3 285+"],
+            "station_id": "LIPP-NE3"
           },
           {
             "label": ["UU", "ISA"],
             "station_id": "EDUU-ISA"
           },
           {
-            "label": ["LOVV", "W27"],
+            "label": ["LOVV", "W27 315+"],
             "station_id": "LOVV_W7"
           },
           {
-            "label": ["LOVV", "W1"],
+            "label": ["LOVV", "W1 315-"],
             "station_id": "LOVV_W1"
           },
           {
@@ -218,21 +234,23 @@
             "station_id": "LOWI_APP"
           },
           {
-            "label": []
+            "label": ["LIPP", "NW1 285-"],
+            "station_id": "LIPP-NW1"
           },
           {
-            "label": ["LSZH", "APP"]
+            "label": ["LIPP", "NE2 285-"],
+            "station_id": "LIPP-NE2"
           },
           {
             "label": ["UU", "DON"],
             "station_id": "EDUU-DON"
           },
           {
-            "label": ["LOVV", "B27"],
+            "label": ["LOVV", "B27 315+"],
             "station_id": "LOVV_B7"
           },
           {
-            "label": ["LOVV", "B1"],
+            "label": ["LOVV", "B1 315-"],
             "station_id": "LOVV_B1"
           },
           {
@@ -240,10 +258,10 @@
             "station_id": "LOWS_APP"
           },
           {
-            "label": ["LIPP", "NW2"]
+            "label": []
           },
           {
-            "label": ["LIPP", "NE2"]
+            "label": []
           }
         ]
       }
