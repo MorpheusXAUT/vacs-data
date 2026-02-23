@@ -27,19 +27,11 @@ runs:
           exit 1
         fi
 
-        HTTP_RESPONSE=$(curl -sS -w "\n%{http_code}" \
+        RESPONSE=$(curl -sSf \
           -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
           "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=${{ inputs.oidc-audience }}")
 
-        HTTP_CODE=$(echo "$HTTP_RESPONSE" | tail -n1)
-        RESPONSE_BODY=$(echo "$HTTP_RESPONSE" | sed '$d')
-
-        if [[ "$HTTP_CODE" -lt 200 || "$HTTP_CODE" -ge 300 ]]; then
-          echo "::error::OIDC token request failed with HTTP $HTTP_CODE"
-          exit 1
-        fi
-
-        TOKEN=$(echo "$RESPONSE_BODY" | jq -r '.value')
+        TOKEN=$(echo "$RESPONSE" | jq -r '.value')
 
         if [[ -z "$TOKEN" || "$TOKEN" == "null" ]]; then
           echo "::error::OIDC token request returned an empty or null token"
@@ -52,17 +44,13 @@ runs:
     - name: Trigger dataset reload
       shell: bash
       run: |
-        response=$(curl -s -o response.txt -w "%{http_code}" \
+        if ! response=$(curl -sSf --fail-with-body \
           -X POST \
           -H "Authorization: Bearer ${{ steps.oidc.outputs.token }}" \
           -H "Content-Type: application/json" \
           -d '{"ref": "${{ inputs.git-ref }}", "sha": "${{ inputs.commit-sha }}"}' \
-          "${{ inputs.server-url }}/admin/dataset/reload")
-
-        body=$(cat response.txt)
-
-        if [ "$response" -ne 200 ]; then
-          echo "::error::Dataset reload failed with HTTP $response: $body"
+          "${{ inputs.server-url }}/admin/dataset/reload"); then
+          echo "::error::Dataset reload failed: $response"
           exit 1
         fi
 
