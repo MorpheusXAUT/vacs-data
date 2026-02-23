@@ -1,0 +1,69 @@
+name: Deploy Dataset
+description: Authenticate via OIDC and trigger a dataset reload on the vacs server
+
+inputs:
+  oidc-audience:
+    description: OIDC audience for the token request
+    required: true
+  server-url:
+    description: Base URL of the vacs server
+    required: true
+  git-ref:
+    description: Git ref to download (tag, branch, or commit SHA)
+    required: true
+  commit-sha:
+    description: Resolved commit SHA used as the version marker
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Get OIDC token
+      id: oidc
+      shell: bash
+      run: |
+        if [[ -z "$ACTIONS_ID_TOKEN_REQUEST_TOKEN" || -z "$ACTIONS_ID_TOKEN_REQUEST_URL" ]]; then
+          echo "::error::OIDC token request environment variables are not set. Ensure the job has 'id-token: write' permission."
+          exit 1
+        fi
+
+        HTTP_RESPONSE=$(curl -sS -w "\n%{http_code}" \
+          -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
+          "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=${{ inputs.oidc-audience }}")
+
+        HTTP_CODE=$(echo "$HTTP_RESPONSE" | tail -n1)
+        RESPONSE_BODY=$(echo "$HTTP_RESPONSE" | sed '$d')
+
+        if [[ "$HTTP_CODE" -lt 200 || "$HTTP_CODE" -ge 300 ]]; then
+          echo "::error::OIDC token request failed with HTTP $HTTP_CODE"
+          exit 1
+        fi
+
+        TOKEN=$(echo "$RESPONSE_BODY" | jq -r '.value')
+
+        if [[ -z "$TOKEN" || "$TOKEN" == "null" ]]; then
+          echo "::error::OIDC token request returned an empty or null token"
+          exit 1
+        fi
+
+        echo "::add-mask::$TOKEN"
+        echo "token=$TOKEN" >> "$GITHUB_OUTPUT"
+
+    - name: Trigger dataset reload
+      shell: bash
+      run: |
+        response=$(curl -s -o response.txt -w "%{http_code}" \
+          -X POST \
+          -H "Authorization: Bearer ${{ steps.oidc.outputs.token }}" \
+          -H "Content-Type: application/json" \
+          -d '{"ref": "${{ inputs.git-ref }}", "sha": "${{ inputs.commit-sha }}"}' \
+          "${{ inputs.server-url }}/admin/dataset/reload")
+
+        body=$(cat response.txt)
+
+        if [ "$response" -ne 200 ]; then
+          echo "::error::Dataset reload failed with HTTP $response: $body"
+          exit 1
+        fi
+
+        echo "Dataset reload triggered successfully"
