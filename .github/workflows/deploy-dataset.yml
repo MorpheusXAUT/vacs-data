@@ -21,8 +21,15 @@ on:
 permissions: {}
 
 jobs:
+  validate:
+    name: Validate dataset
+    uses: ./.github/workflows/ci-dataset.yml
+    permissions:
+      contents: read
+
   deploy-dev:
     name: Deploy to dev
+    needs: validate
     if: >-
       (github.event_name == 'push' && !startsWith(github.ref, 'refs/tags/'))
       || (github.event_name == 'workflow_dispatch' && inputs.environment == 'dev')
@@ -66,9 +73,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           # Try to update existing ref, create if it doesn't exist
-          if ! gh api repos/${{ github.repository }}/git/refs/tags/deployed/dev \
+          if ! gh api "repos/${{ github.repository }}/git/refs/tags/deployed/dev" \
             -X PATCH -f sha=${{ github.sha }} --silent 2>/dev/null; then
-            gh api repos/${{ github.repository }}/git/refs \
+            gh api "repos/${{ github.repository }}/git/refs" \
               -X POST -f ref=refs/tags/deployed/dev -f sha=${{ github.sha }} --silent
           fi
           echo "Updated deployed/dev tag to ${{ github.sha }}"
@@ -86,6 +93,7 @@ jobs:
 
   deploy-production:
     name: Deploy to production
+    needs: validate
     if: >-
       (github.event_name == 'push' && startsWith(github.ref, 'refs/tags/airac-'))
       || (github.event_name == 'workflow_dispatch' && inputs.environment == 'production')
@@ -146,9 +154,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           # Try to update existing ref, create if it doesn't exist
-          if ! gh api repos/${{ github.repository }}/git/refs/tags/deployed/production \
+          if ! gh api "repos/${{ github.repository }}/git/refs/tags/deployed/production" \
             -X PATCH -f sha=${{ github.sha }} --silent 2>/dev/null; then
-            gh api repos/${{ github.repository }}/git/refs \
+            gh api "repos/${{ github.repository }}/git/refs" \
               -X POST -f ref=refs/tags/deployed/production -f sha=${{ github.sha }} --silent
           fi
           echo "Updated deployed/production tag to ${{ github.sha }}"
