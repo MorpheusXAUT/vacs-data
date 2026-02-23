@@ -206,13 +206,16 @@
             "station_id": "EDGG-LBU"
           },
           {
-            "label": ["LIPP", "N8 365"]
+            "label": ["LIPP", "N8 365+"],
+            "station_id": "LIPP-NE8"
           },
           {
-            "label": ["LIPP", "N6 335", ""]
+            "label": ["LIPP", "N6 335+", ""],
+            "station_id": "LIPP-NE6"
           },
           {
-            "label": ["LIPP", "N3 285"]
+            "label": ["LIPP", "N3 285+"],
+            "station_id": "LIPP-NE3"
           },
           {
             "label": ["UU", "ISA"],
@@ -231,10 +234,12 @@
             "station_id": "LOWI_APP"
           },
           {
-            "label": []
+            "label": ["LIPP", "NW1 285-"],
+            "station_id": "LIPP-NW1"
           },
           {
-            "label": []
+            "label": ["LIPP", "NE2 285-"],
+            "station_id": "LIPP-NE2"
           },
           {
             "label": ["UU", "DON"],
@@ -253,10 +258,10 @@
             "station_id": "LOWS_APP"
           },
           {
-            "label": ["LIPP", "NW2"]
+            "label": []
           },
           {
-            "label": ["LIPP", "NE2"]
+            "label": []
           }
         ]
       }
