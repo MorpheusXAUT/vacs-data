@@ -44,7 +44,7 @@ runs:
     - name: Trigger dataset reload
       shell: bash
       run: |
-        if ! response=$(curl -sSf --fail-with-body \
+        if ! response=$(curl -sS --fail-with-body \
           -X POST \
           -H "Authorization: Bearer ${{ steps.oidc.outputs.token }}" \
           -H "Content-Type: application/json" \
