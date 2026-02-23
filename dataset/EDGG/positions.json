@@ -346,7 +346,7 @@
       "prefixes": ["EDGG"],
       "frequency": "134.065",
       "facility_type": "APP",
-      "profile_id": "EDGG_EMPTY"
+      "profile_id": "EDGG_KLA"
     },
     {
       "id": "EDDG_HMM_APP",
@@ -507,49 +507,49 @@
       "prefixes": ["ETAD"],
       "frequency": "129.475",
       "facility_type": "APP",
-      "profile_id": "EDGG_EMPTY"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETAR_APP",
       "prefixes": ["ETAR"],
       "frequency": "124.280",
       "facility_type": "APP",
-      "profile_id": "EDGG_EMPTY"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETHF_APP",
       "prefixes": ["ETHF"],
       "frequency": "120.865",
       "facility_type": "APP",
-      "profile_id": "EDGG_EMPTY"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETHN_APP",
       "prefixes": ["ETHN"],
       "frequency": "127.190",
       "facility_type": "APP",
-      "profile_id": "EDGG_EMPTY"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETNG_APP",
       "prefixes": ["ETNG"],
       "frequency": "123.730",
       "facility_type": "APP",
-      "profile_id": "EDGG_EMPTY"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETNN_APP",
       "prefixes": ["ETNN"],
       "frequency": "129.055",
       "facility_type": "APP",
-      "profile_id": "EDGG_EMPTY"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETSB_APP",
       "prefixes": ["ETSB"],
       "frequency": "130.155",
       "facility_type": "APP",
-      "profile_id": "EDGG_EMPTY"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "EDDL_TWR",
