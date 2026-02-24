@@ -835,91 +835,91 @@
       "prefixes": ["ETAD"],
       "frequency": "122.200",
       "facility_type": "TWR",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETAD_GND",
       "prefixes": ["ETAD"],
       "frequency": "121.865",
       "facility_type": "GND",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETAD_DEL",
       "prefixes": ["ETAD"],
       "frequency": "120.905",
       "facility_type": "DEL",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETAR_TWR",
       "prefixes": ["ETAR"],
       "frequency": "133.205",
       "facility_type": "TWR",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETAR_GND",
       "prefixes": ["ETAR"],
       "frequency": "121.775",
       "facility_type": "GND",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETHF_TWR",
       "prefixes": ["ETHF"],
       "frequency": "122.300",
       "facility_type": "TWR",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETHF_GND",
       "prefixes": ["ETHF"],
       "frequency": "131.450",
       "facility_type": "GND",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETHN_TWR",
       "prefixes": ["ETHN"],
       "frequency": "134.205",
       "facility_type": "TWR",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETNG_TWR",
       "prefixes": ["ETNG"],
       "frequency": "120.055",
       "facility_type": "TWR",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETNN_TWR",
       "prefixes": ["ETNN"],
       "frequency": "136.205",
       "facility_type": "TWR",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETOU_TWR",
       "prefixes": ["ETOU"],
       "frequency": "122.100",
       "facility_type": "TWR",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETOU_GND",
       "prefixes": ["ETOU"],
       "frequency": "126.555",
       "facility_type": "GND",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "ETSB_TWR",
       "prefixes": ["ETSB"],
       "frequency": "129.060",
       "facility_type": "TWR",
-      "profile_id": "EDGG_TWR"
+      "profile_id": "EDGG_MIL"
     },
     {
       "id": "EDEH_I_TWR",
