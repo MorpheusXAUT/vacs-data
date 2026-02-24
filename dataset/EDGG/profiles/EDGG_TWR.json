@@ -388,7 +388,8 @@
             "label": [""]
           },
           {
-            "label": [""]
+            "label": ["EDTL", "TWR"],
+            "station_id": "EDGG-TLT"
           },
           {
             "label": [""]
