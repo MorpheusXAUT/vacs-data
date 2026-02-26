@@ -80,7 +80,6 @@ jobs:
         run: |
           echo "## ✅ Deployed to dev" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "| | |" >> $GITHUB_STEP_SUMMARY
           echo "|---|---|" >> $GITHUB_STEP_SUMMARY
           echo "| **Commit** | [\`${GITHUB_SHA::7}\`](${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}) |" >> $GITHUB_STEP_SUMMARY
           echo "| **Trigger** | ${{ github.event_name }} |" >> $GITHUB_STEP_SUMMARY
@@ -157,7 +156,6 @@ jobs:
         run: |
           echo "## ✅ Deployed to production" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "| | |" >> $GITHUB_STEP_SUMMARY
           echo "|---|---|" >> $GITHUB_STEP_SUMMARY
           echo "| **Commit** | [\`${GITHUB_SHA::7}\`](${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}) |" >> $GITHUB_STEP_SUMMARY
           echo "| **Trigger** | ${{ github.event_name }} |" >> $GITHUB_STEP_SUMMARY
