@@ -1,0 +1,166 @@
+{
+  "stations": [
+    {
+      "id": "WSSS_DEL",
+      "controlled_by": ["WSSS_DEL"]
+    },
+    {
+      "id": "WSSS_2_DEL",
+      "controlled_by": ["WSSS_2_DEL", "WSSS_DEL"]
+    },
+    {
+      "id": "WSSS_1_GND",
+      "parent_id": "WSSS_1_TWR",
+      "controlled_by": ["WSSS_1_GND", "WSSS_2_GND", "WSSS_3_GND"]
+    },
+    {
+      "id": "WSSS_2_GND",
+      "parent_id": "WSSS_2_TWR",
+      "controlled_by": ["WSSS_2_GND", "WSSS_3_GND"]
+    },
+    {
+      "id": "WSSS_3_GND",
+      "parent_id": "WSSS_1_TWR",
+      "controlled_by": ["WSSS_3_GND"]
+    },
+    {
+      "id": "WSSS_4E_GND",
+      "parent_id": "WSSS_2_TWR",
+      "controlled_by": ["WSSS_4_GND", "WSSS_2_GND", "WSSS_3_GND"]
+    },
+    {
+      "id": "WSSS_4W_GND",
+      "parent_id": "WSSS_1_TWR",
+      "controlled_by": ["WSSS_4_GND", "WSSS_3_GND"]
+    },
+    {
+      "id": "WSSS_5_GND",
+      "parent_id": "WSSS_3_TWR",
+      "controlled_by": ["WSSS_5_GND"]
+    },
+    {
+      "id": "WSSS_G_GND",
+      "controlled_by": ["WSSS_G_GND"]
+    },
+    {
+      "id": "WSSL_GND",
+      "parent_id": "WSSL_TWR",
+      "controlled_by": ["WSSL_GND"]
+    },
+    {
+      "id": "WSAP_GND",
+      "parent_id": "WSAP_TWR",
+      "controlled_by": ["WSAP_GND"]
+    },
+    {
+      "id": "WIDD_GND",
+      "parent_id": "WIDD_TWR",
+      "controlled_by": ["WIDD_GND", "WIDN_TWR", "WIDN_APP"]
+    },
+    {
+      "id": "WSSS_1_TWR",
+      "parent_id": "WSSS_F_APP",
+      "controlled_by": ["WSSS_1_TWR"]
+    },
+    {
+      "id": "WSSS_2_TWR",
+      "parent_id": "WSSS_F_APP",
+      "controlled_by": ["WSSS_2_TWR", "WSSS_1_TWR"]
+    },
+    {
+      "id": "WSSS_3_TWR",
+      "parent_id": "WSSS_F_APP",
+      "controlled_by": ["WSSS_3_TWR", "WSSS_2_TWR", "WSSS_1_TWR"]
+    },
+    {
+      "id": "WSSS_C_TWR",
+      "controlled_by": ["WSSS_C_TWR"]
+    },
+    {
+      "id": "WSSL_TWR",
+      "parent_id": "WSAP_APP",
+      "controlled_by": ["WSSL_TWR"]
+    },
+    {
+      "id": "WSAP_TWR",
+      "parent_id": "WSAP_APP",
+      "controlled_by": ["WSAP_TWR"]
+    },
+    {
+      "id": "WIDD_TWR",
+      "parent_id": "WIDN_APP",
+      "controlled_by": ["WIDD_TWR"]
+    },
+    {
+      "id": "WIDN_TWR",
+      "parent_id": "WIDN_APP",
+      "controlled_by": ["WIDN_TWR"]
+    },
+    {
+      "id": "WSSS_APP",
+      "parent_id": "WSJC_1_CTR",
+      "controlled_by": ["WSSS_APP", "WSSS_DEP"]
+    },
+    {
+      "id": "WSSS_N_APP",
+      "parent_id": "WSJC_1_CTR",
+      "controlled_by": ["WSSS_N_APP", "WSSS_APP", "WSSS_DEP"]
+    },
+    {
+      "id": "WSSS_F_APP",
+      "parent_id": "WSJC_1_CTR",
+      "controlled_by": ["WSSS_F_APP", "WSSS_APP"]
+    },
+    {
+      "id": "WSSS_DEP",
+      "parent_id": "WSJC_1_CTR",
+      "controlled_by": ["WSSS_DEP", "WSSS_N_APP", "WSSS_APP"]
+    },
+    {
+      "id": "WSSS_C_APP",
+      "controlled_by": ["WSSS_C_APP"]
+    },
+    {
+      "id": "WSAP_APP",
+      "parent_id": "WSJC_1_CTR",
+      "controlled_by": ["WSAP_APP", "WSSS_DEP", "WSSS_APP"]
+    },
+    {
+      "id": "WIDN_APP",
+      "parent_id": "WSJC_1_CTR",
+      "controlled_by": ["WIDN_APP", "WSSS_DEP", "WSSS_N_APP", "WSSS_APP"]
+    },
+    {
+      "id": "WSJC_1_CTR",
+      "controlled_by": ["WSJC_1_CTR", "WSJC_7_CTR"]
+    },
+    {
+      "id": "WSJC_2_CTR",
+      "controlled_by": ["WSJC_2_CTR", "WSJC_1_CTR", "WSJC_7_CTR"]
+    },
+    {
+      "id": "WSJC_3_CTR",
+      "controlled_by": ["WSJC_3_CTR", "WSJC_7_CTR"]
+    },
+    {
+      "id": "WSJC_4_CTR",
+      "controlled_by": ["WSJC_4_CTR", "WSJC_1_CTR", "WSJC_7_CTR"]
+    },
+    {
+      "id": "WSJC_5_CTR",
+      "controlled_by": ["WSJC_5_CTR", "WSJC_8_CTR", "WSJC_7_CTR"]
+    },
+    {
+      "id": "WSJC_6_CTR",
+      "controlled_by": ["WSJC_6_CTR", "WSJC_7_CTR"]
+    },
+    {
+      "id": "WSJC_7_CTR",
+      "controlled_by": ["WSJC_7_CTR"]
+    },
+    {
+      "id": "WSJC_8_CTR",
+      "controlled_by": ["WSJC_8_CTR", "WSJC_7_CTR"]
+    }
+  ]
+}

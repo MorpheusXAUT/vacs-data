@@ -1,0 +1,34 @@
+{
+  "positions": [
+    {
+      "id": "LMMM_CTR",
+      "prefixes": ["LMMM"],
+      "frequency": "130.975",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "LMMM_E_CTR",
+      "prefixes": ["LMMM"],
+      "frequency": "122.775",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "LMML_APP",
+      "prefixes": ["LMML"],
+      "frequency": "128.155",
+      "facility_type": "APP"
+    },
+    {
+      "id": "LMML_TWR",
+      "prefixes": ["LMML"],
+      "frequency": "135.105",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "LMML_GND",
+      "prefixes": ["LMML"],
+      "frequency": "121.605",
+      "facility_type": "GND"
+    }
+  ]
+}

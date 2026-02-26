@@ -1,0 +1,285 @@
+{
+  "id": "ESOS_AD_NORTH",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESOS", ""],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["OS", "YK"],
+            "station_id": "ESOS YK"
+          },
+          {
+            "label": ["OS", "XK"],
+            "station_id": "ESOS XK"
+          },
+          {
+            "label": ["OS", "K"],
+            "station_id": "ESOS K"
+          },
+          {
+            "label": ["OS", "N"],
+            "station_id": "ESOS N"
+          },
+          {
+            "label": ["OS", "F"],
+            "station_id": "ESOS F"
+          },
+          {
+            "label": ["WS", "", ""],
+            "station_id": "ESAA FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["NQ", "TWR"],
+            "station_id": "ESNQ TWR"
+          },
+          {
+            "label": ["UT", "AFIS"],
+            "station_id": "ESUT AFIS"
+          },
+          {
+            "label": ["NV", "AFIS"],
+            "station_id": "ESNL AFIS"
+          },
+          {
+            "label": ["NZ", "TWR"],
+            "station_id": "ESNZ TWR"
+          },
+          {
+            "label": ["ND", "AFIS"],
+            "station_id": "ESND AFIS"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["NG", "AFIS"],
+            "station_id": "ESNG AFIS"
+          },
+          {
+            "label": ["NX", "TWR/AFIS"],
+            "station_id": "ESNX TWR"
+          },
+          {
+            "label": ["NL", "AFIS"],
+            "station_id": "ESNL AFIS"
+          },
+          {
+            "label": ["NK", "AFIS"],
+            "station_id": "ESNK AFIS"
+          },
+          {
+            "label": ["NN", "TWR"],
+            "station_id": "ESNN TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["UP", "AFIS"],
+            "station_id": "ESUP AFIS"
+          },
+          {
+            "label": ["PA", "APP"],
+            "station_id": "ESPA APP"
+          },
+          {
+            "label": ["PA", "TWR"],
+            "station_id": "ESPA TWR"
+          },
+          {
+            "label": ["NS", "TWR"],
+            "station_id": "ESNS TWR"
+          },
+          {
+            "label": ["NU", "TWR"],
+            "station_id": "ESNU TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["PA", "DIR"],
+            "station_id": "ESPA DIR"
+          },
+          {
+            "label": ["PA", "PAR"],
+            "station_id": "ESPA PAR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["FIR"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": []
+          },
+          {
+            "label": ["ENBD", "26"]
+          },
+          {
+            "label": ["ENBD", "25"]
+          },
+          {
+            "label": ["ENBD", "24"]
+          },
+          {
+            "label": ["ENBD", "19"]
+          },
+          {
+            "label": ["ENOS", "1"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["ENBD", "HELGELAND", "APP"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EFKT", "TWR"],
+            "station_id": "EFKT_TWR"
+          },
+          {
+            "label": ["EFET", "AFIS"],
+            "station_id": "EFET"
+          },
+          {
+            "label": ["EFKE", "TWR"],
+            "station_id": "EFKE_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EFVA", "TWR"],
+            "station_id": "EFVA_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
+          },
+          {
+            "label": ["EFIN", "J"],
+            "station_id": "EFIN_J"
+          },
+          {
+            "label": ["EFIN", "H"],
+            "station_id": "EFIN_H"
+          },
+          {
+            "label": ["EFIN", "V"],
+            "station_id": "EFIN_V"
+          },
+          {
+            "label": ["EFIN", "G"],
+            "station_id": "EFIN_G"
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["MIL"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["COB"],
+            "station_id": "ESPF"
+          },
+          {
+            "label": ["GRI"],
+            "station_id": "ESCR"
+          },
+          {
+            "label": ["BSH"],
+            "station_id": "ESDK"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["NJ", "APP"],
+            "station_id": "ESNJ APP"
+          },
+          {
+            "label": ["NJ", "TWR"],
+            "station_id": "ESNJ TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["PE", "APP"],
+            "station_id": "ESPE APP"
+          },
+          {
+            "label": ["PE", "TWR"],
+            "station_id": "ESPE TWR"
+          }
+        ]
+      }
+    }
+  ]
+}
