@@ -539,11 +539,7 @@
                   "station_id": "ESMM L"
                 },
                 {
-                  "label": [
-                    "ESMM",
-                    "8",
-                    "285-365"
-                  ],
+                  "label": ["ESMM", "8", "285-365"],
                   "station_id": "ESMM 8"
                 },
                 {
@@ -563,11 +559,7 @@
                   "station_id": "EPWWB_LOW"
                 },
                 {
-                  "label": [
-                    "EPWW",
-                    "B",
-                    "335-365"
-                  ],
+                  "label": ["EPWW", "B", "335-365"],
                   "station_id": "EPWWB_MID"
                 },
                 {
@@ -579,11 +571,7 @@
                   "station_id": "EPWWD_LOW"
                 },
                 {
-                  "label": [
-                    "EPWW",
-                    "D",
-                    "335-365"
-                  ],
+                  "label": ["EPWW", "D", "335-365"],
                   "station_id": "EPWWD_MID"
                 },
                 {

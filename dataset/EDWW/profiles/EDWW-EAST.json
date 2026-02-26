@@ -289,11 +289,7 @@
             "station_id": "EPSC_TMA"
           },
           {
-            "label": [
-              "TRAMON",
-              "SUNRISE",
-              "LONESHIP"
-            ],
+            "label": ["TRAMON", "SUNRISE", "LONESHIP"],
             "page": {
               "rows": 6,
               "keys": [

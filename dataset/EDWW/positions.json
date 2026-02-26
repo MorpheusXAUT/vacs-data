@@ -376,224 +376,224 @@
       "prefixes": ["ETHB"],
       "frequency": "124.505",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETHB_TWR",
       "prefixes": ["ETHB"],
       "frequency": "123.240",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETHC_APP",
       "prefixes": ["ETHC"],
       "frequency": "123.305",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETHC_TWR",
       "prefixes": ["ETHC"],
       "frequency": "118.255",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETHS_APP",
       "prefixes": ["ETHS"],
       "frequency": "119.355",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETHS_TWR",
       "prefixes": ["ETHS"],
       "frequency": "118.525",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETMN_APP",
       "prefixes": ["ETMN"],
       "frequency": "129.855",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETMN_TWR",
       "prefixes": ["ETMN"],
       "frequency": "131.255",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETND_TWR",
       "prefixes": ["ETND"],
       "frequency": "135.130",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNH_APP",
       "prefixes": ["ETNH"],
       "frequency": "122.700",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNH_P_APP",
       "prefixes": ["ETNH"],
       "frequency": "125.600",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNH_TWR",
       "prefixes": ["ETNH"],
       "frequency": "125.600",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNL_APP",
       "prefixes": ["ETNL"],
       "frequency": "123.300",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNL_P_APP",
       "prefixes": ["ETNL"],
       "frequency": "133.105",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNL_TWR",
       "prefixes": ["ETNL"],
       "frequency": "118.430",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNL_A_GND",
       "prefixes": ["ETNL"],
       "frequency": "121.955",
       "facility_type": "GND",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNS_APP",
       "prefixes": ["ETNS"],
       "frequency": "123.300",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNS_P_APP",
       "prefixes": ["ETNS"],
       "frequency": "118.555",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNS_TWR",
       "prefixes": ["ETNS"],
       "frequency": "135.155",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNT_APP",
       "prefixes": ["ETNT"],
       "frequency": "131.015",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNT_TWR",
       "prefixes": ["ETNT"],
       "frequency": "118.730",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNW_APP",
       "prefixes": ["ETNW"],
       "frequency": "124.655",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETNW_TWR",
       "prefixes": ["ETNW"],
       "frequency": "132.055",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETSH_APP",
       "prefixes": ["ETSH"],
       "frequency": "129.855",
       "facility_type": "APP",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "ETSH_TWR",
       "prefixes": ["ETSH"],
       "frequency": "130.505",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MIL"
+      "profile_id": "EDWW-MIL"
     },
     {
       "id": "EDAH_TWR",
       "prefixes": ["EDAH"],
       "frequency": "132.830",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MINOR"
+      "profile_id": "EDWW-MINOR"
     },
     {
       "id": "EDHI_TWR",
       "prefixes": ["EDHI"],
       "frequency": "123.255",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MINOR"
+      "profile_id": "EDWW-MINOR"
     },
     {
       "id": "EDHL_TWR",
       "prefixes": ["EDHL"],
       "frequency": "128.705",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MINOR"
+      "profile_id": "EDWW-MINOR"
     },
     {
       "id": "EDHL_GND",
       "prefixes": ["EDHL"],
       "frequency": "121.780",
       "facility_type": "GND",
-	  "profile_id": "EDWW-MINOR"
+      "profile_id": "EDWW-MINOR"
     },
     {
       "id": "EDVE_TWR",
       "prefixes": ["EDVE"],
       "frequency": "120.055",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MINOR"
+      "profile_id": "EDWW-MINOR"
     },
     {
       "id": "EDVK_TWR",
       "prefixes": ["EDVK"],
       "frequency": "118.105",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MINOR"
+      "profile_id": "EDWW-MINOR"
     },
     {
       "id": "EDVK_GND",
       "prefixes": ["EDVK"],
       "frequency": "121.905",
       "facility_type": "GND",
-	  "profile_id": "EDWW-MINOR"
+      "profile_id": "EDWW-MINOR"
     },
     {
       "id": "EDXW_TWR",
@@ -606,63 +606,63 @@
       "prefixes": ["EDAY"],
       "frequency": "118.735",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-MINOR"
+      "profile_id": "EDWW-MINOR"
     },
     {
       "id": "EDAZ_I_TWR",
       "prefixes": ["EDAZ"],
       "frequency": "131.155",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-AFIS"
+      "profile_id": "EDWW-AFIS"
     },
     {
       "id": "EDBC_I_TWR",
       "prefixes": ["EDBC"],
       "frequency": "131.130",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-AFIS"
+      "profile_id": "EDWW-AFIS"
     },
     {
       "id": "EDBH_I_TWR",
       "prefixes": ["EDBH"],
       "frequency": "118.080",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-AFIS"
+      "profile_id": "EDWW-AFIS"
     },
     {
       "id": "EDBM_I_TWR",
       "prefixes": ["EDBM"],
       "frequency": "119.305",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-AFIS"
+      "profile_id": "EDWW-AFIS"
     },
     {
       "id": "EDBN_I_TWR",
       "prefixes": ["EDBN"],
       "frequency": "119.180",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-AFIS"
+      "profile_id": "EDWW-AFIS"
     },
     {
       "id": "EDHK_I_TWR",
       "prefixes": ["EDHK"],
       "frequency": "119.980",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-AFIS"
+      "profile_id": "EDWW-AFIS"
     },
     {
       "id": "EDWE_I_TWR",
       "prefixes": ["EDWE"],
       "frequency": "118.605",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-AFIS"
+      "profile_id": "EDWW-AFIS"
     },
     {
       "id": "EDWI_I_TWR",
       "prefixes": ["EDWI"],
       "frequency": "118.605",
       "facility_type": "TWR",
-	  "profile_id": "EDWW-AFIS"
+      "profile_id": "EDWW-AFIS"
     }
   ]
 }
