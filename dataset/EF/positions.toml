@@ -107,66 +107,77 @@ id = "EFHK_FMP"
 prefixes = ["EFHK"]
 frequency = "118.600"
 facility_type = "FMP"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_E_APP"
 prefixes = ["EFHK"]
 frequency = "119.100"
 facility_type = "APP"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_W_APP"
 prefixes = ["EFHK"]
 frequency = "129.850"
 facility_type = "APP"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_R_APP"
 prefixes = ["EFHK"]
 frequency = "119.900"
 facility_type = "APP"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_A_APP"
 prefixes = ["EFHK"]
 frequency = "124.325"
 facility_type = "APP"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_E_TWR"
 prefixes = ["EFHK"]
 frequency = "118.600"
 facility_type = "TWR"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_W_TWR"
 prefixes = ["EFHK"]
 frequency = "118.850"
 facility_type = "TWR"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_GND"
 prefixes = ["EFHK"]
 frequency = "121.800"
 facility_type = "GND"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_DEL"
 prefixes = ["EFHK"]
 frequency = "118.125"
 facility_type = "DEL"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_C_GND"
 prefixes = ["EFHK"]
 frequency = "133.850"
 facility_type = "GND"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHK_D_GND"
 prefixes = ["EFHK"]
 frequency = "121.675"
 facility_type = "GND"
+profile_id = "EFHK"
 
 [[positions]]
 id = "EFHA_APP"
