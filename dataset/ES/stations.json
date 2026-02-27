@@ -687,7 +687,8 @@
     },
     {
       "id": "ESSA GND-N",
-      "controlled_by": ["ESSA_N_GND", "ESSA_W_GND"]
+      "controlled_by": ["ESSA_N_GND", "ESSA_W_GND"],
+      "parent_id": "ESSA TWR-W"
     },
     {
       "id": "ESOS ARR-W",
