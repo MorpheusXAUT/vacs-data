@@ -1,7 +1,7 @@
 [[positions]]
 id = "EFIN_FMP"
 prefixes = ["EFIN"]
-frequency = "121.300"
+frequency = "199.998"
 facility_type = "FMP"
 profile_id = "EFIN"
 
@@ -106,7 +106,7 @@ profile_id = "EFIN"
 [[positions]]
 id = "EFHK_FMP"
 prefixes = ["EFHK"]
-frequency = "118.600"
+frequency = "199.998"
 facility_type = "FMP"
 profile_id = "EFHK"
 
