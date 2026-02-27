@@ -144,7 +144,7 @@
           },
           {
             "label": ["ESMM", "8", "-365"],
-            "station_id": "ESMM 8"
+            "station_id": "ESMM_8"
           },
           {
             "label": ["EPWW", "D", "+365"],
@@ -180,7 +180,7 @@
           },
           {
             "label": ["ESMM", "9", "+365"],
-            "station_id": "ESMM 9"
+            "station_id": "ESMM_9"
           },
           {
             "label": ["EPWW", "T", "+365"],
@@ -218,7 +218,7 @@
                 },
                 {
                   "label": ["ESMM", "FMP"],
-                  "station_id": "ESAA FMP"
+                  "station_id": "ESAA_FMP"
                 },
                 {
                   "label": ["EPWW", "FMP"],
