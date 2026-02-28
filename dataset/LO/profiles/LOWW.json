@@ -229,7 +229,8 @@
             "station_id": "LOWW_P_APP"
           },
           {
-            "label": []
+            "label": ["FMP"],
+            "station_id": "LOVV_FMP"
           }
         ]
       }
@@ -240,10 +241,12 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["LOAG"]
+            "label": ["LOAG"],
+            "station_id": "LOAG_TWR"
           },
           {
-            "label": ["LOAV"]
+            "label": ["LOAV"],
+            "station_id": "LOAV_TWR"
           },
           {
             "label": ["PRA", "FIC", "WEST"]
@@ -260,10 +263,12 @@
             "station_id": "LOVV_I_CTR"
           },
           {
-            "label": ["LOAU"]
+            "label": ["LOAU"],
+            "station_id": "LOAU_TWR"
           },
           {
-            "label": ["LOAN"]
+            "label": ["LOAN"],
+            "station_id": "LOAN_TWR"
           },
           {
             "label": ["PRA", "FIC", "EAST"]
