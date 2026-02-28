@@ -6,7 +6,7 @@ members = ["cli", "diagnostics", "importer", "validator"]
 version = "0.4.0"
 edition = "2024"
 license = "Apache-2.0 OR MIT"
-repository = "https://github.com/MorpheusXAUT/vacs-data"
+repository = "https://github.com/vacs-project/vacs-data"
 publish = false
 
 [workspace.dependencies]
@@ -23,5 +23,5 @@ tracing-subscriber = { version = "0.3.22", features = ["env-filter", "json"] }
 vacs-data-diagnostics = { path = "./diagnostics" }
 vacs-data-importer = { path = "./importer" }
 vacs-data-validator = { path = "./validator" }
-vacs-protocol = { git = "https://github.com/MorpheusXAUT/vacs", branch = "v2", default-features = false, features = ["vatsim"] }
-vacs-vatsim = { git = "https://github.com/MorpheusXAUT/vacs", branch = "v2", default-features = false, features = ["coverage"] }
+vacs-protocol = { git = "https://github.com/vacs-project/vacs", branch = "v2", default-features = false, features = ["vatsim"] }
+vacs-vatsim = { git = "https://github.com/vacs-project/vacs", branch = "v2", default-features = false, features = ["coverage"] }
