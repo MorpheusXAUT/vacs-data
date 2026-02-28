@@ -443,6 +443,10 @@
               {
                 "label": ["MUNICH", "FMP"],
                 "station_id": "EDMM-FMP"
+              },
+              {
+                "label": ["WIEN", "FMP"],
+                "station_id": "LOVV_FMP"
               }
             ],
             "rows": 5
