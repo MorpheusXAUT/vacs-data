@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "EC",
+      "label": ["EC"],
       "page": {
         "rows": 6,
         "keys": [
@@ -28,10 +28,12 @@
             "station_id": "LOWW_TWR"
           },
           {
-            "label": ["BRA", "LW", "EC"]
+            "label": ["BRA", "LW", "EC"],
+            "station_id": "LZBB_WEST_0L"
           },
           {
-            "label": ["BRA", "APP", "EC"]
+            "label": ["BRA", "APP", "EC"],
+            "station_id": "LZIB_APP"
           },
           {
             "label": []
@@ -54,7 +56,8 @@
             "label": ["BUD", "133.20", "EC"]
           },
           {
-            "label": ["MCC", "TAU", "EC"]
+            "label": ["MCC", "TAU", "EC"],
+            "station_id": "LOVV_M_CTR"
           },
           {
             "label": []
@@ -117,7 +120,7 @@
       }
     },
     {
-      "label": "PLC",
+      "label": ["PLC"],
       "page": {
         "rows": 6,
         "keys": [
@@ -141,10 +144,12 @@
             "station_id": "LOVV_N1"
           },
           {
-            "label": ["BRA", "LW", "PLC"]
+            "label": ["BRA", "LW", "PLC"],
+            "station_id": "LZBB_WEST_0L"
           },
           {
-            "label": ["BRA", "APP", "PLC"]
+            "label": ["BRA", "APP", "PLC"],
+            "station_id": "LZIB_APP"
           },
           {
             "label": ["BRA", "FDT1"]
@@ -166,7 +171,8 @@
             "label": ["BUD", "133.20", "PLC"]
           },
           {
-            "label": ["MCC", "TAU", "PLC"]
+            "label": ["MCC", "TAU", "PLC"],
+            "station_id": "LOVV_M_CTR"
           },
           {
             "label": ["LOXZ", "APP"],
@@ -229,7 +235,7 @@
       }
     },
     {
-      "label": "TFI",
+      "label": ["TFI"],
       "page": {
         "rows": 6,
         "keys": [
@@ -299,13 +305,16 @@
             "station_id": "LOVV_M_CTR"
           },
           {
-            "label": ["BRA", "FIC", "PLC"]
+            "label": ["BRA", "FIC", "PLC"],
+            "station_id": "LZBB_I_CTR"
           },
           {
-            "label": ["BRA", "APP", "PLC"]
+            "label": ["BRA", "APP", "PLC"],
+            "station_id": "LZIB_APP"
           },
           {
-            "label": ["BRA", "TWR", "PLC"]
+            "label": ["BRA", "TWR", "PLC"],
+            "station_id": "LZIB_TWR"
           },
           {
             "label": ["APP", "VN-PLC", "118775"],
@@ -341,7 +350,7 @@
       }
     },
     {
-      "label": "CWP",
+      "label": ["CWP"],
       "page": {
         "rows": 6,
         "client_page": {
