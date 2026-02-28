@@ -408,7 +408,7 @@
     },
     {
       "direction": "col",
-      "gap": 2,
+      "gap": 1,
       "align_items": "center",
       "children": [
         {
@@ -430,6 +430,11 @@
             ],
             "rows": 5
           }
+        },
+        {
+          "label": ["FIC"],
+          "size": 5,
+          "station_id": "LIRR-FIC"
         },
         {
           "label": ["TWR"],
