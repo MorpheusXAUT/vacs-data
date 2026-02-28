@@ -1,4 +1,8 @@
 [[stations]]
+id = "LOVV_FMP"
+controlled_by = ["LOVV_FMP"]
+
+[[stations]]
 id = "LOVV_B1"
 controlled_by = [
   "LOVV_B_CTR",
@@ -420,6 +424,42 @@ id = "LOWW_I_APP"
 controlled_by = ["LOWW_I_APP", "LOVV_I_CTR"]
 
 [[stations]]
+id = "LOXA_TWR"
+controlled_by = [
+  "LOXA_TWR",
+  "LOVV_M_CTR",
+  "LOWW_N_APP",
+  "LOWW_M_APP",
+  "LOWW_APP",
+  "LOWW_P_APP",
+  "LOVV_L_CTR",
+  "LOVV_E_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_NU_CTR",
+]
+
+[[stations]]
+id = "LOXN_TWR"
+controlled_by = [
+  "LOXN_TWR",
+  "LOVV_M_CTR",
+  "LOWW_N_APP",
+  "LOWW_M_APP",
+  "LOWW_APP",
+  "LOWW_P_APP",
+  "LOVV_L_CTR",
+  "LOVV_E_CTR",
+  "LOVV_N_CTR",
+  "LOVV_CTR",
+  "LOVV_C_CTR",
+  "LOVV_EU_CTR",
+  "LOVV_NU_CTR",
+]
+
+[[stations]]
 id = "LOXT_APP"
 controlled_by = [
   "LOXT_APP",
@@ -436,6 +476,11 @@ controlled_by = [
   "LOVV_EU_CTR",
   "LOVV_NU_CTR",
 ]
+
+[[stations]]
+id = "LOXT_P_APP"
+parent_id = "LOXT_APP"
+controlled_by = ["LOXT_P_APP"]
 
 [[stations]]
 id = "LOXT_TWR"
@@ -463,6 +508,11 @@ controlled_by = [
   "LOVV_BU_CTR",
   "LOVV_EU_CTR",
 ]
+
+[[stations]]
+id = "LOXZ_P_APP"
+parent_id = "LOXZ_APP"
+controlled_by = ["LOXZ_P_APP"]
 
 [[stations]]
 id = "LOXZ_TWR"

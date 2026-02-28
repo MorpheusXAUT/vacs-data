@@ -1,6 +1,10 @@
 {
   "stations": [
     {
+      "id": "LOVV_FMP",
+      "controlled_by": ["LOVV_FMP"]
+    },
+    {
       "id": "LOVV_B1",
       "controlled_by": [
         "LOVV_B_CTR",
@@ -422,6 +426,42 @@
       "controlled_by": ["LOVV_M_CTR"]
     },
     {
+      "id": "LOXA_TWR",
+      "controlled_by": [
+        "LOXA_TWR",
+        "LOVV_M_CTR",
+        "LOWW_N_APP",
+        "LOWW_M_APP",
+        "LOWW_APP",
+        "LOWW_P_APP",
+        "LOVV_L_CTR",
+        "LOVV_E_CTR",
+        "LOVV_N_CTR",
+        "LOVV_CTR",
+        "LOVV_C_CTR",
+        "LOVV_EU_CTR",
+        "LOVV_NU_CTR"
+      ]
+    },
+    {
+      "id": "LOXN_TWR",
+      "controlled_by": [
+        "LOXN_TWR",
+        "LOVV_M_CTR",
+        "LOWW_N_APP",
+        "LOWW_M_APP",
+        "LOWW_APP",
+        "LOWW_P_APP",
+        "LOVV_L_CTR",
+        "LOVV_E_CTR",
+        "LOVV_N_CTR",
+        "LOVV_CTR",
+        "LOVV_C_CTR",
+        "LOVV_EU_CTR",
+        "LOVV_NU_CTR"
+      ]
+    },
+    {
       "id": "LOXT_APP",
       "controlled_by": [
         "LOXT_APP",
@@ -438,6 +478,11 @@
         "LOVV_EU_CTR",
         "LOVV_NU_CTR"
       ]
+    },
+    {
+      "id": "LOXT_P_APP",
+      "parent_id": "LOXT_APP",
+      "controlled_by": ["LOXT_P_APP"]
     },
     {
       "id": "LOXT_TWR",
@@ -465,6 +510,11 @@
         "LOVV_BU_CTR",
         "LOVV_EU_CTR"
       ]
+    },
+    {
+      "id": "LOXZ_P_APP",
+      "parent_id": "LOXZ_APP",
+      "controlled_by": ["LOXZ_P_APP"]
     },
     {
       "id": "LOXZ_TWR",

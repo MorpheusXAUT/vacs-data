@@ -1,4 +1,11 @@
 [[positions]]
+id = "LOVV_FMP"
+prefixes = ["LOVV"]
+frequency = "199.998"
+facility_type = "FMP"
+profile_id = "LOVV"
+
+[[positions]]
 id = "LOVV_BC_CTR"
 prefixes = ["LOVV"]
 frequency = "132.950"
@@ -326,6 +333,20 @@ prefixes = ["LOWW"]
 frequency = "119.400"
 facility_type = "TWR"
 profile_id = "LOWW"
+
+[[positions]]
+id = "LOXA_TWR"
+prefixes = ["LOXA"]
+frequency = "118.005"
+facility_type = "TWR"
+profile_id = "LOVV"
+
+[[positions]]
+id = "LOXN_TWR"
+prefixes = ["LOXN"]
+frequency = "123.255"
+facility_type = "TWR"
+profile_id = "LOVV"
 
 [[positions]]
 id = "LOXT_TWR"
