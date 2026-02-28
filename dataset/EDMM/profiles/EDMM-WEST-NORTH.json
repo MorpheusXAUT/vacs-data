@@ -167,7 +167,8 @@
                   "label": ["LSAS", "FMP"]
                 },
                 {
-                  "label": ["LOVV", "FMP"]
+                  "label": ["LOVV", "FMP"],
+                  "station_id": "LOVV_FMP"
                 }
               ]
             }
