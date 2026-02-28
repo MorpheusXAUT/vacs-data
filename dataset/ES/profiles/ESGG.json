@@ -12,37 +12,37 @@
           },
           {
             "label": ["APP-W"],
-            "station_id": "ESGG APP-W"
+            "station_id": "ESGG_APP-W"
           },
           {
             "label": ["DEL", ""],
-            "station_id": "ESGG DEL"
+            "station_id": "ESGG_DEL"
           },
           {
             "label": []
           },
           {
             "label": ["ARR"],
-            "station_id": "ESGG ARR"
+            "station_id": "ESGG_ARR"
           },
           {
             "label": ["GND", ""],
-            "station_id": "ESGG GND"
+            "station_id": "ESGG_GND"
           },
           {
             "label": []
           },
           {
             "label": ["APP-E"],
-            "station_id": "ESGG APP-E"
+            "station_id": "ESGG_APP-E"
           },
           {
             "label": ["TWR"],
-            "station_id": "ESGG TWR"
+            "station_id": "ESGG_TWR"
           },
           {
             "label": ["WS", "", ""],
-            "station_id": "ESAA FMP"
+            "station_id": "ESAA_FMP"
           },
           {
             "label": []

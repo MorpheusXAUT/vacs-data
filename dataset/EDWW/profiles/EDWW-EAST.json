@@ -133,7 +133,7 @@
           },
           {
             "label": ["ESMM", "L", "-285"],
-            "station_id": "ESMM L"
+            "station_id": "ESMM_L"
           },
           {
             "label": ["EKDK", "B", "-285"],
@@ -204,7 +204,7 @@
           },
           {
             "label": ["ESMM", "8", "285-365"],
-            "station_id": "ESMM 8"
+            "station_id": "ESMM_8"
           },
           {
             "label": ["EKDK", "A", "285-365"],
@@ -251,7 +251,7 @@
                 },
                 {
                   "label": ["ESMM", "FIS"],
-                  "station_id": "ESMM IS"
+                  "station_id": "ESMM_IS"
                 }
               ]
             }
@@ -274,7 +274,7 @@
           },
           {
             "label": ["ESMM", "9", "+365"],
-            "station_id": "ESMM 9"
+            "station_id": "ESMM_9"
           },
           {
             "label": ["EKDK", "A", "+365"],
@@ -326,7 +326,7 @@
                 },
                 {
                   "label": ["ESMM", "FMP"],
-                  "station_id": "ESAA FMP"
+                  "station_id": "ESAA_FMP"
                 },
                 {
                   "label": ["EPWW", "FMP"],

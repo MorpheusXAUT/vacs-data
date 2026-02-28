@@ -20,11 +20,11 @@
             "keys": [
               {
                 "label": ["365-660", "CTR"],
-                "station_id": "ESMM 6"
+                "station_id": "ESMM_6"
               },
               {
                 "label": ["95-365", "CTR"],
-                "station_id": "ESMM 7"
+                "station_id": "ESMM_7"
               }
             ],
             "rows": 4

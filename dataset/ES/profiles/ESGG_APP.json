@@ -9,11 +9,11 @@
         "keys": [
           {
             "label": ["MM", "4"],
-            "station_id": "ESMM 4"
+            "station_id": "ESMM_4"
           },
           {
             "label": ["MM", "XK"],
-            "station_id": "ESMM XK"
+            "station_id": "ESMM_XK"
           },
           {
             "label": ["EKDK", "L"],
@@ -24,19 +24,19 @@
           },
           {
             "label": ["", "APP-W"],
-            "station_id": "ESGG APP-W"
+            "station_id": "ESGG_APP-W"
           },
           {
             "label": ["", "DEL"],
-            "station_id": "ESGG DEL"
+            "station_id": "ESGG_DEL"
           },
           {
             "label": ["MM", "5"],
-            "station_id": "ESMM 5"
+            "station_id": "ESMM_5"
           },
           {
             "label": ["MM", "K"],
-            "station_id": "ESMM K"
+            "station_id": "ESMM_K"
           },
           {
             "label": []
@@ -46,34 +46,34 @@
           },
           {
             "label": ["", "ARR"],
-            "station_id": "ESGG ARR"
+            "station_id": "ESGG_ARR"
           },
           {
             "label": ["", "GND"],
-            "station_id": "ESGG GND"
+            "station_id": "ESGG_GND"
           },
           {
             "label": ["MM", "IN"],
-            "station_id": "ESMM IN"
+            "station_id": "ESMM_IN"
           },
           {
             "label": ["MM", "IS"],
-            "station_id": "ESMM IS"
+            "station_id": "ESMM_IS"
           },
           {
             "label": []
           },
           {
             "label": ["GT", "TWR"],
-            "station_id": "ESGT TWR"
+            "station_id": "ESGT_TWR"
           },
           {
             "label": ["", "APP-E"],
-            "station_id": "ESGG APP-E"
+            "station_id": "ESGG_APP-E"
           },
           {
             "label": ["", "TWR"],
-            "station_id": "ESGG TWR"
+            "station_id": "ESGG_TWR"
           },
           {
             "label": []
@@ -86,18 +86,18 @@
           },
           {
             "label": ["IB", "APP"],
-            "station_id": "ESIB APP"
+            "station_id": "ESIB_APP"
           },
           {
             "label": ["IB", "TWR"],
-            "station_id": "ESIB TWR"
+            "station_id": "ESIB_TWR"
           },
           {
             "label": []
           },
           {
             "label": ["WS", ""],
-            "station_id": "ESAA FMP"
+            "station_id": "ESAA_FMP"
           },
           {
             "label": ["EKDK", "FMP"],
@@ -108,7 +108,7 @@
           },
           {
             "label": ["IB", "PAR"],
-            "station_id": "ESIB PAR"
+            "station_id": "ESIB_PAR"
           },
           {
             "label": []
@@ -126,7 +126,7 @@
         "keys": [
           {
             "label": ["OS", "1"],
-            "station_id": "ESOS 1"
+            "station_id": "ESOS_1"
           },
           {
             "label": []
@@ -145,14 +145,14 @@
           },
           {
             "label": ["OS", "3"],
-            "station_id": "ESOS 3"
+            "station_id": "ESOS_3"
           },
           {
             "label": []
           },
           {
             "label": ["OK", "TWR"],
-            "station_id": "ESOK TWR"
+            "station_id": "ESOK_TWR"
           },
           {
             "label": []
@@ -171,7 +171,7 @@
           },
           {
             "label": ["OE", "TWR"],
-            "station_id": "ESOE TWR"
+            "station_id": "ESOE_TWR"
           },
           {
             "label": []
@@ -181,7 +181,7 @@
           },
           {
             "label": ["MT", "TWR"],
-            "station_id": "ESMT TWR"
+            "station_id": "ESMT_TWR"
           },
           {
             "label": []
@@ -194,11 +194,11 @@
           },
           {
             "label": ["IA", "APP"],
-            "station_id": "ESIA APP"
+            "station_id": "ESIA_APP"
           },
           {
             "label": ["GJ", "TWR"],
-            "station_id": "ESGJ TWR"
+            "station_id": "ESGJ_TWR"
           },
           {
             "label": []
@@ -237,22 +237,22 @@
           },
           {
             "label": ["FR", "APP"],
-            "station_id": "ESFR APP"
+            "station_id": "ESFR_APP"
           },
           {
             "label": ["FR", "TWR"],
-            "station_id": "ESFR TWR"
+            "station_id": "ESFR_TWR"
           },
           {
             "label": []
           },
           {
             "label": ["MV", "APP"],
-            "station_id": "ESMV APP"
+            "station_id": "ESMV_APP"
           },
           {
             "label": ["MV", "TWR", ""],
-            "station_id": "ESMV TWR"
+            "station_id": "ESMV_TWR"
           }
         ]
       }

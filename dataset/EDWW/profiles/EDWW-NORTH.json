@@ -341,7 +341,7 @@
                 },
                 {
                   "label": ["ESMM", "FMP"],
-                  "station_id": "ESAA FMP"
+                  "station_id": "ESAA_FMP"
                 },
                 {
                   "label": ["EPWW", "FMP"],

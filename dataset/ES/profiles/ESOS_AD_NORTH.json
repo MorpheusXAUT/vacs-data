@@ -9,96 +9,96 @@
         "keys": [
           {
             "label": ["OS", "YK"],
-            "station_id": "ESOS YK"
+            "station_id": "ESOS_YK"
           },
           {
             "label": ["OS", "XK"],
-            "station_id": "ESOS XK"
+            "station_id": "ESOS_XK"
           },
           {
             "label": ["OS", "K"],
-            "station_id": "ESOS K"
+            "station_id": "ESOS_K"
           },
           {
             "label": ["OS", "N"],
-            "station_id": "ESOS N"
+            "station_id": "ESOS_N"
           },
           {
             "label": ["OS", "F"],
-            "station_id": "ESOS F"
+            "station_id": "ESOS_F"
           },
           {
             "label": ["WS", "", ""],
-            "station_id": "ESAA FMP"
+            "station_id": "ESAA_FMP"
           },
           {
             "label": []
           },
           {
             "label": ["NQ", "TWR"],
-            "station_id": "ESNQ TWR"
+            "station_id": "ESNQ_TWR"
           },
           {
             "label": ["UT", "AFIS"],
-            "station_id": "ESUT AFIS"
+            "station_id": "ESUT_AFIS"
           },
           {
             "label": ["NV", "AFIS"],
-            "station_id": "ESNL AFIS"
+            "station_id": "ESNL_AFIS"
           },
           {
             "label": ["NZ", "TWR"],
-            "station_id": "ESNZ TWR"
+            "station_id": "ESNZ_TWR"
           },
           {
             "label": ["ND", "AFIS"],
-            "station_id": "ESND AFIS"
+            "station_id": "ESND_AFIS"
           },
           {
             "label": []
           },
           {
             "label": ["NG", "AFIS"],
-            "station_id": "ESNG AFIS"
+            "station_id": "ESNG_AFIS"
           },
           {
             "label": ["NX", "TWR/AFIS"],
-            "station_id": "ESNX TWR"
+            "station_id": "ESNX_TWR"
           },
           {
             "label": ["NL", "AFIS"],
-            "station_id": "ESNL AFIS"
+            "station_id": "ESNL_AFIS"
           },
           {
             "label": ["NK", "AFIS"],
-            "station_id": "ESNK AFIS"
+            "station_id": "ESNK_AFIS"
           },
           {
             "label": ["NN", "TWR"],
-            "station_id": "ESNN TWR"
+            "station_id": "ESNN_TWR"
           },
           {
             "label": []
           },
           {
             "label": ["UP", "AFIS"],
-            "station_id": "ESUP AFIS"
+            "station_id": "ESUP_AFIS"
           },
           {
             "label": ["PA", "APP"],
-            "station_id": "ESPA APP"
+            "station_id": "ESPA_APP"
           },
           {
             "label": ["PA", "TWR"],
-            "station_id": "ESPA TWR"
+            "station_id": "ESPA_TWR"
           },
           {
             "label": ["NS", "TWR"],
-            "station_id": "ESNS TWR"
+            "station_id": "ESNS_TWR"
           },
           {
             "label": ["NU", "TWR"],
-            "station_id": "ESNU TWR"
+            "station_id": "ESNU_TWR"
           },
           {
             "label": []
@@ -108,11 +108,11 @@
           },
           {
             "label": ["PA", "DIR"],
-            "station_id": "ESPA DIR"
+            "station_id": "ESPA_DIR"
           },
           {
             "label": ["PA", "PAR"],
-            "station_id": "ESPA PAR"
+            "station_id": "ESPA_PAR"
           },
           {
             "label": []
@@ -261,22 +261,22 @@
           },
           {
             "label": ["NJ", "APP"],
-            "station_id": "ESNJ APP"
+            "station_id": "ESNJ_APP"
           },
           {
             "label": ["NJ", "TWR"],
-            "station_id": "ESNJ TWR"
+            "station_id": "ESNJ_TWR"
           },
           {
             "label": []
           },
           {
             "label": ["PE", "APP"],
-            "station_id": "ESPE APP"
+            "station_id": "ESPE_APP"
           },
           {
             "label": ["PE", "TWR"],
-            "station_id": "ESPE TWR"
+            "station_id": "ESPE_TWR"
           }
         ]
       }

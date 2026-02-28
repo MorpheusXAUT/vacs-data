@@ -87,27 +87,27 @@
           },
           {
             "label": ["ESAA", "FMP"],
-            "station_id": "ESAA FMP"
+            "station_id": "ESAA_FMP"
           },
           {
             "label": ["ESMM", "SEC Y"],
-            "station_id": "ESMM Y"
+            "station_id": "ESMM_Y"
           },
           {
             "label": ["ESOS", "SEC 6"],
-            "station_id": "ESOS 6"
+            "station_id": "ESOS_6"
           },
           {
             "label": ["ESOS", "SEC 4"],
-            "station_id": "ESOS 4"
+            "station_id": "ESOS_4"
           },
           {
             "label": ["ESOS", "SEC F"],
-            "station_id": "ESOS F"
+            "station_id": "ESOS_F"
           },
           {
             "label": ["ESOS", "SEC K"],
-            "station_id": "ESOS K"
+            "station_id": "ESOS_K"
           },
           {
             "label": []
