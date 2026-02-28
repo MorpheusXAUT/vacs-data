@@ -1169,6 +1169,12 @@
       "prefixes": ["LIRN"],
       "frequency": "131.675",
       "facility_type": "DEL"
+    },
+    {
+      "id": "LSZA_TWR",
+      "prefixes": ["LSZA"],
+      "frequency": "120.250",
+      "facility_type": "TWR"
     }
   ]
 }
