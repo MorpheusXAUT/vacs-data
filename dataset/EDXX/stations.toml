@@ -18,29 +18,9 @@ controlled_by = ["EDXX_IDV_CTR"]
 parent_id = "EDXX-FIS"
 
 [[stations]]
-id = "EDXX-FIS-IDL"
-controlled_by = ["EDXX_IDL_CTR"]
-parent_id = "EDXX-FIS-GG"
-
-[[stations]]
-id = "EDXX-FIS-IDB"
-controlled_by = ["EDXX_IDB_CTR"]
+id = "EDXX-FIS-ISW"
+controlled_by = ["EDXX_ISW_CTR"]
 parent_id = "EDXX-FIS-WW"
-
-[[stations]]
-id = "EDXX-FIS-IDM"
-controlled_by = ["EDXX_IDM_CTR"]
-parent_id = "EDXX-FIS-MM"
-
-[[stations]]
-id = "EDXX-FIS-IDC"
-controlled_by = ["EDXX_IDC_CTR"]
-parent_id = "EDXX-FIS-MM"
-
-[[stations]]
-id = "EDXX-FIS-IDF"
-controlled_by = ["EDXX_IDF_CTR"]
-parent_id = "EDXX-FIS-GG"
 
 [[stations]]
 id = "EDXX-FIS-IDH"
@@ -48,11 +28,46 @@ controlled_by = ["EDXX_IDH_CTR"]
 parent_id = "EDXX-FIS-WW"
 
 [[stations]]
-id = "EDXX-FIS-IDL"
-controlled_by = ["EDXX_IDL_CTR"]
-parent_id = "EDXX-FIS-GG"
+id = "EDXX-FIS-IDB"
+controlled_by = ["EDXX_IDB_CTR"]
+parent_id = "EDXX-FIS-WW"
+
+[[stations]]
+id = "EDXX-FIS-IDV"
+controlled_by = ["EDXX_IDV_CTR"]
+parent_id = "EDXX-FIS-WW"
 
 [[stations]]
 id = "EDXX-FIS-IDL"
 controlled_by = ["EDXX_IDL_CTR"]
 parent_id = "EDXX-FIS-GG"
+
+[[stations]]
+id = "EDXX-FIS-IDF"
+controlled_by = ["EDXX_IDF_CTR"]
+parent_id = "EDXX-FIS-GG"
+
+[[stations]]
+id = "EDXX-FIS-IDR"
+controlled_by = ["EDXX_IDR_CTR"]
+parent_id = "EDXX-FIS-GG"
+
+[[stations]]
+id = "EDXX-FIS-IDS"
+controlled_by = ["EDXX_IDS_CTR"]
+parent_id = "EDXX-FIS-GG"
+
+[[stations]]
+id = "EDXX-FIS-IDC"
+controlled_by = ["EDXX_IDC_CTR"]
+parent_id = "EDXX-FIS-MM"
+
+[[stations]]
+id = "EDXX-FIS-IDO"
+controlled_by = ["EDXX_IDO_CTR"]
+parent_id = "EDXX-FIS-MM"
+
+[[stations]]
+id = "EDXX-FIS-IDM"
+controlled_by = ["EDXX_IDM_CTR"]
+parent_id = "EDXX-FIS-MM"
