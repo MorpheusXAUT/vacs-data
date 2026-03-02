@@ -2171,6 +2171,81 @@ frequency = "124.825"
 facility_type = "CTR"
 
 #######################
+# Manchester Prestwick 
+#######################
+[[positions]]
+id = "MAN-N_CTR"
+prefixes = ["MAN-N"]
+frequency = "135.715"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_CTR"
+prefixes = ["MAN"]
+frequency = "133.200"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_E_CTR"
+prefixes = ["MAN"]
+frequency = "133.800"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_M_CTR"
+prefixes = ["MAN"]
+frequency = "199.998"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_NE_CTR"
+prefixes = ["MAN"]
+frequency = "135.715"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_SE_CTR"
+prefixes = ["MAN"]
+frequency = "134.430"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_TE_CTR"
+prefixes = ["MAN"]
+frequency = "119.530"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_WI_CTR"
+prefixes = ["MAN"]
+frequency = "133.050"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_WL_CTR"
+prefixes = ["MAN"]
+frequency = "125.950"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_WP_CTR"
+prefixes = ["MAN"]
+frequency = "126.875"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_WU_CTR"
+prefixes = ["MAN"]
+frequency = "118.780"
+facility_type = "CTR"
+
+[[positions]]
+id = "MAN_W_CTR"
+prefixes = ["MAN"]
+frequency = "128.055"
+facility_type = "CTR"
+
+#######################
 # AFIS/AGCS
 #######################
 [[positions]]
