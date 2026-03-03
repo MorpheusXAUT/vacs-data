@@ -578,7 +578,7 @@ id = "EGPX_I_CTR"
 controlled_by = ["EGPX_I_CTR"]
 
 [[stations]]
-if = "EGTT_WR_CTR"
+id = "EGTT_WR_CTR"
 controlled_by = ["EGTT_WR_CTR"]
 
 ####################
