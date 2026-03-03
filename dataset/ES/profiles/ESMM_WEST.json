@@ -456,9 +456,7 @@
       "page": {
         "rows": 6,
         "client_page": {
-          "include": [
-            "EN*"
-          ],
+          "include": ["EN*"],
           "exclude": [],
           "priority": ["*_FMP", "*_CTR", "*_APP"]
         }

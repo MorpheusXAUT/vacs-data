@@ -592,12 +592,7 @@
       "page": {
         "rows": 6,
         "client_page": {
-          "include": [
-            "EN*",
-            "EVRR*",
-            "UMKK*",
-            "RU-NWC*"
-          ],
+          "include": ["EN*", "EVRR*", "UMKK*", "RU-NWC*"],
           "exclude": [],
           "priority": ["*_FMP", "*FSS*", "*_CTR", "*_APP"]
         }
