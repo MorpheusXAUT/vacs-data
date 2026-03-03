@@ -35,6 +35,6 @@ jobs:
       - name: Format dataset
         run: npm run format
 
-      - uses: autofix-ci/action@7a166d7532b277f34e16238930461bf77f9d7ed8 # v1.3.3
+      - uses: autofix-ci/action@8bc06253bec489732e5f9c52884c7cace15c0160 # v1.3.3
         with:
           commit-message: "chore(dataset): format with prettier"
