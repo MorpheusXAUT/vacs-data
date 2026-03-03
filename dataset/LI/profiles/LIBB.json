@@ -88,11 +88,11 @@
           },
           {
             "label": ["FOGGIA", "AFIU"],
-            "station_id": "LIBF-I-TWR"
+            "station_id": "LIBF-AFIU"
           },
           {
             "label": ["CROTONE", "AFIU"],
-            "station_id": "LIBC-I-TWR"
+            "station_id": "LIBC-AFIU"
           },
           {
             "label": [""]
