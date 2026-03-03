@@ -2678,6 +2678,18 @@ frequency = "199.998"
 facility_type = "FMP"
 
 [[positions]]
+id = "UK_A_FMP"
+prefixes = ["UK"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
+id = "UK_B_FMP"
+prefixes = ["UK"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
 id = "MAN_FMP"
 prefixes = ["MAN"]
 frequency = "199.998"
@@ -2702,8 +2714,26 @@ frequency = "199.998"
 facility_type = "FMP"
 
 [[positions]]
+id = "LTC_GS_CTR"
+prefixes = ["LTC"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
 id = "SCO_GS_CTR"
 prefixes = ["SCO"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
+id = "STC_GS_CTR"
+prefixes = ["STC"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
+id = "MAN_GS_CTR"
+prefixes = ["MAN"]
 frequency = "199.998"
 facility_type = "FMP"
 
