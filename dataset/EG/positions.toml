@@ -2669,6 +2669,45 @@ frequency = "128.530"
 facility_type = "TWR"
 
 #######################
+# FMP
+#######################
+[[positions]]
+id = "UK_FMP"
+prefixes = ["UK"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
+id = "MAN_FMP"
+prefixes = ["MAN"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
+id = "LTC_FMP"
+prefixes = ["LTC"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
+id = "STC_FMP"
+prefixes = ["STC"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
+id = "LON_GS_CTR"
+prefixes = ["LON"]
+frequency = "199.998"
+facility_type = "FMP"
+
+[[positions]]
+id = "SCO_GS_CTR"
+prefixes = ["SCO"]
+frequency = "199.998"
+facility_type = "FMP"
+
+#######################
 # Oceanic
 #######################
 [[positions]]
