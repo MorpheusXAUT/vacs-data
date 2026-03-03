@@ -27,14 +27,7 @@
             "UK_*"
           ],
           "exclude": [],
-          "priority": [
-            "*_FMP",
-            "*_APP",
-            "*_TWR",
-            "*_GND",
-            "*_DEL",
-            "*_CTR"
-          ],
+          "priority": ["*_FMP", "*_APP", "*_TWR", "*_GND", "*_DEL", "*_CTR"],
           "frequencies": "HideAll",
           "grouping": "None"
         }

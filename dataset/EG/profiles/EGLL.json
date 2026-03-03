@@ -33,17 +33,8 @@
             "EGTT_*",
             "UK_*"
           ],
-          "exclude": [
-            "EGLC_*GND"
-          ],
-          "priority": [
-            "*_FMP",
-            "*_APP",
-            "*_TWR",
-            "*_GND",
-            "*_DEL",
-            "*_CTR"
-          ],
+          "exclude": ["EGLC_*GND"],
+          "priority": ["*_FMP", "*_APP", "*_TWR", "*_GND", "*_DEL", "*_CTR"],
           "frequencies": "HideAll",
           "grouping": "None"
         }

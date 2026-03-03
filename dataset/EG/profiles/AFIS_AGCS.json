@@ -18,14 +18,7 @@
             "STC*"
           ],
           "exclude": [],
-          "priority": [
-            "*_FMP",
-            "*_CTR",
-            "*_APP",
-            "*_TWR",
-            "*_GND",
-            "*_DEL"
-          ],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
           "frequencies": "HideAll",
           "grouping": "None"
         }

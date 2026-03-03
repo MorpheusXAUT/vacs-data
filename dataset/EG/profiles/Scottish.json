@@ -59,17 +59,8 @@
             "EGPX_*",
             "UK_*"
           ],
-          "exclude": [
-            "MAN_SE*"
-          ],
-          "priority": [
-            "*_FMP",
-            "*_CTR",
-            "*_APP",
-            "*_TWR",
-            "*_GND",
-            "*_DEL"
-          ],
+          "exclude": ["MAN_SE*"],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
           "frequencies": "HideAll",
           "grouping": "None"
         }
