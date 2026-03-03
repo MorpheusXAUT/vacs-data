@@ -1,122 +1,58 @@
 {
-  "id": "FASA",
+  "id": "FASA_Generic",
   "type": "Tabbed",
   "tabs": [
     {
-      "label": ["ACC"],
+      "label": "FAxx",
       "page": {
-        "rows": 6,
-        "keys": [
-            {
-                "label": ["FAJA", "NORTH"]
-            },
-            {
-                "label": ["NORTH", "EAST"],
-                "station_id": "FAJA_NE"
-            },
-            {
-                "label": ["NORTH", "WEST"],
-                "station_id": "FAJA_NW"
-            },
-            {
-                "label": ["SOUTH", "EAST"],
-                "station_id": "FAJA_SE"
-            },
-            {
-                "label": ["SOUTH", "WEST"],
-                "station_id": "FAJA_SW"
-            },
-            {
-                "label": []
-            },
-            {
-                "label": ["FAJA", "SOUTH"]
-            },
-            {
-                "label": ["WEST"],
-                "station_id": "FAJA_W"
-            },
-            {
-                "label": ["CENTRAL"],
-                "station_id": "FAJA_C"
-            },
-            {
-                "label": ["EAST"],
-                "station_id": "FAJA_E"
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": ["FACA"]
-            },
-            {
-                "label": ["WEST"],
-                "station_id": "FACA_W"
-            },
-            {
-                "label": ["EAST"],
-                "station_id": "FACA_E"
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": ["SUP"],
-                "station_id": "FASA_FMP"
-            }
-        ]
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "FA*",
+            "FX*",
+            "FAJA_*",
+            "FACA_*",
+            "FASA_*"
+        ],
+          "exclude": [
+            "FAJO_*"
+          ],
+          "priority": [
+            "*_FMP",
+            "*_CTR",
+            "*_APP",
+            "*_TWR",
+            "*_GND",
+            "*_DEL"
+        ],
+          "frequencies": "ShowAll",
+          "grouping": "Icao"
+        }
       }
     },
     {
-      "label": ["EXT", "ACC"],
+      "label": "EXT",
       "page": {
-        "rows": 6,
-        "keys": [
-            {
-                "label": ["FAJO"]
-            },
-            {
-                "label": ["FAJO", "1"],
-                "station_id": "FAJO_1"
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            },
-            {
-                "label": []
-            }
-        ]
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "FAJO*",
+            "FYWF*",
+            "FBGR*",
+            "FVHF*",
+            "FQMA*",
+            "FQBE*",
+            "FBSK*"
+        ],
+          "exclude": [],
+          "priority": [
+            "*_FMP",
+            "*_CTR",
+            "*_APP"
+        ],
+          "frequencies": "ShowAll",
+          "grouping": "Icao"
+        }
       }
     }
   ]
