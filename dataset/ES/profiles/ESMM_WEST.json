@@ -168,11 +168,11 @@
             "label": []
           },
           {
-            "label": ["GT", "TWR"],
-            "station_id": "ESGT_TWR"
+            "label": []
           },
           {
-            "label": []
+            "label": ["GT", "TWR"],
+            "station_id": "ESGT_TWR"
           },
           {
             "label": ["OS", "2"],
@@ -191,12 +191,11 @@
             "station_id": "ESOK_TWR"
           },
           {
-            "label": ["IB", "APP"],
-            "station_id": "ESIB_APP"
+            "label": []
           },
           {
-            "label": ["IB", "TWR"],
-            "station_id": "ESIB_TWR"
+            "label": ["IB", "APP"],
+            "station_id": "ESIB_APP"
           },
           {
             "label": ["OS", "3"],
@@ -243,7 +242,7 @@
             "station_id": "ESMX_TWR"
           },
           {
-            "label": ["OS", "ARR-E"],
+            "label": ["OS", "APP-C"],
             "station_id": "ESOS_ARR-E"
           },
           {
@@ -261,14 +260,14 @@
             "station_id": "ESMQ_TWR"
           },
           {
-            "label": ["DF", "TWR"],
-            "station_id": "ESDF_TWR"
+            "label": ["DF", "APP"],
+            "station_id": "ESDF_APP"
           }
         ]
       }
     },
     {
-      "label": ["FIR "],
+      "label": ["FIR"],
       "page": {
         "rows": 6,
         "keys": [
@@ -339,10 +338,6 @@
             "label": []
           },
           {
-            "label": ["EKRK", "APP"],
-            "station_id": "EKRKAPP"
-          },
-          {
             "label": ["EKCH", "DEP-R"],
             "station_id": "EKCHDEPR"
           },
@@ -351,15 +346,15 @@
             "station_id": "EKCHAPPW"
           },
           {
+            "label": []
+          },
+          {
             "label": ["EKDK", "E"],
             "station_id": "EKDKE"
           },
           {
             "label": ["EKDK", "I"],
             "station_id": "EKDKI"
-          },
-          {
-            "label": []
           },
           {
             "label": []
@@ -391,6 +386,9 @@
           {
             "label": ["EKCH", "APP-O"],
             "station_id": "EKCHAPPE"
+          },
+          {
+            "label": []
           },
           {
             "label": []
@@ -458,7 +456,7 @@
       "page": {
         "rows": 6,
         "client_page": {
-          "include": ["EN*", "EK*", "EVRR", "UMKK"],
+          "include": ["EN*"],
           "exclude": [],
           "priority": ["*_FMP", "*_CTR", "*_APP"]
         }

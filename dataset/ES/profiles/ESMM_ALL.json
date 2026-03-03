@@ -168,11 +168,11 @@
             "label": []
           },
           {
-            "label": ["GT", "TWR"],
-            "station_id": "ESGT_TWR"
+            "label": []
           },
           {
-            "label": []
+            "label": ["GT", "TWR"],
+            "station_id": "ESGT_TWR"
           },
           {
             "label": ["OS", "2"],
@@ -191,12 +191,11 @@
             "station_id": "ESOK_TWR"
           },
           {
-            "label": ["IB", "APP"],
-            "station_id": "ESIB_APP"
+            "label": []
           },
           {
-            "label": ["IB", "TWR"],
-            "station_id": "ESIB_TWR"
+            "label": ["IB", "APP"],
+            "station_id": "ESIB_APP"
           },
           {
             "label": ["OS", "3"],
@@ -243,7 +242,7 @@
             "station_id": "ESMX_TWR"
           },
           {
-            "label": ["OS", "ARR-E"],
+            "label": ["OS", "APP-C"],
             "station_id": "ESOS_ARR-E"
           },
           {
@@ -261,8 +260,8 @@
             "station_id": "ESMQ_TWR"
           },
           {
-            "label": ["DF", "TWR"],
-            "station_id": "ESDF_TWR"
+            "label": ["DF", "APP"],
+            "station_id": "ESDF_APP"
           }
         ]
       }
@@ -339,8 +338,7 @@
             "label": []
           },
           {
-            "label": ["EKRK", "APP"],
-            "station_id": "EKRKAPP"
+            "label": []
           },
           {
             "label": ["EKCH", "DEP-R"],
@@ -408,15 +406,14 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["EFIN", "C"],
-            "station_id": "EFIN_C"
-          },
-          {
-            "label": ["EFIN", "D"],
-            "station_id": "EFIN_D"
+            "label": []
           },
           {
             "label": []
+          },
+          {
+            "label": ["EDWW", "LANGEN", "FIS"],
+            "station_id": "EDXX-FIS"
           },
           {
             "label": ["EDUU", "OSE2"],
@@ -431,12 +428,10 @@
             "station_id": "EDWW-MRZ"
           },
           {
-            "label": ["EFIN", "B"],
-            "station_id": "EFIN_B"
+            "label": []
           },
           {
-            "label": ["EFIN", "FMP"],
-            "station_id": "EFIN_FMP"
+            "label": []
           },
           {
             "label": []
@@ -454,8 +449,8 @@
             "station_id": "EPWWF_LOW"
           },
           {
-            "label": ["EETT", "FMP"],
-            "station_id": "EETT_FMP"
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
           },
           {
             "label": []
@@ -476,14 +471,15 @@
             "station_id": "EPWWB_LOW"
           },
           {
-            "label": ["EETT", "FIS"],
-            "station_id": "EETT_W_FIS"
+            "label": ["EFIN", "D"],
+            "station_id": "EFIN_D"
+          },
+          {
+            "label": ["EETT", "FMP"],
+            "station_id": "EETT_FMP"
           },
           {
             "label": ["EVRR", "FIS"]
-          },
-          {
-            "label": []
           },
           {
             "label": []
@@ -497,6 +493,30 @@
             "station_id": "EPGD_UTMA"
           },
           {
+            "label": ["EFIN", "C"],
+            "station_id": "EFIN_C"
+          },
+          {
+            "label": ["EETT", "FIS"],
+            "station_id": "EETT_W_FIS"
+          },
+          {
+            "label": ["EVRR S"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EFIN", "B"],
+            "station_id": "EFIN_B"
+          },
+          {
             "label": ["EETT", "W"],
             "station_id": "EETT_W"
           },
@@ -504,17 +524,14 @@
             "label": ["EVRR N"]
           },
           {
-            "label": ["EVRR S"]
-          },
-          {
             "label": ["EYVL", "L"],
             "station_id": "EYVL-L"
           },
           {
-            "label": []
+            "label": ["UMKK"]
           },
           {
-            "label": ["UMKK"]
+            "label": []
           }
         ]
       }
@@ -575,9 +592,9 @@
       "page": {
         "rows": 6,
         "client_page": {
-          "include": ["EN*", "EK*", "EVRR", "UMKK"],
+          "include": ["EN*", "EVRR*", "UMKK*", "RU-NWC*"],
           "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP"]
+          "priority": ["*_FMP", "*FSS*", "*_CTR", "*_APP"]
         }
       }
     }
