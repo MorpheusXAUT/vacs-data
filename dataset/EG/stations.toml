@@ -582,5 +582,69 @@ if = "EGTT_WR_CTR"
 controlled_by = ["EGTT_WR_CTR"]
 
 ####################
+# DOMESTIC MILITARY AREA
+####################
+
+[[stations]]
+id = "EGVV_CTR"
+controlled_by = ["EGVV_CTR"]
+
+[[stations]]
+id = "EGVV_N_CTR"
+parent_id = "EGVV_CTR"
+controlled_by = ["EGVV_N_CTR"]
+
+[[stations]]
+id = "EGVV_E_CTR"
+parent_id = "EGVV_CTR"
+controlled_by = ["EGVV_E_CTR"]
+
+[[stations]]
+id = "EGVV_W_CTR"
+parent_id = "EGVV_CTR"
+controlled_by = ["EGVV_W_CTR"]
+
+[[stations]]
+id = "EGVV_Q_CTR"
+parent_id = "EGVV_N_CTR"
+controlled_by = ["EGVV_Q_CTR"]
+
+[[stations]]
+id = "EGVV_F_CTR"
+parent_id = "EGVV_E_CTR"
+controlled_by = ["EGVV_F_CTR"]
+
+[[stations]]
+id = "EGVV_C_CTR"
+parent_id = "EGVV_W_CTR"
+controlled_by = ["EGVV_C_CTR"]
+
+[[stations]]
+id = "EGVV_A_CTR"
+parent_id = "EGVV_W_CTR"
+controlled_by = ["EGVV_A_CTR"]
+
+[[stations]]
+id = "EGVV_D_CTR"
+parent_id = "EGVV_W_CTR"
+controlled_by = ["EGVV_D_CTR"]
+
+[[stations]]
+id = "HTSPR_1_CTR"
+controlled_by = ["HTSPR_1_CTR"]
+
+[[stations]]
+id = "HTSPR_1_APP"
+controlled_by = ["HTSPR_1_APP"]
+
+[[stations]]
+id = "HTSPR_2_CTR"
+controlled_by = ["HTSPR_2_CTR"]
+
+[[stations]]
+id = "HTSPR_2_APP"
+controlled_by = ["HTSPR_2_APP"]
+
+####################
 # AERODROMES
 ####################
