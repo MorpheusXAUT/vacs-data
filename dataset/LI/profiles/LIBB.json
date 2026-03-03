@@ -1,0 +1,110 @@
+{
+  "id": "LIBB",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["BRINDISI"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["ROMA", "COO"],
+            "station_id": "LIRR-FMP"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["ROMA", "TS", "310-UNL"],
+            "station_id": "LIRR-NE7"
+          },
+          {
+            "label": ["ROMA", "TS", "GND-300"],
+            "station_id": "LIRR-TS1"
+          },
+          {
+            "label": ["ROMA", "ND", "310-UNL"],
+            "station_id": "LIRR-NE7"
+          },
+          {
+            "label": ["ROMA", "ND", "GND-300"],
+            "station_id": "LIRR-ND1"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["ROMA", "ES", "310-UNL"],
+            "station_id": "LIRR-SU7"
+          },
+          {
+            "label": ["ROMA", "ES", "GND-300"],
+            "station_id": "LIRR-ES1"
+          },
+          {
+            "label": ["ROMA", "ES0", "GND-285"],
+            "station_id": "LIRR-ES0"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["ES3"],
+            "station_id": "LIBB-ES3"
+          },
+          {
+            "label": ["CS0"],
+            "station_id": "LIBB-CS0"
+          },
+          {
+            "label": ["FIC"],
+            "station_id": "LIBB-FIC"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["BARI", "TOWER"],
+            "station_id": "LIBD-TWR"
+          },
+          {
+            "label": ["BRINDISI", "TOWER"],
+            "station_id": "LIBR-TWR"
+          },
+          {
+            "label": ["FOGGIA", "AFIU"],
+            "station_id": "LIBF-I-TWR"
+          },
+          {
+            "label": ["CROTONE", "AFIU"],
+            "station_id": "LIBC-I-TWR"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          }
+        ]
+      }
+    }
+  ]
+}
