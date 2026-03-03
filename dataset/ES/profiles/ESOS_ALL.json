@@ -354,15 +354,16 @@
             "station_id": "ESNL_AFIS"
           },
           {
+            "label": ["NO", "TWR"],
+            "station_id": "ESNO_TWR"
+          },
+          {
             "label": ["NK", "AFIS"],
             "station_id": "ESNK_AFIS"
           },
           {
             "label": ["NN", "TWR"],
             "station_id": "ESNN_TWR"
-          },
-          {
-            "label": []
           },
           {
             "label": ["UP", "AFIS"],
@@ -373,16 +374,15 @@
             "station_id": "ESPA_APP"
           },
           {
-            "label": ["PA", "TWR"],
-            "station_id": "ESPA_TWR"
-          },
-          {
             "label": ["NS", "TWR"],
             "station_id": "ESNS_TWR"
           },
           {
             "label": ["NU", "TWR"],
             "station_id": "ESNU_TWR"
+          },
+          {
+            "label": []
           },
           {
             "label": []

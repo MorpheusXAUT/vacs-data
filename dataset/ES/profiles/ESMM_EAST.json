@@ -141,7 +141,8 @@
             "station_id": "ESMK_TWR"
           },
           {
-            "label": ["EKRN", "TWR"]
+            "label": ["EKRN", "TWR"],
+            "station_id": "EKRN TWR"
           }
         ]
       }
@@ -167,11 +168,11 @@
             "label": []
           },
           {
-            "label": ["GT", "TWR"],
-            "station_id": "ESGT_TWR"
+            "label": []
           },
           {
-            "label": []
+            "label": ["GT", "TWR"],
+            "station_id": "ESGT_TWR"
           },
           {
             "label": ["OS", "2"],
@@ -190,12 +191,11 @@
             "station_id": "ESOK_TWR"
           },
           {
-            "label": ["IB", "APP"],
-            "station_id": "ESIB_APP"
+            "label": []
           },
           {
-            "label": ["IB", "TWR"],
-            "station_id": "ESIB_TWR"
+            "label": ["IB", "APP"],
+            "station_id": "ESIB_APP"
           },
           {
             "label": ["OS", "3"],
@@ -242,7 +242,7 @@
             "station_id": "ESMX_TWR"
           },
           {
-            "label": ["OS", "ARR-E"],
+            "label": ["OS", "APP-C"],
             "station_id": "ESOS_ARR-E"
           },
           {
@@ -260,8 +260,8 @@
             "station_id": "ESMQ_TWR"
           },
           {
-            "label": ["DF", "TWR"],
-            "station_id": "ESDF_TWR"
+            "label": ["DF", "APP"],
+            "station_id": "ESDF_APP"
           }
         ]
       }
@@ -326,7 +326,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EDWW", "LANGEN", "FIS"],
+            "station_id": "EDXX-FIS"
           },
           {
             "label": ["EDUU", "OSE2"],
@@ -370,7 +371,7 @@
             "label": ["EVRR N"]
           },
           {
-            "label": ["EVRR S"]
+            "label": []
           },
           {
             "label": ["EPWW", "B HIGH"],
@@ -389,11 +390,11 @@
             "station_id": "EETT_W"
           },
           {
-            "label": ["EYVL", "L"],
-            "station_id": "EYVL-L"
+            "label": ["EVRR S"]
           },
           {
-            "label": []
+            "label": ["EYVL", "L"],
+            "station_id": "EYVL-L"
           },
           {
             "label": ["EPGD", "FIS"],
@@ -465,9 +466,9 @@
       "page": {
         "rows": 6,
         "client_page": {
-          "include": ["EN*", "EK*", "EVRR", "UMKK"],
+          "include": ["EVRR*", "UMKK*", "RU-NWC*"],
           "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP"]
+          "priority": ["*_FMP", "*FSS*", "*_CTR", "*_APP"]
         }
       }
     }

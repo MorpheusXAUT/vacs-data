@@ -76,26 +76,6 @@
             "station_id": "ESGG_TWR"
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["IB", "APP"],
-            "station_id": "ESIB_APP"
-          },
-          {
-            "label": ["IB", "TWR"],
-            "station_id": "ESIB_TWR"
-          },
-          {
-            "label": []
-          },
-          {
             "label": ["WS", ""],
             "station_id": "ESAA_FMP"
           },
@@ -107,8 +87,8 @@
             "label": []
           },
           {
-            "label": ["IB", "PAR"],
-            "station_id": "ESIB_PAR"
+            "label": ["IB", "APP"],
+            "station_id": "ESIB_APP"
           },
           {
             "label": []

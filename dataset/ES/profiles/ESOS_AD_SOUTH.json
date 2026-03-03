@@ -96,8 +96,8 @@
             "station_id": "ESDF_APP"
           },
           {
-            "label": ["DF", "TWR"],
-            "station_id": "ESDF_TWR"
+            "label": ["DF", "APP"],
+            "station_id": "ESDF_APP"
           },
           {
             "label": ["OS", "N"],
@@ -424,6 +424,17 @@
             "station_id": "ESMV_TWR"
           }
         ]
+      }
+    },
+    {
+      "label": ["OTHER"],
+      "page": {
+        "rows": 6,
+        "client_page": {
+          "include": ["EN*"],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP"]
+        }
       }
     }
   ]

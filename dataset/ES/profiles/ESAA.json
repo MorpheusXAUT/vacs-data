@@ -312,15 +312,13 @@
             "station_id": "ESOK_TWR"
           },
           {
-            "label": [],
-            "station_id": "ESCM_TWR"
+            "label": []
           },
           {
             "label": []
           },
           {
-            "label": [],
-            "station_id": "ESCM_APP"
+            "label": []
           },
           {
             "label": ["KM", "AFIS"],
@@ -351,12 +349,10 @@
             "station_id": "ESSD_TWR"
           },
           {
-            "label": [],
-            "station_id": "ESOW_APP"
+            "label": []
           },
           {
-            "label": [],
-            "station_id": "ESMM_5"
+            "label": []
           },
           {
             "label": ["ÖKC", "TC"],
@@ -438,15 +434,16 @@
             "station_id": "ESNL_AFIS"
           },
           {
+            "label": ["NO", "TWR"],
+            "station_id": "ESNO_TWR"
+          },
+          {
             "label": ["NK", "AFIS"],
             "station_id": "ESNK_AFIS"
           },
           {
             "label": ["NN", "TWR"],
             "station_id": "ESNN_TWR"
-          },
-          {
-            "label": []
           },
           {
             "label": ["UP", "AFIS"],
@@ -457,16 +454,15 @@
             "station_id": "ESPA_APP"
           },
           {
-            "label": ["PA", "TWR"],
-            "station_id": "ESPA_TWR"
-          },
-          {
             "label": ["NS", "TWR"],
             "station_id": "ESNS_TWR"
           },
           {
             "label": ["NU", "TWR"],
             "station_id": "ESNU_TWR"
+          },
+          {
+            "label": []
           },
           {
             "label": []
@@ -713,13 +709,6 @@
             "station_id": "EKDKB"
           },
           {
-            "label": []
-          },
-          {
-            "label": ["EKRK", "APP"],
-            "station_id": "EKRKAPP"
-          },
-          {
             "label": ["EKCH", "DEP-R"],
             "station_id": "EKCHDEPR"
           },
@@ -728,18 +717,18 @@
             "station_id": "EKCHAPPW"
           },
           {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
             "label": ["EKDK", "E"],
             "station_id": "EKDKE"
           },
           {
             "label": ["EKDK", "I"],
             "station_id": "EKDKI"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
           },
           {
             "label": ["EKCH", "APP-CO", ""],
@@ -753,7 +742,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EKDK", "FMP"],
+            "station_id": "EKDKFMP"
           },
           {
             "label": []
@@ -773,8 +763,13 @@
             "label": []
           },
           {
-            "label": ["EKDK", "FMP"],
-            "station_id": "EKDKFMP"
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
           }
         ]
       }
@@ -793,7 +788,8 @@
             "station_id": "EFIN_D"
           },
           {
-            "label": []
+            "label": ["EDWW", "LANGEN", "FIS"],
+            "station_id": "EDXX-FIS"
           },
           {
             "label": ["EDUU", "OSE2"],
@@ -835,7 +831,7 @@
             "station_id": "EETT_FMP"
           },
           {
-            "label": []
+            "label": ["EVRR", "FIS"]
           },
           {
             "label": []
@@ -857,7 +853,7 @@
             "station_id": "EETT_W_FIS"
           },
           {
-            "label": ["EVRR", "FIS"]
+            "label": ["EVRR N"]
           },
           {
             "label": []
@@ -878,14 +874,14 @@
             "station_id": "EETT_W"
           },
           {
-            "label": ["EVRR N"]
-          },
-          {
             "label": ["EVRR S"]
           },
           {
             "label": ["EYVL", "L"],
             "station_id": "EYVL-L"
+          },
+          {
+            "label": []
           },
           {
             "label": []
