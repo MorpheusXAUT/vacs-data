@@ -3,307 +3,161 @@ id = "LRBB_FMP"
 controlled_by = ["LRBB_FMP"]
 
 [[stations]]
-id = "LRLOKOM1"
+id = "LR_LOKOM1"
 controlled_by = ["LRBB_CTR"]
 
 [[stations]]
-id = "LRNERAG1"
+id = "LR_NERAG1"
 controlled_by = ["LRBB_CTR"]
 
 [[stations]]
-id = "LRBADIN1"
-controlled_by = [
-  "LRBB_E_CTR","
-  "LRBB_CTR"
-]
+id = "LR_BADIN1"
+controlled_by = ["LRBB_E_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRBUMON1"
-controlled_by = [
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LR_BUMON1"
+controlled_by = ["LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRBUDMO2"
-controlled_by = [
-  "LRBB_G_CTR","
-  "LRBB_H_CTR"
-]
+id = "LR_BUDMO2"
+controlled_by = ["LRBB_G_CTR", "LRBB_H_CTR"]
 
 [[stations]]
-id = "LRLOKOM2"
-controlled_by = [
-  "LRBB_H_CTR","
-  "LRBB_G_CTR"
-]
+id = "LR_LOKOM2"
+controlled_by = ["LRBB_H_CTR", "LRBB_G_CTR"]
 
 [[stations]]
-id = "LRBANAP2"
-controlled_by = [
-  "LRBB_H_CTR","
-  "LRBB_G_CTR"
-]
+id = "LR_BANAP2"
+controlled_by = ["LRBB_H_CTR", "LRBB_G_CTR"]
 
 [[stations]]
-id = "LRDINAR2"
-controlled_by = [
-  "LRBB_H_CTR","
-  "LRBB_G_CTR"
-]
+id = "LR_DINAR2"
+controlled_by = ["LRBB_H_CTR", "LRBB_G_CTR"]
 
 [[stations]]
-id = "LRBUDMO3"
-controlled_by = [
-  "LRBB_V_CTR","
-  "LRBB_U_CTR"
-]
+id = "LR_BUDMO3"
+controlled_by = ["LRBB_V_CTR", "LRBB_U_CTR"]
 
 [[stations]]
-id = "LRLOKOM3"
-controlled_by = [
-  "LRBB_V_CTR","
-  "LRBB_U_CTR"
-]
+id = "LR_LOKOM3"
+controlled_by = ["LRBB_V_CTR", "LRBB_U_CTR"]
 
 [[stations]]
-id = "LRBANAP3"
-controlled_by = [
-  "LRBB_U_CTR","
-  "LRBB_V_CTR"
-]
+id = "LR_BANAP3"
+controlled_by = ["LRBB_U_CTR", "LRBB_V_CTR"]
 
 [[stations]]
-id = "LRDINAR3"
-controlled_by = [
-  "LRBB_U_CTR","
-  "LRBB_V_CTR"
-]
+id = "LR_DINAR3"
+controlled_by = ["LRBB_U_CTR", "LRBB_V_CTR"]
 
 [[stations]]
-id = "LRCLAPP"
-controlled_by = [
-  "LRCL_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRCL_APP"
+controlled_by = ["LRCL_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRCLAPPS"
-controlled_by = [
-  "LRCL_S_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRCL_S_APP"
+controlled_by = ["LRCL_S_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRARAPP"
-controlled_by = [
-  "LRAR_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRAR_APP"
+controlled_by = ["LRAR_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRCKAPP"
-controlled_by = [
-  "LRCK_CTR","
-  "LRBB_E_CTR","
-  "LRBB_CTR"
-]
+id = "LRCK_APP"
+controlled_by = ["LRCK_CTR", "LRBB_E_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LROPAPP"
-controlled_by = [
-  "LROP_APP","
-  "LRBB_CTR"
-]
+id = "LROP_APP"
+controlled_by = ["LROP_APP", "LRBB_CTR"]
 
 [[stations]]
-id = "LROPTWR"
-controlled_by = [
-  "LROP_TWR","
-  "LROP_APP","
-  "LRBB_CTR"
-]
+id = "LROP_TWR"
+controlled_by = ["LROP_TWR", "LROP_APP", "LRBB_CTR"]
 
 [[stations]]
-id = "LROPAPPF"
-controlled_by = [
-  "LROP_F_APP","
-  "LROP_APP","
-  "LRBB_CTR"
-]
+id = "LROP_F_APP"
+controlled_by = ["LROP_F_APP", "LROP_APP", "LRBB_CTR"]
 
 [[stations]]
-id = "LROPGND"
-controlled_by = [
-  "LROP_GND","
-  "LROP_TWR","
-  "LROP_APP","
-  "LROP_APP"
-]
+id = "LROP_GND"
+controlled_by = ["LROP_GND", "LROP_TWR", "LROP_APP", "LROP_APP"]
 
 [[stations]]
-id = "LROPDEL"
-controlled_by = [
-  "LROP_DEL","
-  "LROP_GND","
-  "LROP_TWR","
-  "LROP_APP","
-  "LROP_APP"
-]
+id = "LROP_DEL"
+controlled_by = ["LROP_DEL", "LROP_GND", "LROP_TWR", "LROP_APP", "LROP_APP"]
 
 [[stations]]
-id = "LRBSTWR"
-controlled_by = [
-  "LRBS_TWR","
-  "LROP_APP","
-  "LRBB_CTR"
-]
+id = "LRBS_TWR"
+controlled_by = ["LRBS_TWR", "LROP_APP", "LRBB_CTR"]
 
 [[stations]]
-id = "LRBSGND"
-controlled_by = [
-  "LRBS_GND","
-  "LRBS_TWR","
-  "LROP_APP","
-  "LRBB_CTR"
-]
+id = "LRBS_GND"
+controlled_by = ["LRBS_GND", "LRBS_TWR", "LROP_APP", "LRBB_CTR"]
 
 [[stations]]
-id = "LRSBTWR"
-controlled_by = [
-  "LRSB_TWR","
-  "LRCL_S_APP","
-  "LRCL_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRSB_TWR"
+controlled_by = ["LRSB_TWR", "LRCL_S_APP", "LRCL_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRTMTWR"
-controlled_by = [
-  "LRTM_TWR","
-  "LRCL_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRTM_TWR"
+controlled_by = ["LRTM_TWR", "LRCL_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRCLTWR"
-controlled_by = [
-  "LRCL_TWR","
-  "LRCL_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRCL_TWR"
+controlled_by = ["LRCL_TWR", "LRCL_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRARTWR"
-controlled_by = [
-  "LRAR_TWR","
-  "LRAR_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRAR_TWR"
+controlled_by = ["LRAR_TWR", "LRAR_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRTRTWR"
-controlled_by = [
-  "LRTR_TWR","
-  "LRAR_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRTR_TWR"
+controlled_by = ["LRTR_TWR", "LRAR_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRTRGND"
-controlled_by = [
-  "LRTR_GND","
-  "LRTR_TWR","
-  "LRAR_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRTR_GND"
+controlled_by = ["LRTR_GND", "LRTR_TWR", "LRAR_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRCKTWR"
-controlled_by = [
-  "LRCK_TWR","
-  "LRCK_APP","
-  "LRBB_E_CTR","
-  "LRBB_CTR"
-]
+id = "LRCK_TWR"
+controlled_by = ["LRCK_TWR", "LRCK_APP", "LRBB_E_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRIATWR"
-controlled_by = [
-  "LRIA_TWR","
-  "LRBB_E_CTR","
-  "LRBB_CTR"
-]
+id = "LRIA_TWR"
+controlled_by = ["LRIA_TWR", "LRBB_E_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRBCTWR"
-controlled_by = [
-  "LRBC_TWR","
-  "LRBB_E_CTR","
-  "LRBB_CTR"
-]
+id = "LRBC_TWR"
+controlled_by = ["LRBC_TWR", "LRBB_E_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRSVTWR"
-controlled_by = [
-  "LRSV_TWR","
-  "LRBB_E_CTR","
-  "LRBB_CTR"
-]
+id = "LRSV_TWR"
+controlled_by = ["LRSV_TWR", "LRBB_E_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRBMTWR"
-controlled_by = [
-  "LRBM_TWR","
-  "LRCL_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRBM_TWR"
+controlled_by = ["LRBM_TWR", "LRCL_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRSMTWR"
-controlled_by = [
-  "LRSM_TWR","
-  "LRCL_APP","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LRSM_TWR"
+controlled_by = ["LRSM_TWR", "LRCL_APP", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRODTWR"
-controlled_by = [
-  "LROD_CTR","
-  "LRBB_W_CTR","
-  "LRBB_CTR"
-]
+id = "LROD_TWR"
+controlled_by = ["LROD_CTR", "LRBB_W_CTR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRCVTWR"
-controlled_by = [
-  "LRCV_TWR","
-  "LRBB_CTR"
-]
+id = "LRCV_TWR"
+controlled_by = ["LRCV_TWR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRBVTWR"
-controlled_by = [
-  "LRBV_TWR","
-  "LRBB_CTR"
-]
+id = "LRBV_TWR"
+controlled_by = ["LRBV_TWR", "LRBB_CTR"]
 
 [[stations]]
-id = "LRBBFIC"
+id = "LRBB_FIC"
 controlled_by = ["LRBB_I_CTR"]
 
 [[stations]]
-id = "LRFTTWR"
+id = "LRFT_TWR"
 controlled_by = ["LRFT_TWR"]
