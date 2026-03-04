@@ -2212,11 +2212,6 @@ facility_type = "CTR"
 #######################
 # AFIS/AGCS
 #######################
-[[positions]]
-id = "EGGX_F_DEL"
-prefixes = ["EGGX"]
-frequency = "128.375"
-facility_type = "DEL"
 
 [[positions]]
 id = "EGAB_R_TWR"
@@ -2834,4 +2829,10 @@ facility_type = "DEL"
 id = "EGGX_D_DEL"
 prefixes = ["EGGX"]
 frequency = "126.375"
+facility_type = "DEL"
+
+[[positions]]
+id = "EGGX_F_DEL"
+prefixes = ["EGGX"]
+frequency = "128.375"
 facility_type = "DEL"
