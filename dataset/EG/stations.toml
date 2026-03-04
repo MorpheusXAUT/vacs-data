@@ -781,7 +781,7 @@ controlled_by = ["EGLM_R_TWR"]
 
 [[stations]]
 id = "EGLW_TWR"
-parent_id = "EGLL-CTR-SVFR"
+parent_id = "EGLL-CTR-TC_SVFR"
 controlled_by = ["EGLW_TWR"]
 
 [[stations]]
