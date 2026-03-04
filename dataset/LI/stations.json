@@ -6,7 +6,7 @@
     },
     {
       "id": "LIBB-FIC",
-      "controlled_by": ["LIBB_I_CTR"]
+      "controlled_by": ["LIBB_I_APP"]
     },
     {
       "id": "LIBA-APP",
