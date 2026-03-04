@@ -635,42 +635,42 @@
       "prefixes": ["ESPA"],
       "frequency": "125.450",
       "facility_type": "APP",
-      "profile_id": "ESOS_APP"
+      "profile_id": "ESOS_AD_NORTH"
     },
     {
       "id": "ESPA_F_APP",
       "prefixes": ["ESPA"],
       "frequency": "130.800",
       "facility_type": "APP",
-      "profile_id": "ESOS_APP"
+      "profile_id": "ESOS_AD_NORTH"
     },
     {
       "id": "ESPA_P_APP",
       "prefixes": ["ESPA"],
       "frequency": "119.000",
       "facility_type": "APP",
-      "profile_id": "ESOS_APP"
+      "profile_id": "ESOS_AD_NORTH"
     },
     {
       "id": "ESPA_TWR",
       "prefixes": ["ESPA"],
       "frequency": "128.200",
       "facility_type": "TWR",
-      "profile_id": "ESOS_APP"
+      "profile_id": "ESOS_AD_NORTH"
     },
     {
       "id": "ESPE_APP",
       "prefixes": ["ESPE"],
       "frequency": "124.150",
       "facility_type": "APP",
-      "profile_id": "ESOS_APP"
+      "profile_id": "ESOS_AD_NORTH"
     },
     {
       "id": "ESPE_P_APP",
       "prefixes": ["ESPE"],
       "frequency": "135.400",
       "facility_type": "APP",
-      "profile_id": "ESOS_APP"
+      "profile_id": "ESOS_AD_NORTH"
     },
     {
       "id": "ESPE_TWR",
