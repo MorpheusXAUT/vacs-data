@@ -171,6 +171,7 @@ id = "EGCC_A_DEL"
 prefixes = ["EGCC"]
 frequency = "199.998"
 facility_type = "DEL"
+profile_id = "EG-North_LAG"
 
 [[positions]]
 id = "EGCC_P_GND"
@@ -653,6 +654,7 @@ id = "EGKK_A_DEL"
 prefixes = ["EGKK"]
 frequency = "199.998"
 facility_type = "DEL"
+profile_id = "EGKK"
 
 [[positions]]
 id = "EGKK_P_GND"
@@ -799,6 +801,7 @@ id = "EGLL_A_DEL"
 prefixes = ["EGLL"]
 frequency = "199.998"
 facility_type = "DEL"
+profile_id = "EGLL"
 
 [[positions]]
 id = "EGLL_P_GND"
