@@ -104,95 +104,61 @@
     {
       "label": ["EXT"],
       "page": {
-        "rows": 6,
+        "rows": 4,
         "keys": [
           {
-            "label": ["ADR", "CTR"],
-            "station_id": "ADR_CTR"
+            "label": []
           },
           {
-            "label": ["ADR E", "CTR"],
-            "station_id": "ADR_E_CTR"
+            "label": ["BEO", "CTR"]
           },
           {
-            "label": ["ADR U", "CTR", "335+"],
-            "station_id": "ADR_U_CTR"
+            "label": ["SKO", "CTR"]
           },
           {
-            "label": ["BEO", "CTR", ""],
-            "station_id": "LYBA_CTR"
+            "label": []
           },
           {
-            "label": ["BEO E", "CTR", ""],
-            "station_id": "LYBA_E_CTR"
-          },
-          {
-            "label": ["BEO U", "CTR", "335+"],
-            "station_id": "LYBA_U_CTR"
-          },
-          {
-            "label": ["RBB", "CTR", ""],
+            "label": ["RBB LOM", "CTR", "(Main)"],
             "station_id": "LR_LOKOM1"
           },
           {
-            "label": ["RBE", "CTR"],
-            "station_id": "LRBB_E_CTR"
+            "label": ["RBB LOM", "CTR", "345+"],
+            "station_id": "LR_LOKOM2"
           },
           {
-            "label": ["RBG", "CTR", "345+"],
-            "station_id": "LRBB_G_CTR"
+            "label": ["RBB LOM", "CTR", "365+"],
+            "station_id": "LR_LOKOM3"
           },
           {
-            "label": ["RBH", "CTR", "345+"],
-            "station_id": "LRBB_H_CTR"
+            "label": []
           },
           {
-            "label": ["RBV", "CTR", "365+"],
-            "station_id": "LRBB_V_CTR"
+            "label": ["RBB ARG", "CTR", "(Main)"],
+            "station_id": "LR_NERAG1"
           },
           {
-            "label": ["RBU", "CTR", "365+"],
-            "station_id": "LRBB_U_CTR"
+            "label": ["RBB ARG", "CTR", "345+"],
+            "station_id": "LR_DINAR2"
           },
           {
-            "label": ["ANK", "CTR", ""],
-            "station_id": "ANK_CTR"
+            "label": ["RBB ARG", "CTR", "365+"],
+            "station_id": "LR_DINAR3"
           },
           {
-            "label": ["ANK W", "CTR"],
-            "station_id": "ANK_W_CTR"
+            "label": ["GGG", "CTR"]
           },
           {
-            "label": ["ANK W78", "CTR", ""],
-            "station_id": "ANK_W78_CTR"
+            "label": ["RBB DIN", "CTR", "(Main)"],
+            "station_id": "LR_BADIN1"
           },
           {
-            "label": ["ANK A", "CTR"],
-            "station_id": "ANK_A_CTR"
+            "label": ["RBB DIN", "CTR", "345+"],
+            "station_id": "LR_DINAR2"
           },
           {
-            "label": ["ANK C", "CTR"],
-            "station_id": "ANK_C_CTR"
-          },
-          {
-            "label": ["ANK N", "CTR"],
-            "station_id": "ANK_N_CTR"
-          },
-          {
-            "label": ["GGG", "CTR"],
-            "station_id": "LGGG_CTR"
-          },
-          {
-            "label": ["GGU", "CTR"],
-            "station_id": "LGGG_U_CTR"
-          },
-          {
-            "label": ["MDW", "CTR"],
-            "station_id": "LGMD_W_CTR"
-          },
-          {
-            "label": ["KVL", "CTR"],
-            "station_id": "LGMD_KVL_CTR"
+            "label": ["RBB DIN", "CTR", "365+"],
+            "station_id": "LR_DINAR3"
           },
           {
             "label": []
@@ -201,45 +167,25 @@
             "label": []
           },
           {
-            "label": ["SKO", "CTR"],
-            "station_id": "LWSS_CTR"
+            "label": ["ANK", "CTR", "NORTH"]
           },
           {
-            "label": []
+            "label": ["ANK", "CTR", "MIDDLE"]
           },
           {
-            "label": []
+            "label": ["ANK", "CTR", "SOUTH"]
           },
           {
-            "label": []
+            "label": ["IST", "APP", "(MAIN)"]
           },
           {
-            "label": []
+            "label": ["IST", "APP", "(EAST)"]
           },
           {
-            "label": []
+            "label": ["LYBE", "APP"]
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["LYBE", "APP"],
-            "station_id": "LYBE_APP"
+            "label": ["LYNI", "APP"]
           },
           {
             "label": ["LROP", "APP"],
@@ -250,16 +196,10 @@
             "station_id": "LRCK_APP"
           },
           {
-            "label": ["IST", "APP", "(MAIN)"],
-            "station_id": "IST_W_APP"
+            "label": ["LGTS", "APP"]
           },
           {
-            "label": ["IST", "APP", "(EAST)"],
-            "station_id": "IST_E_APP"
-          },
-          {
-            "label": ["LGTS", "APP"],
-            "station_id": "LGTS_APP"
+            "label": ["LWSS", "APP"]
           }
         ]
       }
