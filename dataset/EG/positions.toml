@@ -1177,6 +1177,7 @@ id = "EGPX_I_CTR"
 prefixes = ["EGPX"]
 frequency = "119.875"
 facility_type = "CTR"
+profile_id = "EG-UK_ALL"
 
 [[positions]]
 id = "EGQL_APP"
@@ -1364,12 +1365,14 @@ id = "EGTT_I_CTR"
 prefixes = ["EGTT"]
 frequency = "124.600"
 facility_type = "CTR"
+profile_id = "EG-UK_ALL"
 
 [[positions]]
 id = "EGTT_WR_CTR"
 prefixes = ["EGTT"]
 frequency = "132.300"
 facility_type = "CTR"
+profile_id = "EG-West_LAG"
 
 [[positions]]
 id = "EGUB_APP"
