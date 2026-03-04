@@ -99,6 +99,27 @@
       "profile_id": "FACA"
     },
     {
+      "id": "FACA_I_CTR",
+      "prefixes": ["FACA"],
+      "frequency": "132.125",
+      "facility_type": "CTR",
+      "profile_id": "FACA"
+    },
+    {
+      "id": "FACA_IW_CTR",
+      "prefixes": ["FACA"],
+      "frequency": "132.125",
+      "facility_type": "CTR",
+      "profile_id": "FACA"
+    },
+    {
+      "id": "FACA_IE_CTR",
+      "prefixes": ["FACA"],
+      "frequency": "127.525",
+      "facility_type": "CTR",
+      "profile_id": "FACA"
+    },
+    {
       "id": "FAOR_APP",
       "prefixes": ["FAOR"],
       "frequency": "124.500",

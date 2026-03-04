@@ -60,6 +60,16 @@
       "controlled_by": ["FACA_E_CTR", "FACA_CTR"]
     },
     {
+      "id": "FACA_INFO_W",
+      "parent_id": "FACA_W",
+      "controlled_by": ["FACA_IW_CTR", "FACA_I_CTR"]
+    },
+    {
+      "id": "FACA_INFO_E",
+      "parent_id": "FACA_E",
+      "controlled_by": ["FACA_IE_CTR", "FACA_I_CTR"]
+    },
+    {
       "id": "FAOR_RDR",
       "parent_id": "FAJA_NW",
       "controlled_by": ["FAOR_APP"]
