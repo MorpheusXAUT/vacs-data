@@ -203,7 +203,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["WK", "GND"],
+            "station_id": "FAWK_GND"
           },
           {
             "label": []

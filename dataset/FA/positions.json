@@ -338,6 +338,18 @@
       "prefixes": ["FAGC"],
       "frequency": "122.850",
       "facility_type": "TWR"
+    },
+    {
+      "id": "FAWK_TWR",
+      "prefixes": ["FAWK"],
+      "frequency": "124.100",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "FAWK_GND",
+      "prefixes": ["FAWK"],
+      "frequency": "121.850",
+      "facility_type": "GND"
     }
   ]
 }

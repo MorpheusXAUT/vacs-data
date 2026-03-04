@@ -102,12 +102,12 @@
     },
     {
       "id": "FAOR_TWR_E",
-      "parent_id": "FAOR_TWR",
+      "parent_id": "FAOR_TWR_W",
       "controlled_by": ["FAOR_E_TWR"]
     },
     {
       "id": "FAOR_GMC",
-      "parent_id": "FAOR_TWR",
+      "parent_id": "FAOR_TWR_W",
       "controlled_by": ["FAOR_GND"]
     },
     {
@@ -229,6 +229,16 @@
       "id": "FAGC_TWR",
       "parent_id": "FAOR_RDR_W",
       "controlled_by": ["FAGC_TWR"]
+    },
+    {
+      "id": "FAWK_TWR",
+      "parent_id": "FAOR_RDR_W",
+      "controlled_by": ["FAWK_TWR"]
+    },
+    {
+      "id": "FAWK_GND",
+      "parent_id": "FAWK_TWR",
+      "controlled_by": ["FAWK_GND"]
     }
   ]
 }
