@@ -138,10 +138,6 @@
             "station_id": "EGLL_DEL"
           },
           {
-            "label": ["GMP", "Assist"],
-            "station_id": "EGLL_A_DEL"
-          },
-          {
             "label": ["AIR", "North"],
             "station_id": "EGLL_N_TWR"
           },
@@ -151,6 +147,10 @@
           },
           {
             "label": []
+          },
+          {
+            "label": ["GMP", "Assist"],
+            "station_id": "EGLL_A_DEL"
           },
           {
             "label": []
