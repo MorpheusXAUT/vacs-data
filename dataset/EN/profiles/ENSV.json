@@ -1,0 +1,236 @@
+{
+  "id": "ENSV",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ACC"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["SV 9"],
+            "station_id": "ENSV-16"
+          },
+          {
+            "label": ["SV 10"],
+            "station_id": "ENSV-10"
+          },
+          {
+            "label": ["SV 11"],
+            "station_id": "ENSV-11"
+          },
+          {
+            "label": ["SV 12"],
+            "station_id": "ENSV-12"
+          },
+          {
+            "label": ["SV 13"],
+            "station_id": "ENSV-13"
+          },
+          {
+            "label": ["SV 14"],
+            "station_id": "ENSV-14"
+          },
+          {
+            "label": ["SV 15"],
+            "station_id": "ENSV-15"
+          },
+          {
+            "label": ["SV 16"],
+            "station_id": "ENSV-16"
+          },
+          {
+            "label": ["SV 17"],
+            "station_id": "ENSV-17"
+          },
+          {
+            "label": ["SV 20"],
+            "station_id": "ENSV-20"
+          },
+          {
+            "label": ["SV 21"],
+            "station_id": "ENSV-21"
+          },
+          {
+            "label": ["SV 22"],
+            "station_id": "ENSV-22"
+          },
+          {
+            "label": ["BD 18"],
+            "station_id": "ENBD-18"
+          },
+          {
+            "label": ["OS 7"],
+            "station_id": "ENOS-7"
+          },
+          {
+            "label": ["OS 6"],
+            "station_id": "ENOS-6"
+          },
+          {
+            "label": ["OS 5"],
+            "station_id": "ENOS-5"
+          },
+          {
+            "label": ["OS 8"],
+            "station_id": "ENOS-8"
+          },
+          {
+            "label": ["OB"],
+            "station_id": "ENOB"
+          },
+          {
+            "label": ["DK UN", "FL365+"],
+            "station_id": "EKDKUN"
+          },
+          {
+            "label": ["DK N", "FL365-"],
+            "station_id": "EKDKN"
+          },
+          {
+            "label": ["SCO N", "FL255+"]
+          },
+          {
+            "label": ["SCO L", "FL255-"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["BIRD", "S3", ""]
+          },
+          {
+            "label": ["BIRD", "S2"]
+          },
+          {
+            "label": ["BIRD", "S1"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["APP/TWR"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["BR-W", "APP"]
+          },
+          {
+            "label": ["BR", "DIR"]
+          },
+          {
+            "label": ["BR", "TWR"]
+          },
+          {
+            "label": ["BR", "GND"]
+          },
+          {
+            "label": ["BR-E", "APP"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["BR", "PLN", ""]
+          },
+          {
+            "label": ["BR", "DEL"]
+          },
+          {
+            "label": ["ZV", "APP"]
+          },
+          {
+            "label": ["ZV", "TWR"]
+          },
+          {
+            "label": ["ZV", "GND"]
+          },
+          {
+            "label": ["ZV", "ARR"]
+          },
+          {
+            "label": ["HD", "TWR"]
+          },
+          {
+            "label": ["CN", "APP"]
+          },
+          {
+            "label": ["FARRIS", "APP"]
+          },
+          {
+            "label": ["MØRE", "APP"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EGPD", "HELS"]
+          },
+          {
+            "label": ["EGPB", "APP"]
+          }
+        ]
+      }
+    },
+    {
+      "label": ["AFIS"],
+      "page": {
+        "rows": 5,
+        "keys": [
+          {
+            "label": ["FL", "AFIS"]
+          },
+          {
+            "label": ["SD", "AFIS"]
+          },
+          {
+            "label": ["SG", "AFIS"]
+          },
+          {
+            "label": ["BL", "AFIS"]
+          },
+          {
+            "label": ["SO", "AFIS"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EKOFISK", "HFIS"]
+          },
+          {
+            "label": ["TAMPEN", "HFIS"]
+          },
+          {
+            "label": ["OV", "AFIS"]
+          }
+        ]
+      }
+    }
+  ]
+}
