@@ -26,7 +26,7 @@
       "prefixes": ["FAJA"],
       "frequency": "134.400",
       "facility_type": "CTR",
-      "profile_id": "FAJA-ALL"
+      "profile_id": "FAJA"
     },
     {
       "id": "FAJA_N_CTR",
@@ -153,6 +153,18 @@
       "frequency": "119.000",
       "facility_type": "CTR",
       "profile_id": "FAMR"
+    },
+    {
+      "id": "FAJO_FSS",
+      "prefixes": ["FAJO"],
+      "frequency": "120.850",
+      "facility_type": "FSS"
+    },
+    {
+      "id": "FAJO_2_FSS",
+      "prefixes": ["FAJO"],
+      "frequency": "120.450",
+      "facility_type": "FSS"
     },
     {
       "id": "FAOR_APP",
