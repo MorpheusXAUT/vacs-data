@@ -102,11 +102,11 @@
           {
             "label": ["EDMM", "FUE"],
             "station_id": "EDMM-FUE"
-          },       
+          },
           {
             "label": ["EDMM", "SWA"],
             "station_id": "EDMM-SWA"
-          },    
+          },
           {
             "label": [""]
           },
@@ -125,10 +125,10 @@
           },
           {
             "label": [""]
-          },  
+          },
           {
             "label": ["LSAZ", "SZE"]
-          }, 
+          },
           {
             "label": [""]
           }
