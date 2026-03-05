@@ -819,6 +819,20 @@ parent_id = "EGWU_F_APP"
 controlled_by = ["EGWU_P_APP"]
 
 [[stations]]
+id = "LXGB_APP"
+controlled_by = ["LXGB_APP", "LXGB_P_APP"]
+
+[[stations]]
+id = "LXGB_P_APP"
+parent_id = "LXGB_APP"
+controlled_by = ["LXGB_P_APP"]
+
+[[stations]]
+id = "LXGB_TWR"
+parent_id = "LXGB_APP"
+controlled_by = ["LXGB_TWR"]
+
+[[stations]]
 id = "ESSEX_APP"
 controlled_by = ["ESSEX_APP"]
 
@@ -848,3 +862,4 @@ controlled_by = [
   "LON_SC_CTR",
   "LON_CTR",
 ]
+

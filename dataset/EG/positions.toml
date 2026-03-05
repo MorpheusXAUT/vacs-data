@@ -3310,3 +3310,28 @@ id = "EGGX_F_DEL"
 prefixes = ["EGGX"]
 frequency = "128.375"
 facility_type = "DEL"
+
+#######################
+# Non-domestic owned
+#######################
+
+[[positions]]
+id = "LXGB_APP"
+prefixes = ["LXGB"]
+frequency = "123.300"
+facility_type = "APP"
+profile_id = "LXGB"
+
+[[positions]]
+id = "LXGB_P_APP"
+prefixes = ["LXGB"]
+frequency = "130.400"
+facility_type = "APP"
+profile_id = "LXGB"
+
+[[positions]]
+id = "LXGB_TWR"
+prefixes = ["LXGB"]
+frequency = "131.200"
+facility_type = "TWR"
+profile_id = "LXGB"
