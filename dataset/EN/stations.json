@@ -55,7 +55,7 @@
       "id": "ENBR_P_GND",
       "controlled_by": [
         "ENBR_P_GND",
-		"ENBR_DEL",
+        "ENBR_DEL",
         "ENBR_GND",
         "ENBR_TWR",
         "ENBR_D_APP",
@@ -262,7 +262,7 @@
       "id": "ENGM_P_GND",
       "controlled_by": [
         "ENGM_P_GND",
-		"ENGM_W_DEL",
+        "ENGM_W_DEL",
         "ENGM_E_DEL",
         "ENGM_W_GND",
         "ENGM_E_GND",
@@ -282,17 +282,11 @@
     },
     {
       "id": "ENAS_I_TWR",
-      "controlled_by": [
-        "ENAS_I_TWR",
-        "ENOB_CTR"
-      ]
+      "controlled_by": ["ENAS_I_TWR", "ENOB_CTR"]
     },
     {
       "id": "ENSB_I_TWR",
-      "controlled_by": [
-        "ENSB_I_TWR",
-        "ENOB_CTR"
-      ]
+      "controlled_by": ["ENSB_I_TWR", "ENOB_CTR"]
     },
     {
       "id": "ENBD_O_CTR",
@@ -893,11 +887,7 @@
     },
     {
       "id": "ENBD_N_CTR",
-      "controlled_by": [
-        "ENBD_N_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENBD_N_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENZV_TWR",
@@ -928,9 +918,7 @@
     },
     {
       "id": "ENBR_D_APP",
-      "controlled_by": [
-        "ENBR_D_APP"
-      ]
+      "controlled_by": ["ENBR_D_APP"]
     },
     {
       "id": "ENGM_F_APP",
@@ -948,15 +936,11 @@
     },
     {
       "id": "ENVA_D_APP",
-      "controlled_by": [
-        "ENVA_D_APP"
-      ]
+      "controlled_by": ["ENVA_D_APP"]
     },
     {
       "id": "ENOB_CTR",
-      "controlled_by": [
-        "ENOB_CTR"
-      ]
+      "controlled_by": ["ENOB_CTR"]
     },
     {
       "id": "ENAN_APP",
@@ -1076,12 +1060,7 @@
     },
     {
       "id": "ENBD_E_CTR",
-      "controlled_by": [
-        "ENBD_E_CTR",
-        "ENBD_N_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENBD_E_CTR", "ENBD_N_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENKR_APP",
@@ -1120,12 +1099,7 @@
     },
     {
       "id": "ENTC_APP",
-      "controlled_by": [
-        "ENTC_APP",
-        "ENBD_N_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENTC_APP", "ENBD_N_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENVA_APP",
@@ -1167,12 +1141,7 @@
     },
     {
       "id": "ENBD-HELGELAND",
-      "controlled_by": [
-        "ENBN_APP",
-        "ENBD_C_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENBN_APP", "ENBD_C_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENKB_APP",
@@ -1204,7 +1173,7 @@
       "id": "ENDU_DEL",
       "controlled_by": [
         "ENDU_DEL",
-		"ENDU_TWR",
+        "ENDU_TWR",
         "ENDU_APP",
         "ENRC_N_CTR",
         "ENBD_N_CTR",
@@ -1216,7 +1185,7 @@
       "id": "ENOL_A_APP",
       "controlled_by": [
         "ENOL_A_APP",
-		"ENOL_APP",
+        "ENOL_APP",
         "ENOL_A_APP",
         "ENRC_N_CTR",
         "ENBD_S_CTR",
@@ -1230,7 +1199,7 @@
       "id": "ENRY_GND",
       "controlled_by": [
         "ENRY_GND",
-		"ENRY_TWR",
+        "ENRY_TWR",
         "ENTO_APP",
         "ENTO_D_APP",
         "ENRC_S_CTR",
@@ -1246,7 +1215,7 @@
       "id": "ENTO_D_APP",
       "controlled_by": [
         "ENTO_D_APP",
-		"ENTO_APP",
+        "ENTO_APP",
         "ENRC_S_CTR",
         "ENOS_4_CTR",
         "ENOS_CTR",
@@ -1260,7 +1229,7 @@
       "id": "ENZV_A_APP",
       "controlled_by": [
         "ENZV_A_APP",
-		    "ENZV_APP",
+        "ENZV_APP",
         "ENSV_CTR",
         "ENSV_N_CTR",
         "ENOR_S_CTR",
@@ -1268,9 +1237,9 @@
         "ENOR_CTR"
       ]
     },
-	{
+    {
       "id": "ENOS-1",
-	  "controlled_by": [
+      "controlled_by": [
         "ENOS_1_CTR",
         "ENOS_N_CTR",
         "ENOS_CTR",
@@ -1279,9 +1248,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENOS-2",
-	  "controlled_by": [
+      "controlled_by": [
         "ENOS_2_CTR",
         "ENOS_1_CTR",
         "ENOS_N_CTR",
@@ -1291,9 +1260,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENOS-3",
-	  "controlled_by": [
+      "controlled_by": [
         "ENOS_3_CTR",
         "ENOS_4_CTR",
         "ENOS_CTR",
@@ -1303,9 +1272,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENOS-4",
-	  "controlled_by": [
+      "controlled_by": [
         "ENOS_4_CTR",
         "ENOS_CTR",
         "ENOS_N_CTR",
@@ -1314,9 +1283,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENOS-5",
-	  "controlled_by": [
+      "controlled_by": [
         "ENOS_CTR",
         "ENOS_N_CTR",
         "ENOR_S_CTR",
@@ -1324,9 +1293,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENOS-6",
-	  "controlled_by": [
+      "controlled_by": [
         "ENOS_N_CTR",
         "ENOS_CTR",
         "ENOR_S_CTR",
@@ -1334,9 +1303,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENOS-7",
-	  "controlled_by": [
+      "controlled_by": [
         "ENOS_7_CTR",
         "ENOS_N_CTR",
         "ENOS_CTR",
@@ -1345,9 +1314,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENOS-8",
-	  "controlled_by": [
+      "controlled_by": [
         "ENOS_8_CTR",
         "ENOS_CTR",
         "ENOS_N_CTR",
@@ -1356,9 +1325,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-9",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_CTR",
         "ENSV_N_CTR",
         "ENOR_S_CTR",
@@ -1366,9 +1335,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-10",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_W_CTR",
         "ENSV_CTR",
         "ENSV_N_CTR",
@@ -1377,9 +1346,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-11",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_W_CTR",
         "ENSV_CTR",
         "ENSV_N_CTR",
@@ -1388,9 +1357,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-12",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_CTR",
         "ENSV_N_CTR",
         "ENOR_S_CTR",
@@ -1398,9 +1367,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-13",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_E_CTR",
         "ENSV_CTR",
         "ENSV_N_CTR",
@@ -1409,9 +1378,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-14",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_14_CTR",
         "ENSV_E_CTR",
         "ENSV_N_CTR",
@@ -1421,9 +1390,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-15",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_W_CTR",
         "ENSV_16_CTR",
         "ENSV_N_CTR",
@@ -1433,9 +1402,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-16",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_16_CTR",
         "ENSV_N_CTR",
         "ENSV_CTR",
@@ -1444,9 +1413,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-17",
-	  "controlled_by": [
+      "controlled_by": [
         "ENSV_N_CTR",
         "ENSV_CTR",
         "ENOR_S_CTR",
@@ -1454,9 +1423,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENBD-18",
-	  "controlled_by": [
+      "controlled_by": [
         "ENBD_S_CTR",
         "ENBD_C_CTR",
         "ENBD_CTR",
@@ -1464,9 +1433,9 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENBD-19",
-	  "controlled_by": [
+      "controlled_by": [
         "ENBD_19_CTR",
         "ENBD_S_CTR",
         "ENBD_C_CTR",
@@ -1475,81 +1444,62 @@
         "ENOR_CTR"
       ]
     },
-		{
+    {
       "id": "ENSV-20",
-	  "controlled_by": [
-        "ENSV_O_CTR",
-        "ENSV_16_CTR",
-        "ENSV_N_CTR",
-        "ENSV_CTR",
-        "ENOR_S_CTR",
-        "ENOR_SC_CTR",
-        "ENOR_CTR"
-      ]
-    },
-		{
-      "id": "ENSV-21",
-	  "controlled_by": [
-        "ENSV_O_CTR",
-        "ENSV_W_CTR",
-        "ENSV_16_CTR",
-        "ENSV_N_CTR",
-        "ENSV_CTR",
-        "ENOR_S_CTR",
-        "ENOR_SC_CTR",
-        "ENOR_CTR"
-      ]
-    },
-		{
-      "id": "ENSV-22",
-	  "controlled_by": [
-        "ENSV_O_CTR",
-        "ENSV_W_CTR",
-        "ENSV_CTR",
-        "ENSV_N_CTR",
-        "ENOR_S_CTR",
-        "ENOR_SC_CTR",
-        "ENOR_CTR"
-      ]
-    },
-		{
-      "id": "ENBD-23",
-	  "controlled_by": [
-        "ENBD_O_CTR",
-        "ENBD_C_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
-    },
-		{
-      "id": "ENBD-24/27",
-	  "controlled_by": [
-        "ENBD_C_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
-    },
-		{
-      "id": "ENBD-25",
-	  "controlled_by": [
-        "ENBD_N_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
-		{
-      "id": "ENBD-26",
-	  "controlled_by": [
-        "ENBD_E_CTR",
-        "ENBD_N_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
-    },
-		{
-      "id": "ENOB",
       "controlled_by": [
-        "ENOB_CTR"
+        "ENSV_O_CTR",
+        "ENSV_16_CTR",
+        "ENSV_N_CTR",
+        "ENSV_CTR",
+        "ENOR_S_CTR",
+        "ENOR_SC_CTR",
+        "ENOR_CTR"
       ]
+    },
+    {
+      "id": "ENSV-21",
+      "controlled_by": [
+        "ENSV_O_CTR",
+        "ENSV_W_CTR",
+        "ENSV_16_CTR",
+        "ENSV_N_CTR",
+        "ENSV_CTR",
+        "ENOR_S_CTR",
+        "ENOR_SC_CTR",
+        "ENOR_CTR"
+      ]
+    },
+    {
+      "id": "ENSV-22",
+      "controlled_by": [
+        "ENSV_O_CTR",
+        "ENSV_W_CTR",
+        "ENSV_CTR",
+        "ENSV_N_CTR",
+        "ENOR_S_CTR",
+        "ENOR_SC_CTR",
+        "ENOR_CTR"
+      ]
+    },
+    {
+      "id": "ENBD-23",
+      "controlled_by": ["ENBD_O_CTR", "ENBD_C_CTR", "ENBD_CTR", "ENOR_CTR"]
+    },
+    {
+      "id": "ENBD-24/27",
+      "controlled_by": ["ENBD_C_CTR", "ENBD_CTR", "ENOR_CTR"]
+    },
+    {
+      "id": "ENBD-25",
+      "controlled_by": ["ENBD_N_CTR", "ENBD_CTR", "ENOR_CTR"]
+    },
+    {
+      "id": "ENBD-26",
+      "controlled_by": ["ENBD_E_CTR", "ENBD_N_CTR", "ENBD_CTR", "ENOR_CTR"]
+    },
+    {
+      "id": "ENOB",
+      "controlled_by": ["ENOB_CTR"]
     }
-	]
+  ]
 }
