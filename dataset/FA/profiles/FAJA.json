@@ -166,7 +166,8 @@
             "station_id": "FALA_TWR"
           },
           {
-            "label": []
+            "label": ["FALM", "GMC"],
+            "station_id": "FALM_GMC"
           },
           {
             "label": []
@@ -258,8 +259,8 @@
             "station_id": "FAUP_APP"
           },
           {
-            "label": ["UP", "GMC"],
-            "station_id": "FAUP_GMC"
+            "label": ["UP", "ACSA"],
+            "station_id": "FAUP_APP"
           },
           {
             "label": ["FAPM", "TWR"],
@@ -297,8 +298,8 @@
             "label": []
           },
           {
-            "label": ["KM", "GMC"],
-            "station_id": "FAKM_GMC"
+            "label": ["KM", "ACSA"],
+            "station_id": "FAKM_TWR"
           },
           {
             "label": ["KM", "TWR"],

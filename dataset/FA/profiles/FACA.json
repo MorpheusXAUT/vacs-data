@@ -183,12 +183,10 @@
             "label": []
           },
           {
-            "label": ["FAOB", "TWR"],
-            "station_id": "FAOB_TWR"
+            "label": []
           },
           {
-            "label": ["FAOB", "GMC"],
-            "station_id": "FAOB_GMC"
+            "label": []
           },
           {
             "label": []
@@ -209,12 +207,10 @@
             "label": []
           },
           {
-            "label": ["FAHS", "GMC"],
-            "station_id": "FAHS_GMC"
+            "label": []
           },
           {
-            "label": ["FDMS", "GMC"],
-            "station_id": "FDMS_GMC"
+            "label": []
           },
           {
             "label": []

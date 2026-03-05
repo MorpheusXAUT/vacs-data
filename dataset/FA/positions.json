@@ -321,6 +321,13 @@
       "profile_id": "FAEL"
     },
     {
+      "id": "FAEL_I_TWR",
+      "prefixes": ["FAEL"],
+      "frequency": "125.200",
+      "facility_type": "TWR",
+      "profile_id": "FAEL"
+    },
+    {
       "id": "FAGG_APP",
       "prefixes": ["FAGG"],
       "frequency": "128.200",
@@ -383,6 +390,153 @@
       "prefixes": ["FAWK"],
       "frequency": "121.850",
       "facility_type": "GND"
+    },
+    {
+      "id": "FAKM_APP",
+      "prefixes": ["FAKM"],
+      "frequency": "119.400",
+      "facility_type": "APP",
+      "profile_id": "FAKM"
+    },
+    {
+      "id": "FAKM_TWR",
+      "prefixes": ["FAKM"],
+      "frequency": "118.200",
+      "facility_type": "TWR",
+      "profile_id": "FAKM"
+    },
+    {
+      "id": "FYWH_CTR",
+      "prefixes": ["FYWH"],
+      "frequency": "120.500",
+      "facility_type": "CTR",
+      "profile_id": "FYWH"
+    },
+    {
+      "id": "FBGR_CTR",
+      "prefixes": ["FBGR"],
+      "frequency": "126.100",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "FVHF_CTR",
+      "prefixes": ["FVHF"],
+      "frequency": "131.500",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "FQMA_CTR",
+      "prefixes": ["FQMA"],
+      "frequency": "127.300",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "FQMA_APP",
+      "prefixes": ["FQMA"],
+      "frequency": "121.300",
+      "facility_type": "APP"
+    },
+    {
+      "id": "FDSK_APP",
+      "prefixes": ["FDSK"],
+      "frequency": "128.000",
+      "facility_type": "APP"
+    },
+    {
+      "id": "FXMM_APP",
+      "prefixes": ["FXMM"],
+      "frequency": "120.700",
+      "facility_type": "APP"
+    },
+    {
+      "id": "FXMM_TWR",
+      "prefixes": ["FXMM"],
+      "frequency": "118.500",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "FXMM_GMC",
+      "prefixes": ["FXMM"],
+      "frequency": "121.700",
+      "facility_type": "GND"
+    },
+    {
+      "id": "FAMM_TWR",
+      "prefixes": ["FAMM"],
+      "frequency": "119.300",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "FALM_APP",
+      "prefixes": ["FALM"],
+      "frequency": "121.200",
+      "facility_type": "APP"
+    },
+    {
+      "id": "FALM_TWR",
+      "prefixes": ["FALM"],
+      "frequency": "119.800",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "FALM_GND",
+      "prefixes": ["FALM"],
+      "frequency": "121.750",
+      "facility_type": "GND"
+    },
+    {
+      "id": "FBSK_APP",
+      "prefixes": ["FBSK"],
+      "frequency": "128.200",
+      "facility_type": "APP"
+    },
+    {
+      "id": "FAUP_APP",
+      "prefixes": ["FAUP"],
+      "frequency": "121.300",
+      "facility_type": "APP"
+    },
+    {
+      "id": "FAUP_TWR",
+      "prefixes": ["FAUP"],
+      "frequency": "121.300",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "FAPM_TWR",
+      "prefixes": ["FAPM"],
+      "frequency": "122.000",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "FARB_TWR",
+      "prefixes": ["FARB"],
+      "frequency": "118.900",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "FALW_APP",
+      "prefixes": ["FALW"],
+      "frequency": "122.500",
+      "facility_type": "APP"
+    },
+    {
+      "id": "FALW_TWR",
+      "prefixes": ["FALW"],
+      "frequency": "128.800",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "FALW_GND",
+      "prefixes": ["FALW"],
+      "frequency": "121.750",
+      "facility_type": "GND"
+    },
+    {
+      "id": "FAOB_APP",
+      "prefixes": ["FAOB"],
+      "frequency": "119.800",
+      "facility_type": "APP"
     }
   ]
 }
