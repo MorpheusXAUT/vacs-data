@@ -125,7 +125,6 @@
         "rows": 4,
         "keys": [
           {
-<<<<<<< HEAD
             "label": ["BR-W", "APP"],
             "station_id": "ENBR_W_APP"
           },
@@ -144,27 +143,11 @@
           {
             "label": ["BR-E", "APP"],
             "station_id": "ENBR_E_APP"
-=======
-            "label": ["BR-W", "APP"]
-          },
-          {
-            "label": ["BR", "DIR"]
-          },
-          {
-            "label": ["BR", "TWR"]
-          },
-          {
-            "label": ["BR", "GND"]
-          },
-          {
-            "label": ["BR-E", "APP"]
->>>>>>> origin/main
           },
           {
             "label": []
           },
           {
-<<<<<<< HEAD
             "label": ["BR", "PLN", ""],
             "station_id": "ENBR_P_GND"
           },
@@ -203,36 +186,6 @@
           {
             "label": ["MØRE SOUTH", "APP"],
             "station_id": "ENAL_APP"
-=======
-            "label": ["BR", "PLN", ""]
-          },
-          {
-            "label": ["BR", "DEL"]
-          },
-          {
-            "label": ["ZV", "APP"]
-          },
-          {
-            "label": ["ZV", "TWR"]
-          },
-          {
-            "label": ["ZV", "GND"]
-          },
-          {
-            "label": ["ZV", "ARR"]
-          },
-          {
-            "label": ["HD", "TWR"]
-          },
-          {
-            "label": ["CN", "APP"]
-          },
-          {
-            "label": ["FARRIS", "APP"]
-          },
-          {
-            "label": ["MØRE", "APP"]
->>>>>>> origin/main
           },
           {
             "label": []
@@ -255,7 +208,6 @@
         "rows": 5,
         "keys": [
           {
-<<<<<<< HEAD
             "label": ["FL", "AFIS"],
             "station_id": "ENFL_I_TWR"
           },
@@ -274,21 +226,6 @@
           {
             "label": ["SO", "AFIS"],
             "station_id": "ENSO_I_TWR"
-=======
-            "label": ["FL", "AFIS"]
-          },
-          {
-            "label": ["SD", "AFIS"]
-          },
-          {
-            "label": ["SG", "AFIS"]
-          },
-          {
-            "label": ["BL", "AFIS"]
-          },
-          {
-            "label": ["SO", "AFIS"]
->>>>>>> origin/main
           },
           {
             "label": []
@@ -303,7 +240,6 @@
             "label": []
           },
           {
-<<<<<<< HEAD
             "label": ["OV", "AFIS"],
             "station_id": "ENOV_I_TWR"
           },
@@ -323,15 +259,6 @@
           },
           {
             "label": []
-=======
-            "label": ["EKOFISK", "HFIS"]
-          },
-          {
-            "label": ["TAMPEN", "HFIS"]
-          },
-          {
-            "label": ["OV", "AFIS"]
->>>>>>> origin/main
           }
         ]
       }
