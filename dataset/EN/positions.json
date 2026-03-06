@@ -727,7 +727,7 @@
       "id": "ENVA_APP",
       "prefixes": ["ENVA"],
       "frequency": "118.605",
-      "facility_type": "APP"
+      "facility_type": "APP",
 	  "profile_id": "ENVA-APP"
     },
     {
