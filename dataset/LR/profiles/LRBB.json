@@ -146,19 +146,11 @@
         "rows": 7,
         "keys": [
           {
-            "label": [
-              "BUDMO_LOKOM",
-              "TOP",
-              "F365-660"
-            ],
+            "label": ["BUDMO_LOKOM", "TOP", "F365-660"],
             "station_id": "LR_BUDMO3"
           },
           {
-            "label": [
-              "BUDMO_LOKOM",
-              "UPP",
-              "F345-365"
-            ],
+            "label": ["BUDMO_LOKOM", "UPP", "F345-365"],
             "station_id": "LR_BUDMO2"
           },
           {
@@ -210,19 +202,11 @@
             "station_id": "LRCV_TWR"
           },
           {
-            "label": [
-              "NEBAC_DINAR",
-              "TOP",
-              "F365-660"
-            ],
+            "label": ["NEBAC_DINAR", "TOP", "F365-660"],
             "station_id": "LR_DINAR3"
           },
           {
-            "label": [
-              "NEBAC_DINAR",
-              "TOP",
-              "F365-660"
-            ],
+            "label": ["NEBAC_DINAR", "TOP", "F365-660"],
             "station_id": "LR_DINAR2"
           },
           {
