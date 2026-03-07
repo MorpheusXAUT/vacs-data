@@ -161,3 +161,7 @@ controlled_by = ["LRBB_I_CTR"]
 [[stations]]
 id = "LRFT_TWR"
 controlled_by = ["LRFT_TWR"]
+
+[[stations]]
+id = "LRTC_TWR"
+controlled_by = ["LRTC_TWR "LRBB_E_CTR", "LRBB_CTR"]
