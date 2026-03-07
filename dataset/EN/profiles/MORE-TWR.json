@@ -27,11 +27,7 @@
           },
           {
             "label": ["KB", "TWR"],
-            "station_id": "ENKB_TWR",
-            "page": {
-              "rows": 4,
-              "keys": []
-            }
+            "station_id": "ENKB_TWR"
           },
           {
             "label": ["ML", "AFIS"],
