@@ -123,12 +123,12 @@
             "label": [""]
           },
           {
-            "label": ["EDYY", "JL"],
-            "station_id": "EDYY-JL"
-          },
-          {
             "label": ["EDYY", "JH"],
             "station_id": "EDYY-JH"
+          },
+          {
+            "label": ["EDYY", "JL"],
+            "station_id": "EDYY-JL"
           },
           {
             "label": [""]
