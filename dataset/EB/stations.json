@@ -248,9 +248,8 @@
 	  "parent_id": "EBBU-LUS"
     },
 	{
-      "id": "EDGG-GN",
-      "controlled_by": ["EDGG_N_CTR"],
-      "parent_id": "EDGG-GNH"
+      "id": "EBBU-FIS",
+      "controlled_by": ["EBBU_I_CTR"]
     }
   ]
 }
