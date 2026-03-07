@@ -375,7 +375,7 @@
       "id": "EDDL_DEP",
       "prefixes": ["EDDL"],
       "frequency": "121.355",
-      "facility_type": "APP",
+      "facility_type": "DEP",
       "profile_id": "EDGG_EBG1"
     },
     {
@@ -452,14 +452,14 @@
       "id": "EDDF_N_DEP",
       "prefixes": ["EDDF"],
       "frequency": "120.155",
-      "facility_type": "APP",
+      "facility_type": "DEP",
       "profile_id": "EDGG_DFAN"
     },
     {
       "id": "EDDF_S_DEP",
       "prefixes": ["EDDF"],
       "frequency": "136.130",
-      "facility_type": "APP",
+      "facility_type": "DEP",
       "profile_id": "EDGG_DFAN"
     },
     {
