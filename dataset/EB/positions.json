@@ -183,6 +183,13 @@
       "profile_id": "EBBU_CTR"
     },
 	{
+      "id": "EBBU_I_CTR",
+      "prefixes": ["EBBU"],
+      "frequency": "126.900",
+      "facility_type": "CTR",
+      "profile_id": "EBBU_FIS"
+    },
+	{
       "id": "EDYY_K_CTR",
       "prefixes": ["EDYY"],
       "frequency": "132.205",
