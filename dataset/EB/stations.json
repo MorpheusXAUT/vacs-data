@@ -118,8 +118,6 @@
       "id": "EBOS-APP",
       "controlled_by": [ "EBOS_APP" ],
 	  "parent_id": "EBBU-WLS"
-
-	  ]
     },
 	{
       "id": "EBOS-TWR",
