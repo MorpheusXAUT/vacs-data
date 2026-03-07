@@ -231,7 +231,7 @@
             "station_id": "EBBR-S-GND"
           },
           {
-            "label": ["Other", "Airports"]
+            "label": ["Other", "Airports"],
 			"page": {
 			  "rows":2,
 			  "keys":[
