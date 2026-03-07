@@ -194,19 +194,11 @@
             "label": []
           },
           {
-            "label": ["EGPD", "HELS"]
+            "label": []
           },
           {
-            "label": ["EGPB", "APP"]
-          }
-        ]
-      }
-    },
-    {
-      "label": ["AFIS"],
-      "page": {
-        "rows": 5,
-        "keys": [
+            "label": []
+          },
           {
             "label": ["FL", "AFIS"],
             "station_id": "ENFL_I_TWR"
@@ -228,18 +220,6 @@
             "station_id": "ENSO_I_TWR"
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
             "label": ["OV", "AFIS"],
             "station_id": "ENOV_I_TWR"
           },
@@ -258,7 +238,10 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EGPD", "HELS"]
+          },
+          {
+            "label": ["EGPB", "APP"]
           }
         ]
       }
