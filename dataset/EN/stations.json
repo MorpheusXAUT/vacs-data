@@ -50,10 +50,7 @@
     },
     {
       "id": "ENAS_I_TWR",
-      "controlled_by": [
-        "ENAS_I_TWR",
-        "ENOB_CTR"
-      ]
+      "controlled_by": ["ENAS_I_TWR", "ENOB_CTR"]
     },
     {
       "id": "ENAT_APP",
@@ -89,46 +86,23 @@
     },
     {
       "id": "ENBD-23",
-      "controlled_by": [
-        "ENBD_O_CTR",
-        "ENBD_C_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENBD_O_CTR", "ENBD_C_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENBD-24/27",
-      "controlled_by": [
-        "ENBD_C_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENBD_C_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENBD-25",
-      "controlled_by": [
-        "ENBD_N_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENBD_N_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENBD-26",
-      "controlled_by": [
-        "ENBD_E_CTR",
-        "ENBD_N_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENBD_E_CTR", "ENBD_N_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENBD-HELGELAND",
-      "controlled_by": [
-        "ENBN_APP",
-        "ENBD_C_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENBN_APP", "ENBD_C_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENBL_I_TWR",
@@ -177,9 +151,7 @@
     },
     {
       "id": "ENBR_D_APP",
-      "controlled_by": [
-        "ENBR_D_APP"
-      ]
+      "controlled_by": ["ENBR_D_APP"]
     },
     {
       "id": "ENBR_E_APP",
@@ -834,9 +806,7 @@
     },
     {
       "id": "ENOB",
-      "controlled_by": [
-        "ENOB_CTR"
-      ]
+      "controlled_by": ["ENOB_CTR"]
     },
     {
       "id": "ENOL_APP",
@@ -1057,10 +1027,7 @@
     },
     {
       "id": "ENSB_I_TWR",
-      "controlled_by": [
-        "ENSB_I_TWR",
-        "ENOB_CTR"
-      ]
+      "controlled_by": ["ENSB_I_TWR", "ENOB_CTR"]
     },
     {
       "id": "ENSD_I_TWR",
@@ -1290,12 +1257,7 @@
     },
     {
       "id": "ENTC_APP",
-      "controlled_by": [
-        "ENTC_APP",
-        "ENBD_N_CTR",
-        "ENBD_CTR",
-        "ENOR_CTR"
-      ]
+      "controlled_by": ["ENTC_APP", "ENBD_N_CTR", "ENBD_CTR", "ENOR_CTR"]
     },
     {
       "id": "ENTC_TWR",
@@ -1393,9 +1355,7 @@
     },
     {
       "id": "ENVA_D_APP",
-      "controlled_by": [
-        "ENVA_D_APP"
-      ]
+      "controlled_by": ["ENVA_D_APP"]
     },
     {
       "id": "ENVA_TWR",
