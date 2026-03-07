@@ -1,0 +1,253 @@
+{
+  "id": "EBBU_TWR",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "EBOS",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["EBOS", "Approach"],
+            "station_id": "EBOS-APP"
+          },
+          {
+            "label": ["EBOS", "Tower"],
+            "station_id": "EBOS-TWR"
+          },
+          {
+            "label": ["EBOS", "Ground"],
+            "station_id": "EBOS-GND"
+          }
+        ]
+      }
+    },
+    {
+      "label": "EBKT",
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["EBBU", "WLS"],
+            "station_id": "EBBU-WLS"
+          },
+          {
+            "label": ["EBBU", "FIS"],
+            "station_id": "EBBU-FIS"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["EBBR", "Tower"],
+			"station_id": "EBBR-TWR"
+          }
+		  ,
+		  {
+            "label": ["EBOS", "Tower"],
+			"station_id": "EBOS-TWR"
+          },
+		  {
+            "label": ["EBCI", "Tower"],
+			"station_id": "EBCI-TWR"
+          },
+		  {
+            "label": ["EBAW", "Tower"],
+			"station_id": "EBAW-TWR"
+          }
+        ]
+      }
+    },
+	{
+      "label": "EBAW",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["EBBR", "Departure"],
+            "station_id": "EBBR-DEP"
+          },
+          {
+            "label": ["EBAW", "Tower"],
+            "station_id": "EBAW-TWR"
+          },
+          {
+            "label": ["EBAW", "Ground"],
+            "station_id": "EBAW-GND"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["EBBR", "N-Tower"]
+			"station_id": "EBBR-NTWR"
+          },
+		  {
+            "label": []
+          }
+        ]
+      }
+    },
+	{
+      "label": "EBCI",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["EBCI", "Approach"],
+            "station_id": "EBCI-APP"
+          },
+          {
+            "label": ["EBCI", "Tower"],
+            "station_id": "EBCI-TWR"
+          },
+          {
+            "label": ["EBCI", "Ground"],
+            "station_id": "EBCI-GND"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["EBBR", "Tower"]
+			"station_id": "EBBR-TWR"
+          },
+		  {
+            "label": ["EBKT", "Info"]
+			"station_id": "EBKT-INFO"
+          }
+        ]
+      }
+    },
+	{
+      "label": "EBLG",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["EBLG", "Approach"],
+            "station_id": "EBLG-APP"
+          },
+          {
+            "label": ["EBLG", "Tower"],
+            "station_id": "EBLG-TWR"
+          },
+          {
+            "label": ["EBLG", "Ground"],
+            "station_id": "EBLG-GND"
+          }
+        ]
+      }
+    },
+	{
+      "label": "ELLX",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["ELLX", "Radar"],
+            "station_id": "ELLX-APP"
+          },
+          {
+            "label": ["ELLX", "Tower"],
+            "station_id": "ELLX-TWR"
+          },
+          {
+            "label": ["ELLX", "Delivery"],
+            "station_id": "ELLX-DEL"
+          },
+          {
+            "label": ["ELLX", "Arrival"],
+            "station_id": "ELLX-FAPP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+	{
+      "label": "EBBR",
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["EBBR", "APP", "Arrival"],
+            "station_id": "EBBR-APP"
+          },
+          {
+            "label": ["EBBR", "North", "Tower"],
+            "station_id": "EBBR-NTWR"
+          },
+          {
+            "label": ["EBBR", "North", "Ground"],
+            "station_id": "EBBR-N-GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EBBR", "F-APP","Approach"],
+			"station_id": "EBBR-FAPP"
+          },
+          {
+            "label": ["EBBR", "Tower"],
+			"station_id": "EBBR_TWR"
+          },
+          {
+            "label": ["EBBR", "Central", "Ground"],
+            "station_id": "EBBR-C-GND"
+          },
+          {
+            "label": ["EBBR", "Delivery"],
+            "station_id": "EBBR-DEL"
+          },{
+            "label": ["EBBR", "DEP", "Departure"],
+            "station_id": "EBBR-DEP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EBBR", "South", "Ground"],
+            "station_id": "EBBR-S-GND"
+          },
+          {
+            "label": ["Other", "Airports"]
+			"page": {
+			  "rows":2,
+			  "keys":[
+			    {
+				  "label": ["EBAW", "Tower"],
+				  "station_id": "EBAW-TWR"
+			    },
+				{
+				  "label": ["EBCI", "Tower"],
+				  "station_id": "EBCI-TWR"
+				}
+			  ]
+			}
+          }
+        ]
+      }
+    }
+  ]
+}
