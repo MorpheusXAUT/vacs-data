@@ -124,11 +124,11 @@
             "label": []
           },
 		  {
-            "label": ["EBBR", "Tower"]
+            "label": ["EBBR", "Tower"],
 			"station_id": "EBBR-TWR"
           },
 		  {
-            "label": ["EBKT", "Info"]
+            "label": ["EBKT", "Info"],
 			"station_id": "EBKT-INFO"
           }
         ]
