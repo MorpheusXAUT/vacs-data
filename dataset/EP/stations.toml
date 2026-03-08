@@ -560,7 +560,6 @@ controlled_by = [
 [[stations]]
 id = "EPKK_DIR"
 controlled_by = [
-  "EPKK_TWR",
   "EPKK_KK_APP",
   "EPKK_E_APP",
   "EPKK_APP",

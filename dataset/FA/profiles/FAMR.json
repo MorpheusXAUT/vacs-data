@@ -1,23 +1,13 @@
 {
-  "id": "FAOR-RDR",
+  "id": "FAMR",
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "RDR",
+      "label": "FAMR",
       "page": {
         "rows": 10,
         "client_page": {
-          "include": [
-            "FAOR*",
-            "FAJA_*",
-            "FASA_*",
-            "FAGM*",
-            "FAGC*",
-            "FALA*",
-            "FAWK*",
-            "FASK*",
-            "FAWB*"
-          ],
+          "include": ["FAMR*", "FAJA*", "FASA*", "FAHS*", "FAKN*"],
           "exclude": ["FAJA_W*", "FAJA_E*", "FAJA_C*", "FAJA_S_*", "FAJA_IS*"],
           "priority": ["*_FMP", "*_APP", "*_TWR", "*_GND", "*_DEL", "*_CTR"],
           "frequencies": "HideAll",

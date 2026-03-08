@@ -3,7 +3,7 @@ resolver = "3"
 members = ["cli", "diagnostics", "importer", "validator"]
 
 [workspace.package]
-version = "0.4.0"
+version = "0.5.0"
 edition = "2024"
 license = "Apache-2.0 OR MIT"
 repository = "https://github.com/vacs-project/vacs-data"
@@ -23,5 +23,5 @@ tracing-subscriber = { version = "0.3.22", features = ["env-filter", "json"] }
 vacs-data-diagnostics = { path = "./diagnostics" }
 vacs-data-importer = { path = "./importer" }
 vacs-data-validator = { path = "./validator" }
-vacs-protocol = { git = "https://github.com/vacs-project/vacs", tag = "vacs-server-v2.0.0", default-features = false, features = ["vatsim"] }
-vacs-vatsim = { git = "https://github.com/vacs-project/vacs", tag = "vacs-server-v2.0.0", default-features = false, features = ["coverage"] }
+vacs-protocol = { git = "https://github.com/vacs-project/vacs", branch = "main", default-features = false, features = ["vatsim"] }
+vacs-vatsim = { git = "https://github.com/vacs-project/vacs", branch = "main", default-features = false, features = ["coverage"] }
