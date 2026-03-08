@@ -132,10 +132,12 @@
             "label": []
           },
           {
-            "label": ["ENOR", "SEC 26"]
+            "label": ["ENOR", "SEC 26"],
+            "station_id": "ENBD-26"
           },
           {
-            "label": ["ENKR", "APP"]
+            "label": ["ENKR", "APP"],
+            "station_id": "ENKR_APP"
           },
           {
             "label": ["ULLL", "West"]
