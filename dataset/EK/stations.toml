@@ -376,21 +376,11 @@ controlled_by = [
 
 [[stations]]
 id = "EKDKUV"
-controlled_by = [
-"EKDK_UV_CTR",
-"EKDK_V_CTR",
-"EKDK_N_CTR",
-"EKDK_CTR",
-]
+controlled_by = ["EKDK_UV_CTR", "EKDK_V_CTR", "EKDK_N_CTR", "EKDK_CTR"]
 
 [[stations]]
 id = "EKDKV"
-controlled_by = [
-  "EKDK_V_CTR",
-  "EKDK_N_CTR",
-  "EKDK_CTR",
-  "EKDK_UV_CTR",
-  ]
+controlled_by = ["EKDK_V_CTR", "EKDK_N_CTR", "EKDK_CTR", "EKDK_UV_CTR"]
 
 [[stations]]
 id = "EKEBTIZ"
