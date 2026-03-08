@@ -34,6 +34,9 @@ jobs:
           filters: |
             dataset:
               - "dataset/**"
+              - "tools/**/*.rs"
+              - "tools/**/Cargo.toml"
+              - "tools/**/Cargo.lock"
               - ".github/workflows/ci-dataset.yml"
               - ".github/workflows/ci-gate.yml"
             rust:
