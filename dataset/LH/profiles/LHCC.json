@@ -68,7 +68,7 @@
             "label": ["LOWG", "APP", "PC"]
           },
           {
-            "label" : []
+            "label": []
           },
           {
             "label": ["LOVV S5", "385-USB", "EC"]
@@ -89,7 +89,7 @@
             "label": ["LOWG", "APP", "EC"]
           },
           {
-            "label" : []
+            "label": []
           },
           {
             "label": ["LOVV FIC", "NORTH", "PC"]
@@ -540,7 +540,6 @@
           {
             "label": ["LJLA", "CFDU"]
           }
-          
         ]
       }
     },
@@ -675,7 +674,6 @@
           {
             "label": ["ATC SV1"]
           }
-          
         ]
       }
     },
