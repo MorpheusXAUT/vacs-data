@@ -225,7 +225,35 @@
             "station_id": "LRTC_TWR"
           },
           {
+            "label": ["TWR", "CONST"],
+            "station_id": "LRCK_TWR"
+          },
+          {
             "label": []
+          },
+          {
+            "label": ["TWR", "CLUJ"],
+            "station_id": "LRCL_TWR"
+          },
+          {
+            "label": ["TWR", "MURES"],
+            "station_id": "LRTM_TWR"
+          },
+          {
+            "label": ["TWR", "SIBIU"],
+            "station_id": "LRSB_TWR"
+          },
+          {
+            "label": ["TWR", "CHISINAU"],
+            "station_id": "LUKK_TWR"
+          },
+          {
+            "label": ["GND", "CHISINAU"],
+            "station_id": "LUKK_GND"
+          },
+          {
+            "label": ["TWR", "MARCU"],
+            "station_id": "LUBM_TWR"
           },
           {
             "label": ["ACC", "MOLDO"],
@@ -272,7 +300,7 @@
             "station_id": "LROP_F_APP"
           },
           {
-            "label": ["APP", "CONSTANTA"],
+            "label": ["APP", "CONST"],
             "station_id": "LRCK_APP"
           },
           {
