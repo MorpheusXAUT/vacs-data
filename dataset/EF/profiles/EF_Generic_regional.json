@@ -32,7 +32,7 @@
             "station_id": "EFIN_E"
           },
           {
-            "label": ["EFIN", "SEC F", ""],
+            "label": ["EFIN", "SEC F"],
             "station_id": "EFIN_F"
           },
           {
@@ -332,9 +332,6 @@
             "station_id": "EFMA_TWR"
           },
           {
-            "label": ["", ""]
-          },
-          {
             "label": []
           },
           {
@@ -347,7 +344,10 @@
             "label": []
           },
           {
-            "label": ["", ""]
+            "label": []
+          },
+          {
+            "label": []
           }
         ]
       }
@@ -436,7 +436,7 @@
             "station_id": "EFHA_TWR"
           },
           {
-            "label": ["", "EFPO", "TWR"],
+            "label": ["EFPO", "TWR"],
             "station_id": "EFPO_TWR"
           },
           {
