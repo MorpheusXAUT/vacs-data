@@ -122,7 +122,8 @@
             "station_id": "EFHK_GND"
           },
           {
-            "label": ["DEICE"]
+            "label": ["DEICE"],
+            "station_id": "EFHK_DEICE_CO"
           },
           {
             "label": []
