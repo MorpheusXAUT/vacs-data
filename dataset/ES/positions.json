@@ -635,28 +635,28 @@
       "prefixes": ["ESPA"],
       "frequency": "125.450",
       "facility_type": "APP",
-      "profile_id": "ESOS_AD_NORTH"
+      "profile_id": "ESPA"
     },
     {
       "id": "ESPA_F_APP",
       "prefixes": ["ESPA"],
       "frequency": "130.800",
       "facility_type": "APP",
-      "profile_id": "ESOS_AD_NORTH"
+      "profile_id": "ESPA"
     },
     {
       "id": "ESPA_P_APP",
       "prefixes": ["ESPA"],
       "frequency": "119.000",
       "facility_type": "APP",
-      "profile_id": "ESOS_AD_NORTH"
+      "profile_id": "ESPA"
     },
     {
       "id": "ESPA_TWR",
       "prefixes": ["ESPA"],
       "frequency": "128.200",
       "facility_type": "TWR",
-      "profile_id": "ESOS_AD_NORTH"
+      "profile_id": "ESPA"
     },
     {
       "id": "ESPE_APP",
