@@ -187,10 +187,6 @@
             "station_id": "EFRO_COR"
           },
           {
-            "label": ["EFTP", "COR"],
-            "station_id": "EFTP_COR"
-          },
-          {
             "label": ["EFKU", "COR"],
             "station_id": "EFKU_COR"
           },
@@ -209,12 +205,11 @@
             "label": []
           },
           {
-            "label": ["EFRO", "ARR"],
-            "station_id": "EFRO_ARR"
+            "label": []
           },
           {
-            "label": ["EFTP", "ARR"],
-            "station_id": "EFTP_ARR"
+            "label": ["EFRO", "ARR"],
+            "station_id": "EFRO_ARR"
           },
           {
             "label": ["EFKU", "ARR"],
@@ -227,6 +222,9 @@
           {
             "label": ["EFJY", "ARR"],
             "station_id": "EFJY_ARR"
+          },
+          {
+            "label": []
           },
           {
             "label": []
