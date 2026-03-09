@@ -63,6 +63,10 @@
       "parent_id": "ESOS_9"
     },
     {
+      "id": "ESDF_DIR",
+      "controlled_by": ["ESDF_F_APP"]
+    },
+    {
       "id": "ESDF_GND",
       "controlled_by": ["ESDF_GND", "ESDF_TWR", "ESDF_APP", "ESSR_CTR"],
       "parent_id": "ESOS_9"
@@ -206,6 +210,10 @@
     {
       "id": "ESIB_PAR",
       "controlled_by": ["ESIB_P_APP"]
+    },
+    {
+      "id": "ESIB_DIR",
+      "controlled_by": ["ESIB_F_APP"]
     },
     {
       "id": "ESIB_TWR",
