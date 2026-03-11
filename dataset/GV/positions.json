@@ -1,6 +1,13 @@
 {
   "positions": [
     {
+      "id": "GVSC_FMP",
+      "prefixes": ["GVSC"],
+      "frequency": "199.998",
+      "facility_type": "FMP",
+      "profile_id": "GVSC"
+    },
+    {
       "id": "GVSC_CTR",
       "prefixes": ["GVSC"],
       "frequency": "127.100",
@@ -8,7 +15,7 @@
       "profile_id": "GVSC"
     },
     {
-      "id": "GVSC_APP",
+      "id": "GVAC_APP",
       "prefixes": ["GVSC"],
       "frequency": "127.100",
       "facility_type": "APP",
