@@ -10,11 +10,6 @@
             "controlled_by": ["GVSC_CTR"]
         },
         {
-            "id": "GVSC_APP",
-            "parent_id": "GVSC_U_APP",
-            "controlled_by": ["GVSC_APP"]
-        },
-        {
             "id": "GVAC_APP",
             "parent_id": "GVSC_U_APP",
             "controlled_by": ["GVAC_APP"]
