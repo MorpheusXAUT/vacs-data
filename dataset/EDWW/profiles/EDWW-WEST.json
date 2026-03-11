@@ -432,7 +432,7 @@
                 },
                 {
                   "label": ["EKDK", "N", "+365"],
-                  "station_id": "EKDKN"
+                  "station_id": "EKDKUN"
                 },
                 {
                   "label": ["EKDK", "N", "-365"],

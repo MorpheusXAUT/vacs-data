@@ -44,7 +44,7 @@
           },
           {
             "label": ["MM", "XL"],
-            "station_id": "ESMS_XL"
+            "station_id": "ESMM_XL"
           },
           {
             "label": []
@@ -224,10 +224,12 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["ENOS", "4"]
+            "label": ["EKCH", "DEP-R"],
+            "station_id": "EKCHDEPR"
           },
           {
-            "label": ["ENOS", "FARRIS", "APP"]
+            "label": ["EKCH", "APP-W"],
+            "station_id": "EKCHAPPW"
           },
           {
             "label": []
@@ -245,10 +247,12 @@
             "station_id": "EKDKA"
           },
           {
-            "label": ["ENOS", "3"]
+            "label": ["EKCH", "APP-CO", ""],
+            "station_id": "EKCHAPPCO"
           },
           {
-            "label": ["ENOS", "OSLO", "APP"]
+            "label": ["EKCH", "FIN"],
+            "station_id": "EKCHFIN"
           },
           {
             "label": []
@@ -266,10 +270,12 @@
             "station_id": "EKDKB"
           },
           {
-            "label": ["ENOS", "2"]
+            "label": ["EKCH", "DEP-K"],
+            "station_id": "EKCHDEPK"
           },
           {
-            "label": []
+            "label": ["EKCH", "APP-O"],
+            "station_id": "EKCHAPPE"
           },
           {
             "label": []
@@ -287,14 +293,6 @@
             "station_id": "EKDKI"
           },
           {
-            "label": ["EKCH", "DEP-R"],
-            "station_id": "EKCHDEPR"
-          },
-          {
-            "label": ["EKCH", "APP-W"],
-            "station_id": "EKCHAPPW"
-          },
-          {
             "label": []
           },
           {
@@ -307,12 +305,16 @@
             "label": []
           },
           {
-            "label": ["EKCH", "APP-CO", ""],
-            "station_id": "EKCHAPPCO"
+            "label": []
           },
           {
-            "label": ["EKCH", "FIN"],
-            "station_id": "EKCHFIN"
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
           },
           {
             "label": []
@@ -330,12 +332,7 @@
             "station_id": "EDWW-MRZ"
           },
           {
-            "label": ["EKCH", "DEP-K"],
-            "station_id": "EKCHDEPK"
-          },
-          {
-            "label": ["EKCH", "APP-O"],
-            "station_id": "EKCHAPPE"
+            "label": []
           },
           {
             "label": []
@@ -345,6 +342,10 @@
           },
           {
             "label": []
+          },
+          {
+            "label": ["EPWW", "FMP"],
+            "station_id": "EPWW_FMP"
           },
           {
             "label": ["EPWW", "B", "LOW"],

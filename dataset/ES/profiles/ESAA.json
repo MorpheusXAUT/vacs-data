@@ -189,7 +189,7 @@
           },
           {
             "label": ["MM", "XL"],
-            "station_id": "ESMS_XL"
+            "station_id": "ESMM_XL"
           },
           {
             "label": ["GT", "TWR"],
@@ -476,62 +476,75 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["ENBD", "27"]
+            "label": ["ENBD", "25"],
+            "station_id": "ENBD-25"
           },
           {
-            "label": ["ENBD", "24"]
+            "label": ["ENBD", "24/27"],
+            "station_id": "ENBD-24/27"
           },
           {
-            "label": ["ENBD", "19"]
+            "label": ["ENBD", "19"],
+            "station_id": "ENBD-19"
           },
           {
-            "label": ["ENOS", "1"]
+            "label": ["ENOS", "1"],
+            "station_id": "ENOS-1"
           },
           {
-            "label": ["ENOS", "2"]
+            "label": ["ENOS", "2"],
+            "station_id": "ENOS-2"
           },
           {
-            "label": ["ENOS", "3"]
+            "label": ["ENOS", "3"],
+            "station_id": "ENOS-3"
           },
           {
-            "label": ["ENBD", "25"]
+            "label": ["ENBD", "26"],
+            "station_id": "ENBD-26"
           },
           {
-            "label": ["ENBO", "APP", ""]
+            "label": ["ENBO", "APP", ""],
+            "station_id": "ENBO_APP"
           },
           {
-            "label": ["ENBD", "HELGELAND", "APP"]
+            "label": ["ENBD", "HELGELAND", "APP"],
+            "station_id": "ENBD-HELGELAND"
           },
           {
-            "label": ["ENVA", "APP"]
+            "label": ["ENVA", "APP"],
+            "station_id": "ENVA_APP"
           },
           {
-            "label": ["ENRO", "AFIS"]
+            "label": ["ENRO", "AFIS"],
+            "station_id": "ENRO_I_TWR"
           },
           {
-            "label": ["ENOS", "OSLO", "APP-E"]
-          },
-          {
-            "label": ["ENBD", "26"]
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
+            "label": ["ENOS", "OSLO", "APP-E"],
+            "station_id": "ENGM_E_APP"
           },
           {
             "label": ["EFIN", "J"],
             "station_id": "EFIN_J"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EFIN", "H"],
+            "station_id": "EFIN_H"
           },
           {
             "label": ["EFET", "AFIS"],
@@ -551,8 +564,8 @@
             "label": []
           },
           {
-            "label": ["EFIN", "H"],
-            "station_id": "EFIN_H"
+            "label": ["EFIN", "V"],
+            "station_id": "EFIN_V"
           },
           {
             "label": ["EFRO", "RAD", ""],
@@ -573,8 +586,8 @@
             "label": []
           },
           {
-            "label": ["EFIN", "V"],
-            "station_id": "EFIN_V"
+            "label": ["EFIN", "G"],
+            "station_id": "EFIN_G"
           },
           {
             "label": ["EFOU", "RAD"],
@@ -594,8 +607,8 @@
             "label": []
           },
           {
-            "label": ["EFIN", "G"],
-            "station_id": "EFIN_G"
+            "label": ["EFIN", "F"],
+            "station_id": "EFIN_F"
           },
           {
             "label": ["EFMA", "TWR"],
@@ -605,18 +618,15 @@
             "label": []
           },
           {
-            "label": []
-          },
-          {
             "label": ["EETT", "FIS"],
             "station_id": "EETT_W_FIS"
           },
           {
-            "label": ["EVRR", "FIS"]
+            "label": []
           },
           {
-            "label": ["EFIN", "F"],
-            "station_id": "EFIN_F"
+            "label": ["EVRR", "FIS"],
+            "station_id": "EVRR_FIS"
           },
           {
             "label": ["EFIN", "D"],
@@ -635,7 +645,12 @@
             "station_id": "EETT_W"
           },
           {
-            "label": ["EVRR N"]
+            "label": ["EVRR", "N"],
+            "station_id": "EVRR_N"
+          },
+          {
+            "label": ["EVRR", "S"],
+            "station_id": "EVRR_S"
           }
         ]
       }
@@ -646,10 +661,12 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["ENOS", "4"]
+            "label": ["ENOS", "4"],
+            "station_id": "ENOS-4"
           },
           {
-            "label": ["ENOS", "FARRIS", "APP"]
+            "label": ["ENOS", "FARRIS", "APP"],
+            "station_id": "ENTO_APP"
           },
           {
             "label": []
@@ -667,10 +684,12 @@
             "station_id": "EKDKUA"
           },
           {
-            "label": ["ENOS", "3"]
+            "label": ["ENOS", "3"],
+            "station_id": "ENOS-3"
           },
           {
-            "label": ["ENOS", "OSLO", "APP"]
+            "label": ["ENOS", "OSLO", "APP-E"],
+            "station_id": "ENGM_E_APP"
           },
           {
             "label": []
@@ -688,7 +707,8 @@
             "station_id": "EKDKA"
           },
           {
-            "label": ["ENOS", "2"]
+            "label": ["ENOS", "2"],
+            "station_id": "ENOS-2"
           },
           {
             "label": []
@@ -831,10 +851,11 @@
             "station_id": "EETT_FMP"
           },
           {
-            "label": ["EVRR", "FIS"]
+            "label": []
           },
           {
-            "label": []
+            "label": ["EPWW", "FMP"],
+            "station_id": "EPWW_FMP"
           },
           {
             "label": ["EPWW", "B HIGH"],
@@ -853,7 +874,8 @@
             "station_id": "EETT_W_FIS"
           },
           {
-            "label": ["EVRR N"]
+            "label": ["EVRR", "FIS"],
+            "station_id": "EVRR_FIS"
           },
           {
             "label": []
@@ -874,14 +896,16 @@
             "station_id": "EETT_W"
           },
           {
-            "label": ["EVRR S"]
+            "label": ["EVRR", "N"],
+            "station_id": "EVRR_N"
+          },
+          {
+            "label": ["EVRR", "S"],
+            "station_id": "EVRR_S"
           },
           {
             "label": ["EYVL", "L"],
             "station_id": "EYVL-L"
-          },
-          {
-            "label": []
           },
           {
             "label": []
@@ -943,17 +967,6 @@
             "station_id": "ESPE_TWR"
           }
         ]
-      }
-    },
-    {
-      "label": ["OTHER"],
-      "page": {
-        "rows": 6,
-        "client_page": {
-          "include": ["EN*", "EVRR*"],
-          "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP"]
-        }
       }
     }
   ]

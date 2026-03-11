@@ -63,6 +63,10 @@
       "parent_id": "ESOS_9"
     },
     {
+      "id": "ESDF_DIR",
+      "controlled_by": ["ESDF_F_APP"]
+    },
+    {
       "id": "ESDF_GND",
       "controlled_by": ["ESDF_GND", "ESDF_TWR", "ESDF_APP", "ESSR_CTR"],
       "parent_id": "ESOS_9"
@@ -208,6 +212,10 @@
       "controlled_by": ["ESIB_P_APP"]
     },
     {
+      "id": "ESIB_DIR",
+      "controlled_by": ["ESIB_F_APP"]
+    },
+    {
       "id": "ESIB_TWR",
       "controlled_by": [
         "ESIB_TWR",
@@ -349,7 +357,7 @@
       "controlled_by": ["ESMM_XK_CTR"]
     },
     {
-      "id": "ESMS_XL",
+      "id": "ESMM_XL",
       "controlled_by": ["ESMS_XL_APP"]
     },
     {

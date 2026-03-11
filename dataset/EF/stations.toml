@@ -134,11 +134,11 @@ controlled_by = ["EFHK_A_APP"]
 
 [[stations]]
 id = "EFHK_TWE"
-controlled_by = ["EFHK_E_TWR"]
+controlled_by = ["EFHK_E_TWR", "EFHK_W_TWR"]
 
 [[stations]]
 id = "EFHK_TWW"
-controlled_by = ["EFHK_W_TWR"]
+controlled_by = ["EFHK_W_TWR", "EFHK_E_TWR"]
 
 [[stations]]
 id = "EFHK_GND"
