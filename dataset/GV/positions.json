@@ -1,88 +1,88 @@
 {
-    "positions": [
-        {
-            "id": "GVSC_CTR",
-            "prefixes": ["GVSC"],
-            "frequency": "127.100",
-            "facility_type": "CTR",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVSC_APP",
-            "prefixes": ["GVSC"],
-            "frequency": "127.100",
-            "facility_type": "APP",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVSC_DEL",
-            "prefixes": ["GVSC"],
-            "frequency": "122.100",
-            "facility_type": "DEL",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVSC_U_APP",
-            "prefixes": ["GVSC"],
-            "frequency": "128.300",
-            "facility_type": "APP",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVAC_TWR",
-            "prefixes": ["GVAC"],
-            "frequency": "119.700",
-            "facility_type": "TWR",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVAC_0_GND",
-            "prefixes": ["GVAC"],
-            "frequency": "122.650",
-            "facility_type": "GND",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVBA_TWR",
-            "prefixes": ["GVBA"],
-            "frequency": "118.900",
-            "facility_type": "TWR",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVMA_I_TWR",
-            "prefixes": ["GVMA"],
-            "frequency": "118.500",
-            "facility_type": "TWR",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVNP_TWR",
-            "prefixes": ["GVNP"],
-            "frequency": "118.200",
-            "facility_type": "TWR",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVSF_I_TWR",
-            "prefixes": ["GVSF"],
-            "frequency": "118.600",
-            "facility_type": "TWR",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVSN_I_TWR",
-            "prefixes": ["GVSN"],
-            "frequency": "118.700",
-            "facility_type": "TWR",
-            "profile_id": "GVSC"
-        },
-        {
-            "id": "GVSV_TWR",
-            "prefixes": ["GVSV"],
-            "frequency": "118.400",
-            "facility_type": "TWR",
-            "profile_id": "GVSC"
-        }
-    ]
+  "positions": [
+    {
+      "id": "GVSC_CTR",
+      "prefixes": ["GVSC"],
+      "frequency": "127.100",
+      "facility_type": "CTR",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVSC_APP",
+      "prefixes": ["GVSC"],
+      "frequency": "127.100",
+      "facility_type": "APP",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVSC_DEL",
+      "prefixes": ["GVSC"],
+      "frequency": "122.100",
+      "facility_type": "DEL",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVSC_U_APP",
+      "prefixes": ["GVSC"],
+      "frequency": "128.300",
+      "facility_type": "APP",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVAC_TWR",
+      "prefixes": ["GVAC"],
+      "frequency": "119.700",
+      "facility_type": "TWR",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVAC_0_GND",
+      "prefixes": ["GVAC"],
+      "frequency": "122.650",
+      "facility_type": "GND",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVBA_TWR",
+      "prefixes": ["GVBA"],
+      "frequency": "118.900",
+      "facility_type": "TWR",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVMA_I_TWR",
+      "prefixes": ["GVMA"],
+      "frequency": "118.500",
+      "facility_type": "TWR",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVNP_TWR",
+      "prefixes": ["GVNP"],
+      "frequency": "118.200",
+      "facility_type": "TWR",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVSF_I_TWR",
+      "prefixes": ["GVSF"],
+      "frequency": "118.600",
+      "facility_type": "TWR",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVSN_I_TWR",
+      "prefixes": ["GVSN"],
+      "frequency": "118.700",
+      "facility_type": "TWR",
+      "profile_id": "GVSC"
+    },
+    {
+      "id": "GVSV_TWR",
+      "prefixes": ["GVSV"],
+      "frequency": "118.400",
+      "facility_type": "TWR",
+      "profile_id": "GVSC"
+    }
+  ]
 }
