@@ -6,9 +6,18 @@
             "controlled_by": ["GVSC_FMP"]
         },
         {
+            "id": "GVSC_CTR",
+            "controlled_by": ["GVSC_CTR"]
+        },
+        {
             "id": "GVSC_APP",
-            "parent_id": "GVSC_CTR",
+            "parent_id": "GVSC_U_APP",
             "controlled_by": ["GVSC_APP"]
+        },
+        {
+            "id": "GVAC_APP",
+            "parent_id": "GVSC_APP",
+            "controlled_by": ["GVAC_APP"]
         },
         {
             "id": "GVSC_DEL",
