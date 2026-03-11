@@ -108,12 +108,15 @@
                   "page": {
                     "keys": [
                       {
-                        "label": ["EYVL", "E", "CTR"],
-                        "station_id": "EYVL-L"
+                        "label": ["EYVL", "CTR", "FL365-660"],
+                        "station_id": "EYVL-U"
                       },
                       {
-                        "label": ["EYVL", "U", "CTR"],
-                        "station_id": "EYVL-U"
+                        "label": ["EYVL", "CTR", "FL335-365"],
+                        "station_id": "EYVL-M"
+                      },
+                      {
+                        "label": []
                       },
                       {
                         "label": []
@@ -129,7 +132,8 @@
                         "label": []
                       },
                       {
-                        "label": []
+                        "label": ["EYVL", "CTR", "FL095-335"],
+                        "station_id": "EYVL-L"
                       },
                       {
                         "label": []
@@ -152,24 +156,24 @@
                   }
                 },
                 {
-                  "label": ["WEST", "VI/KA"],
+                  "label": ["EAST", "VI/KA"],
                   "size": 10,
                   "page": {
                     "keys": [
                       {
-                        "label": ["EYVL", "W", "CTR"],
-                        "station_id": "EYVL-L"
-                      },
-                      {
-                        "label": ["EYVL", "U", "CTR"],
+                        "label": ["EYVL", "CTR", "FL365-660"],
                         "station_id": "EYVL-U"
                       },
                       {
-                        "label": []
+                        "label": ["EYVL", "CTR", "FL335-365"],
+                        "station_id": "EYVL-M"
                       },
                       {
-                        "label": ["EYVI", "APP"],
-                        "station_id": "EYVI_APP"
+                        "label": ["EYVL", "CTR", "FL255-335"],
+                        "station_id": "EYVL-M"
+                      },
+                      {
+                        "label": []
                       },
                       {
                         "label": ["EYVI", "TWR"],
@@ -179,10 +183,12 @@
                         "label": []
                       },
                       {
-                        "label": []
+                        "label": ["EYVL", "CTR", "FL255-335"],
+                        "station_id": "EYVL-M"
                       },
                       {
-                        "label": []
+                        "label": ["EYVL", "CTR", "FL095-255"],
+                        "station_id": "EYVL-E"
                       },
                       {
                         "label": []
