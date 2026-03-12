@@ -110,10 +110,11 @@
             "station_id": "EDGG-PADL"
           },
           {
-            "label": ["HMM"]
+            "label": ["HMM"],
+            "station_id": "EDGG-HMM"
           },
           {
-            "label": ["EDGG-HMM"]
+            "label": [""]
           },
           {
             "label": [""]
