@@ -845,6 +845,21 @@ parent_id = "EGSS_APP"
 controlled_by = ["EGSC_A_APP"]
 
 [[stations]]
+id = "EGSS_DEL"
+parent_id = "EGSS_GND"
+controlled_by = ["EGSS_DEL"]
+
+[[stations]]
+id = "EGSS_GND"
+parent_id = "EGSS_TWR"
+controlled_by = ["EGSS_TWR"]
+
+[[stations]]
+id = "EGSS_TWR"
+parent_id = "EGSS_APP"
+controlled_by = ["EGSS_TWR"]
+
+[[stations]]
 id = "EGSS_APP"
 parent_id = "LTC_NL_CTR"
 controlled_by = ["EGSS_APP", "EGSS_F_APP", "ESSEX_APP"]
