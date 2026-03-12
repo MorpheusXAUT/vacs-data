@@ -1,0 +1,167 @@
+{
+  "id": "ESSEX",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["EGGW", "ADC"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["EGSC", "ADC"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["AIR"],
+            "station_id": "EGSC_TWR"
+          },
+          {
+            "label": ["RAD"],
+            "station_id": "EGSC_APP"
+          },
+          {
+            "label": ["APP"],
+            "station_id": "EGSC_A_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["SS", "FIN"],
+            "station_id": "EGSS_F_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["EGSS", "ADC"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["TC", "ESSEX"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["SUP", "Flow"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["UK", "FMP"],
+            "station_id": "UK_FMP"
+          },
+          {
+            "label": ["LTC", "FMP"],
+            "station_id": "LTC_FMP"
+          },
+          {
+            "label": ["UK", "FMP", "2"],
+            "station_id": "UK_A_FMP"
+          },
+          {
+            "label": ["UK", "FMP", "3"],
+            "station_id": "UK_B_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["LAC", "Group", "Supvisr"],
+            "station_id": "LON_GS_CTR"
+          },
+          {
+            "label": ["LTC", "Group", "Supvisr"],
+            "station_id": "LTC_GS_CTR"
+          },
+          {
+            "label": ["MAN", "Group", "Supvisr"],
+            "station_id": "MAN_GS_CTR"
+          },
+          {
+            "label": ["MAN", "FMP"],
+            "station_id": "MAN_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["STC", "FMP"],
+            "station_id": "STC_FMP"
+          },
+          {
+            "label": ["ScAC", "Group", "Supvisr"],
+            "station_id": "SCO_GS_CTR"
+          },
+          {
+            "label": ["STC", "Group", "Supvisr"],
+            "station_id": "STC_GS_CTR"
+          }
+        ]
+      }
+    },
+    {
+      "label": ["Other", "direct", "call"],
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "SOLENT*",
+            "THAMES*",
+            "ESSEX*",
+            "NAT_*",
+            "LON_*",
+            "LTC_*",
+            "SCO_*",
+            "STC_*",
+            "MAN_*",
+            "EG*_*",
+            "UK_*"
+          ],
+          "exclude": ["EGLL_*", "LTC_NW_*", "LTC_NE_*", "LTC_SW_*", "LTC_SE_*"],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}

@@ -785,9 +785,29 @@ parent_id = "EGLL-CTR-TC_SVFR"
 controlled_by = ["EGLW_TWR"]
 
 [[stations]]
+id = "EGSC_TWR"
+parent_id = "EGSC_APP"
+controlled_by = ["EGSC_TWR"]
+
+[[stations]]
+id = "EGSC_APP"
+parent_id = "EGSC_A_APP"
+controlled_by = ["EGSC_APP"]
+
+[[stations]]
+id = "EGSC_A_APP"
+parent_id = "EGSS_APP"
+controlled_by = ["EGSC_A_APP"]
+
+[[stations]]
 id = "EGSS_APP"
 parent_id = "LTC_NL_CTR"
 controlled_by = ["EGSS_APP", "EGSS_F_APP", "ESSEX_APP"]
+
+[[stations]]
+id = "EGSS_F_APP"
+parent_id = "EGSS_APP"
+controlled_by = ["EGSS_F_APP"]
 
 [[stations]]
 id = "EGTF_R_TWR"
