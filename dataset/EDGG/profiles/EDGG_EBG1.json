@@ -12,8 +12,8 @@
             "station_id": "EDYY-RL"
           },
           {
-            "label": ["PAD"],
-            "station_id": "EDGG-PAD"
+            "label": ["PADH"],
+            "station_id": "EDGG-PAH"
           },
           {
             "label": ["DLA"],
@@ -110,10 +110,10 @@
             "station_id": "EDGG-PADL"
           },
           {
-            "label": [""]
+            "label": ["HMM"]
           },
           {
-            "label": [""]
+            "label": ["EDGG-HMM"]
           },
           {
             "label": [""]
