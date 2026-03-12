@@ -1,5 +1,5 @@
 {
-  "id": "EDMM-WEST-SOUTH",
+  "id": "EDDM-AD",
   "type": "Tabbed",
   "tabs": [
     {
@@ -20,15 +20,16 @@
             "station_id": "EDMM-ILR"
           },
           {
-            "label": ["EDJA", "TWR"],
-            "station_id": "EDJA-TWR"
+            "label": ["DMAG"],
+            "station_id": "EDMM-DMAG"
           },
           {
-            "label": ["ARFA"],
-            "station_id": "LSFA-ARFA"
+            "label": ["EDDM", "APP-FB"],
+            "station_id": "EDMM-DMFB"
           },
           {
-            "label": ["LSZH", "APP"]
+            "label": ["EDMA", "TWR"],
+            "station_id": "EDMA-TWR"
           },
           {
             "label": ["WLD"],
@@ -51,7 +52,8 @@
             "station_id": "EDMM-FUE"
           },
           {
-            "label": []
+            "label": ["EDMO", "TWR"],
+            "station_id": "EDMO-TWR"
           },
           {
             "label": ["ALB"],
@@ -239,7 +241,7 @@
             "station_id": "EDMM-RDG"
           },
           {
-            "label": ["EGG", ""],
+            "label": ["EGG"],
             "station_id": "EDMM-EGG"
           },
           {
@@ -411,53 +413,35 @@
             }
           },
           {
-            "label": ["UU", "ALP"],
-            "station_id": "EDUU-ALP"
+            "label": ["EDDM", "TWR N"],
+            "station_id": "EDDM-TWR-N"
           },
           {
-            "label": ["UU", "TGO"],
-            "station_id": "EDUU-TGO"
+            "label": ["EDDM", "DEL"],
+            "station_id": "EDDM-DEL"
           },
           {
-            "label": ["GG", "REU"],
-            "station_id": "EDGG-REU"
+            "label": []
           },
           {
-            "label": ["LSAS", "U 245+"]
+            "label": []
           },
           {
-            "label": ["LSAZ", "E 245-"]
+            "label": []
           },
           {
-            "label": ["LSAZ", "S 245-"]
+            "label": []
           },
           {
-            "label": ["UU", "CHI"],
-            "station_id": "EDUU-CHI"
+            "label": ["EDDM", "GND N"],
+            "station_id": "EDDM-GND-N"
           },
           {
-            "label": ["UU", "WUR"],
-            "station_id": "EDUU-WUR"
+            "label": ["EDDM", "APN 1"],
+            "station_id": "EDDM-APN-1"
           },
           {
-            "label": ["GG", "LBU"],
-            "station_id": "EDGG-LBU"
-          },
-          {
-            "label": ["LIPP", "N8 365+"],
-            "station_id": "LIPP-NE8"
-          },
-          {
-            "label": ["LIPP", "N6 335+", ""],
-            "station_id": "LIPP-NE6"
-          },
-          {
-            "label": ["LIPP", "N3 285+"],
-            "station_id": "LIPP-NE3"
-          },
-          {
-            "label": ["UU", "ISA"],
-            "station_id": "EDUU-ISA"
+            "label": []
           },
           {
             "label": ["LOVV", "W27 315+"],
@@ -472,16 +456,15 @@
             "station_id": "LOWI_APP"
           },
           {
-            "label": ["LIPP", "NW1 285-"],
-            "station_id": "LIPP-NW1"
+            "label": ["EDDM", "TWR S"],
+            "station_id": "EDDM-TWR-S"
           },
           {
-            "label": ["LIPP", "NE2 285-"],
-            "station_id": "LIPP-NE2"
+            "label": ["EDDM", "APN 2"],
+            "station_id": "EDDM-APN-2"
           },
           {
-            "label": ["UU", "DON"],
-            "station_id": "EDUU-DON"
+            "label": ["ETSN", "APP"]
           },
           {
             "label": ["LOVV", "B27 315+"],
@@ -496,10 +479,27 @@
             "station_id": "LOWS_APP"
           },
           {
-            "label": []
+            "label": ["EDDM", "GND S"],
+            "station_id": "EDDM-GND-S"
           },
           {
-            "label": []
+            "label": ["EDDM", "APN 3"],
+            "station_id": "EDDM-APN-3"
+          },
+          {
+            "label": ["ETSI", "APP"]
+          },
+          {
+            "label": ["LOVV", "N27 315+"],
+            "station_id": "LOVV_N7"
+          },
+          {
+            "label": ["LOVV", "N1 315-"],
+            "station_id": "LOVV_N1"
+          },
+          {
+            "label": ["LOWL", "APP"],
+            "station_id": "LOWL_APP"
           }
         ]
       }
