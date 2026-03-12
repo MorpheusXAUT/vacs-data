@@ -353,35 +353,35 @@ id = "EGGW_APP"
 prefixes = ["EGGW"]
 frequency = "129.550"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGGW_F_APP"
 prefixes = ["EGGW"]
 frequency = "128.750"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGGW_TWR"
 prefixes = ["EGGW"]
 frequency = "132.555"
 facility_type = "TWR"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGGW_GND"
 prefixes = ["EGGW"]
 frequency = "121.755"
 facility_type = "GND"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGGW_DEL"
 prefixes = ["EGGW"]
 frequency = "121.885"
 facility_type = "DEL"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGHC_TWR"
@@ -1396,21 +1396,21 @@ id = "EGSC_APP"
 prefixes = ["EGSC"]
 frequency = "120.965"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSC_A_APP"
 prefixes = ["EGSC"]
 frequency = "120.965"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSC_TWR"
 prefixes = ["EGSC"]
 frequency = "125.905"
 facility_type = "TWR"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSH_APP"
@@ -1438,42 +1438,42 @@ id = "ESSEX_APP"
 prefixes = ["ESSEX"]
 frequency = "120.625"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_APP"
 prefixes = ["EGSS"]
 frequency = "120.625"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_F_APP"
 prefixes = ["EGSS"]
 frequency = "136.200"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_TWR"
 prefixes = ["EGSS"]
 frequency = "123.805"
 facility_type = "TWR"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_GND"
 prefixes = ["EGSS"]
 frequency = "121.730"
 facility_type = "GND"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_DEL"
 prefixes = ["EGSS"]
 frequency = "121.955"
 facility_type = "DEL"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSY_TWR"
