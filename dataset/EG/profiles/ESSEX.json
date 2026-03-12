@@ -8,7 +8,92 @@
         "rows": 4,
         "keys": [
           {
+            "label": ["GMP"],
+            "station_id": "EGGW_DEL"
+          },
+          {
+            "label": ["GMC"],
+            "station_id": "EGGW_GND"
+          },
+          {
+            "label": ["AIR"],
+            "station_id": "EGGW_TWR"
+          },
+          {
             "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["FIN"],
+            "station_id": "EGGW_F_APP"
+          },
+          {
+            "label": ["INT"],
+            "station_id": "EGGW_APP"
+          },
+          {
+            "label": ["CO INT"],
+            "station_id": "ESSEX_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["BB", "RAD"],
+            "station_id": "EGBB_APP"
+          },
+          {
+            "label": ["NX", "RAD"],
+            "station_id": "EGNX_APP"
+          },
+          {
+            "label": ["TC", "NW"],
+            "station_id": "LTC_NW_CTR"
+          },
+          {
+            "label": ["TC", "SW"],
+            "station_id": "LTC_SW_CTR"
+          },
+          {
+            "label": ["TC", "Stansted"],
+            "station_id": "EGSS_APP"
+          },
+          {
+            "label": ["TC", "Heathrow"],
+            "station_id": "EGLL_N_APP"
+          },
+          {
+            "label": ["TC", "NE"],
+            "station_id": "LTC_NE_CTR"
+          },
+          {
+            "label": ["TC", "SE"],
+            "station_id": "LTC_SE_CTR"
+          },
+          {
+            "label": ["TC", "Thames"],
+            "station_id": "THAMES_APP"
+          },
+          {
+            "label": ["TC", "Gatwick"],
+            "station_id": "EGKK_APP"
           }
         ]
       }

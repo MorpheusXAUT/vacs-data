@@ -682,6 +682,41 @@ controlled_by = ["EGVV_D_CTR"]
 ####################
 
 [[stations]]
+id = "EGBB_APP"
+parent_id = "LTC_MC_CTR"
+controlled_by = ["EGBB_APP", "EGBB_F_APP"]
+
+[[stations]]
+id = "EGBB_F_APP"
+parent_id = "EGBB_APP"
+controlled_by = ["EGBB_F_APP"]
+
+[[stations]]
+id = "EGGW_DEL"
+parent_id = "EGGW_GND"
+controlled_by = ["EGGW_DEL"]
+
+[[stations]]
+id = "EGGW_GND"
+parent_id = "EGGW_TWR"
+controlled_by = ["EGGW_APP"]
+
+[[stations]]
+id = "EGGW_TWR"
+parent_id = "EGGW_APP"
+controlled_by = ["EGGW_TWR"]
+
+[[stations]]
+id = "EGGW_APP"
+parent_id = "LTC_NW_CTR"
+controlled_by = ["EGGW_APP", "EGGW_F_APP", "ESSEX_APP"]
+
+[[stations]]
+id = "EGGW_F_APP"
+parent_id = "EGGW_APP"
+controlled_by = ["EGGW_F_APP"]
+
+[[stations]]
 id = "EGKK_APP"
 parent_id = "LTC_SW_CTR"
 controlled_by = ["EGKK_APP", "EGKK_F_APP"]
@@ -783,6 +818,16 @@ controlled_by = ["EGLM_R_TWR"]
 id = "EGLW_TWR"
 parent_id = "EGLL-CTR-TC_SVFR"
 controlled_by = ["EGLW_TWR"]
+
+[[stations]]
+id = "EGNX_APP"
+parent_id = "LTC_MW_CTR"
+controlled_by = ["EGNX_APP", "EGNX_F_APP"]
+
+[[stations]]
+id = "EGNX_F_APP"
+parent_id = "EGNX_APP"
+controlled_by = ["EGNX_F_APP"]
 
 [[stations]]
 id = "EGSC_TWR"
