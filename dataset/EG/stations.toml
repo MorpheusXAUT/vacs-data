@@ -870,8 +870,22 @@ parent_id = "EGSS_APP"
 controlled_by = ["EGSS_F_APP"]
 
 [[stations]]
+id = "EGSU_I_TWR"
+controlled_by = ["EGSU_I_TWR"]
+
+[[stations]]
 id = "EGTF_R_TWR"
 controlled_by = ["EGTF_R_TWR"]
+
+[[stations]]
+id = "EGUL_APP"
+parent_id = "EGVV_E_CTR"
+controlled_by = ["EGUL_APP", "EGUL_P_APP"]
+
+[[stations]]
+id = "EGUL_P_APP"
+parent_id = "EGUL_APP"
+controlled_by = ["EGUL_P_APP"]
 
 [[stations]]
 id = "EGWU_GND"
