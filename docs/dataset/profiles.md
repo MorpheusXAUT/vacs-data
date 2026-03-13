@@ -413,6 +413,11 @@ This example demonstrates a simple geo profile using a vertical container layout
               }
             ]
           }
+        },
+        {
+          "label": ["FMP"],
+          "size": 10,
+          "station_id": "LOVV_FMP"
         }
       ]
     }
@@ -427,6 +432,7 @@ What this means in practice:
 - Inside is a horizontal row (`"row"`) containing two equally sized buttons (`size: 10`)
 - Each button opens a nested direct access page when pressed
 - The nested pages contain grids of station keys for different sectors
+- The "FMP" button calls the `LOVV_FMP` station directly instead of opening another page with keys for calling
 
 ### Subpage definition
 
