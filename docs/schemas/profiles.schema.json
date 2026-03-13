@@ -175,7 +175,11 @@
         "size": {
           "$ref": "#/$defs/PositiveNumber"
         },
-        "page": { "$ref": "#/$defs/DirectAccessPage" }
+        "page": { "$ref": "#/$defs/DirectAccessPage" },
+        "station_id": { "$ref": "#/$defs/StationId" }
+      },
+      "not": {
+        "required": ["page", "station_id"]
       }
     },
     "GeoPageDivider": {

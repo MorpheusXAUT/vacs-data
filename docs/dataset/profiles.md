@@ -199,11 +199,12 @@ A layout container that arranges child nodes using flexbox.
 
 A clickable button that can trigger a direct access page or call a station.
 
-| Field   | Type                                  | Required | Description                                                |
-| :------ | :------------------------------------ | :------- | :--------------------------------------------------------- |
-| `label` | String or Array of strings            | Yes      | Multi-line label (1-3 lines, cannot be empty).             |
-| `size`  | Number                                | Yes      | Button size (> 0). Controls relative sizing in the layout. |
-| `page`  | [DirectAccessPage](#directaccesspage) | No       | Optional nested page to display when button is pressed.    |
+| Field        | Type                                  | Required | Description                                                                                                                                         |
+| :----------- | :------------------------------------ | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `label`      | String or Array of strings            | Yes      | Multi-line label (1-3 lines, cannot be empty).                                                                                                      |
+| `size`       | Number                                | Yes      | Button size (> 0). Controls relative sizing in the layout.                                                                                          |
+| `page`       | [DirectAccessPage](#directaccesspage) | No       | Optional nested page to display when button is pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled. |
+| `station_id` | String                                | No       | Station ID to call directly when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.                     |
 
 ### GeoPageDivider
 
