@@ -31,11 +31,13 @@ controlled_by = ["LHBP_W_DEP"]
 
 [[stations]]
 id = "LHBP_S_TWR"
-controlled_by = ["LHBP_S_TWR", "LHBP_TWR"]
+controlled_by = ["LHBP_S_TWR"]
+parent_id = "LHBP_TWR"
 
 [[stations]]
 id = "LHBP_P_APP"
-controlled_by = ["LHBP_P_APP", "LHBP_APP"]
+controlled_by = ["LHBP_P_APP"]
+parent_id = "LHBP_APP"
 
 [[stations]]
 id = "LHCC_CTR"
