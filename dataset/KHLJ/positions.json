@@ -1,0 +1,263 @@
+{
+    "positions": [
+        {
+            "id": "OBBB_FM_CTR",
+            "prefixes": ["OBBB"],
+            "frequency": "127.525",
+            "facility_type": "CTR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBB_1_CTR",
+            "prefixes": ["OBBB"],
+            "frequency": "127.525",
+            "facility_type": "CTR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBB_2_CTR",
+            "prefixes": ["OBBB"],
+            "frequency": "132.125",
+            "facility_type": "CTR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBB_3_CTR",
+            "prefixes": ["OBBB"],
+            "frequency": "127.575",
+            "facility_type": "CTR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBB_CH_CTR",
+            "prefixes": ["OBBB"],
+            "frequency": "124.300",
+            "facility_type": "CTR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBB_CL_CTR",
+            "prefixes": ["OBBB"],
+            "frequency": "122.300",
+            "facility_type": "CTR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBB_N_CTR",
+            "prefixes": ["OBBB"],
+            "frequency": "126.700",
+            "facility_type": "CTR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBB_E_CTR",
+            "prefixes": ["OBBB"],
+            "frequency": "132.850",
+            "facility_type": "CTR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBI_APP",
+            "prefixes": ["OBBI"],
+            "frequency": "127.850",
+            "facility_type": "APP",
+            "profile_id": "OBBI"
+        },
+        {
+            "id": "OBBI_F_APP",
+            "prefixes": ["OBBI"],
+            "frequency": "119.100",
+            "facility_type": "APP",
+            "profile_id": "OBBI"
+        },
+        {
+            "id": "OBBI_TWR",
+            "prefixes": ["OBBI"],
+            "frequency": "118.500",
+            "facility_type": "TWR",
+            "profile_id": "OBBI"
+        },
+        {
+            "id": "OBBI_GND",
+            "prefixes": ["OBBI"],
+            "frequency": "121.850",
+            "facility_type": "GND",
+            "profile_id": "OBBI"
+        },
+        {
+            "id": "OBBI_DEL",
+            "prefixes": ["OBBI"],
+            "frequency": "121.900",
+            "facility_type": "DEL",
+            "profile_id": "OBBI"
+        },
+        {
+            "id": "OBBI_P_DEL",
+            "prefixes": ["OBBI"],
+            "frequency": "121.900",
+            "facility_type": "DEL",
+            "profile_id": "OBBI"
+        },
+        {
+            "id": "OBBS_APP",
+            "prefixes": ["OBBS"],
+            "frequency": "124.950",
+            "facility_type": "APP",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBBS_TWR",
+            "prefixes": ["OBBS"],
+            "frequency": "125.450",
+            "facility_type": "TWR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBKH_TWR",
+            "prefixes": ["OBKH"],
+            "frequency": "118.150",
+            "facility_type": "TWR",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OBKH_GND",
+            "prefixes": ["OBKH"],
+            "frequency": "121.850",
+            "facility_type": "GND",
+            "profile_id": "OBBB"
+        },
+        {
+            "id": "OKAC_ACC_FMP",
+            "prefixes": ["OKAC"],
+            "frequency": "125.300",
+            "facility_type": "FMP",
+            "profile_id": "OKAC"
+        },
+        {
+            "id": "OKAC_CTR",
+            "prefixes": ["OKAC"],
+            "frequency": "125.300",
+            "facility_type": "CTR",
+            "profile_id": "OKAC"
+        },
+        {
+            "id": "OKAC_U_CTR",
+            "prefixes": ["OKAC"],
+            "frequency": "132.100",
+            "facility_type": "CTR",
+            "profile_id": "OKAC"
+        },
+        {
+            "id": "OKKK_APP",
+            "prefixes": ["OKKK"],
+            "frequency": "124.800",
+            "facility_type": "APP",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_F_APP",
+            "prefixes": ["OKKK"],
+            "frequency": "123.825",
+            "facility_type": "APP",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_FX_APP",
+            "prefixes": ["OKKK"],
+            "frequency": "119.625",
+            "facility_type": "APP",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_TMA_FMP",
+            "prefixes": ["OKKK"],
+            "frequency": "124.800",
+            "facility_type": "FMP",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_TWR",
+            "prefixes": ["OKKK"],
+            "frequency": "118.300",
+            "facility_type": "TWR",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_AIR_FMP",
+            "prefixes": ["OKKK"],
+            "frequency": "118.300",
+            "facility_type": "FMP",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_1_GND",
+            "prefixes": ["OKKK"],
+            "frequency": "121.700",
+            "facility_type": "GND",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_2_GND",
+            "prefixes": ["OKKK"],
+            "frequency": "121.850",
+            "facility_type": "GND",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_GMC_FMP",
+            "prefixes": ["OKKK"],
+            "frequency": "121.700",
+            "facility_type": "FMP",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_DEL",
+            "prefixes": ["OKKK"],
+            "frequency": "126.775",
+            "facility_type": "DEL",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKKK_GMP_FMP",
+            "prefixes": ["OKKK"],
+            "frequency": "126.775",
+            "facility_type": "FMP",
+            "profile_id": "OKKK"
+        },
+        {
+            "id": "OKAJ_APP",
+            "prefixes": ["OKAJ"],
+            "frequency": "128.300",
+            "facility_type": "APP",
+            "profile_id": "OKAC"
+        },
+        {
+            "id": "OKAJ_TWR",
+            "prefixes": ["OKAJ"],
+            "frequency": "124.150",
+            "facility_type": "TWR",
+            "profile_id": "OKAC"
+        },
+        {
+            "id": "OKAJ_GND",
+            "prefixes": ["OKAJ"],
+            "frequency": "127.000",
+            "facility_type": "GND",
+            "profile_id": "OKAC"
+        },
+        {
+            "id": "OKAS_TWR",
+            "prefixes": ["OKAS"],
+            "frequency": "118.000",
+            "facility_type": "TWR",
+            "profile_id": "OKAC"
+        },
+        {
+            "id": "OKAS_GND",
+            "prefixes": ["OKAS"],
+            "frequency": "120.500",
+            "facility_type": "GND",
+            "profile_id": "OKAC"
+        }
+    ]
+}

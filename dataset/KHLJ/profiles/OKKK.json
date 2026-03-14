@@ -1,0 +1,37 @@
+{
+  "id": "OKKK",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "OKKK",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "OK*",
+
+            "OEJD*",
+            "OERD*",
+            "ORBB*",
+            "ORMM*_APP",
+            "TEH*",
+            "GULF_E*",
+            "GULF*"
+          ],
+          "exclude": [
+          ],
+          "priority": [
+            "*_FMP",
+            "*_CTR",
+            "*_APP",
+            "*_TWR",
+            "*_GND",
+            "*_DEL"
+          ],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}
