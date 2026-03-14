@@ -1,0 +1,209 @@
+[[stations]]
+id = "LHBP_DEL"
+controlled_by = ["LHBP_DEL"]
+parent_id = "LHBP_GND"
+
+[[stations]]
+id = "LHBP_GND"
+controlled_by = ["LHBP_GND"]
+parent_id = "LHBP_TWR"
+
+[[stations]]
+id = "LHBP_TWR"
+controlled_by = ["LHBP_TWR"]
+parent_id = "LHBP_APP"
+
+[[stations]]
+id = "LHBP_APP"
+controlled_by = ["LHBP_APP", "LHCC_CTR"]
+
+[[stations]]
+id = "LHBP_D_APP"
+controlled_by = ["LHBP_D_APP"]
+
+[[stations]]
+id = "LHBP_U_APP"
+controlled_by = ["LHBP_U_APP"]
+
+[[stations]]
+id = "LHBP_W_DEP"
+controlled_by = ["LHBP_W_DEP"]
+
+[[stations]]
+id = "LHBP_S_TWR"
+controlled_by = ["LHBP_S_TWR"]
+parent_id = "LHBP_TWR"
+
+[[stations]]
+id = "LHBP_P_APP"
+controlled_by = ["LHBP_P_APP"]
+parent_id = "LHBP_APP"
+
+[[stations]]
+id = "LHCC_CTR"
+controlled_by = ["LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_EFIC"
+controlled_by = ["LHCC_Z_CTR", "LHCC_I_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_EL"
+controlled_by = ["LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_ET"
+controlled_by = [
+  "LHCC_1_CTR",
+  "LHCC_2_CTR",
+  "LHCC_K_CTR",
+  "LHCC_U_CTR",
+  "LHCC_CTR",
+]
+
+[[stations]]
+id = "LHCC_EU"
+controlled_by = ["LHCC_K_CTR", "LHCC_U_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_NT"
+controlled_by = [
+  "LHCC_N_CTR",
+  "LHCC_1_CTR",
+  "LHCC_2_CTR",
+  "LHCC_K_CTR",
+  "LHCC_U_CTR",
+  "LHCC_CTR",
+]
+
+[[stations]]
+id = "LHCC_NU"
+controlled_by = ["LHCC_N_CTR", "LHCC_K_CTR", "LHCC_U_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_SL"
+controlled_by = ["LHCC_S_CTR", "LHCC_W_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_ST"
+controlled_by = [
+  "LHCC_2_CTR",
+  "LHCC_U_CTR",
+  "LHCC_S_CTR",
+  "LHCC_W_CTR",
+  "LHCC_CTR",
+]
+
+[[stations]]
+id = "LHCC_SU"
+controlled_by = ["LHCC_U_CTR", "LHCC_S_CTR", "LHCC_W_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_WFIC"
+controlled_by = ["LHCC_Q_CTR", "LHCC_I_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_WL"
+controlled_by = ["LHCC_W_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_WT"
+controlled_by = ["LHCC_2_CTR", "LHCC_U_CTR", "LHCC_W_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHCC_WU"
+controlled_by = ["LHCC_U_CTR", "LHCC_W_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHBC_I_TWR"
+controlled_by = ["LHBC_I_TWR"]
+parent_id = "LHCC_EFIC"
+
+[[stations]]
+id = "LHBS_I_TWR"
+controlled_by = ["LHBS_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHDC_I_TWR"
+controlled_by = ["LHDC_I_TWR"]
+parent_id = "LHCC_EFIC"
+
+[[stations]]
+id = "LHDK_I_TWR"
+controlled_by = ["LHDK_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHGD_I_TWR"
+controlled_by = ["LHGD_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHKE_GND"
+controlled_by = ["LHKE_GND"]
+parent_id = "LHKE_TWR"
+
+[[stations]]
+id = "LHKE_TWR"
+controlled_by = ["LHKE_TWR"]
+parent_id = "LHKE_APP"
+
+[[stations]]
+id = "LHKE_APP"
+controlled_by = ["LHKE_APP", "LHCC_CTR"]
+
+[[stations]]
+id = "LHNY_I_TWR"
+controlled_by = ["LHNY_I_TWR"]
+parent_id = "LHCC_EFIC"
+
+[[stations]]
+id = "LHPA_GND"
+controlled_by = ["LHPA_GND"]
+parent_id = "LHPA_TWR"
+
+[[stations]]
+id = "LHPA_TWR"
+controlled_by = ["LHPA_TWR"]
+parent_id = "LHPA_APP"
+
+[[stations]]
+id = "LHPA_APP"
+controlled_by = ["LHPA_APP"]
+parent_id = "LHCC_WL"
+
+[[stations]]
+id = "LHPP_I_TWR"
+controlled_by = ["LHPP_I_TWR"]
+parent_id = "LHCC_WFIC"
+
+[[stations]]
+id = "LHPR_I_TWR"
+controlled_by = ["LHPR_I_TWR"]
+parent_id = "LHCC_WFIC"
+
+[[stations]]
+id = "LHSM_I_TWR"
+controlled_by = ["LHSM_I_TWR"]
+parent_id = "LHCC_WFIC"
+
+[[stations]]
+id = "LHSN_GND"
+controlled_by = ["LHSN_GND"]
+parent_id = "LHSN_TWR"
+
+[[stations]]
+id = "LHSN_TWR"
+controlled_by = ["LHSN_TWR"]
+parent_id = "LHSN_APP"
+
+[[stations]]
+id = "LHSN_APP"
+controlled_by = ["LHSN_APP", "LHCC_CTR"]
+
+[[stations]]
+id = "LHTL_I_TWR"
+controlled_by = ["LHTL_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
+
+[[stations]]
+id = "LHUD_I_TWR"
+controlled_by = ["LHUD_I_TWR"]
+parent_id = "LHCC_EFIC"
