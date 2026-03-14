@@ -69,7 +69,8 @@
             "station_id": "LOWW_I_APP"
           },
           {
-            "label": []
+            "label": ["GNE"],
+            "station_id": "LOWW_GND"
           },
           {
             "label": ["ACC", "N1", "EC"],
@@ -91,8 +92,8 @@
             "station_id": "LOWW_APP"
           },
           {
-            "label": ["TWR 1"],
-            "station_id": "LOWW_TWR"
+            "label": ["GNW"],
+            "station_id": "LOWW_W_GND"
           },
           {
             "label": ["ACC", "E1", "EC"],
@@ -115,8 +116,8 @@
             "station_id": "LOWW_P_APP"
           },
           {
-            "label": ["TWR 2"],
-            "station_id": "LOWW_E_TWR"
+            "label": ["DLV"],
+            "station_id": "LOWW_DEL"
           }
         ]
       }
