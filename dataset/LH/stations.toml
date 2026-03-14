@@ -115,7 +115,7 @@ controlled_by = ["LHCC_U_CTR", "LHCC_W_CTR", "LHCC_CTR"]
 [[stations]]
 id = "LHBC_I_TWR"
 controlled_by = ["LHBC_I_TWR"]
-parent_id = ["LHCC_EFIC"]
+parent_id = "LHCC_EFIC"
 
 [[stations]]
 id = "LHBS_I_TWR"
@@ -124,7 +124,7 @@ controlled_by = ["LHBS_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
 [[stations]]
 id = "LHDC_I_TWR"
 controlled_by = ["LHDC_I_TWR"]
-parent_id = ["LHCC_EFIC"]
+parent_id = "LHCC_EFIC"
 
 [[stations]]
 id = "LHDK_I_TWR"
@@ -137,12 +137,12 @@ controlled_by = ["LHGD_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
 [[stations]]
 id = "LHKE_GND"
 controlled_by = ["LHKE_GND"]
-parent_id = ["LHKE_TWR"]
+parent_id = "LHKE_TWR"
 
 [[stations]]
 id = "LHKE_TWR"
 controlled_by = ["LHKE_TWR"]
-parent_id = ["LHKE_APP"]
+parent_id = "LHKE_APP"
 
 [[stations]]
 id = "LHKE_APP"
@@ -151,47 +151,47 @@ controlled_by = ["LHKE_APP", "LHCC_CTR"]
 [[stations]]
 id = "LHNY_I_TWR"
 controlled_by = ["LHNY_I_TWR"]
-parent_id = ["LHCC_EFIC"]
+parent_id = "LHCC_EFIC"
 
 [[stations]]
 id = "LHPA_GND"
 controlled_by = ["LHPA_GND"]
-parent_id = ["LHPA_TWR"]
+parent_id = "LHPA_TWR"
 
 [[stations]]
 id = "LHPA_TWR"
 controlled_by = ["LHPA_TWR"]
-parent_id = ["LHPA_APP"]
+parent_id = "LHPA_APP"
 
 [[stations]]
 id = "LHPA_APP"
 controlled_by = ["LHPA_APP"]
-parent_id = ["LHCC_WL"]
+parent_id = "LHCC_WL"
 
 [[stations]]
 id = "LHPP_I_TWR"
 controlled_by = ["LHPP_I_TWR"]
-parent_id = ["LHCC_WFIC"]
+parent_id = "LHCC_WFIC"
 
 [[stations]]
 id = "LHPR_I_TWR"
 controlled_by = ["LHPR_I_TWR"]
-parent_id = ["LHCC_WFIC"]
+parent_id = "LHCC_WFIC"
 
 [[stations]]
 id = "LHSM_I_TWR"
 controlled_by = ["LHSM_I_TWR"]
-parent_id = ["LHCC_WFIC"]
+parent_id = "LHCC_WFIC"
 
 [[stations]]
 id = "LHSN_GND"
 controlled_by = ["LHSN_GND"]
-parent_id = ["LHSN_TWR"]
+parent_id = "LHSN_TWR"
 
 [[stations]]
 id = "LHSN_TWR"
 controlled_by = ["LHSN_TWR"]
-parent_id = ["LHSN_APP"]
+parent_id = "LHSN_APP"
 
 [[stations]]
 id = "LHSN_APP"
@@ -204,4 +204,4 @@ controlled_by = ["LHTL_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
 [[stations]]
 id = "LHUD_I_TWR"
 controlled_by = ["LHUD_I_TWR"]
-parent_id = ["LHCC_EFIC"]
+parent_id = "LHCC_EFIC"
