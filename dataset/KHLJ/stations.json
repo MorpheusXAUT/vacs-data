@@ -116,7 +116,7 @@
         {
             "id": "OKKK_FX_APP",
             "parent_id": "OKKK_F_APP",
-            "controlled_by": ["OKKK_FX_FMP"]
+            "controlled_by": ["OKKK_FX_APP"]
         },
         {
             "id": "OKKK_TMA_FMP",
@@ -145,7 +145,7 @@
         },
         {
             "id": "OKKK_GMC_FMP",
-            "parent_id": "OKKK_1_FMP",
+            "parent_id": "OKKK_2_GND",
             "controlled_by": ["OKKK_GMC_FMP"]
         },
         {
