@@ -187,7 +187,7 @@
       "prefixes": ["EBBU"],
       "frequency": "126.900",
       "facility_type": "CTR",
-      "profile_id": "EBBU_FIS"
+      "profile_id": "EBBU_APP"
     },
 	{
       "id": "EDYY_K_CTR",
