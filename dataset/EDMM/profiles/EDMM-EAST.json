@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": ["DA", "1 - 2"],
+      "label": ["DA", "1-2"],
       "page": {
         "rows": 6,
         "keys": [
@@ -76,30 +76,37 @@
             "station_id": "EDMM-SWA"
           },
           {
-            "label": ["FIS", ""],
+            "label": ["FIS", "AFIS"],
             "page": {
-              "rows": 4,
+              "rows": 6,
               "keys": [
                 {
-                  "label": ["GG", "GGIDB"]
+                  "label": ["GG", "GGIDB"],
+                  "station_id": "EDXX-FIS-IDB"
                 },
                 {
-                  "label": ["GG", "GGIDV"]
+                  "label": ["GG", "GGIDV"],
+                  "station_id": "EDXX-FIS-IDV"
                 },
                 {
-                  "label": ["GG", "GGIDC"]
+                  "label": ["GG", "GGIDC"],
+                  "station_id": "EDXX-FIS-IDC"
                 },
                 {
-                  "label": ["GG", "GGIDO"]
+                  "label": ["GG", "GGIDO"],
+                  "station_id": "EDXX-FIS-IDO"
                 },
                 {
-                  "label": ["GG", "GGIDF"]
+                  "label": ["GG", "GGIDF"],
+                  "station_id": "EDXX-FIS-IDF"
                 },
                 {
-                  "label": ["GG", "GGIDS"]
+                  "label": ["GG", "GGIDS"],
+                  "station_id": "EDXX-FIS-IDS"
                 },
                 {
-                  "label": ["GG", "GGIDM"]
+                  "label": ["GG", "GGIDM"],
+                  "station_id": "EDXX-FIS-IDM"
                 },
                 {
                   "label": ["EPWW", "FIS"]
@@ -108,13 +115,123 @@
                   "label": ["LKAA", "FIS"]
                 },
                 {
-                  "label": ["LOVV", "FIS"]
+                  "label": ["LOVV", "FIS"],
+                  "station_id": "LOVV_I_CTR"
                 },
                 {
-                  "label": ["LIPP", "FIS"]
+                  "label": ["LIPP", "FIS"],
+                  "station_id": "LIPP-FIC"
                 },
                 {
                   "label": ["LSAS", "FIS"]
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EDQA", ""]
+                },
+                {
+                  "label": ["EDQC", ""]
+                },
+                {
+                  "label": ["EDQD", ""]
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EDAC"]
+                },
+                {
+                  "label": ["EDAB"]
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 }
               ]
             }
@@ -140,9 +257,9 @@
             "station_id": "EDDE-TWR"
           },
           {
-            "label": ["FMP", ""],
+            "label": ["FMP", "MIL"],
             "page": {
-              "rows": 4,
+              "rows": 6,
               "keys": [
                 {
                   "label": ["EDMM", "FMP"],
@@ -166,11 +283,131 @@
                   "station_id": "LIPP-FMP"
                 },
                 {
+                  "label": ["LOVV", "FMP"],
+                  "station_id": "LOVV_FMP"
+                },
+                {
                   "label": ["LSAS", "FMP"]
                 },
                 {
-                  "label": ["LOVV", "FMP"],
-                  "station_id": "LOVV_FMP"
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["ETXX", "SR"]
+                },
+                {
+                  "label": ["ETXX", "LS"]
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["ETEB"]
+                },
+                {
+                  "label": ["ETIK"]
+                },
+                {
+                  "label": ["ETIC"]
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 }
               ]
             }
@@ -268,6 +505,18 @@
             "station_id": "EDGG-GED"
           }
         ]
+      }
+    },
+    {
+      "label": "DIR",
+      "page": {
+        "rows": 6,
+        "client_page": {
+          "include": ["ED*", "ET*", "LO*", "LK*", "LS*", "EP*"],
+          "exclude": ["LON*"],
+          "grouping": "Fir",
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND"]
+        }
       }
     }
   ]

@@ -44,7 +44,7 @@
           },
           {
             "label": ["MM", "XL"],
-            "station_id": "ESMS_XL"
+            "station_id": "ESMM_XL"
           },
           {
             "label": []
@@ -272,10 +272,12 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["ENOS", "4"]
+            "label": ["ENOS", "4"],
+            "station_id": "ENOS-4"
           },
           {
-            "label": ["ENOS", "FARRIS", "APP"]
+            "label": ["ENOS", "FARRIS", "APP"],
+            "station_id": "ENTO_APP"
           },
           {
             "label": []
@@ -293,10 +295,12 @@
             "station_id": "EKDKUA"
           },
           {
-            "label": ["ENOS", "3"]
+            "label": ["ENOS", "3"],
+            "station_id": "ENOS-3"
           },
           {
-            "label": ["ENOS", "OSLO", "APP"]
+            "label": ["ENOS", "OSLO", "APP-E"],
+            "station_id": "ENGM_E_APP"
           },
           {
             "label": []
@@ -314,7 +318,8 @@
             "station_id": "EKDKA"
           },
           {
-            "label": ["ENOS", "2"]
+            "label": ["ENOS", "2"],
+            "station_id": "ENOS-2"
           },
           {
             "label": []
@@ -338,15 +343,15 @@
             "label": []
           },
           {
-            "label": []
-          },
-          {
             "label": ["EKCH", "DEP-R"],
             "station_id": "EKCHDEPR"
           },
           {
             "label": ["EKCH", "APP-W"],
             "station_id": "EKCHAPPW"
+          },
+          {
+            "label": []
           },
           {
             "label": ["EKDK", "E"],
@@ -361,10 +366,6 @@
           },
           {
             "label": []
-          },
-          {
-            "label": ["EKCH", "APP-CO", ""],
-            "station_id": "EKCHAPPCO"
           },
           {
             "label": ["EKCH", "FIN"],
@@ -396,6 +397,9 @@
           {
             "label": ["EKDK", "FMP"],
             "station_id": "EKDKFMP"
+          },
+          {
+            "label": []
           }
         ]
       }
@@ -456,7 +460,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EPWW", "FMP"],
+            "station_id": "EPWW_FMP"
           },
           {
             "label": ["EPWW", "B HIGH"],
@@ -479,7 +484,7 @@
             "station_id": "EETT_FMP"
           },
           {
-            "label": ["EVRR", "FIS"]
+            "label": []
           },
           {
             "label": []
@@ -501,10 +506,11 @@
             "station_id": "EETT_W_FIS"
           },
           {
-            "label": ["EVRR S"]
+            "label": []
           },
           {
-            "label": []
+            "label": ["EVRR", "FIS"],
+            "station_id": "EVRR_FIS"
           },
           {
             "label": []
@@ -521,7 +527,12 @@
             "station_id": "EETT_W"
           },
           {
-            "label": ["EVRR N"]
+            "label": ["EVRR", "N"],
+            "station_id": "EVRR_N"
+          },
+          {
+            "label": ["EVRR", "S"],
+            "station_id": "EVRR_S"
           },
           {
             "label": ["EYVL", "L"],
@@ -529,9 +540,6 @@
           },
           {
             "label": ["UMKK"]
-          },
-          {
-            "label": []
           }
         ]
       }
@@ -585,17 +593,6 @@
             "station_id": "ESMV_TWR"
           }
         ]
-      }
-    },
-    {
-      "label": ["OTHER"],
-      "page": {
-        "rows": 6,
-        "client_page": {
-          "include": ["EN*", "EVRR*", "UMKK*", "RU-NWC*"],
-          "exclude": [],
-          "priority": ["*_FMP", "*FSS*", "*_CTR", "*_APP"]
-        }
       }
     }
   ]

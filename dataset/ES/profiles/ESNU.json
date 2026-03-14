@@ -1,0 +1,57 @@
+{
+  "id": "ESNU",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESNU"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["NS", "TWR"],
+            "station_id": "ESNS_TWR"
+          },
+          {
+            "label": ["NO", "TWR"],
+            "station_id": "ESNO_TWR"
+          },
+          {
+            "label": ["OS", "XK"],
+            "station_id": "ESOS_XK"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OS", "K"],
+            "station_id": "ESOS_K"
+          },
+          {
+            "label": ["EFVA", "TWR"],
+            "station_id": "EFVA_TWR"
+          },
+          {
+            "label": ["OS", "F"],
+            "station_id": "ESOS_F"
+          }
+        ]
+      }
+    }
+  ]
+}

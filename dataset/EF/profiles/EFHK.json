@@ -46,7 +46,7 @@
             "station_id": "EFIN_A"
           },
           {
-            "label": [""]
+            "label": []
           },
           {
             "label": ["EETT", "W12"],
@@ -122,7 +122,8 @@
             "station_id": "EFHK_GND"
           },
           {
-            "label": ["DEICE"]
+            "label": ["DEICE"],
+            "station_id": "EFHK_DEICE_CO"
           },
           {
             "label": []
@@ -132,7 +133,7 @@
           },
           {
             "label": ["RAD-E"],
-            "station_id": "EFHK_RW"
+            "station_id": "EFHK_RE"
           },
           {
             "label": ["ARR-E"],

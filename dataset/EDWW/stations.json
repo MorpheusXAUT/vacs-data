@@ -482,7 +482,7 @@
     {
       "id": "ETNT-TWR",
       "controlled_by": ["ETNT_TWR", "ETNT_APP"],
-      "parent_id": "EDWW-EID"
+      "parent_id": "EDWW-FRI"
     },
     {
       "id": "ETNW-APP",

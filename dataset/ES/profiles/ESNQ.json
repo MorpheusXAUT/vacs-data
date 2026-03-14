@@ -1,0 +1,46 @@
+{
+  "id": "ESNQ",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESNQ"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["NG", "AFIS"],
+            "station_id": "ESNG_AFIS"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OS", "XK"],
+            "station_id": "ESOS_XK"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OS", "K"],
+            "station_id": "ESOS_K"
+          },
+          {
+            "label": ["OS", "YK"],
+            "station_id": "ESOS_YK"
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    }
+  ]
+}

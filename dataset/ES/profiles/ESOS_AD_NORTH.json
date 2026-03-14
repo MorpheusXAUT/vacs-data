@@ -132,19 +132,24 @@
             "label": []
           },
           {
-            "label": ["ENBD", "26"]
+            "label": ["ENBD", "26"],
+            "station_id": "ENBD-26"
           },
           {
-            "label": ["ENBD", "25"]
+            "label": ["ENBD", "25"],
+            "station_id": "ENBD-25"
           },
           {
-            "label": ["ENBD", "24"]
+            "label": ["ENBD", "24/27"],
+            "station_id": "ENBD-24/27"
           },
           {
-            "label": ["ENBD", "19"]
+            "label": ["ENBD", "19"],
+            "station_id": "ENBD-19"
           },
           {
-            "label": ["ENOS", "1"]
+            "label": ["ENOS", "1"],
+            "station_id": "ENOS-1"
           },
           {
             "label": []
@@ -156,7 +161,8 @@
             "label": []
           },
           {
-            "label": ["ENBD", "HELGELAND", "APP"]
+            "label": ["ENBD", "HELGELAND", "APP"],
+            "station_id": "ENBD-HELGELAND"
           },
           {
             "label": []
@@ -276,17 +282,6 @@
             "station_id": "ESPE_TWR"
           }
         ]
-      }
-    },
-    {
-      "label": ["OTHER"],
-      "page": {
-        "rows": 6,
-        "client_page": {
-          "include": ["EN*"],
-          "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP"]
-        }
       }
     }
   ]

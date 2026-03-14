@@ -1,0 +1,52 @@
+{
+  "stations": [
+    {
+      "id": "GVSC_FMP",
+      "parent_id": "GVSC_CTR",
+      "controlled_by": ["GVSC_FMP"]
+    },
+    {
+      "id": "GVSC_CTR",
+      "controlled_by": ["GVSC_CTR"]
+    },
+    {
+      "id": "GVAC_APP",
+      "parent_id": "GVSC_U_APP",
+      "controlled_by": ["GVAC_APP"]
+    },
+    {
+      "id": "GVSC_DEL",
+      "parent_id": "GVSC_CTR",
+      "controlled_by": ["GVSC_DEL"]
+    },
+    {
+      "id": "GVSC_U_APP",
+      "parent_id": "GVSC_CTR",
+      "controlled_by": ["GVSC_U_APP"]
+    },
+    {
+      "id": "GVAC_TWR",
+      "parent_id": "GVAC_0_GND",
+      "controlled_by": ["GVAC_TWR"]
+    },
+    {
+      "id": "GVAC_0_GND",
+      "controlled_by": ["GVAC_0_GND"]
+    },
+    {
+      "id": "GVBA_TWR",
+      "parent_id": "GVAC_APP",
+      "controlled_by": ["GVBA_TWR"]
+    },
+    {
+      "id": "GVMA_I_TWR",
+      "parent_id": "GVSC_U_APP",
+      "controlled_by": ["GVMA_I_TWR"]
+    },
+    {
+      "id": "GVNP_TWR",
+      "parent_id": "GVSC_U_APP",
+      "controlled_by": ["GVNP_TWR"]
+    }
+  ]
+}
