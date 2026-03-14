@@ -3,7 +3,7 @@
 
 # Explicitly specify code owners for GitHub config, such as workflows or CODEOWNERS, and other relevant files
 /.github/ @vacs-project/core-maintainers
-/docs/ @vacs-project/docs
+/docs/ @vacs-project/maintainers
 LICENSE* @vacs-project/core-maintainers
 README.md @vacs-project/maintainers
 CONTRIBUTING.md @vacs-project/maintainers
