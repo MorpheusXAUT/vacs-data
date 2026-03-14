@@ -5,11 +5,13 @@ parent_id = "LHBP_GND"
 
 [[stations]]
 id = "LHBP_GND"
-controlled_by = ["LHBP_GND", "LHBP_TWR"]
+controlled_by = ["LHBP_GND"]
+parent_id = "LHBP_TWR"
 
 [[stations]]
 id = "LHBP_TWR"
-controlled_by = ["LHBP_TWR", "LHBP_APP"]
+controlled_by = ["LHBP_TWR"]
+parent_id = "LHBP_APP"
 
 [[stations]]
 id = "LHBP_APP"
@@ -41,7 +43,7 @@ controlled_by = ["LHCC_CTR"]
 
 [[stations]]
 id = "LHCC_EFIC"
-controlled_by = ["LHCC_Z_CTR", "LHCC_I_CTR"]
+controlled_by = ["LHCC_Z_CTR", "LHCC_I_CTR", "LHCC_CTR"]
 
 [[stations]]
 id = "LHCC_EL"
@@ -96,7 +98,7 @@ controlled_by = ["LHCC_U_CTR", "LHCC_S_CTR", "LHCC_W_CTR", "LHCC_CTR"]
 
 [[stations]]
 id = "LHCC_WFIC"
-controlled_by = ["LHCC_Q_CTR", "LHCC_I_CTR"]
+controlled_by = ["LHCC_Q_CTR", "LHCC_I_CTR", "LHCC_CTR"]
 
 [[stations]]
 id = "LHCC_WL"
@@ -112,31 +114,35 @@ controlled_by = ["LHCC_U_CTR", "LHCC_W_CTR", "LHCC_CTR"]
 
 [[stations]]
 id = "LHBC_I_TWR"
-controlled_by = ["LHBC_I_TWR", "LHCC_Z_CTR"]
+controlled_by = ["LHBC_I_TWR"]
+parent_id = ["LHCC_EFIC"]
 
 [[stations]]
 id = "LHBS_I_TWR"
-controlled_by = ["LHBS_I_TWR", "LHCC_I_CTR"]
+controlled_by = ["LHBS_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
 
 [[stations]]
 id = "LHDC_I_TWR"
-controlled_by = ["LHDC_I_TWR", "LHCC_Z_CTR"]
+controlled_by = ["LHDC_I_TWR"]
+parent_id = ["LHCC_EFIC"]
 
 [[stations]]
 id = "LHDK_I_TWR"
-controlled_by = ["LHDK_I_TWR", "LHCC_I_CTR"]
+controlled_by = ["LHDK_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
 
 [[stations]]
 id = "LHGD_I_TWR"
-controlled_by = ["LHGD_I_TWR", "LHCC_I_CTR"]
+controlled_by = ["LHGD_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
 
 [[stations]]
 id = "LHKE_GND"
-controlled_by = ["LHKE_GND", "LHKE_TWR"]
+controlled_by = ["LHKE_GND"]
+parent_id = ["LHKE_TWR"]
 
 [[stations]]
 id = "LHKE_TWR"
-controlled_by = ["LHKE_TWR", "LHKE_APP"]
+controlled_by = ["LHKE_TWR"]
+parent_id = ["LHKE_APP"]
 
 [[stations]]
 id = "LHKE_APP"
@@ -144,39 +150,48 @@ controlled_by = ["LHKE_APP", "LHCC_CTR"]
 
 [[stations]]
 id = "LHNY_I_TWR"
-controlled_by = ["LHNY_I_TWR", "LHCC_Z_CTR"]
+controlled_by = ["LHNY_I_TWR"]
+parent_id = ["LHCC_EFIC"]
 
 [[stations]]
 id = "LHPA_GND"
-controlled_by = ["LHPA_GND", "LHPA_TWR"]
+controlled_by = ["LHPA_GND"]
+parent_id = ["LHPA_TWR"]
 
 [[stations]]
 id = "LHPA_TWR"
-controlled_by = ["LHPA_TWR", "LHPA_APP"]
+controlled_by = ["LHPA_TWR"]
+parent_id = ["LHPA_APP"]
 
 [[stations]]
 id = "LHPA_APP"
-controlled_by = ["LHPA_APP", "LHCC_W_CTR"]
+controlled_by = ["LHPA_APP"]
+parent_id = ["LHCC_WL"]
 
 [[stations]]
 id = "LHPP_I_TWR"
-controlled_by = ["LHPP_I_TWR", "LHCC_Q_CTR"]
+controlled_by = ["LHPP_I_TWR"]
+parent_id = ["LHCC_WFIC"]
 
 [[stations]]
 id = "LHPR_I_TWR"
-controlled_by = ["LHPR_I_TWR", "LHCC_Q_CTR"]
+controlled_by = ["LHPR_I_TWR"]
+parent_id = ["LHCC_WFIC"]
 
 [[stations]]
 id = "LHSM_I_TWR"
-controlled_by = ["LHSM_I_TWR", "LHCC_Q_CTR"]
+controlled_by = ["LHSM_I_TWR"]
+parent_id = ["LHCC_WFIC"]
 
 [[stations]]
 id = "LHSN_GND"
-controlled_by = ["LHSN_GND", "LHSN_TWR"]
+controlled_by = ["LHSN_GND"]
+parent_id = ["LHSN_TWR"]
 
 [[stations]]
 id = "LHSN_TWR"
-controlled_by = ["LHSN_TWR", "LHSN_APP"]
+controlled_by = ["LHSN_TWR"]
+parent_id = ["LHSN_APP"]
 
 [[stations]]
 id = "LHSN_APP"
@@ -184,8 +199,9 @@ controlled_by = ["LHSN_APP", "LHCC_CTR"]
 
 [[stations]]
 id = "LHTL_I_TWR"
-controlled_by = ["LHTL_I_TWR", "LHCC_I_CTR"]
+controlled_by = ["LHTL_I_TWR", "LHCC_I_CTR", "LHCC_CTR"]
 
 [[stations]]
 id = "LHUD_I_TWR"
-controlled_by = ["LHUD_I_TWR", "LHCC_Z_CTR"]
+controlled_by = ["LHUD_I_TWR"]
+parent_id = ["LHCC_EFIC"]
