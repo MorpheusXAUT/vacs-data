@@ -1,0 +1,335 @@
+[[positions]]
+id = "LPAM_CTR"
+prefixes = ["LPAM"]
+frequency = "123.755"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_C_CTR"
+prefixes = ["LPPC"]
+frequency = "136.030"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_N_CTR"
+prefixes = ["LPPC"]
+frequency = "132.305"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_I_CTR"
+prefixes = ["LPPC"]
+frequency = "132.255"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_W_CTR"
+prefixes = ["LPPC"]
+frequency = "131.325"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_O_CTR"
+prefixes = ["LPPC"]
+frequency = "128.900"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_E_CTR"
+prefixes = ["LPPC"]
+frequency = "125.550"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_CTR"
+prefixes = ["LPPC"]
+frequency = "132.850"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_S_CTR"
+prefixes = ["LPPC"]
+frequency = "132.705"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_WU_CTR"
+prefixes = ["LPPC"]
+frequency = "124.350"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPC_CU_CTR"
+prefixes = ["LPPC"]
+frequency = "134.855"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPBJ_APP"
+prefixes = ["LPBJ"]
+frequency = "130.090"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPFR_APP"
+prefixes = ["LPFR"]
+frequency = "119.405"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPMA_APP"
+prefixes = ["LPMA"]
+frequency = "119.605"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPMR_APP"
+prefixes = ["LPMR"]
+frequency = "122.035"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPOV_APP"
+prefixes = ["LPOV"]
+frequency = "118.590"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPR_APP"
+prefixes = ["LPPR"]
+frequency = "120.910"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPR_U_APP"
+prefixes = ["LPPR"]
+frequency = "120.430"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPT_W_APP"
+prefixes = ["LPPT"]
+frequency = "123.980"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPT_APP"
+prefixes = ["LPPT"]
+frequency = "119.105"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPT_F_APP"
+prefixes = ["LPPT"]
+frequency = "125.130"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPST_APP"
+prefixes = ["LPSR"]
+frequency = "118.610"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPAR_TWR"
+prefixes = ["LPAR"]
+frequency = "119.235"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPBG_I_TWR"
+prefixes = ["LPBG"]
+frequency = "122.305"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPBJ_TWR"
+prefixes = ["LPBJ"]
+frequency = "130.415"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPCB_I_TWR"
+prefixes = ["LPCB"]
+frequency = "122.555"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPCH_I_TWR"
+prefixes = ["LPCH"]
+frequency = "122.705"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPCO_I_TWR"
+prefixes = ["LPCO"]
+frequency = "122.905"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPCS_TWR"
+prefixes = ["LPCS"]
+frequency = "120.305"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPEV_I_TWR"
+prefixes = ["LPEV"]
+frequency = "122.705"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPFR_TWR"
+prefixes = ["LPFR"]
+frequency = "120.755"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPMA_TWR"
+prefixes = ["LPMA"]
+frequency = "124.660"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPMR_TWR"
+prefixes = ["LPMR"]
+frequency = "118.640"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPMT_TWR"
+prefixes = ["LPMT"]
+frequency = "134.100"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPOV_TWR"
+prefixes = ["LPOV"]
+frequency = "134.110"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPM_I_TWR"
+prefixes = ["LPPM"]
+frequency = "122.005"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPR_TWR"
+prefixes = ["LPPR"]
+frequency = "118.005"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPS_TWR"
+prefixes = ["LPPS"]
+frequency = "120.055"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPT_TWR"
+prefixes = ["LPPT"]
+frequency = "118.105"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPSO_I_TWR"
+prefixes = ["LPSO"]
+frequency = "119.805"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPVR_I_TWR"
+prefixes = ["LPVR"]
+frequency = "122.905"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPVZ_I_TWR"
+prefixes = ["LPVZ"]
+frequency = "122.710"
+facility_type = "TWR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPCS_GND"
+prefixes = ["LPCS"]
+frequency = "121.830"
+facility_type = "GND"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPFR_GND"
+prefixes = ["LPFR"]
+frequency = "118.580"
+facility_type = "GND"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPR_GND"
+prefixes = ["LPPR"]
+frequency = "121.040"
+facility_type = "GND"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPT_GND"
+prefixes = ["LPPT"]
+frequency = "121.755"
+facility_type = "GND"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPR_DEL"
+prefixes = ["LPPR"]
+frequency = "118.930"
+facility_type = "DEL"
+profile_id = "LPPC_Generic"
+
+[[positions]]
+id = "LPPT_DEL"
+prefixes = ["LPPT"]
+frequency = "118.955"
+facility_type = "DEL"
+profile_id = "LPPC_Generic"
