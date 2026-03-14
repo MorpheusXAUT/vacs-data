@@ -658,7 +658,7 @@
           },
           {
             "label": ["FMP 1"],
-            "station_id": "LHCC_FMP"
+            "station_id": "LHBP_FMP"
           },
           {
             "label": ["APP", "W/U EC"],
@@ -670,7 +670,7 @@
           },
           {
             "label": ["FIW EC"],
-            "station_id": "LHBP_WFIC"
+            "station_id": "LHCC_WFIC"
           },
           {
             "label": ["FIN EC"]
@@ -683,8 +683,7 @@
             "label": ["TMCS 1", "SV"]
           },
           {
-            "label": ["ATC SV1"],
-            "station_id": "LHCC_SV_CTR"
+            "label": ["ATC SV1"]
           }
         ]
       }

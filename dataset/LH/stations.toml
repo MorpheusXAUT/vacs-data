@@ -1,6 +1,6 @@
 [[stations]]
-id = "LHCC_FMP"
-controlled_by = ["LHCC_FMP"]
+id = "LHBP_FMP"
+controlled_by = ["LHBP_FMP"]
 
 [[stations]]
 id = "LHBP_DEL"
