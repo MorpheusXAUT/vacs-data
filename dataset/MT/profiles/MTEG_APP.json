@@ -26,9 +26,6 @@
           {
             "label": ["ANT", "Ctrl B"],
             "station_id": "ANT_B_CTR"
-          },
-          {
-            "label": []
           }
         ]
       }

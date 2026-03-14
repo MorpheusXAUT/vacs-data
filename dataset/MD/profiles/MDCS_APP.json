@@ -26,9 +26,6 @@
           {
             "label": ["ANT", "Ctrl B"],
             "station_id": "ANT_B_CTR"
-          },
-          {
-            "label": []
           }
         ]
       }
@@ -57,9 +54,6 @@
           {
             "label": ["MTEG", "Approach"],
             "station_id": "MTEG_APP"
-          },
-          {
-            "label": []
           }
         ]
       }
@@ -112,9 +106,6 @@
           {
             "label": ["MTCH", "Tower"],
             "station_id": "MTCH_TWR"
-          },
-          {
-            "label": []
           }
         ]
       }

@@ -42,9 +42,6 @@
           {
             "label": ["MTEG", "Approach"],
             "station_id": "MTEG_APP"
-          },
-          {
-            "label": []
           }
         ]
       }

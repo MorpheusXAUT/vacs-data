@@ -46,9 +46,6 @@
           {
             "label": ["MTEG", "Approach"],
             "station_id": "MTEG_APP"
-          },
-          {
-            "label": []
           }
         ]
       }
@@ -82,9 +79,6 @@
                 {
                   "label": ["MDLR", "Tower"],
                   "station_id": "MDLR_TWR"
-                },
-                {
-                  "label": []
                 }
               ]
             }
@@ -125,9 +119,6 @@
                 {
                   "label": ["MDAB", "Tower"],
                   "station_id": "MDAB_TWR"
-                },
-                {
-                  "label": []
                 }
               ]
             }

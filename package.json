@@ -10,6 +10,9 @@
     "format:all:check": "prettier --check ."
   },
   "devDependencies": {
+    "@iarna/toml": "^2.2.5",
+    "ajv": "^8.18.0",
+    "ajv-cli": "^5.0.0",
     "prettier": "^3.8.1",
     "prettier-plugin-toml": "^2.0.6"
   }
