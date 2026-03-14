@@ -50,10 +50,12 @@
             "station_id": "LOWW_E_TWR"
           },
           {
-            "label": ["BUD", "128.10", "EC"]
+            "label": ["BUD", "128.10", "EC"],
+            "station_id": "LHCC_SL"
           },
           {
-            "label": ["BUD", "133.20", "EC"]
+            "label": ["BUD", "133.20", "EC"],
+            "station_id": "LHCC_WL"
           },
           {
             "label": ["MCC", "TAU", "EC"],
@@ -165,10 +167,12 @@
             "station_id": "LOVV_S1"
           },
           {
-            "label": ["BUD", "128.10", "PLC"]
+            "label": ["BUD", "128.10", "PLC"],
+            "station_id": "LHCC_SL"
           },
           {
-            "label": ["BUD", "133.20", "PLC"]
+            "label": ["BUD", "133.20", "PLC"],
+            "station_id": "LHCC_SL"
           },
           {
             "label": ["MCC", "TAU", "PLC"],
@@ -334,10 +338,12 @@
             "station_id": "LOVV_M_CTR"
           },
           {
-            "label": ["LHPR"]
+            "label": ["LHPR"],
+            "station_id": "LHPR_I_TWR"
           },
           {
-            "label": ["BUD", "FIC"]
+            "label": ["BUD", "FIC"],
+            "station_id": "LHCC_WFIC"
           },
           {
             "label": ["LOXZ", "APP"],
