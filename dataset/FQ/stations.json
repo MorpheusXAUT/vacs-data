@@ -1,24 +1,24 @@
 {
-    "stations": [
-        {
-            "id": "FQBE_FMP",
-            "parent_id": "FQBE_CTR",
-            "controlled_by": ["FQBE_FMP"]
-        },
-        {
-            "id": "FQBE_CTR",
-            "parent_id": "AFRS_FSS",
-            "controlled_by": ["FQBE_CTR"]
-        },
-        {
-            "id": "FQMA_CTR",
-            "parent_id": "FQBE_CTR",
-            "controlled_by": ["FQMA_CTR"]
-        },
-        {
-            "id": "FQMA_APP",
-            "parent_id": "FQMA_CTR",
-            "controlled_by": ["FQMA_APP"]
-        }
-    ]
+  "stations": [
+    {
+      "id": "FQBE_FMP",
+      "parent_id": "FQBE_CTR",
+      "controlled_by": ["FQBE_FMP"]
+    },
+    {
+      "id": "FQBE_CTR",
+      "parent_id": "AFRS_FSS",
+      "controlled_by": ["FQBE_CTR"]
+    },
+    {
+      "id": "FQMA_CTR",
+      "parent_id": "FQBE_CTR",
+      "controlled_by": ["FQMA_CTR"]
+    },
+    {
+      "id": "FQMA_APP",
+      "parent_id": "FQMA_CTR",
+      "controlled_by": ["FQMA_APP"]
+    }
+  ]
 }
