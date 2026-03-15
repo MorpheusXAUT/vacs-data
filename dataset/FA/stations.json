@@ -91,15 +91,6 @@
       "controlled_by": ["FAMR_I_CTR"]
     },
     {
-      "id": "FAJO",
-      "controlled_by": ["FAJO_FSS"]
-    },
-    {
-      "id": "FAJO_2",
-      "parent_id": "FAJO",
-      "controlled_by": ["FAJO_2_FSS"]
-    },
-    {
       "id": "FAOR_RDR",
       "parent_id": "FAJA_NW",
       "controlled_by": ["FAOR_APP"]
@@ -283,26 +274,6 @@
       "id": "FAKN_APP",
       "parent_id": "FAMR_I_CTR",
       "controlled_by": ["FAKN_APP"]
-    },
-    {
-      "id": "FYWH",
-      "controlled_by": ["FYWH_CTR"]
-    },
-    {
-      "id": "FBGR",
-      "controlled_by": ["FBGR_CTR"]
-    },
-    {
-      "id": "FVHF",
-      "controlled_by": ["FVHF_CTR"]
-    },
-    {
-      "id": "FQMA",
-      "controlled_by": ["FQMA_CTR"]
-    },
-    {
-      "id": "FQMA_APP",
-      "controlled_by": ["FQMA_APP"]
     },
     {
       "id": "FDSK_APP",

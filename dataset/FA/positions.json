@@ -155,18 +155,6 @@
       "profile_id": "FAMR"
     },
     {
-      "id": "FAJO_FSS",
-      "prefixes": ["FAJO"],
-      "frequency": "120.850",
-      "facility_type": "FSS"
-    },
-    {
-      "id": "FAJO_2_FSS",
-      "prefixes": ["FAJO"],
-      "frequency": "120.450",
-      "facility_type": "FSS"
-    },
-    {
       "id": "FAOR_APP",
       "prefixes": ["FAOR"],
       "frequency": "124.500",
@@ -413,36 +401,6 @@
       "id": "FAKN_APP",
       "prefixes": ["FAKN"],
       "frequency": "119.200",
-      "facility_type": "APP"
-    },
-    {
-      "id": "FYWH_CTR",
-      "prefixes": ["FYWH"],
-      "frequency": "120.500",
-      "facility_type": "CTR"
-    },
-    {
-      "id": "FBGR_CTR",
-      "prefixes": ["FBGR"],
-      "frequency": "126.100",
-      "facility_type": "CTR"
-    },
-    {
-      "id": "FVHF_CTR",
-      "prefixes": ["FVHF"],
-      "frequency": "131.500",
-      "facility_type": "CTR"
-    },
-    {
-      "id": "FQMA_CTR",
-      "prefixes": ["FQMA"],
-      "frequency": "127.300",
-      "facility_type": "CTR"
-    },
-    {
-      "id": "FQMA_APP",
-      "prefixes": ["FQMA"],
-      "frequency": "121.300",
       "facility_type": "APP"
     },
     {
