@@ -1,0 +1,43 @@
+{
+  "id": "AT98",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["WOLFS", "FANG"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": []
+          },
+          {
+            "label": ["WOLFS", "FANG", "INFO"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["JOBURG", "OCA"],
+            "station_id": "LXGB_P_APP"
+          },
+          {
+            "label": ["OCA", "FLOW"],
+            "station_id": "FAJO_FMP"
+          }
+        ]
+      }
+    }
+  ]
+}

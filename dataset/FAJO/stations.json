@@ -23,6 +23,11 @@
       "id": "FAJO_3_FSS",
       "parent_id": "FAJO_FSS",
       "controlled_by": ["FAJO_3_FSS"]
+    },
+    {
+      "id": "AT98_I_FSS",
+      "parent_id": "FAJO_FSS",
+      "controlled_by": ["AT98_I_FSS"]
     }
   ]
 }

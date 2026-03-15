@@ -29,6 +29,13 @@
       "prefixes": ["FAJO"],
       "frequency": "120.900",
       "facility_type": "FSS"
+    },
+    {
+      "id": "AT98_I_FSS",
+      "prefixes": ["AT98"],
+      "frequency": "119.500",
+      "facility_type": "FSS",
+      "profile_id": "AT98"
     }
   ]
 }
