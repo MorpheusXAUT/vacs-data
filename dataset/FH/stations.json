@@ -6,6 +6,7 @@
         },
         {
             "id": "FHSH_TWR",
+            "parent_id": "FHSH_APP",
             "controlled_by": ["FHSH_TWR"]
         }
     ]
