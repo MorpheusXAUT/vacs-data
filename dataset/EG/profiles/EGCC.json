@@ -1,0 +1,95 @@
+{
+  "id": "EGCC",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "ADC",
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": "APC",
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["SUP", "Flow"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["UK", "FMP"],
+            "station_id": "UK_FMP"
+          },
+          {
+            "label": ["MAN", "FMP"],
+            "station_id": "MAN_FMP"
+          },
+          {
+            "label": ["UK", "FMP", "2"],
+            "station_id": "UK_A_FMP"
+          },
+          {
+            "label": ["UK", "FMP", "3"],
+            "station_id": "UK_B_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["MAN", "Group", "Supvisr"],
+            "station_id": "MAN_GS_CTR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["LAC", "Group", "Supvisr"],
+            "station_id": "LON_GS_CTR"
+          },
+          {
+            "label": ["LTC", "Group", "Supvisr"],
+            "station_id": "LTC_GS_CTR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["LTC", "FMP"],
+            "station_id": "LTC_FMP"
+          },
+          {
+            "label": ["STC", "FMP"],
+            "station_id": "STC_FMP"
+          },
+          {
+            "label": ["ScAC", "Group", "Supvisr"],
+            "station_id": "SCO_GS_CTR"
+          },
+          {
+            "label": ["STC", "Group", "Supvisr"],
+            "station_id": "STC_GS_CTR"
+          }
+        ]
+      }
+    }
+  ]
+}
