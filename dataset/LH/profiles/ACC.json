@@ -157,7 +157,8 @@
         "rows": 7,
         "keys": [
           {
-            "label": ["LZBB", "T", "127,425"]
+            "label": ["LZBB", "T", "127,425"],
+            "station_id": "LZBB_CENTER_1U"
           },
           {
             "label": ["LZBB", "H", "135,965"]
@@ -169,14 +170,15 @@
             "label": ["LZBB", "M", "125,965"]
           },
           {
-            "label": ["LZBB", "L", "134,475"]
+            "label": ["LZBB", "L", "134,475"],
+            "station_id": "LZBB_CENTER_0L"
           },
           {
             "label": []
           },
           {
             "label": ["LZIB", "APP", "EC-PC"],
-            "station_id": "LZBB_WEST_0L"
+            "station_id": "LZIB_APP"
           },
           {
             "label": []
@@ -206,7 +208,8 @@
             "label": []
           },
           {
-            "label": ["LZBB", "FIC"]
+            "label": ["LZBB", "FIC"],
+            "station_id": "LZBB_I_CTR"
           },
           {
             "label": ["LZBB", "FDU"]
@@ -239,7 +242,8 @@
             "label": []
           },
           {
-            "label": ["LZKZ", "APP"]
+            "label": ["LZKZ", "APP"],
+            "station_id": "LZKZ_APP"
           },
           {
             "label": []
