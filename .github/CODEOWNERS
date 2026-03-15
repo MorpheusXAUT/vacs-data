@@ -9,6 +9,7 @@ README.md @vacs-project/maintainers
 CONTRIBUTING.md @vacs-project/maintainers
 
 # Dataset owners
+/dataset/AFRX/ @vacs-project/dataset-maintainers-afrx
 /dataset/EDGG/ @vacs-project/dataset-maintainers-edgg
 /dataset/EDMM/ @vacs-project/dataset-maintainers-edmm
 /dataset/EDWW/ @vacs-project/dataset-maintainers-edww
@@ -25,6 +26,7 @@ CONTRIBUTING.md @vacs-project/maintainers
 /dataset/EY/ @vacs-project/dataset-maintainers-ey
 /dataset/FA/ @vacs-project/dataset-maintainers-vatssa
 /dataset/GV/ @vacs-project/dataset-maintainers-vatssa
+/dataset/KHLJ/ @vacs-project/dataset-maintainers-khlj
 /dataset/LB/ @vacs-project/dataset-maintainers-lb
 /dataset/LH/ @vacs-project/dataset-maintainers-lh
 /dataset/LI/ @vacs-project/dataset-maintainers-li
