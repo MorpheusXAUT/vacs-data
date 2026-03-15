@@ -311,7 +311,8 @@
             "label": []
           },
           {
-            "label": ["LRBB", "ACC", "FD 1"]
+            "label": ["LRBB", "ACC", "FD 1"],
+            "station_id": "LRBB_FMP"
           },
           {
             "label": []
@@ -362,19 +363,19 @@
             "label": ["LRBB", "A ST PC", "123.065"]
           },
           {
-            "label": ["LRBB", "A T PC", "134.460"]
+            "label": ["LRBB", "A T PC", "135.360"]
           },
           {
             "label": ["MOP M", "A M PC", "125.765"]
           },
           {
-            "label": ["BUD M", "PC", "134.460"]
+            "label": ["BUD M", "PC", "132.865"]
           },
           {
-            "label": ["MOP L", "PC", "135.340"]
+            "label": ["MOP L", "PC", "133.630"]
           },
           {
-            "label": ["BUD L", "A L PC", "130.230"]
+            "label": ["BUD L", "A L PC", "132.740"]
           },
           {
             "label": ["ARAD", "APP", "PC"]
@@ -383,22 +384,28 @@
             "label": ["LRBB", "A ST EC", "123.065"]
           },
           {
-            "label": ["LRBB", "A T EC", "134.460"]
+            "label": ["LRBB", "A T EC", "135.360"],
+            "station_id": "LR_BANAP3"
           },
           {
-            "label": ["MOP M", "A M EC", "125.765"]
+            "label": ["MOP M", "A M EC", "125.765"],
+            "station_id": "LR_BUMON1"
           },
           {
-            "label": ["BUD M", "EC", "134.460"]
+            "label": ["BUD M", "EC", "132.865"],
+            "station_id": "LR_BUDMO3"
           },
           {
-            "label": ["MOP L", "EC", "135.340"]
+            "label": ["MOP L", "EC", "133.630"],
+            "station_id": "LR_BUDMO2"
           },
           {
-            "label": ["BUD L", "A L EC", "130.230"]
+            "label": ["BUD L", "A L EC", "132.740"],
+            "station_id": "LR_BANAP2"
           },
           {
-            "label": ["ARAD", "APP", "EC"]
+            "label": ["ARAD", "APP", "EC"],
+            "station_id": "LRAR_APP"
           },
           {
             "label": ["LRBB", "ACC", "SV"]
@@ -691,7 +698,8 @@
             "station_id": "LHCC_WFIC"
           },
           {
-            "label": ["FIN EC"]
+            "label": ["FIN EC"],
+            "station_id": "LHCC_FIC"
           },
           {
             "label": ["FIE EC"],
@@ -701,7 +709,8 @@
             "label": ["TMCS 1", "SV"]
           },
           {
-            "label": ["ATC SV1"]
+            "label": ["ATC SV1"],
+            "station_id": "LHCC_SV"
           }
         ]
       }
