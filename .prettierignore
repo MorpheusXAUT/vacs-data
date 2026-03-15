@@ -2,3 +2,4 @@
 **/Cargo.toml
 **/Cargo.lock
 **/target/
+tools/about.hbs
