@@ -73,9 +73,7 @@
           "size": 10.4,
           "page": {
             "rows": 5,
-            "keys": [
-              { "label": ["MKJK", "CTR"] }
-            ]
+            "keys": [{ "label": ["MKJK", "CTR"] }]
           }
         },
         {
@@ -87,9 +85,6 @@
               { "label": ["CARI", "FSS"] },
               { "label": ["CARW", "FSS"] },
               { "label": ["CARE", "FSS"] }
-
-
-
             ]
           }
         },

@@ -32,9 +32,7 @@
           "size": 10.4,
           "page": {
             "rows": 6,
-            "keys": [
-              { "label": ["SJU", "2 CTR"] }
-            ]
+            "keys": [{ "label": ["SJU", "2 CTR"] }]
           }
         },
         {
@@ -69,10 +67,7 @@
           "size": 10.4,
           "page": {
             "rows": 3,
-            "keys": [
-              { "label": ["CARI", "FSS"] },
-              { "label": ["CARE", "FSS"] }
-            ]
+            "keys": [{ "label": ["CARI", "FSS"] }, { "label": ["CARE", "FSS"] }]
           }
         },
         {
@@ -80,9 +75,7 @@
           "size": 10.4,
           "page": {
             "rows": 5,
-            "keys": [
-
-            ]
+            "keys": []
           }
         },
         {
@@ -90,9 +83,7 @@
           "size": 10.4,
           "page": {
             "rows": 5,
-            "keys": [
-
-            ]
+            "keys": []
           }
         }
       ]
