@@ -1,0 +1,130 @@
+{
+  "positions": [
+    {
+      "id": "TNCF_CTR",
+      "prefixes": ["TNCF"],
+      "frequency": "127.100",
+      "facility_type": "CTR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCF_S_CTR",
+      "prefixes": ["TNCF"],
+      "frequency": "127.100",
+      "facility_type": "CTR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCF_M_CTR",
+      "prefixes": ["TNCF"],
+      "frequency": "127.100",
+      "facility_type": "CTR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCF_APP",
+      "prefixes": ["TNCF"],
+      "frequency": "119.800",
+      "facility_type": "APP",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_APP",
+      "prefixes": ["TNCM"],
+      "frequency": "128.950",
+      "facility_type": "APP",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_S_APP",
+      "prefixes": ["TNCM"],
+      "frequency": "128.950",
+      "facility_type": "APP",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_M_APP",
+      "prefixes": ["TNCM"],
+      "frequency": "128.950",
+      "facility_type": "APP",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_B_APP",
+      "prefixes": ["TNCM"],
+      "frequency": "119.700",
+      "facility_type": "APP",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCA_APP",
+      "prefixes": ["TNCA"],
+      "frequency": "120.900",
+      "facility_type": "APP",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_TWR",
+      "prefixes": ["TNCM"],
+      "frequency": "118.700",
+      "facility_type": "TWR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_S_TWR",
+      "prefixes": ["TNCM"],
+      "frequency": "118.700",
+      "facility_type": "TWR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_M_TWR",
+      "prefixes": ["TNCM"],
+      "frequency": "118.700",
+      "facility_type": "TWR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCA_TWR",
+      "prefixes": ["TNCA"],
+      "frequency": "118.000",
+      "facility_type": "TWR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCC_TWR",
+      "prefixes": ["TNCC"],
+      "frequency": "118.300",
+      "facility_type": "TWR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCB_TWR",
+      "prefixes": ["TNCB"],
+      "frequency": "118.700",
+      "facility_type": "TWR",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_DEL",
+      "prefixes": ["TNCM"],
+      "frequency": "121.650",
+      "facility_type": "DEL",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCA_RMP",
+      "prefixes": ["TNCA"],
+      "frequency": "121.600",
+      "facility_type": "RMP",
+      "profile_id": "TNCF"
+    },
+    {
+      "id": "TNCM_FMP",
+      "prefixes": ["TNCM"],
+      "frequency": "199.998",
+      "facility_type": "FMP",
+      "profile_id": "TNCF"
+    }
+  ]
+}
