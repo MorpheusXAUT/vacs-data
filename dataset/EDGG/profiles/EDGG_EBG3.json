@@ -22,14 +22,15 @@
           {
             "label": ["DFAS"],
             "station_id": "EDGG-DFAS"
-          },{
+          },
+          {
             "label": [""]
           },
           {
             "label": ["EDDF", "Arrival"],
             "page": {
               "rows": 1,
-              "keys": [            
+              "keys": [
                 {
                   "label": ["DFANT"],
                   "station_id": "EDGG-DFANT"
@@ -40,7 +41,7 @@
                 }
               ]
             }
-          },   
+          },
           {
             "label": ["FFM"],
             "station_id": "EDUU-FFM"
@@ -152,7 +153,7 @@
           {
             "label": ["EDDL", "DLA"],
             "station_id": "EDGG-DLA"
-          },          
+          },
           {
             "label": ["EDDK", "NOR"],
             "station_id": "EDGG-NOR"
@@ -260,8 +261,8 @@
             "station_id": "EDMM-TRS"
           },
           {
-          "label": ["EDYY", "SH"],
-          "station_id": "EDYY-SH"
+            "label": ["EDYY", "SH"],
+            "station_id": "EDYY-SH"
           },
           {
             "label": ["EDYY", "SL"],
