@@ -99,7 +99,7 @@ controlled_by = [
 [[stations]]
 id = "LOVV_N1"
 controlled_by = [
-  "LOVV_F_CTR",
+  "LOVV_N1_CTR",
   "LOVV_N_CTR",
   "LOVV_E_CTR",
   "LOVV_CTR",
@@ -144,6 +144,7 @@ controlled_by = [
 [[stations]]
 id = "LOVV_S1"
 controlled_by = [
+  "LOVV_S1_CTR",
   "LOVV_S_CTR",
   "LOVV_B_CTR",
   "LOVV_BC_CTR",
