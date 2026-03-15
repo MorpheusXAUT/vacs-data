@@ -51,13 +51,29 @@ JSON representation:
 
 Each position entry maps a VATSIM controller login to a vacs position.
 
-| Field           | Type             | Required | Description                                                                                                         |
-| :-------------- | :--------------- | :------- | :------------------------------------------------------------------------------------------------------------------ |
-| `id`            | String           | Yes      | Unique identifier for this position in vacs (e.g., `LOWW_TWR`, `LOVV_CTR`). Must start with the FIR's country code. |
-| `prefixes`      | Array of strings | Yes      | Callsign prefixes used to match VATSIM logins when the callsign doesn't exactly match the `id` (e.g., `["LOWW"]`).  |
-| `frequency`     | String           | Yes      | Primary frequency in `XXX.XXX` format (e.g., `118.700`).                                                            |
-| `facility_type` | String           | Yes      | VATSIM facility type. Must be one of the facility types listed below.                                               |
-| `profile_id`    | String           | No       | Optional ID of the profile to load for this position.                                                               |
+| Field                  | Type             | Required | Description                                                                                                           |
+| :--------------------- | :--------------- | :------- | :-------------------------------------------------------------------------------------------------------------------- |
+| `id`                   | String           | Yes      | Unique identifier for this position in vacs (e.g., `LOWW_TWR`, `LOVV_CTR`). Must start with the FIR's country code.   |
+| `prefixes`             | Array of strings | Yes      | Callsign prefixes used to match VATSIM logins when the callsign doesn't exactly match the `id` (e.g., `["LOWW"]`).    |
+| `frequency`            | String           | Yes      | Primary frequency in `XXX.XXX` format (e.g., `118.700`).                                                              |
+| `facility_type`        | String           | Yes      | VATSIM facility type. Must be one of the facility types listed below.                                                 |
+| `profile_id`           | String           | No       | Optional ID of the profile to load for this position.                                                                 |
+| `default_call_sources` | Array of strings | No       | Prioritized list of station IDs to use as the default call source. See [Default Call Sources](#default-call-sources). |
+
+## Default Call Sources
+
+A **call source** is the station identity that identifies the caller when making an outgoing call in vacs. When you call another controller, they see the call as coming from a specific station (e.g., "LOVV_N1" rather than just your position).
+
+The `default_call_sources` field lets you define a prioritized list of station IDs that vacs will use to automatically select a default call source when a controller connects. The selection logic works as follows:
+
+1. When a controller connects to a position, vacs iterates through the `default_call_sources` list in order
+2. The first station in the list that is currently **controlled by the position** is set as the default call source
+3. If the current default call source goes offline or is handed off to another position, vacs automatically falls back to the next matching station in the list
+4. If no station from the list is currently controlled by the position, no default call source is set and the user can select one manually
+
+The order of station IDs in the list matters: it represents priority from highest to lowest. Put the station that should be the default in the most common staffing scenario first.
+
+If `default_call_sources` is omitted or empty, no automatic default is set. Controllers can always override the default call source manually.
 
 ## Validation Rules
 
@@ -71,6 +87,9 @@ The following validation rules apply:
 - `frequency` must be in `XXX.XXX` format
 - `facility_type` must be one of the valid facility types listed below
 - If the `id` ends with a known facility type suffix (e.g., `_TWR`, `_APP`, `_GND`), it must match the `facility_type` field. For example, a position with `id = "LOWW_GND"` must have `facility_type = "GND"`, not `"TWR"`. This ensures consistent matching from VATSIM callsigns to vacs positions.
+- `default_call_sources`:
+  - must not contain duplicate station IDs
+  - each station ID must reference an existing station in the dataset
 
 ## Facility Types
 
@@ -169,6 +188,35 @@ What this means in practice:
 - If a controller logs in as `LOWI_E_APP`, they will be recognized as the East approach position
 - If a controller logs in as `LOWI_S_APP`, they will be recognized as the South approach position
 - If the controller's callsign does _not_ match any of these two position IDs exactly, vacs cannot determine which position to use and the user will be prompted to select between the two before they can connect
+
+### Position with default call sources
+
+This example defines a center position that controls multiple sectors and specifies a prioritized list of default call sources.
+
+```toml
+[[positions]]
+id = "LOVV_N_CTR"
+prefixes = ["LOVV"]
+frequency = "134.350"
+facility_type = "CTR"
+profile_id = "LOVV"
+default_call_sources = [
+  "LOVV_N1",
+  "LOVV_B1",
+  "LOVV_E1",
+  "LOVV_N2",
+  "LOVV_B2",
+  "LOVV_E2",
+]
+```
+
+What this means in practice:
+
+- When a controller connects to this position, vacs checks the `default_call_sources` list in order
+- If the station `LOVV_N1` is currently controlled by this position, it becomes the default call source
+- If `LOVV_N1` is not controlled (e.g., it has been split off to another controller), vacs tries `LOVV_B1`, then `LOVV_E1`, and so on
+- If the currently active default call source is later handed off to another position, vacs automatically selects the next available station from the list
+- The controller can always override the default call source manually at any time
 
 ### Position without a profile
 
