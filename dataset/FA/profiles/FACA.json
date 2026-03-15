@@ -27,7 +27,8 @@
             "label": ["FAJO", "2"]
           },
           {
-            "label": ["FYWH", "ACC"]
+            "label": ["FYWF", "ACC"],
+            "station_id": "FYWF_CTR"
           },
           {
             "label": ["EAST", "ACC"],

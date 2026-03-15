@@ -27,7 +27,8 @@
             "label": ["FAJO", "2"]
           },
           {
-            "label": ["FYWH", "ACC"]
+            "label": ["FYWF", "ACC"],
+            "station_id": "FYWF_CTR"
           },
           {
             "label": ["CENT", "ACC"],
@@ -49,7 +50,8 @@
             "label": ["FAJO"]
           },
           {
-            "label": ["FBGR", "ACC"]
+            "label": ["FBGR", "ACC"],
+            "station_id": "FBGR_CTR"
           },
           {
             "label": ["EAST", "ACC"],
@@ -68,7 +70,8 @@
             "station_id": "FACA_INFO_W"
           },
           {
-            "label": ["FQMA", "ACC"]
+            "label": ["FQMA", "ACC"],
+            "station_id": "FQMA_CTR"
           },
           {
             "label": ["FVHF", "ACC"]
@@ -230,7 +233,8 @@
             "station_id": "FAKN_APP"
           },
           {
-            "label": ["FQMA", "APP"]
+            "label": ["FQMA", "APP"],
+            "station_id": "FQMA_APP"
           },
           {
             "label": ["FDSK", "APP"],
@@ -343,7 +347,8 @@
             "station_id": "FXMM_GMC"
           },
           {
-            "label": ["FQMA", "APP"]
+            "label": ["FQMA", "APP"],
+            "station_id": "FQMA_APP"
           },
           {
             "label": []

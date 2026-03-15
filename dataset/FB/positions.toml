@@ -1,0 +1,77 @@
+[[positions]]
+id = "FBGR_CTR"
+prefixes = ["FBGR"]
+frequency = "126.100"
+facility_type = "CTR"
+
+[[positions]]
+id = "FBKE_APP"
+prefixes = ["FBKE"]
+frequency = "127.200"
+facility_type = "APP"
+
+[[positions]]
+id = "FBMN_APP"
+prefixes = ["FBMN"]
+frequency = "126.000"
+facility_type = "APP"
+
+[[positions]]
+id = "FBPM_APP"
+prefixes = ["FBPM"]
+frequency = "125.700"
+facility_type = "APP"
+
+[[positions]]
+id = "FBSK_APP"
+prefixes = ["FBSK"]
+frequency = "128.200"
+facility_type = "APP"
+
+[[positions]]
+id = "FBKE_TWR"
+prefixes = ["FBKE"]
+frequency = "118.600"
+facility_type = "TWR"
+
+[[positions]]
+id = "FBLV_TWR"
+prefixes = ["FBLV"]
+frequency = "118.900"
+facility_type = "TWR"
+
+[[positions]]
+id = "FBMN_TWR"
+prefixes = ["FBMN"]
+frequency = "118.700"
+facility_type = "TWR"
+
+[[positions]]
+id = "FBPM_TWR"
+prefixes = ["FBPM"]
+frequency = "118.100"
+facility_type = "TWR"
+
+[[positions]]
+id = "FBSK_TWR"
+prefixes = ["FBSK"]
+frequency = "118.300"
+facility_type = "TWR"
+
+[[positions]]
+id = "FBSP_TWR"
+prefixes = ["FBSP"]
+frequency = "118.700"
+facility_type = "TWR"
+
+[[positions]]
+id = "FBMN_GND"
+prefixes = ["FBMN"]
+frequency = "121.900"
+facility_type = "GND"
+
+[[positions]]
+id = "FBSK_GND"
+prefixes = ["FBSK"]
+frequency = "121.900"
+facility_type = "GND"

@@ -1,0 +1,28 @@
+{
+    "positions": [
+        {
+            "id": "FQBE_FMP",
+            "prefixes": ["FQMA"],
+            "frequency": "199.998",
+            "facility_type": "FMP"
+        },
+        {
+            "id": "FQBE_CTR",
+            "prefixes": ["FQBE"],
+            "frequency": "127.700",
+            "facility_type": "CTR"
+        },
+        {
+            "id": "FQMA_CTR",
+            "prefixes": ["FQMA"],
+            "frequency": "127.300",
+            "facility_type": "CTR"
+        },
+        {
+            "id": "FQMA_APP",
+            "prefixes": ["FQMA"],
+            "frequency": "121.300",
+            "facility_type": "APP"
+        }
+    ]
+}
