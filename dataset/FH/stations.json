@@ -1,13 +1,13 @@
 {
-    "stations": [
-        {
-            "id": "FHSH_APP",
-            "controlled_by": ["FHSH_APP"]
-        },
-        {
-            "id": "FHSH_TWR",
-            "parent_id": "FHSH_APP",
-            "controlled_by": ["FHSH_TWR"]
-        }
-    ]
+  "stations": [
+    {
+      "id": "FHSH_APP",
+      "controlled_by": ["FHSH_APP"]
+    },
+    {
+      "id": "FHSH_TWR",
+      "parent_id": "FHSH_APP",
+      "controlled_by": ["FHSH_TWR"]
+    }
+  ]
 }
