@@ -610,7 +610,7 @@ dependencies = [
 [[package]]
 name = "vacs-protocol"
 version = "0.0.0"
-source = "git+https://github.com/vacs-project/vacs?branch=main#964241721d0006796ac2c8399167e83ebebca089"
+source = "git+https://github.com/vacs-project/vacs?branch=main#3e3f2e51fe459aa97714071e1f3edc617f5b64b5"
 dependencies = [
  "serde",
  "serde_json",
@@ -620,7 +620,7 @@ dependencies = [
 [[package]]
 name = "vacs-vatsim"
 version = "0.0.0"
-source = "git+https://github.com/vacs-project/vacs?branch=main#964241721d0006796ac2c8399167e83ebebca089"
+source = "git+https://github.com/vacs-project/vacs?branch=main#3e3f2e51fe459aa97714071e1f3edc617f5b64b5"
 dependencies = [
  "regex",
  "serde",

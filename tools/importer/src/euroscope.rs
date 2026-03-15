@@ -4,7 +4,7 @@ use std::collections::{HashMap, HashSet};
 use std::io::{BufRead, BufReader};
 use std::path::{Path, PathBuf};
 use vacs_data_diagnostics::log;
-use vacs_protocol::vatsim::PositionId;
+use vacs_protocol::vatsim::{PositionId, StationId};
 use vacs_vatsim::FacilityType;
 use vacs_vatsim::coverage::position::{PositionConfigFile, PositionRaw};
 
@@ -295,6 +295,7 @@ fn parse_ese_position_line(line: &str) -> Option<PositionRaw> {
         prefixes: HashSet::from([parts[5].to_string()]),
         facility_type,
         profile_id: None,
+        default_call_sources: vec![StationId::from(parts[0])],
     })
 }
 
@@ -332,5 +333,6 @@ fn create_stub_position(id: &str) -> PositionRaw {
         prefixes: HashSet::from([prefix]),
         facility_type,
         profile_id: None,
+        default_call_sources: vec![StationId::from(id)],
     }
 }
