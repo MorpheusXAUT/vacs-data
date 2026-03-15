@@ -76,7 +76,8 @@
             "station_id": "FQMA_CTR"
           },
           {
-            "label": ["FVHF", "ACC"]
+            "label": ["FVHF", "ACC"],
+            "station_id": "FVHF_CTR"
           },
           {
             "label": ["NORTH", "WEST", "ACC"],
