@@ -1,0 +1,88 @@
+{
+  "id": "AFRC",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "AFRC",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "AFRC*",
+
+            "AFRN*",
+            "AFRE*",
+            "AFRS*",
+            "AFRW*",
+
+            "ASIA_W*",
+            "DGAO*",
+            "FAJO*",
+            "FBGR*",
+            "FCCC*",
+            "FHSH*",
+            "FIMM*",
+            "FLFI*",
+            "FLHN*",
+            "FLKK*",
+            "FLMF*",
+            "FLND*",
+            "FMMM*",
+            "FNAN*",
+            "FNLU*",
+            "FQBE*",
+            "FQMA*",
+            "FSIA*",
+            "FSSS*",
+            "FVHF*",
+            "FWCL*",
+            "FWKI*",
+            "FWLL*",
+            "FYWH*",
+            "FZAA*",
+            "FZQA*",
+            "FZWA*",
+            "FZZA*",
+            "GOOC*",
+            "GOOO*",
+            "HAAA*",
+            "HBBA*",
+            "HCSM*",
+            "HJJJ*",
+            "HKEL*",
+            "HKJK*",
+            "HKMO*",
+            "HKNA*",
+            "HKNL*",
+            "HRYR*",
+            "HSSS*",
+            "HTDA*",
+            "HTDC*",
+            "HTDO*",
+            "HTKJ*",
+            "HTMW*",
+            "HTZA*",
+            "HUEC*",
+            "HUEN*",
+            "HUSO*",
+            "SBAO*",
+            "VABB*",
+            "VABF*"
+          ],
+          "exclude": [
+            "*_TWR",
+            "*_GND",
+            "*_DEL"
+          ],
+          "priority": [
+            "*_FMP",
+            "*_CTR",
+            "*_APP"
+          ],
+          "frequencies": "ShowAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}

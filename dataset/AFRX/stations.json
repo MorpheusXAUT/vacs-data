@@ -1,0 +1,34 @@
+{
+    "stations": [
+        {
+            "id": "AFRN_FSS",
+            "controlled_by": ["AFRN_FSS"]
+        },
+        {
+            "id": "AFRE_FSS",
+            "controlled_by": ["AFRE_FSS"]
+        },
+        {
+            "id": "AFRS_FSS",
+            "controlled_by": ["AFRS_FSS"]
+        },
+        {
+            "id": "AFRC_FSS",
+            "controlled_by": ["AFRC_FSS"]
+        },
+        {
+            "id": "AFRW_FSS",
+            "controlled_by": ["AFRW_FSS"]
+        },
+        {
+            "id": "AFRW_A_FSS",
+            "parent_id": "AFRW_FSS",
+            "controlled_by": ["AFRW_A_FSS"]
+        },
+        {
+            "id": "AFRW_B_FSS",
+            "parent_id": "AFRW_FSS",
+            "controlled_by": ["AFRW_B_FSS"]
+        }
+    ]
+}
