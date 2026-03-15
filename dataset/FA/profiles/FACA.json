@@ -24,7 +24,8 @@
             "station_id": "FAJA_W"
           },
           {
-            "label": ["FAJO", "2"]
+            "label": ["FAJO", "2"],
+            "station_id": "FAJO_2_FSS"
           },
           {
             "label": ["FYWF", "ACC"],
@@ -47,7 +48,8 @@
             "station_id": "FAJA_E"
           },
           {
-            "label": ["FAJO"]
+            "label": ["FAJO"],
+            "station_id": "FAJO_FSS"
           },
           {
             "label": []

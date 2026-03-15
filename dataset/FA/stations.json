@@ -319,10 +319,6 @@
       "controlled_by": ["FALM_TWR"]
     },
     {
-      "id": "FBSK_APP",
-      "controlled_by": ["FBSK_APP"]
-    },
-    {
       "id": "FDMS_TWR",
       "parent_id": "FDSK_APP",
       "controlled_by": ["FDMS_TWR"]
