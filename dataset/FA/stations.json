@@ -17,12 +17,12 @@
     },
     {
       "id": "FAJA_N",
-      "parent_id": "AFRS_FSS",
+      "parent_id": "FASA",
       "controlled_by": ["FAJA_N_CTR", "FAJA_CTR", "FASA_CTR"]
     },
     {
       "id": "FAJA_NE",
-      "parent_id": "AFRS_FSS",
+      "parent_id": "FASA",
       "controlled_by": ["FAJA_NE_CTR", "FAJA_N_CTR", "FAJA_CTR", "FASA_CTR"]
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "id": "FACA_W",
-      "parent_id": "AFRS_FSS",
+      "parent_id": "FASA",
       "controlled_by": ["FACA_CTR", "FASA_CTR"]
     },
     {
