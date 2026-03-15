@@ -464,12 +464,6 @@
       "facility_type": "GND"
     },
     {
-      "id": "FBSK_APP",
-      "prefixes": ["FBSK"],
-      "frequency": "128.200",
-      "facility_type": "APP"
-    },
-    {
       "id": "FAUP_APP",
       "prefixes": ["FAUP"],
       "frequency": "121.300",
