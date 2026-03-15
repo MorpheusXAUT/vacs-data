@@ -1,14 +1,14 @@
 {
-    "stations": [
-        {
-            "id": "FBGR_CTR",
-            "parent_id": "AFRS_FSS",
-            "controlled_by": ["FBGR_CTR"]
-        },
-        {
-            "id": "FBSK_APP",
-            "parent_id": "FBGR_CTR",
-            "controlled_by": ["FBSK_APP"]
-        }
-    ]
+  "stations": [
+    {
+      "id": "FBGR_CTR",
+      "parent_id": "AFRS_FSS",
+      "controlled_by": ["FBGR_CTR"]
+    },
+    {
+      "id": "FBSK_APP",
+      "parent_id": "FBGR_CTR",
+      "controlled_by": ["FBSK_APP"]
+    }
+  ]
 }

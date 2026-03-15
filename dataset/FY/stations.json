@@ -1,19 +1,19 @@
 {
-    "stations": [
-        {
-            "id": "FYWF_CTR",
-            "parent_id": "AFRS_FSS",
-            "controlled_by": ["FYWF_CTR"]
-        },
-        {
-            "id": "FYWH_APP",
-            "parent_id": "FYWF_CTR",
-            "controlled_by": ["FYWH_APP"]
-        },
-        {
-            "id": "FYWH_TWR",
-            "parent_id": "FYWH_APP",
-            "controlled_by": ["FYWH_TWR"]
-        }
-    ]
+  "stations": [
+    {
+      "id": "FYWF_CTR",
+      "parent_id": "AFRS_FSS",
+      "controlled_by": ["FYWF_CTR"]
+    },
+    {
+      "id": "FYWH_APP",
+      "parent_id": "FYWF_CTR",
+      "controlled_by": ["FYWH_APP"]
+    },
+    {
+      "id": "FYWH_TWR",
+      "parent_id": "FYWH_APP",
+      "controlled_by": ["FYWH_TWR"]
+    }
+  ]
 }
