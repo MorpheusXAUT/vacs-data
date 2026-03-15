@@ -100,16 +100,8 @@
             "HUEC*",
             "HUEN*"
           ],
-          "exclude": [
-            "*_TWR",
-            "*_GND",
-            "*_DEL"
-          ],
-          "priority": [
-            "*_FMP",
-            "*_CTR",
-            "*_APP"
-          ],
+          "exclude": ["*_TWR", "*_GND", "*_DEL"],
+          "priority": ["*_FMP", "*_CTR", "*_APP"],
           "frequencies": "ShowAll",
           "grouping": "None"
         }
@@ -117,5 +109,3 @@
     }
   ]
 }
-
-

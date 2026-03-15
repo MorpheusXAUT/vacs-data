@@ -75,16 +75,8 @@
             "TTZO*",
             "TTZP*"
           ],
-          "exclude": [
-            "*_TWR",
-            "*_GND",
-            "*_DEL"
-          ],
-          "priority": [
-            "*_FMP",
-            "*_CTR",
-            "*"
-          ],
+          "exclude": ["*_TWR", "*_GND", "*_DEL"],
+          "priority": ["*_FMP", "*_CTR", "*"],
           "frequencies": "ShowAll",
           "grouping": "None"
         }
