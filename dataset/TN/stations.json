@@ -43,6 +43,11 @@
       "controlled_by": ["TNCB_TWR"]
     },
     {
+      "id": "TNCA_RMP",
+      "parent_id": "TNCA_TWR",
+      "controlled_by": ["TNCA_RMP"]
+    },
+    {
       "id": "TNCM_DEL",
       "parent_id": "TNCM_TWR",
       "controlled_by": ["TNCM_DEL"]
