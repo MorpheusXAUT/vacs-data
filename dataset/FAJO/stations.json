@@ -1,28 +1,28 @@
 {
-    "stations": [
-        {
-            "id": "FAJO_FMP",
-            "parent_id": "FAJO_FSS",
-            "controlled_by": ["FAJO_FMP"]
-        },
-        {
-            "id": "FAJO_FSS",
-            "controlled_by": ["FAJO_FSS"]
-        },
-        {
-            "id": "FAJO_1_FSS",
-            "parent_id": "FAJO_FSS",
-            "controlled_by": ["FAJO_1_FSS"]
-        },
-        {
-            "id": "FAJO_2_FSS",
-            "parent_id": "FAJO_FSS",
-            "controlled_by": ["FAJO_2_FSS"]
-        },
-        {
-            "id": "FAJO_3_FSS",
-            "parent_id": "FAJO_FSS",
-            "controlled_by": ["FAJO_3_FSS"]
-        }
-    ]
+  "stations": [
+    {
+      "id": "FAJO_FMP",
+      "parent_id": "FAJO_FSS",
+      "controlled_by": ["FAJO_FMP"]
+    },
+    {
+      "id": "FAJO_FSS",
+      "controlled_by": ["FAJO_FSS"]
+    },
+    {
+      "id": "FAJO_1_FSS",
+      "parent_id": "FAJO_FSS",
+      "controlled_by": ["FAJO_1_FSS"]
+    },
+    {
+      "id": "FAJO_2_FSS",
+      "parent_id": "FAJO_FSS",
+      "controlled_by": ["FAJO_2_FSS"]
+    },
+    {
+      "id": "FAJO_3_FSS",
+      "parent_id": "FAJO_FSS",
+      "controlled_by": ["FAJO_3_FSS"]
+    }
+  ]
 }
