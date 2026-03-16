@@ -58,31 +58,39 @@
     },
     {
       "id": "CZQX-1-CTR",
-      "parent_id": "CZQM-CTR"
+      "parent_id": "CZQX-CTR"
     },
     {
       "id": "CZQX-2-CTR",
-      "parent_id": "CZQM-CTR"
+      "parent_id": "CZQX-CTR"
     },
     {
       "id": "CZQX-3-CTR",
-      "parent_id": "CZQM-CTR"
+      "parent_id": "CZQX-CTR"
     },
     {
       "id": "CZQX-4-CTR",
-      "parent_id": "CZQM-CTR"
+      "parent_id": "CZQX-CTR"
     },
     {
       "id": "CZQX-5-CTR",
-      "parent_id": "CZQM-CTR"
+      "parent_id": "CZQX-CTR"
     },
     {
       "id": "CZQX-6-CTR",
-      "parent_id": "CZQM-CTR"
+      "parent_id": "CZQX-CTR"
     },
     {
       "id": "CZQX-7-CTR",
-      "parent_id": "CZQM-CTR"
+      "parent_id": "CZQX-CTR"
+    },
+    {
+      "id": "CZQX-G-CTR",
+      "parent_id": "CZQX-CTR"
+    },
+    {
+      "id": "CZQX-O-CTR",
+      "parent_id": "CZQX-CTR"
     },
     {
       "id": "CZQM-L",
