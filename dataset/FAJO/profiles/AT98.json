@@ -11,7 +11,8 @@
             "label": []
           },
           {
-            "label": ["WOLFS", "FANG", "INFO"]
+            "label": ["WOLFS", "FANG", "INFO"],
+            "station_id": "AT98_I_FSS"
           },
           {
             "label": []
