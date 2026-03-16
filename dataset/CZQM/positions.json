@@ -2,468 +2,364 @@
   "positions": [
     {
       "id": "CZQM_TMU",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "118.000",
       "facility_type": "FMP",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_TM_TMU",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "129.000",
       "facility_type": "FMP",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_1_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "123.800",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_2_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "132.700",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_3_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "135.650",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_4_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "123.700",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_5_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "126.450",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_6_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "125.750",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_7_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "132.800",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_8_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "132.250",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_CB_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "118.600",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "132.200",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_C_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "134.250",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_DG_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "123.900",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_S_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "134.250",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_ZV_CTR",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "133.350",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_1_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "132.300",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_2_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "133.000",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_3_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "125.075",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_4_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "128.175",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_5_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "132.050",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_6_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "119.850",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_7_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "132.500",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "132.100",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_G_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "135.150",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQX_O_CTR",
-      "prefixes": [
-        "CZQX"
-      ],
+      "prefixes": ["CZQX"],
       "frequency": "128.075",
       "facility_type": "CTR",
       "profile_id": "CZQM"
     },
     {
       "id": "CYHZ_APP",
-      "prefixes": [
-        "CYHZ"
-      ],
+      "prefixes": ["CYHZ"],
       "frequency": "119.200",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CYHZ_FI_APP",
-      "prefixes": [
-        "CYHZ"
-      ],
+      "prefixes": ["CYHZ"],
       "frequency": "128.550",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CYQM_APP",
-      "prefixes": [
-        "CYQM"
-      ],
+      "prefixes": ["CYQM"],
       "frequency": "124.400",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CYQX_APP",
-      "prefixes": [
-        "CYQX"
-      ],
+      "prefixes": ["CYQX"],
       "frequency": "128.500",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CYSJ_APP",
-      "prefixes": [
-        "CYSJ"
-      ],
+      "prefixes": ["CYSJ"],
       "frequency": "124.300",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CYYR_APP",
-      "prefixes": [
-        "CYYR"
-      ],
+      "prefixes": ["CYYR"],
       "frequency": "119.500",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CYYT_APP",
-      "prefixes": [
-        "CYYT"
-      ],
+      "prefixes": ["CYYT"],
       "frequency": "133.150",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CYZX_APP",
-      "prefixes": [
-        "CYZX"
-      ],
+      "prefixes": ["CYZX"],
       "frequency": "120.600",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CZQM_L_APP",
-      "prefixes": [
-        "CZQM"
-      ],
+      "prefixes": ["CZQM"],
       "frequency": "124.400",
       "facility_type": "APP",
       "profile_id": "CZQM"
     },
     {
       "id": "CYFC_TWR",
-      "prefixes": [
-        "CYFC"
-      ],
+      "prefixes": ["CYFC"],
       "frequency": "119.000",
       "facility_type": "TWR",
       "profile_id": "CZQM"
     },
     {
       "id": "CYHZ_TWR",
-      "prefixes": [
-        "CYHZ"
-      ],
+      "prefixes": ["CYHZ"],
       "frequency": "118.400",
       "facility_type": "TWR",
       "profile_id": "CZQM"
     },
     {
       "id": "CYQM_TWR",
-      "prefixes": [
-        "CYQM"
-      ],
+      "prefixes": ["CYQM"],
       "frequency": "120.800",
       "facility_type": "TWR",
       "profile_id": "CZQM"
     },
     {
       "id": "CYQX_TWR",
-      "prefixes": [
-        "CYQX"
-      ],
+      "prefixes": ["CYQX"],
       "frequency": "118.100",
       "facility_type": "TWR",
       "profile_id": "CZQM"
     },
     {
       "id": "CYYR_TWR",
-      "prefixes": [
-        "CYYR"
-      ],
+      "prefixes": ["CYYR"],
       "frequency": "119.100",
       "facility_type": "TWR",
       "profile_id": "CZQM"
     },
     {
       "id": "CYYT_TWR",
-      "prefixes": [
-        "CYYT"
-      ],
+      "prefixes": ["CYYT"],
       "frequency": "120.600",
       "facility_type": "TWR",
       "profile_id": "CZQM"
     },
     {
       "id": "CYZX_TWR",
-      "prefixes": [
-        "CYZX"
-      ],
+      "prefixes": ["CYZX"],
       "frequency": "119.500",
       "facility_type": "TWR",
       "profile_id": "CZQM"
     },
     {
       "id": "CYFC_GND",
-      "prefixes": [
-        "CYFC"
-      ],
+      "prefixes": ["CYFC"],
       "frequency": "121.700",
       "facility_type": "GND",
       "profile_id": "CZQM"
     },
     {
       "id": "CYHZ_GND",
-      "prefixes": [
-        "CYHZ"
-      ],
+      "prefixes": ["CYHZ"],
       "frequency": "121.900",
       "facility_type": "GND",
       "profile_id": "CZQM"
     },
     {
       "id": "CYQM_GND",
-      "prefixes": [
-        "CYQM"
-      ],
+      "prefixes": ["CYQM"],
       "frequency": "121.800",
       "facility_type": "GND",
       "profile_id": "CZQM"
     },
     {
       "id": "CYQX_GND",
-      "prefixes": [
-        "CYQX"
-      ],
+      "prefixes": ["CYQX"],
       "frequency": "121.900",
       "facility_type": "GND",
       "profile_id": "CZQM"
     },
     {
       "id": "CYYR_GND",
-      "prefixes": [
-        "CYYR"
-      ],
+      "prefixes": ["CYYR"],
       "frequency": "121.900",
       "facility_type": "GND",
       "profile_id": "CZQM"
     },
     {
       "id": "CYYT_GND",
-      "prefixes": [
-        "CYYT"
-      ],
+      "prefixes": ["CYYT"],
       "frequency": "121.900",
       "facility_type": "GND",
       "profile_id": "CZQM"
     },
     {
       "id": "CYZX_GND",
-      "prefixes": [
-        "CYZX"
-      ],
+      "prefixes": ["CYZX"],
       "frequency": "133.750",
       "facility_type": "GND",
       "profile_id": "CZQM"
     },
     {
       "id": "CYHZ_DEL",
-      "prefixes": [
-        "CYHZ"
-      ],
+      "prefixes": ["CYHZ"],
       "frequency": "123.950",
       "facility_type": "DEL",
       "profile_id": "CZQM"
     },
     {
       "id": "CYYR_DEL",
-      "prefixes": [
-        "CYYR"
-      ],
+      "prefixes": ["CYYR"],
       "frequency": "118.100",
       "facility_type": "DEL",
       "profile_id": "CZQM"
     },
     {
       "id": "CYZX_DEL",
-      "prefixes": [
-        "CYZX"
-      ],
+      "prefixes": ["CYZX"],
       "frequency": "128.025",
       "facility_type": "DEL",
       "profile_id": "CZQM"
