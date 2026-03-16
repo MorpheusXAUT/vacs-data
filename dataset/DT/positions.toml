@@ -65,40 +65,40 @@ frequency = "121.670"
 facility_type = "GND"
 
 [[positions]]
+profile_id = DTTA
+
 id = "DTTA_APP"
 prefixes = ["DTTA"]
 frequency = "121.200"
 facility_type = "APP"
+[[positions]]
 profile_id = DTTA
 
-[[positions]]
 id = "DTTA_U_APP"
 prefixes = ["DTTA"]
 frequency = "119.500"
 facility_type = "APP"
+[[positions]]
 profile_id = DTTA
 
-[[positions]]
 id = "DTTA_TWR"
 prefixes = ["DTTA"]
 frequency = "118.100"
 facility_type = "TWR"
+[[positions]]
 profile_id = DTTA
 
-[[positions]]
 id = "DTTA_GND"
 prefixes = ["DTTA"]
 frequency = "121.900"
 facility_type = "GND"
+[[positions]]
 profile_id = DTTA
 
-[[positions]]
 id = "DTTA_DEL"
 prefixes = ["DTTA"]
 frequency = "130.675"
 facility_type = "DEL"
-profile_id = DTTA
-
 [[positions]]
 id = "DTTF_APP"
 prefixes = ["DTTF"]
@@ -166,8 +166,7 @@ frequency = "118.300"
 facility_type = "TWR"
 
 [[positions]]
-id = "DTTI_TWR"
+profile_id = DTTIid = "DTTI_TWR"
 prefixes = ["DTTI"]
 frequency = "123.000"
 facility_type = "TWR"
-profile_id = DTTI
