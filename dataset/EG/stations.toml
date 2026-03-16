@@ -682,6 +682,71 @@ controlled_by = ["EGVV_D_CTR"]
 ####################
 
 [[stations]]
+id = "EGBB_APP"
+parent_id = "LTC_MC_CTR"
+controlled_by = ["EGBB_APP", "EGBB_F_APP"]
+
+[[stations]]
+id = "EGBB_F_APP"
+parent_id = "EGBB_APP"
+controlled_by = ["EGBB_F_APP"]
+
+[[stations]]
+id = "EGCC_DEL"
+parent_id = "EGCC_GND"
+controlled_by = ["EGCC_DEL"]
+
+[[stations]]
+id = "EGCC_A_DEL"
+parent_id = "EGCC_DEL"
+controlled_by = ["EGCC_A_DEL"]
+
+[[stations]]
+id = "EGCC_P_GND"
+parent_id = "EGCC_DEL"
+controlled_by = ["EGCC_P_GND"]
+
+[[stations]]
+id = "EGCC_GND"
+parent_id = "EGCC_N_TWR"
+controlled_by = ["EGCC_GND"]
+
+[[stations]]
+id = "EGCC_N_TWR"
+parent_id = "EGCC_S_APP"
+controlled_by = ["EGCC_N_TWR", "EGCC_S_TWR"]
+
+[[stations]]
+id = "EGCC_S_TWR"
+parent_id = "EGCC_N_TWR"
+controlled_by = ["EGCC_S_TWR"]
+
+[[stations]]
+id = "EGCC_S_APP"
+parent_id = "MAN_SE_CTR"
+controlled_by = ["EGCC_S_APP", "EGCC_N_APP", "EGCC_F_APP"]
+
+[[stations]]
+id = "EGCC_N_APP"
+parent_id = "EGCC_S_APP"
+controlled_by = ["EGCC_N_APP"]
+
+[[stations]]
+id = "EGCC_F_APP"
+parent_id = "EGCC_S_APP"
+controlled_by = ["EGCC_F_APP"]
+
+[[stations]]
+id = "EGGP_APP"
+parent_id = "MAN_WL_CTR"
+controlled_by = ["EGGP_APP", "EGGP_F_APP"]
+
+[[stations]]
+id = "EGGP_F_APP"
+parent_id = "EGGP_APP"
+controlled_by = ["EGGP_F_APP"]
+
+[[stations]]
 id = "EGKK_APP"
 parent_id = "LTC_SW_CTR"
 controlled_by = ["EGKK_APP", "EGKK_F_APP"]
@@ -783,6 +848,51 @@ controlled_by = ["EGLM_R_TWR"]
 id = "EGLW_TWR"
 parent_id = "EGLL-CTR-TC_SVFR"
 controlled_by = ["EGLW_TWR"]
+
+[[stations]]
+id = "EGNH_A_APP"
+parent_id = "MAN_WI_CTR"
+controlled_by = ["EGNH_A_APP"]
+
+[[stations]]
+id = "EGNM_APP"
+parent_id = "MAN_NE_CTR"
+controlled_by = ["EGNM_APP", "EGNM_F_APP"]
+
+[[stations]]
+id = "EGNM_F_APP"
+parent_id = "EGNM_APP"
+controlled_by = ["EGNM_F_APP"]
+
+[[stations]]
+id = "EGNO_APP"
+parent_id = "EGVV_C_CTR"
+controlled_by = ["EGNO_APP", "EGNO_P_APP"]
+
+[[stations]]
+id = "EGNO_P_APP"
+parent_id = "EGNO_APP"
+controlled_by = ["EGNO_P_APP"]
+
+[[stations]]
+id = "EGNR_APP"
+parent_id = "EGGP_APP"
+controlled_by = ["EGNR_APP", "EGNR_F_APP"]
+
+[[stations]]
+id = "EGNR_F_APP"
+parent_id = "EGNR_APP"
+controlled_by = ["EGNR_F_APP"]
+
+[[stations]]
+id = "EGNX_APP"
+parent_id = "LTC_MW_CTR"
+controlled_by = ["EGNX_APP", "EGNX_F_APP"]
+
+[[stations]]
+id = "EGNX_F_APP"
+parent_id = "EGNX_APP"
+controlled_by = ["EGNX_F_APP"]
 
 [[stations]]
 id = "EGSS_APP"
