@@ -1,0 +1,150 @@
+{
+    "id": "DTTA",
+    "type": "Tabbed",
+    "tabs": [
+        {
+            "label": ["CARTH", "-AGE", "ADC"],
+            "page": {
+                "rows": 4,
+                "keys": [
+                    {
+                        "label": ["DEL"],
+                        "station_id": "DTTA_DEL"
+                    },
+                    {
+                        "label": ["GND"],
+                        "station_id": "DTTA_GND"
+                    },
+                    {
+                        "label": ["TWR"],
+                        "station_id": "DTTA_TWR"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["APP"],
+                        "station_id": "DTTA_APP"
+                    },
+                    {
+                        "label": ["UPPER", "APP"],
+                        "station_id": "DTTA_U_APP"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["TI", "TWR"],
+                        "station_id": "DTTI_TWR"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["DTTC", "N"],
+                        "station_id": "DTTC_N_CTR"
+                    },
+                    {
+                        "label": ["DTTC", "INFO"],
+                        "station_id": "DTTC_I_INFO"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["DTTC", "FLOW"],
+                        "station_id": "DTTC_FMP"
+                    }
+                ]
+            }
+        },
+        {
+            "label": ["CARTH", "-AGE", "APP"],
+            "page": {
+                "rows": 4,
+                "keys": [
+                    {
+                        "label": ["DEL"],
+                        "station_id": "DTTA_DEL"
+                    },
+                    {
+                        "label": ["GND"],
+                        "station_id": "DTTA_GND"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["APP"],
+                        "station_id": "DTTA_APP"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["TWR"],
+                        "station_id": "DTTA_TWR"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["UPPER", "APP"],
+                        "station_id": "DTTA_U_APP"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["TI", "TWR"],
+                        "station_id": "DTTI_TWR"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["TABARKA", "APP"],
+                        "station_id": "DTKA_APP"
+                    },
+                    {
+                        "label": ["ENFIDHA", "APP"],
+                        "station_id": "DTNH_APP"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["DTTC", "N"],
+                        "station_id": "DTTC_N_CTR"
+                    },
+                    {
+                        "label": ["DTTC", "INFO"],
+                        "station_id": "DTTC_I_INFO"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["DTTC", "FLOW"],
+                        "station_id": "DTTC_FMP"
+                    }
+                ]
+            }
+        }
+    ]
+}
