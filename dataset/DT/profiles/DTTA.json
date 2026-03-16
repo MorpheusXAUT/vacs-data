@@ -55,7 +55,7 @@
           },
           {
             "label": ["DTTC", "INFO"],
-            "station_id": "DTTC_I_INFO"
+            "station_id": "DTTC_I_CTR"
           },
           {
             "label": []
@@ -134,7 +134,7 @@
           },
           {
             "label": ["DTTC", "INFO"],
-            "station_id": "DTTC_I_INFO"
+            "station_id": "DTTC_I_CTR"
           },
           {
             "label": []
