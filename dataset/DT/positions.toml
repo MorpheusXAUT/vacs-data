@@ -166,7 +166,8 @@ frequency = "118.300"
 facility_type = "TWR"
 
 [[positions]]
-profile_id = DTTIid = "DTTI_TWR"
+profile_id = DTTI
+id = "DTTI_TWR"
 prefixes = ["DTTI"]
 frequency = "123.000"
 facility_type = "TWR"
