@@ -1,0 +1,549 @@
+{
+  "id": "CZQM",
+  "type": "Geo",
+  "direction": "row",
+  "padding": 0.5,
+  "gap": 1.5,
+  "justify_content": "space-evenly",
+  "align_items": "center",
+  "children": [
+    {
+      "direction": "col",
+      "height": "100%",
+      "justify_content": "space-around",
+      "children": [
+        {
+          "label": "NAT",
+          "size": 6,
+          "page": {
+            "rows": 5,
+            "client_page": {
+              "include": [
+                "NAT_*",
+                "CZQO_*"
+              ],
+              "frequencies": "ShowAll",
+              "priority": [
+                "*_TMU",
+                "*_CTR",
+                "*_FSS"
+              ],
+              "grouping": "Fir"
+            }
+          }
+        },
+        {
+          "label": "CZUL",
+          "size": 6
+        },
+        {
+          "label": "BOS",
+          "size": 6,
+          "page": {
+            "rows": 5,
+            "client_page": {
+              "include": [
+                "BOS_*"
+              ]
+            }
+          }
+        },
+        {
+          "label": "KZWY",
+          "size": 6
+        }
+      ]
+    },
+    {
+      "orientation": "vertical",
+      "thickness": 2,
+      "color": "#364153",
+      "oversize": 0.5
+    },
+    {
+      "direction": "col",
+      "height": "100%",
+      "justify_content": "space-evenly",
+      "align_items": "start",
+      "children": [
+        {
+          "direction": "row",
+          "width": "100%",
+          "gap": 2,
+          "justify_content": "space-between",
+          "align_items": "center",
+          "children": [
+            {
+              "direction": "col",
+              "gap": 0.5,
+              "children": [
+                {
+                  "label": [
+                    "QM",
+                    "Moncton"
+                  ],
+                  "size": 14,
+                  "page": {
+                    "rows": 5,
+                    "keys": [
+                      {
+                        "label": [
+                          "QM",
+                          "132.2"
+                        ],
+                        "station_id": "CZQM-CTR"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": [
+                          "QM DG",
+                          "123.9"
+                        ],
+                        "station_id": "CZQM-DG-CTR"
+                      },
+                      {
+                        "label": [
+                          "QM ZV",
+                          "133.35"
+                        ],
+                        "station_id": "CZQM-ZV-CTR"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": [
+                          "QM 1",
+                          "123.8"
+                        ],
+                        "station_id": "CZQM-1-CTR"
+                      },
+                      {
+                        "label": [
+                          "QM 2",
+                          "132.7"
+                        ],
+                        "station_id": "CZQM-2-CTR"
+                      },
+                      {
+                        "label": [
+                          "QM 3",
+                          "135.65"
+                        ],
+                        "station_id": "CZQM-3-CTR"
+                      },
+                      {
+                        "label": [
+                          "QM 4",
+                          "123.7"
+                        ],
+                        "station_id": "CZQM-4-CTR"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": [
+                          "QM 5",
+                          "126.45"
+                        ],
+                        "station_id": "CZQM-5-CTR"
+                      },
+                      {
+                        "label": [
+                          "QM 6",
+                          "125.75"
+                        ],
+                        "station_id": "CZQM-6-CTR"
+                      },
+                      {
+                        "label": [
+                          "QM 7",
+                          "123.75"
+                        ],
+                        "station_id": "CZQM-7-CTR"
+                      },
+                      {
+                        "label": [
+                          "QM 8",
+                          "132.25"
+                        ],
+                        "station_id": "CZQM-8-CTR"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": [
+                          "QM LO",
+                          "124.4"
+                        ],
+                        "station_id": "CZQM-QM"
+                      },
+                      {
+                        "label": [
+                          "SJ LO",
+                          "124.3"
+                        ],
+                        "station_id": "CZQM-SJ"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      }
+                    ]
+                  }
+                },
+                {
+                  "direction": "row",
+                  "justify_content": "space-around",
+                  "children": [
+                    {
+                      "label": [
+                        "CYHZ"
+                      ],
+                      "size": 6,
+                      "page": {
+                        "rows": 5,
+                        "keys": [
+                          {
+                            "label": [
+                              "HZ APP",
+                              "119.2"
+                            ],
+                            "station_id": "CYHZ-TMA"
+                          },
+                          {
+                            "label": [
+                              "HZ TWR",
+                              "118.4"
+                            ],
+                            "station_id": "CYHZ-TWR"
+                          },
+                          {
+                            "label": [
+                              "HZ GND",
+                              "121.9"
+                            ],
+                            "station_id": "CYHZ-GND"
+                          },
+                          {
+                            "label": [
+                              "HZ DEL",
+                              "123.95"
+                            ],
+                            "station_id": "CYHZ-DEL"
+                          },
+                          {
+                            "label": ""
+                          },
+                          {
+                            "label": [
+                              "HZ FI",
+                              "128.55"
+                            ],
+                            "station_id": "CYHZ-TMA-FI"
+                          },
+                          {
+                            "label": ""
+                          },
+                          {
+                            "label": ""
+                          },
+                          {
+                            "label": ""
+                          },
+                          {
+                            "label": ""
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "label": [
+                        "CYQM"
+                      ],
+                      "size": 6,
+                      "page": {
+                        "rows": 5,
+                        "keys": [
+                          {
+                            "label": [
+                              "QM LO",
+                              "124.4"
+                            ],
+                            "station_id": "CZQM-QM"
+                          },
+                          {
+                            "label": [
+                              "QM TWR",
+                              "120.8"
+                            ],
+                            "station_id": "CYQM-TWR"
+                          },
+                          {
+                            "label": [
+                              "QM GND",
+                              "121.8"
+                            ],
+                            "station_id": "CYQM-GND"
+                          },
+                          {
+                            "label": ""
+                          },
+                          {
+                            "label": ""
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "direction": "row",
+                  "justify_content": "space-around",
+                  "width": "100%",
+                  "align_items": "center",
+                  "children": [
+                    {
+                      "label": [
+                        "CYFC"
+                      ],
+                      "size": 6
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "direction": "col",
+              "gap": 0.5,
+              "children": [
+                {
+                  "label": [
+                    "QX",
+                    "Gander"
+                  ],
+                  "size": 14,
+                  "page": {
+                    "rows": 5,
+                    "keys": [
+                      {
+                        "label": [
+                          "QX",
+                          "132.1"
+                        ],
+                        "station_id": "CZQX-CTR"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": [
+                          "QX G",
+                          "132.15"
+                        ],
+                        "station_id": "CZQX-G-CTR"
+                      },
+                      {
+                        "label": [
+                          "QX O",
+                          "128.075"
+                        ],
+                        "station_id": "CZQX-G-CTR"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": [
+                          "QX 1",
+                          "132.3"
+                        ],
+                        "station_id": "CZQX-1-CTR"
+                      },
+                      {
+                        "label": [
+                          "QX 2",
+                          "133.0"
+                        ],
+                        "station_id": "CZQX-2-CTR"
+                      },
+                      {
+                        "label": [
+                          "QX 3",
+                          "125.075"
+                        ],
+                        "station_id": "CZQX-3-CTR"
+                      },
+                      {
+                        "label": [
+                          "QX 4",
+                          "128.175"
+                        ],
+                        "station_id": "CZQX-4-CTR"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": [
+                          "QX 5",
+                          "132.05"
+                        ],
+                        "station_id": "CZQX-5-CTR"
+                      },
+                      {
+                        "label": [
+                          "QX 6",
+                          "119.85"
+                        ],
+                        "station_id": "CZQX-6-CTR"
+                      },
+                      {
+                        "label": [
+                          "QX 7",
+                          "132.5"
+                        ],
+                        "station_id": "CZQX-7-CTR"
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      },
+                      {
+                        "label": ""
+                      }
+                    ]
+                  }
+                },
+                {
+                  "direction": "row",
+                  "justify_content": "space-around",
+                  "children": [
+                    {
+                      "label": [
+                        "CYQX"
+                      ],
+                      "size": 6
+                    },
+                    {
+                      "label": [
+                        "CYYT"
+                      ],
+                      "size": 6
+                    }
+                  ]
+                },
+                {
+                  "direction": "row",
+                  "justify_content": "space-around",
+                  "children": [
+                    {
+                      "label": [
+                        "LFVP"
+                      ],
+                      "size": 6
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orientation": "vertical",
+      "thickness": 2,
+      "color": "#364153",
+      "oversize": 0.5
+    },
+    {
+      "direction": "col",
+      "height": "100%",
+      "justify_content": "space-around",
+      "children": [
+        {
+          "label": "TMU",
+          "size": 6,
+          "page": {
+            "client_page": {
+              "include": [
+                "CZQM",
+                "CZQX"
+              ],
+              "exclude": [
+                "*_DEL",
+                "*_GND",
+                "*_TWR",
+                "*_APP",
+                "*_CTR"
+              ]
+            },
+            "rows": 7
+          }
+        },
+        {
+          "label": "MIL",
+          "size": 6
+        },
+        {
+          "label": "MF",
+          "size": 6
+        }
+      ]
+    }
+  ]
+}
