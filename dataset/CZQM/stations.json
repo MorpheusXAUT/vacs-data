@@ -180,6 +180,11 @@
       "controlled_by": ["CZQM_DG_CTR"]
     },
     {
+      "id": "CZQM-ZV",
+      "parent_id": "CZQM-CTR",
+      "controlled_by": ["CZQM_ZV_CTR"]
+    },
+    {
       "id": "CZQM-CB",
       "parent_id": "CZQM-CTR",
       "controlled_by": ["CZQM_CB_CTR"]

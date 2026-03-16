@@ -363,6 +363,48 @@
       "frequency": "128.025",
       "facility_type": "DEL",
       "profile_id": "CZQM"
+    },
+    {
+      "id": "CYSJ_F_TWR",
+      "prefixes": ["CYSJ"],
+      "frequency": "118.500",
+      "facility_type": "TWR",
+      "profile_id": "CZQM"
+    },
+    {
+      "id": "CYYG_F_TWR",
+      "prefixes": ["CYYG"],
+      "frequency": "118.000",
+      "facility_type": "TWR",
+      "profile_id": "CZQM"
+    },
+    {
+      "id": "LFVP_APP",
+      "prefixes": ["LFVP"],
+      "frequency": "119.100",
+      "facility_type": "APP",
+      "profile_id": "CZQM"
+    },
+    {
+      "id": "LFVP_TWR",
+      "prefixes": ["LFVP"],
+      "frequency": "118.500",
+      "facility_type": "TWR",
+      "profile_id": "CZQM"
+    },
+    {
+      "id": "CYDF_F_TWR",
+      "prefixes": ["CYDF"],
+      "frequency": "122.200",
+      "facility_type": "TWR",
+      "profile_id": "CZQM"
+    },
+    {
+      "id": "CYJT_F_TWR",
+      "prefixes": ["CYJT"],
+      "frequency": "122.100",
+      "facility_type": "TWR",
+      "profile_id": "CZQM"
     }
   ]
 }

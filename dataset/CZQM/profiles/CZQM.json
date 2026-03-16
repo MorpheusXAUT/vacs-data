@@ -83,11 +83,11 @@
                       },
                       {
                         "label": ["QM DG", "123.9"],
-                        "station_id": "CZQM-DG-CTR"
+                        "station_id": "CZQM-DG"
                       },
                       {
                         "label": ["QM ZV", "133.35"],
-                        "station_id": "CZQM-ZV-CTR"
+                        "station_id": "CZQM-ZV"
                       },
                       {
                         "label": ""
