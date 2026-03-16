@@ -170,3 +170,4 @@ id = "DTTI_TWR"
 prefixes = ["DTTI"]
 frequency = "123.000"
 facility_type = "TWR"
+profile_id = DTTI
