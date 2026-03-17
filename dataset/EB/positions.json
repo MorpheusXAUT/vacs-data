@@ -116,7 +116,7 @@
       "id": "EBBR_DEP",
       "prefixes": ["EBBR"],
       "frequency": "126.630",
-      "facility_type": "APP",
+      "facility_type": "DEP",
       "profile_id": "EBBU_APP"
     },
 	{
