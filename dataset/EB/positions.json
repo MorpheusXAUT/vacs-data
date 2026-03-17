@@ -74,7 +74,7 @@
       "id": "EBBR_P_DEL",
       "prefixes": ["EBBR"],
       "frequency": "121.905",
-      "facility_type": "FMP",
+      "facility_type": "DEL",
       "profile_id": "EBBU_TWR"
     },
 	{
@@ -179,6 +179,13 @@
       "id": "EBBU_N_CTR",
       "prefixes": ["EBBU"],
       "frequency": "128.805",
+      "facility_type": "CTR",
+      "profile_id": "EBBU_CTR"
+    },
+	{
+      "id": "EBBU_S_CTR",
+      "prefixes": ["EBBU"],
+      "frequency": "119.998",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR"
     },
