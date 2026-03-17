@@ -59,11 +59,6 @@ controlled_by = ["LPCS_TWR"]
 parent_id = "LPPT_APP"
 
 [[stations]]
-id = "LPPC_C_CTR"
-controlled_by = ["LPPC_C_CTR"]
-parent_id = "LPPC_E_CTR"
-
-[[stations]]
 id = "LPFR_GND"
 controlled_by = ["LPFR_GND"]
 parent_id = "LPFR_TWR"
@@ -92,3 +87,53 @@ parent_id = "LPPC_I_CTR"
 id = "LPPS_TWR"
 controlled_by = ["LPPS_TWR"]
 parent_id = "LPMA_APP"
+
+[[stations]]
+id = "LPPC_N_CTR"
+controlled_by = ["LPPC_N_CTR"]
+parent_id = "LPPC_E_CTR"
+
+[[stations]]
+id = "LPPC_NU_CTR"
+controlled_by = ["LPPC_NU_CTR"]
+parent_id = "LPPC_N_CTR"
+
+[[stations]]
+id = "LPPC_C_CTR"
+controlled_by = ["LPPC_C_CTR"]
+parent_id = "LPPC_E_CTR"
+
+[[stations]]
+id = "LPPC_CU_CTR"
+controlled_by = ["LPPC_CU_CTR"]
+parent_id = "LPPC_N_CTR"
+
+[[stations]]
+id = "LPPC_S_CTR"
+controlled_by = ["LPPC_S_CTR"]
+parent_id = "LPPC_E_CTR"
+
+[[stations]]
+id = "LPPC_W_CTR"
+controlled_by = ["LPPC_W_CTR"]
+parent_id = "LPPC_O_CTR"
+
+[[stations]]
+id = "LPPC_WU_CTR"
+controlled_by = ["LPPC_WU_CTR"]
+parent_id = "LPPC_W_CTR"
+
+[[stations]]
+id = "LPPC_I_CTR"
+controlled_by = ["LPPC_I_CTR"]
+parent_id = "LPPC_O_CTR"
+
+[[stations]]
+id = "LPPC_E_CTR"
+controlled_by = ["LPPC_E_CTR"]
+parent_id = "LPPC_CTR"
+
+[[stations]]
+id = "LPPC_O_CTR"
+controlled_by = ["LPPC_O_CTR"]
+parent_id = "LPPC_CTR"
