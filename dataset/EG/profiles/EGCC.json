@@ -199,10 +199,6 @@
             "label": []
           },
           {
-            "label": ["GP", "RAD 1"],
-            "station_id": "EGGP_APP"
-          },
-          {
             "label": []
           },
           {
@@ -212,16 +208,7 @@
             "label": []
           },
           {
-            "label": ["GP", "RAD 2"],
-            "station_id": "EGGP_F_APP"
-          },
-          {
-            "label": ["NH", "APP"],
-            "station_id": "EGNH_A_APP"
-          },
-          {
-            "label": ["NO", "RAD"],
-            "station_id": "EGNO_APP"
+            "label": []
           },
           {
             "label": []
@@ -235,7 +222,20 @@
             "station_id": "EGNM_APP"
           },
           {
-            "label": []
+            "label": ["GP", "RAD 1"],
+            "station_id": "EGGP_APP"
+          },
+          {
+            "label": ["GP", "RAD 2"],
+            "station_id": "EGGP_F_APP"
+          },
+          {
+            "label": ["NH", "APP"],
+            "station_id": "EGNH_A_APP"
+          },
+          {
+            "label": ["NO", "RAD"],
+            "station_id": "EGNO_APP"
           },
           {
             "label": ["NX", "RAD"],
