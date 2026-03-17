@@ -52,7 +52,6 @@ prefixes = ["FMEE"]
 frequency = "118.400"
 facility_type = "TWR"
 
-
 [[positions]]
 id = "FMMT_TWR"
 prefixes = ["FMMT"]

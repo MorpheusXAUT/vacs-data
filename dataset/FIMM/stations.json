@@ -1,38 +1,38 @@
 {
-    "stations": [
-        {
-            "id": "FIMM_FSS",
-            "controlled_by": ["FIMM_FSS"]
-        },
-        {
-            "id": "FIMM_CTR",
-            "parent_id": "FIMM_FSS",
-            "controlled_by": ["FIMM_CTR"]
-        },
-        {
-            "id": "FIMP_APP",
-            "parent_id": "FIMM_CTR",
-            "controlled_by": ["FIMP_APP"]
-        },
-        {
-            "id": "FIMP_TWR",
-            "parent_id": "FIMP_APP",
-            "controlled_by": ["FIMP_TWR"]
-        },
-        {
-            "id": "FIMR_TWR",
-            "parent_id": "FIMM_CTR",
-            "controlled_by": ["FIMR_TWR"]
-        },
-        {
-            "id": "FJDG_TWR",
-            "parent_id": "FIMM_FSS",
-            "controlled_by": ["FJDG_TWR"]
-        },
-        {
-            "id": "FJDG_GND",
-            "parent_id": "FJDG_TWR",
-            "controlled_by": ["FJDG_GND"]
-        }
-    ]
+  "stations": [
+    {
+      "id": "FIMM_FSS",
+      "controlled_by": ["FIMM_FSS"]
+    },
+    {
+      "id": "FIMM_CTR",
+      "parent_id": "FIMM_FSS",
+      "controlled_by": ["FIMM_CTR"]
+    },
+    {
+      "id": "FIMP_APP",
+      "parent_id": "FIMM_CTR",
+      "controlled_by": ["FIMP_APP"]
+    },
+    {
+      "id": "FIMP_TWR",
+      "parent_id": "FIMP_APP",
+      "controlled_by": ["FIMP_TWR"]
+    },
+    {
+      "id": "FIMR_TWR",
+      "parent_id": "FIMM_CTR",
+      "controlled_by": ["FIMR_TWR"]
+    },
+    {
+      "id": "FJDG_TWR",
+      "parent_id": "FIMM_FSS",
+      "controlled_by": ["FJDG_TWR"]
+    },
+    {
+      "id": "FJDG_GND",
+      "parent_id": "FJDG_TWR",
+      "controlled_by": ["FJDG_GND"]
+    }
+  ]
 }
