@@ -137,3 +137,67 @@ parent_id = "LPPC_CTR"
 id = "LPPC_O_CTR"
 controlled_by = ["LPPC_O_CTR"]
 parent_id = "LPPC_CTR"
+
+[[stations]]
+id = "LPOV_TWR"
+controlled_by = ["LPOV_TWR"]
+parent_id = "LPOV_APP"
+
+[[stations]]
+id = "LPOV_APP"
+controlled_by = [
+    "LPOV_APP",
+    "LPAM_CTR",
+    "LPPR_APP"
+]
+
+[[stations]]
+id = "LPMR_TWR"
+controlled_by = ["LPMR_TWR"]
+parent_id = "LPMR_APP"
+
+[[stations]]
+id = "LPMR_APP"
+controlled_by = [
+    "LPMR_APP",
+    "LPAM_CTR",
+    "LPPC_N_CTR"
+]
+
+[[stations]]
+id = "LPST_TWR"
+controlled_by = ["LPST_TWR"]
+parent_id = "LPST_APP"
+
+[[stations]]
+id = "LPST_APP"
+controlled_by = [
+    "LPST_APP",
+    "LPAM_CTR",
+    "LPPT_APP"
+]
+
+[[stations]]
+id = "LPMT_TWR"
+controlled_by = [
+    "LPMT_TWR",
+    "LPAM_CTR",
+    "LPPT_APP"
+]
+
+[[stations]]
+id = "LPBJ_TWR"
+controlled_by = ["LPBJ_TWR"]
+parent_id = "LPBJ_APP"
+
+[[stations]]
+id = "LPBJ_APP"
+controlled_by = [
+    "LPBJ_APP",
+    "LPAM_CTR",
+    "LPPC_S_CTR"
+]
+
+[[stations]]
+id = "LPAM_CTR"
+controlled_by = ["LPAM_CTR"]
