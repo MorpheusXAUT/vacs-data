@@ -134,6 +134,20 @@
       "profile_id": "EBBU_APP"
     },
 	{
+      "id": "EBBR_H_APP",
+      "prefixes": ["EBBR"],
+      "frequency": "129.730",
+      "facility_type": "APP",
+      "profile_id": "EBBU_APP"
+    },
+	{
+      "id": "EBBR_HW_APP",
+      "prefixes": ["EBBR"],
+      "frequency": "125.780",
+      "facility_type": "APP",
+      "profile_id": "EBBU_APP"
+    },
+	{
       "id": "EBBU_W_CTR",
       "prefixes": ["EBBU"],
       "frequency": "131.100",
