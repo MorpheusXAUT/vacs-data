@@ -145,11 +145,7 @@ parent_id = "LPOV_APP"
 
 [[stations]]
 id = "LPOV_APP"
-controlled_by = [
-    "LPOV_APP",
-    "LPAM_CTR",
-    "LPPR_APP"
-]
+controlled_by = ["LPOV_APP", "LPAM_CTR", "LPPR_APP"]
 
 [[stations]]
 id = "LPMR_TWR"
@@ -158,11 +154,7 @@ parent_id = "LPMR_APP"
 
 [[stations]]
 id = "LPMR_APP"
-controlled_by = [
-    "LPMR_APP",
-    "LPAM_CTR",
-    "LPPC_N_CTR"
-]
+controlled_by = ["LPMR_APP", "LPAM_CTR", "LPPC_N_CTR"]
 
 [[stations]]
 id = "LPST_TWR"
@@ -171,19 +163,11 @@ parent_id = "LPST_APP"
 
 [[stations]]
 id = "LPST_APP"
-controlled_by = [
-    "LPST_APP",
-    "LPAM_CTR",
-    "LPPT_APP"
-]
+controlled_by = ["LPST_APP", "LPAM_CTR", "LPPT_APP"]
 
 [[stations]]
 id = "LPMT_TWR"
-controlled_by = [
-    "LPMT_TWR",
-    "LPAM_CTR",
-    "LPPT_APP"
-]
+controlled_by = ["LPMT_TWR", "LPAM_CTR", "LPPT_APP"]
 
 [[stations]]
 id = "LPBJ_TWR"
@@ -192,11 +176,7 @@ parent_id = "LPBJ_APP"
 
 [[stations]]
 id = "LPBJ_APP"
-controlled_by = [
-    "LPBJ_APP",
-    "LPAM_CTR",
-    "LPPC_S_CTR"
-]
+controlled_by = ["LPBJ_APP", "LPAM_CTR", "LPPC_S_CTR"]
 
 [[stations]]
 id = "LPAM_CTR"
