@@ -1,4 +1,28 @@
 [[stations]]
+id = "LPPR_DEL"
+controlled_by = ["LPPR_DEL"]
+parent_id = "LPPR_GND"
+
+[[stations]]
+id = "LPPR_GND"
+controlled_by = ["LPPR_GND"]
+parent_id = "LPPR_TWR"
+
+[[stations]]
+id = "LPPR_TWR"
+controlled_by = ["LPPR_TWR"]
+parent_id = "LPPR_APP"
+
+[[stations]]
+id = "LPPR_APP"
+controlled_by = ["LPPR_APP"]
+parent_id = "LPPC_N_CTR"
+
+[[stations]]
+id = "LPPR_U_APP"
+controlled_by = ["LPPR_U_APP"]
+parent_id = "LPPR_APP"
+
 id = "LPPT_DEL"
 controlled_by = ["LPPT_DEL"]
 parent_id = "LPPT_GND"
