@@ -116,8 +116,14 @@
     },
 	{
       "id": "EBOS-APP",
-      "controlled_by": [ "EBOS_APP" ],
-	  "parent_id": "EBBU-WLS"
+      "controlled_by": [ 
+	    "EBOS_APP",
+		"EBBU_N_CTR",
+		"EBBU_W_CTR",
+		"EBBU_LOW_CTR",
+		"EBBU_C_CTR",
+		"EBBU_E_CTR"
+	  ]
     },
 	{
       "id": "EBOS-TWR",
@@ -138,7 +144,7 @@
 	{
       "id": "EBCI-GND",
       "controlled_by": ["EBCI_GND"],
-	  "parent_id": "EBCI-TWR"
+	  "parent_id": "EBCI_TWR"
     },
 	{
       "id": "EBCI-TWR",
@@ -246,7 +252,7 @@
 	  "parent_id": "EBBU-LUS"
     },
 	{
-      "id": "EBBU-FIS",
+      "id": "EBBU-FIC",
       "controlled_by": ["EBBU_I_CTR"]
     }
   ]
