@@ -1,0 +1,72 @@
+[[positions]]
+id = "FMMM_CTR"
+prefixes = ["FMMM"]
+frequency = "128.900"
+facility_type = "CTR"
+
+[[positions]]
+id = "FMMI_APP"
+prefixes = ["FMMI"]
+frequency = "125.700"
+facility_type = "APP"
+
+[[positions]]
+id = "FMMI_TWR"
+prefixes = ["FMMI"]
+frequency = "120.100"
+facility_type = "TWR"
+
+[[positions]]
+id = "FMMI_0_GND"
+prefixes = ["FMMI"]
+frequency = "122.650"
+facility_type = "GND"
+
+[[positions]]
+id = "FMCH_TWR"
+prefixes = ["FMCH"]
+frequency = "118.100"
+facility_type = "TWR"
+
+[[positions]]
+id = "FMCZ_TWR"
+prefixes = ["FMCZ"]
+frequency = "119.200"
+facility_type = "TWR"
+
+[[positions]]
+id = "FMEE_APP"
+prefixes = ["FMEE"]
+frequency = "119.400"
+facility_type = "APP"
+
+[[positions]]
+id = "FMEE_GND"
+prefixes = ["FMEE"]
+frequency = "121.900"
+facility_type = "GND"
+
+[[positions]]
+id = "FMEE_TWR"
+prefixes = ["FMEE"]
+frequency = "118.400"
+facility_type = "TWR"
+
+
+[[positions]]
+id = "FMMT_TWR"
+prefixes = ["FMMT"]
+frequency = "118.300"
+facility_type = "TWR"
+
+[[positions]]
+id = "FMNM_TWR"
+prefixes = ["FMNM"]
+frequency = "119.100"
+facility_type = "TWR"
+
+[[positions]]
+id = "FMNN_TWR"
+prefixes = ["FMNN"]
+frequency = "119.300"
+facility_type = "TWR"
