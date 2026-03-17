@@ -464,63 +464,63 @@
         "rows": 8,
         "keys": [
           {
-            "label": ["AC","S2"],
+            "label": ["AC","S2","315+"],
 			"stations_id": "EG-Sector-2"
           },
 		  {
-            "label": ["AC","S15"],
+            "label": ["AC","S15","-315"],
 			"stations_id": "EG-Sector-15"
           },
 		  {
             "label": []
           },
 		  {
+            "label": ["REIMS","HN","345+"],
+			"stations_id": ""
+          },
+		  {
             "label": []
           },
 		  {
             "label": []
           },
 		  {
-            "label": ["REIMS","HN"],
+            "label": ["REIMS","UB","265+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["REIMS","UB"],
+            "label": ["PARIS","TB","-265"],
 			"stations_id": ""
           },
 		  {
-            "label": ["PARIS","TB"],
-			"stations_id": ""
-          },
-		  {
-            "label": ["AC","S13"],
+            "label": ["AC","S13","295+"],
 			"stations_id": "EG-Sector-13"
           },
 		  {
-            "label": ["AC","S14"],
+            "label": ["AC","S14","-295"],
 			"stations_id": "EG-Sector-14"
           },
 		  {
             "label": []
           },
 		  {
-            "label": ["REIMS","HR"],
+            "label": ["REIMS","HR","365+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["REIMS","KR"],
+            "label": ["REIMS","KR","345+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["REIMS","XR"],
+            "label": ["REIMS","XR","315+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["REIMS","UR"],
+            "label": ["REIMS","UR","265+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["PARIS","TE"],
+            "label": ["PARIS","TE","-265"],
 			"stations_id": ""
           },
 		  {
@@ -545,11 +545,11 @@
             "label": []
           },
 		  {
-            "label": ["PARIS","AP"],
+            "label": ["PARIS","AP","265+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["PARIS","TM"],
+            "label": ["PARIS","TM","-265"],
 			"stations_id": ""
           },
 		  {
@@ -565,33 +565,27 @@
 			"stations_id": "EBBU-LUS"
           },
 		  {
-            "label": ["REIMS","HE"],
+            "label": ["REIMS","HE","365+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["REIMS","KE"],
+            "label": ["REIMS","KE","345+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["REIMS","XE"],
+            "label": ["REIMS","XE","315+"],
 			"stations_id": ""
           },
 		  {
-            "label": ["REIMS","UE"],
-			"stations_id": ""
-          },
-		  {
-            "label": []
-          },
-		  {
-            "label": ["DECO","WST"],
+            "label": ["REIMS","UE","-315"],
 			"stations_id": ""
           },
 		  {
             "label": []
           },
 		  {
-            "label": []
+            "label": ["DEC","245+"],
+			"stations_id": ""
           },
 		  {
             "label": []
@@ -609,26 +603,32 @@
             "label": []
           },
 		  {
-            "label": ["KOH"],
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["KEC","245+"],
 			"stations_id": "EDYY-KOH"
           },
 		  {
-            "label": ["NIH"],
+            "label": ["NEC","245+"],
 			"stations_id": "EDYY-NIH"
           },
 		  {
             "label": []
           },
 		  {
-            "label": ["NOR"],
+            "label": ["GG","NOR","-245"],
 			"stations_id": "EDGG-NOR"
           },
 		  {
-            "label": ["RUD"],
+            "label": ["GG","RUD","-245"],
 			"stations_id": "EDGG-RUD"
           },
 		  {
-            "label": ["KIR"],
+            "label": ["GG","KIR","-245"],
 			"stations_id": "EDGG-KIR"
           },
 		  {
@@ -638,11 +638,11 @@
             "label": []
           },
 		  {
-            "label": ["LNH"],
+            "label": ["OEC","245+"],
 			"stations_id": "EDYY-LNH"
           },
 		  {
-            "label": ["LXH"],
+            "label": ["LEC","245+"],
 			"stations_id": "EDYY-LXH"
           },
 		  {
@@ -664,15 +664,15 @@
             "label": []
           },
 		  {
-            "label": ["HAN","RL"],
+            "label": ["REC","245+"],
 			"stations_id": "EDYY-RL"
           },
 		  {
-            "label": ["HAN","RH"],
+            "label": ["RHC","355+"],
 			"stations_id": "EDYY-RH"
           },
 		  {
-            "label": ["UAC","NTM"],
+            "label": ["UU","NTM","245+"],
 			"stations_id": "EDUU-NTM"
           },
 		  {
