@@ -1,0 +1,11 @@
+{
+  "positions": [
+    {
+      "id": "TQPF_TWR",
+      "prefixes": ["TQPF"],
+      "frequency": "118.500",
+      "facility_type": "TWR",
+      "profile_id": "TQPF"
+    }
+  ]
+}

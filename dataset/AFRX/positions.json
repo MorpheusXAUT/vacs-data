@@ -1,0 +1,51 @@
+{
+  "positions": [
+    {
+      "id": "AFRN_FSS",
+      "prefixes": ["AFRN"],
+      "frequency": "134.525",
+      "facility_type": "FSS"
+    },
+    {
+      "id": "AFRE_FSS",
+      "prefixes": ["AFRE"],
+      "frequency": "135.050",
+      "facility_type": "FSS"
+    },
+    {
+      "id": "AFRS_FSS",
+      "prefixes": ["AFRS"],
+      "frequency": "134.575",
+      "facility_type": "FSS",
+      "profile_id": "AFRS"
+    },
+    {
+      "id": "AFRC_FSS",
+      "prefixes": ["AFRC"],
+      "frequency": "129.075",
+      "facility_type": "FSS",
+      "profile_id": "AFRC"
+    },
+    {
+      "id": "AFRW_FSS",
+      "prefixes": ["AFRW"],
+      "frequency": "132.225",
+      "facility_type": "FSS",
+      "profile_id": "AFRW"
+    },
+    {
+      "id": "AFRW_A_FSS",
+      "prefixes": ["AFRW"],
+      "frequency": "131.225",
+      "facility_type": "FSS",
+      "profile_id": "AFRW"
+    },
+    {
+      "id": "AFRW_B_FSS",
+      "prefixes": ["AFRW"],
+      "frequency": "130.225",
+      "facility_type": "FSS",
+      "profile_id": "AFRW"
+    }
+  ]
+}

@@ -318,6 +318,7 @@ controlled_by = [
 id = "EDMM-DPND"
 controlled_by = [
   "EDDP_ND_APP",
+  "EDDP_SD_APP",
   "EDDP_TRN_APP",
   "EDDP_TRS_APP",
   "EDMM_GER_CTR",

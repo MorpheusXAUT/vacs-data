@@ -424,6 +424,31 @@
           }
         ]
       }
+    },
+    {
+      "label": "OTHERS",
+      "page": {
+        "rows": 5,
+        "client_page": {
+          "include": [
+            "WMFC*",
+            "WMKK*",
+            "WMKJ*",
+            "WMKD*",
+            "VTBB*",
+            "VCL*",
+            "VVHM*",
+            "MNL*",
+            "WBFC*",
+            "WBGG*",
+            "WIIF*",
+            "ASEA*"
+          ],
+          "exclude": ["*_GND", "*_DEL"],
+          "grouping": "Fir",
+          "priority": ["*_CTR", "*_APP", "*_TWR"]
+        }
+      }
     }
   ]
 }

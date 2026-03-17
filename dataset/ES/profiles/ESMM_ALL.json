@@ -343,15 +343,15 @@
             "label": []
           },
           {
-            "label": []
-          },
-          {
             "label": ["EKCH", "DEP-R"],
             "station_id": "EKCHDEPR"
           },
           {
             "label": ["EKCH", "APP-W"],
             "station_id": "EKCHAPPW"
+          },
+          {
+            "label": []
           },
           {
             "label": ["EKDK", "E"],
@@ -366,10 +366,6 @@
           },
           {
             "label": []
-          },
-          {
-            "label": ["EKCH", "APP-CO", ""],
-            "station_id": "EKCHAPPCO"
           },
           {
             "label": ["EKCH", "FIN"],
@@ -401,6 +397,9 @@
           {
             "label": ["EKDK", "FMP"],
             "station_id": "EKDKFMP"
+          },
+          {
+            "label": []
           }
         ]
       }

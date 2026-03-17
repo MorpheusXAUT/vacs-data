@@ -115,7 +115,8 @@
             "station_id": "EDGG-MAN"
           },
           {
-            "label": [""]
+            "label": ["EDGG", "NKRH"],
+            "station_id": "EDGG-NKRH"
           },
           {
             "label": ["EDGG", "RUD"],
@@ -134,7 +135,8 @@
             "station_id": "EDGG-HAB"
           },
           {
-            "label": [""]
+            "label": ["EDGG", "KNG"],
+            "station_id": "EDGG-KNG"
           },
           {
             "label": ["EDGG", "SIG"],
@@ -149,10 +151,12 @@
             "station_id": "EDGG-GED"
           },
           {
-            "label": [""]
+            "label": ["EDGG", "KTG"],
+            "station_id": "EDGG-KTG"
           },
           {
-            "label": [""]
+            "label": ["EDGG", "PSA"],
+            "station_id": "EDGG-PSA"
           }
         ]
       }

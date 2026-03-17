@@ -9,7 +9,7 @@
         "keys": [
           {
             "label": ["SV 9"],
-            "station_id": "ENSV-16"
+            "station_id": "ENSV-9"
           },
           {
             "label": ["SV 10"],
@@ -121,7 +121,7 @@
       }
     },
     {
-      "label": ["APP/TWR"],
+      "label": ["OTHER"],
       "page": {
         "rows": 4,
         "keys": [
@@ -185,7 +185,7 @@
             "station_id": "ENTO_APP"
           },
           {
-            "label": ["MØRE SOUTH", "APP"],
+            "label": ["MØRE", "SOUTH", "APP"],
             "station_id": "ENAL_APP"
           },
           {

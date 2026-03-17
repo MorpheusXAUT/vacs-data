@@ -247,8 +247,7 @@
             "station_id": "EKDKA"
           },
           {
-            "label": ["EKCH", "APP-CO", ""],
-            "station_id": "EKCHAPPCO"
+            "label": []
           },
           {
             "label": ["EKCH", "FIN"],

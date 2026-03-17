@@ -1,0 +1,9 @@
+{
+  "stations": [
+    {
+      "id": "FVHF_CTR",
+      "parent_id": "AFRS_FSS",
+      "controlled_by": ["FVHF_CTR"]
+    }
+  ]
+}

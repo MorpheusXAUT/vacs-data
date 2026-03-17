@@ -1,0 +1,163 @@
+{
+  "id": "TWR",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["MAIN"],
+      "page": {
+        "rows": 7,
+        "keys": [
+          {
+            "label": ["PIHENO", "APP"]
+          },
+          {
+            "label": ["LHPA", "TWR"],
+            "station_id": "LHPA_TWR"
+          },
+          {
+            "label": ["LHPA", "APP"],
+            "station_id": "LHPA_APP"
+          },
+          {
+            "label": ["WL EC"],
+            "station_id": "LHCC_WL"
+          },
+          {
+            "label": ["WL PC"]
+          },
+          {
+            "label": ["TD 1", "EC"],
+            "station_id": "LHBP_D_APP"
+          },
+          {
+            "label": ["APP", "E/L PC"],
+            "station_id": "LHBP_APP"
+          },
+          {
+            "label": ["PIHENO", "SV"]
+          },
+          {
+            "label": ["LHKE", "TWR"],
+            "station_id": "LHKE_TWR"
+          },
+          {
+            "label": ["LHKE", "APP"],
+            "station_id": "LHKE_APP"
+          },
+          {
+            "label": ["S EC"],
+            "station_id": "LHCC_SU"
+          },
+          {
+            "label": ["S PC"]
+          },
+          {
+            "label": ["APP", "W/U EC"],
+            "station_id": "LHBP_W_DEP"
+          },
+          {
+            "label": ["ATC", "SV1"],
+            "station_id": "LHCC_SV"
+          },
+          {
+            "label": ["PIHENO", "NOI"]
+          },
+          {
+            "label": ["CRC", "IC 1"]
+          },
+          {
+            "label": ["LHSN", "APP-TWR", "1"],
+            "station_id": "LHSN_APP"
+          },
+          {
+            "label": ["EL EC"],
+            "station_id": "LHCC_EL"
+          },
+          {
+            "label": ["EL PC"]
+          },
+          {
+            "label": ["LHBP", "TWR", "TPC"],
+            "station_id": "LHBP_DEL"
+          },
+          {
+            "label": ["LHBP", "TWR", "ADC"],
+            "station_id": "LHBP_TWR"
+          },
+          {
+            "label": ["TR EC"]
+          },
+          {
+            "label": ["AMC 1"]
+          },
+          {
+            "label": ["MET SZI", "ANS 3", "4681"]
+          },
+          {
+            "label": ["FIW EC"],
+            "station_id": "LHCC_WFIC"
+          },
+          {
+            "label": ["FIW PC"]
+          },
+          {
+            "label": ["LHBP", "TWR", "GRC"],
+            "station_id": "LHBP_GND"
+          },
+          {
+            "label": ["LHBP", "TWR", "SV"],
+            "station_id": "LHBP_S_TWR"
+          },
+          {
+            "label": ["TMCS 1", "SV"]
+          },
+          {
+            "label": ["FMP 1"],
+            "station_id": "LHBP_FMP"
+          },
+          {
+            "label": ["MET ESZ", "LHBP", "8725"]
+          },
+          {
+            "label": ["FIN EC"],
+            "station_id": "LHCC_FIC"
+          },
+          {
+            "label": ["FIN PC"]
+          },
+          {
+            "label": ["LZIB", "APP", "EC-PC"],
+            "station_id": "LZIB_APP"
+          },
+          {
+            "label": ["LZBB", "L", "134,475"],
+            "station_id": "LZBB_CENTER_0L"
+          },
+          {
+            "label": ["MATIAS", "OBSERV"]
+          },
+          {
+            "label": ["FDA 1"]
+          },
+          {
+            "label": ["AMS", "6399"]
+          },
+          {
+            "label": ["FIE EC"],
+            "station_id": "LHCC_EFIC"
+          },
+          {
+            "label": ["FIE PC"]
+          },
+          {
+            "label": ["LZBB", "FIC"],
+            "station_id": "LZBB_I_CTR"
+          },
+          {
+            "label": ["LZBB", "ACC", "SV"]
+          }
+        ]
+      }
+    }
+  ]
+}

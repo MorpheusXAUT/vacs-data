@@ -1,0 +1,41 @@
+{
+  "positions": [
+    {
+      "id": "FAJO_FMP",
+      "prefixes": ["FAJO"],
+      "frequency": "199.998",
+      "facility_type": "FMP"
+    },
+    {
+      "id": "FAJO_FSS",
+      "prefixes": ["FAJO"],
+      "frequency": "120.850",
+      "facility_type": "FSS"
+    },
+    {
+      "id": "FAJO_1_FSS",
+      "prefixes": ["FAJO"],
+      "frequency": "120.650",
+      "facility_type": "FSS"
+    },
+    {
+      "id": "FAJO_2_FSS",
+      "prefixes": ["FAJO"],
+      "frequency": "120.450",
+      "facility_type": "FSS"
+    },
+    {
+      "id": "FAJO_3_FSS",
+      "prefixes": ["FAJO"],
+      "frequency": "120.900",
+      "facility_type": "FSS"
+    },
+    {
+      "id": "AT98_I_FSS",
+      "prefixes": ["AT98"],
+      "frequency": "119.500",
+      "facility_type": "FSS",
+      "profile_id": "AT98"
+    }
+  ]
+}

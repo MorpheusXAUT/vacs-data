@@ -1,0 +1,83 @@
+[[positions]]
+id = "FVHF_CTR"
+prefixes = ["FVHF"]
+frequency = "131.500"
+facility_type = "CTR"
+
+[[positions]]
+id = "FVHF_W_CTR"
+prefixes = ["FVHF"]
+frequency = "129.500"
+facility_type = "CTR"
+
+[[positions]]
+id = "FVCZ_APP"
+prefixes = ["FVCZ"]
+frequency = "122.600"
+facility_type = "APP"
+
+[[positions]]
+id = "FVFA_APP"
+prefixes = ["FVFA"]
+frequency = "121.100"
+facility_type = "APP"
+
+[[positions]]
+id = "FVJN_APP"
+prefixes = ["FVJN"]
+frequency = "119.700"
+facility_type = "APP"
+
+[[positions]]
+id = "FVKB_APP"
+prefixes = ["FVKB"]
+frequency = "125.300"
+facility_type = "APP"
+
+[[positions]]
+id = "FVMV_APP"
+prefixes = ["FVMV"]
+frequency = "119.600"
+facility_type = "APP"
+
+[[positions]]
+id = "FVRG_APP"
+prefixes = ["FVRG"]
+frequency = "119.100"
+facility_type = "APP"
+
+[[positions]]
+id = "FVTL_APP"
+prefixes = ["FVTL"]
+frequency = "126.500"
+facility_type = "APP"
+
+[[positions]]
+id = "FVWN_APP"
+prefixes = ["FVWN"]
+frequency = "119.900"
+facility_type = "APP"
+
+[[positions]]
+id = "FVCP_TWR"
+prefixes = ["FVCP"]
+frequency = "118.900"
+facility_type = "TWR"
+
+[[positions]]
+id = "FVJN_TWR"
+prefixes = ["FVJN"]
+frequency = "118.300"
+facility_type = "TWR"
+
+[[positions]]
+id = "FVRG_TWR"
+prefixes = ["FVRG"]
+frequency = "118.100"
+facility_type = "TWR"
+
+[[positions]]
+id = "FVRG_GND"
+prefixes = ["FVRG"]
+frequency = "127.300"
+facility_type = "GND"

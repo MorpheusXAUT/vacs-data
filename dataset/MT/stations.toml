@@ -1,0 +1,45 @@
+### MTEG ###
+
+[[stations]]
+id = "MTEG_CTR"
+controlled_by = ["MTEG_CTR"]
+parent_id = "ANT_CTR"
+
+[[stations]]
+id = "MTEG_N_CTR"
+controlled_by = ["MTEG_N_CTR"]
+parent_id = "MTEG_CTR"
+
+[[stations]]
+id = "MTEG_S_CTR"
+controlled_by = ["MTEG_S_CTR"]
+parent_id = "MTEG_CTR"
+
+[[stations]]
+id = "MTEG_APP"
+controlled_by = ["MTEG_APP"]
+parent_id = "MTEG_CTR"
+
+### MTPP ###
+
+[[stations]]
+id = "MTPP_TWR"
+controlled_by = ["MTPP_TWR"]
+parent_id = "MTEG_APP"
+
+[[stations]]
+id = "MTPP_GND"
+controlled_by = ["MTPP_GND"]
+parent_id = "MTPP_TWR"
+
+[[stations]]
+id = "MTPP_DEL"
+controlled_by = ["MTPP_DEL"]
+parent_id = "MTPP_GND"
+
+### MTCH ###
+
+[[stations]]
+id = "MTCH_TWR"
+controlled_by = ["MTCH_TWR"]
+parent_id = "MTEG_APP"

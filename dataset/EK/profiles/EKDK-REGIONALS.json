@@ -96,11 +96,11 @@
         "keys": [
           {
             "label": ["OS", "4"],
-            "station_id": "ESOS_4"
+            "station_id": "ENOS-4"
           },
           {
             "label": ["OS", "8"],
-            "station_id": "ESOS_8"
+            "station_id": "ENOS-8"
           },
           {
             "label": ["WW", "EID"],

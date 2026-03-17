@@ -1,0 +1,19 @@
+{
+  "id": "GVSC",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "FABL",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": ["GV*", "GC*", "GO*", "GQ*", "LPPO*", "CARI*", "TTZO*"],
+          "exclude": [],
+          "priority": ["*_FMP", "*_APP", "*_TWR", "*_GND", "*_DEL", "*_CTR"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}
