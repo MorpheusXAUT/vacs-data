@@ -201,3 +201,39 @@ controlled_by = [
 [[stations]]
 id = "LPAM_CTR"
 controlled_by = ["LPAM_CTR"]
+
+[[stations]]
+id = "LPCO_I_TWR"
+controlled_by = ["LPCO_I_TWR"]
+
+[[stations]]
+id = "LPSO_I_TWR"
+controlled_by = ["LPSO_I_TWR"]
+
+[[stations]]
+id = "LPEV_I_TWR"
+controlled_by = ["LPEV_I_TWR"]
+
+[[stations]]
+id = "LPCB_I_TWR"
+controlled_by = ["LPCB_I_TWR"]
+
+[[stations]]
+id = "LPBG_I_TWR"
+controlled_by = ["LPBG_I_TWR"]
+
+[[stations]]
+id = "LPVZ_I_TWR"
+controlled_by = ["LPVZ_I_TWR"]
+
+[[stations]]
+id = "LPPM_I_TWR"
+controlled_by = ["LPPM_I_TWR"]
+
+[[stations]]
+id = "LPVR_I_TWR"
+controlled_by = ["LPVR_I_TWR"]
+
+[[stations]]
+id = "LPCH_I_TWR"
+controlled_by = ["LPCH_I_TWR"]
