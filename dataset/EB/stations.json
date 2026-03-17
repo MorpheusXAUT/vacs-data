@@ -83,6 +83,17 @@
 		"EBBU_W_CTR",
 		"EBBU_LOW_CTR"
 	  ]
+    },
+	{
+      "id": "EBBU-EHS",
+      "controlled_by": [
+	    "EBBU_EH_CTR"
+		"EBBU_E_CTR",
+		"EBBU_H_CTR",
+		"EBBU_L_CTR",
+		"EBBU_W_CTR",
+		"EBBU_LOW_CTR"
+	  ]
     },	
 	{
       "id": "EBBU-WHS",
@@ -215,6 +226,14 @@
       "id": "EBBR-APP",
       "controlled_by": ["EBBR_APP"],
 	  "parent_id": "EBBU-WLS"
+    },
+	{
+      "id": "EBBR-HW",
+      "controlled_by": ["EBBR_HW_APP"]
+    },
+	{
+      "id": "EBBR-H",
+      "controlled_by": ["EBBR_H_APP"]
     },
 	{
       "id": "EBLG-GND",
