@@ -53,6 +53,11 @@ controlled_by = ["LPPT_F_APP"]
 parent_id = "LPPT_APP"
 
 [[stations]]
+id = "LPCS_TWR"
+controlled_by = ["LPCS_TWR"]
+parent_id = "LPPT_APP"
+
+[[stations]]
 id = "LPPC_C_CTR"
 controlled_by = ["LPPC_C_CTR"]
 parent_id = "LPPC_E_CTR"
