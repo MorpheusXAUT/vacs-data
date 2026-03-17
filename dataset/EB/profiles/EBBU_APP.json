@@ -29,7 +29,7 @@
           },
 		  {
             "label": ["EHS"],
-			"stations_id": "EBBU-ELS"
+			"stations_id": "EBBU-EHS"
           },
 		  {
             "label": ["LUS"],
@@ -167,10 +167,12 @@
             "label": []
           },
 		  {
-            "label": []
+            "label": ["HOLD"],
+			"stations_id": "EBBR-H"
           },
 		  {
-            "label": []
+            "label": ["WEST","HOLD"],
+			"stations_id": "EBBR-WH"
           },
 		  {
             "label": ["T","25R"],
