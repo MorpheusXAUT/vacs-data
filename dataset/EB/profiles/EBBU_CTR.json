@@ -29,7 +29,8 @@
             "label": []
           },
 		  {
-            "label": ["ACC","SUP"]
+            "label": ["ACC","SUP"],
+			"stations_id": "EBBU-FMP"
           },
 		  {
             "label": ["APTs"],
@@ -688,7 +689,7 @@
           },
 		  {
             "label": ["ACC","SUP"],
-			"stations_id": ""
+			"stations_id": "EBBU-FMP"
           }
         ]
       }
