@@ -1,34 +1,34 @@
 [[stations]]
 id = "LPPT_DEL"
-controlled_by = "LPPT_DEL"
+controlled_by = ["LPPT_DEL"]
 parent_id = "LPPT_GND"
 
 [[stations]]
 id = "LPPT_GND"
-controlled_by = "LPPT_GND"
+controlled_by = ["LPPT_GND"]
 parent_id = "LPPT_TWR"
 
 [[stations]]
 id = "LPPT_TWR"
-controlled_by = "LPPT_TWR"
+controlled_by = ["LPPT_TWR"]
 parent_id = "LPPT_APP"
 
 [[stations]]
 id = "LPPT_APP"
-controlled_by = "LPPT_APP"
+controlled_by = ["LPPT_APP"]
 parent_id = "LPPC_C_CTR"
 
 [[stations]]
 id = "LPPT_W_APP"
-controlled_by = "LPPT_W_APP"
+controlled_by = ["LPPT_W_APP"]
 parent_id = "LPPT_APP"
 
 [[stations]]
 id = "LPPT_F_APP"
-controlled_by = "LPPT_F_APP"
+controlled_by = ["LPPT_F_APP"]
 parent_id = "LPPT_APP"
 
 [[stations]]
 id = "LPPC_C_CTR"
-controlled_by = "LPPC_C_CTR"
+controlled_by = ["LPPC_C_CTR"]
 parent_id = "LPPC_E_CTR"
