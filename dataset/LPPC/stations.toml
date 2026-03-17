@@ -56,3 +56,18 @@ parent_id = "LPPT_APP"
 id = "LPPC_C_CTR"
 controlled_by = ["LPPC_C_CTR"]
 parent_id = "LPPC_E_CTR"
+
+[[stations]]
+id = "LPFR_GND"
+controlled_by = ["LPFR_GND"]
+parent_id = "LPFR_TWR"
+
+[[stations]]
+id = "LPFR_TWR"
+controlled_by = ["LPFR_TWR"]
+parent_id = "LPFR_APP"
+
+[[stations]]
+id = "LPFR_APP"
+controlled_by = ["LPFR_APP"]
+parent_id = "LPPC_E_CTR"
