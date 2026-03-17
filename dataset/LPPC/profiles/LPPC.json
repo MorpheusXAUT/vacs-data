@@ -1,0 +1,198 @@
+{
+  "id": "LPPC",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["DA", "1"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["PRT", "TWR"],
+            "station_id": "LPPR_TWR"
+          },
+          {
+            "label": ["LIS", "TWR"],
+            "station_id": "LPPT_TWR"
+          },
+          {
+            "label": ["CASC", "TWR"],
+            "station_id": "LPCS_TWR"
+          },
+          {
+            "label": ["FARO", "TWR"],
+            "station_id": "LPFR_TWR"
+          },
+          {
+            "label": ["PST", "TWR"],
+            "station_id": "LPPS_TWR"
+          },
+          {
+            "label": ["FUN", "TWR"],
+            "station_id": "LPMA_TWR"
+          },
+          {
+            "label": ["PRT", "GND"],
+            "station_id": "LPPR_GND"
+          },
+          {
+            "label": ["LIS", "GND"],
+            "station_id": "LPPT_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["FARO", "GND"],
+            "station_id": "LPFR_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["PRT", "DLV"],
+            "station_id": "LPPR_DEL"
+          },
+          {
+            "label": ["LIS", "DLV"],
+            "station_id": "LPPT_DEL"
+          }
+        ]
+      }
+    },
+    {
+      "label": ["DA", "2"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["NORTE", "EXE"],
+            "station_id": "LPPC_N_CTR"
+          },
+          {
+            "label": ["NORTE", "UPR EX"],
+            "station_id": "LPPC_NU_CTR"
+          },
+          {
+            "label": ["W+M", "EXE"],
+            "station_id": "LPPC_O_CTR"
+          },
+          {
+            "label": ["OESTE", "UPR EXE"],
+            "station_id": "LPPC_WU_CTR"
+          },
+          {
+            "label": ["OESTE", "EXE"],
+            "station_id": "LPPC_W_CTR"
+          },
+          {
+            "label": ["LIS", "APP"],
+            "station_id": "LPPT_APP"
+          },
+          {
+            "label": ["CENTRO", "EXE"],
+            "station_id": "LPPC_C_CTR"
+          },
+          {
+            "label": ["CENTRO", "UPR EXE"],
+            "station_id": "LPPC_CU_CTR"
+          },
+          {
+            "label": ["MAD", "EXE"],
+            "station_id": "LPPC_I_CTR"
+          },
+          {
+            "label": ["PRT", "APP"],
+            "station_id": "LPPR_APP"
+          },
+          {
+            "label": ["FNC", "APP"],
+            "station_id": "LPMA_TWR"
+          },
+          {
+            "label": ["TMA", "EXE"],
+            "station_id": "LPPT_W_APP"
+          },
+          {
+            "label": ["LPPC", "EXE"],
+            "station_id": "LPPC_CTR"
+          },
+          {
+            "label": ["SUL", "EXE"],
+            "station_id": "LPPC_S_CTR"
+          },
+          {
+            "label": ["LESTE", "EXE"],
+            "station_id": "LPPC_E_CTR"
+          },
+          {
+            "label": ["PRT", "TMA"],
+            "station_id": "LPPR_U_APP"
+          },
+          {
+            "label": ["FARO", "APP"],
+            "station_id": "LPFR_APP"
+          },
+          {
+            "label": ["ARR", "EXE"],
+            "station_id": "LPPT_F_APP"
+          }
+        ]
+      }
+    },
+    {
+      "label": ["DA", "3"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["OVR", "TWR"],
+            "station_id": "LPOV_TWR"
+          },
+          {
+            "label": ["MTL", "TWR"],
+            "station_id": "LPMR_TWR"
+          },
+          {
+            "label": ["STR", "TWR"],
+            "station_id": "LPST_TWR"
+          },
+          {
+            "label": ["MOJ", "TWR"],
+            "station_id": "LPMT_TWR"
+          },
+          {
+            "label": ["BEJA", "TWR"],
+            "station_id": "LPBJ_TWR"
+          },
+          {
+            "label": ["MIL", "EXE"],
+            "station_id": "LPAM_CTR"
+          },
+          {
+            "label": ["OVR", "APP"],
+            "station_id": "LPOV_APP"
+          },
+          {
+            "label": ["MTL", "APP"],
+            "station_id": "LPMR_APP"
+          },
+          {
+            "label": ["STR", "APP"],
+            "station_id": "LPST_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["BEJA", "RADAR"],
+            "station_id": "LPBJ_APP"
+          }
+        ]
+      }
+    }
+  ]
+}
