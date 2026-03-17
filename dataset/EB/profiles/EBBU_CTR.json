@@ -264,7 +264,7 @@
           },
 		  {
             "label": ["EHS"],
-			"stations_id": "EBBU-ELS"
+			"stations_id": "EBBU-EHS"
           },
 		  {
             "label": ["LUS"],
@@ -554,7 +554,7 @@
           },
 		  {
             "label": ["BRU","EHS"],
-			"stations_id": "EBBU-ELS"
+			"stations_id": "EBBU-EHS"
           },
 		  {
             "label": ["BRU","HUS"],
