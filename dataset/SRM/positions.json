@@ -165,21 +165,21 @@
       "id": "VREI_I_TWR",
       "prefixes": ["VREI"],
       "frequency": "118.350",
-      "facility_type": "AFIS",
+      "facility_type": "TWR",
       "profile_id": "SRM"
     },
     {
       "id": "VRGD_I_TWR",
       "prefixes": ["VRGD"],
       "frequency": "118.950",
-      "facility_type": "AFIS",
+      "facility_type": "TWR",
       "profile_id": "SRM"
     },
     {
       "id": "VRNT_I_TWR",
       "prefixes": ["VRNT"],
       "frequency": "118.400",
-      "facility_type": "AFIS",
+      "facility_type": "TWR",
       "profile_id": "SRM"
     },
     {
