@@ -1,0 +1,63 @@
+{
+    "stations": [
+        {
+            "id": "FMMM_CTR",
+            "controlled_by": ["FMMM_CTR"]
+        },
+        {
+            "id": "FMMI_APP",
+            "parent_id": "FMMM_CTR",
+            "controlled_by": ["FMMI_APP"]
+        },
+        {
+            "id": "FMMI_TWR",
+            "parent_id": "FMMI_APP",
+            "controlled_by": ["FMMI_TWR"]
+        },
+        {
+            "id": "FMMI_0_GND",
+            "parent_id": "FMMI_TWR",
+            "controlled_by": ["FMMI_0_GND"]
+        },
+        {
+            "id": "FMCH_TWR",
+            "parent_id": "FMMM_CTR",
+            "controlled_by": ["FMCH_TWR"]
+        },
+        {
+            "id": "FMCZ_TWR",
+            "parent_id": "FMCH_TWR",
+            "controlled_by": ["FMCZ_TWR"]
+        },
+        {
+            "id": "FMEE_APP",
+            "parent_id": "FMMM_CTR",
+            "controlled_by": ["FMEE_APP"]
+        },
+        {
+            "id": "FMEE_TWR",
+            "parent_id": "FMEE_APP",
+            "controlled_by": ["FMEE_TWR"]
+        },
+        {
+            "id": "FMEE_GND",
+            "parent_id": "FMEE_TWR",
+            "controlled_by": ["FMEE_GND"]
+        },
+        {
+            "id": "FMMT_TWR",
+            "parent_id": "FMMM_CTR",
+            "controlled_by": ["FMMT_TWR"]
+        },
+        {
+            "id": "FMNM_TWR",
+            "parent_id": "FMMM_CTR",
+            "controlled_by": ["FMNM_TWR"]
+        },
+        {
+            "id": "FMNN_TWR",
+            "parent_id": "FMMM_CTR",
+            "controlled_by": ["FMNN_TWR"]
+        }
+    ]
+}

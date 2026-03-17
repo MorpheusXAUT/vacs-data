@@ -41,17 +41,16 @@ frequency = "119.400"
 facility_type = "APP"
 
 [[positions]]
-id = "FMEE_GND"
-prefixes = ["FMEE"]
-frequency = "121.900"
-facility_type = "GND"
-
-[[positions]]
 id = "FMEE_TWR"
 prefixes = ["FMEE"]
 frequency = "118.400"
 facility_type = "TWR"
 
+[[positions]]
+id = "FMEE_GND"
+prefixes = ["FMEE"]
+frequency = "121.900"
+facility_type = "GND"
 
 [[positions]]
 id = "FMMT_TWR"
