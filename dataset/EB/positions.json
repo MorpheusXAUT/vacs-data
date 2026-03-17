@@ -194,35 +194,35 @@
       "prefixes": ["EDYY"],
       "frequency": "132.205",
       "facility_type": "CTR",
-      "profile_id": "EDYY_CTR"
+      "profile_id": "EBBU_CTR"
     },
 	{
       "id": "EDYY_N_CTR",
       "prefixes": ["EDYY"],
       "frequency": "135.980",
       "facility_type": "CTR",
-      "profile_id": "EDYY_CTR"
+      "profile_id": "EBBU_CTR"
     },
 	{
       "id": "EDYY_O_CTR",
       "prefixes": ["EDYY"],
       "frequency": "132.855",
       "facility_type": "CTR",
-      "profile_id": "EDYY_CTR"
+      "profile_id": "EBBU_CTR"
     },
 	{
       "id": "EDYY_L_CTR",
       "prefixes": ["EDYY"],
       "frequency": "133.355",
       "facility_type": "CTR",
-      "profile_id": "EDYY_CTR"
+      "profile_id": "EBBU_CTR"
     },
 	{
       "id": "EBBU_U_CTR",
       "prefixes": ["EDYY"],
       "frequency": "125.980",
       "facility_type": "CTR",
-      "profile_id": "EDYY_CTR"
+      "profile_id": "EBBU_CTR"
     },
 	{
       "id": "EBLG_GND",
