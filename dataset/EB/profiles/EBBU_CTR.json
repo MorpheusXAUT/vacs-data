@@ -12,18 +12,20 @@
 			"stations_id": "EBBR-APP"
           },
 		  {
-            "label": []
-          },
-		  {
             "label": ["DEP"],
 			"stations_id": "EBBR-DEP"
           },
 		  {
-            "label": []
-          },
-		  {
             "label": ["FIN"],
 			"stations_id": "EBBR-FAPP"
+          },
+		  {
+            "label": ["HOLD"],
+			"stations_id": "EBBR-H"
+          },
+		  {
+            "label": ["WEST","HOLD"],
+			"stations_id": "EBBR-HW"
           },
 		  {
             "label": []
@@ -298,8 +300,8 @@
             "label": []
           },
 		  {
-            "label": ["EBCI","APP"],
-			"stations_id": "EBCI-APP"
+            "label": ["EBOS","APP"],
+			"stations_id": "EBOS-APP"
           },
 		  {
             "label": ["PARIS","TE"],
@@ -329,8 +331,8 @@
 			"stations_id": "EDYY-NIH"
           },
 		  {
-            "label": ["EBOS","APP"],
-			"stations_id": "EBOS-APP"
+            "label": ["EBCI","APP"],
+			"stations_id": "EBCI-APP"
           },
 		  {
             "label": ["PARIS","TM"],
