@@ -254,6 +254,10 @@
 	{
       "id": "EBBU-FIC",
       "controlled_by": ["EBBU_I_CTR"]
+    },
+	{
+      "id": "EBBU-FMP",
+      "controlled_by": ["EBBU_S_CTR"]
     }
   ]
 }
