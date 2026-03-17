@@ -143,7 +143,8 @@
             "station_id": "EGCC_S_TWR"
           },
           {
-            "label": []
+            "label": ["GMC"],
+            "station_id": "EGCC_GND"
           },
           {
             "label": ["GMP", "Assist"],
