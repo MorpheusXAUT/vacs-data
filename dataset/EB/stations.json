@@ -144,7 +144,7 @@
 	{
       "id": "EBCI-GND",
       "controlled_by": ["EBCI_GND"],
-	  "parent_id": "EBCI_TWR"
+	  "parent_id": "EBCI-TWR"
     },
 	{
       "id": "EBCI-TWR",
