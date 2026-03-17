@@ -87,7 +87,7 @@
 	{
       "id": "EBBU-EHS",
       "controlled_by": [
-	    "EBBU_EH_CTR"
+	    "EBBU_EH_CTR",
 		"EBBU_E_CTR",
 		"EBBU_H_CTR",
 		"EBBU_L_CTR",
