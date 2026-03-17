@@ -120,7 +120,7 @@ facility_type = "CTR"
 profile_id = "EDMM-WEST-SOUTH"
 
 [[positions]]
-id = "EDUU_CHI_CTR"
+id = "EDUU_AMM_CTR"
 prefixes = ["EDUU"]
 frequency = "123.390"
 facility_type = "CTR"
@@ -139,13 +139,6 @@ prefixes = ["EDUU"]
 frequency = "136.405"
 facility_type = "CTR"
 profile_id = "EDMM-EAST"
-
-[[positions]]
-id = "EDUU_ISA_CTR"
-prefixes = ["EDUU"]
-frequency = "136.335"
-facility_type = "CTR"
-profile_id = "EDMM-WEST-NORTH"
 
 [[positions]]
 id = "EDUU_SAL_CTR"
