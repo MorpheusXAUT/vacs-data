@@ -23,6 +23,7 @@ id = "LPPR_U_APP"
 controlled_by = ["LPPR_U_APP"]
 parent_id = "LPPR_APP"
 
+[[stations]]
 id = "LPPT_DEL"
 controlled_by = ["LPPT_DEL"]
 parent_id = "LPPT_GND"
