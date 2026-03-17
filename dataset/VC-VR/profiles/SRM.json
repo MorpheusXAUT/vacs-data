@@ -63,10 +63,10 @@
       }
     },
     {
-     "label": "VR GMC/AIRs",
-     "page":{
-        "rows":7,
-        "keys":[
+      "label": "VR GMC/AIRs",
+      "page": {
+        "rows": 7,
+        "keys": [
           {
             "label": ["MM GMC"],
             "station_id": "VRMM_GND"

@@ -379,11 +379,11 @@
       "profile_id": "SRM"
     },
     {
-      "id":"AFRS_FSS",
+      "id": "AFRS_FSS",
       "prefixes": ["AFRS"],
       "frequency": "134.575",
       "facility_type": "FSS",
-      "profile_id":"SRM"
+      "profile_id": "SRM"
     }
   ]
 }
