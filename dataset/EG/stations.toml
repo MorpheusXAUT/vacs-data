@@ -899,8 +899,8 @@ controlled_by = ["EGWU_TWR", "EGWU_F_APP", "EGWU_P_APP"]
 
 [[stations]]
 id = "EGWU_APP"
-parent_id = "EGLL_N_APP"
-controlled_by = ["EGWU_APP", "EGVV_D_CTR", "EGVV_W_CTR", "EGVV_CTR"]
+parent_id = "EGVV_D_CTR"
+controlled_by = ["EGWU_APP", "EGWU_F_APP", "EGWU_P_APP"]
 
 [[stations]]
 id = "EGWU_F_APP"
