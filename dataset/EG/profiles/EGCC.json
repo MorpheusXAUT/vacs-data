@@ -130,7 +130,7 @@
       "page": {
         "rows": 4,
         "keys": [
-            {
+          {
             "label": ["GMP"],
             "station_id": "EGCC_DEL"
           },
