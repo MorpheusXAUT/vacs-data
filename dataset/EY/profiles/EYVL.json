@@ -49,7 +49,8 @@
               "page": {
                 "keys": [
                   {
-                    "label": ["95-660", "S", "CTR"]
+                    "label": ["95-660", "S", "CTR"],
+                    "station_id": "EVRR_S"
                   },
                   {
                     "label": []
@@ -61,13 +62,15 @@
                     "label": []
                   },
                   {
-                    "label": ["95-660", "E", "CTR"]
+                    "label": ["95-660", "E", "CTR"],
+                    "station_id": "EVRR_E"
                   },
                   {
                     "label": []
                   },
                   {
-                    "label": ["EVRA", "APP"]
+                    "label": ["EVRA", "APP"],
+                    "station_id": "EVRA_APP"
                   },
                   {
                     "label": []
@@ -105,12 +108,15 @@
                   "page": {
                     "keys": [
                       {
-                        "label": ["EYVL", "E", "CTR"],
-                        "station_id": "EYVL-L"
+                        "label": ["EYVL", "CTR", "FL365-660"],
+                        "station_id": "EYVL-U"
                       },
                       {
-                        "label": ["EYVL", "U", "CTR"],
-                        "station_id": "EYVL-U"
+                        "label": ["EYVL", "CTR", "FL335-365"],
+                        "station_id": "EYVL-M"
+                      },
+                      {
+                        "label": []
                       },
                       {
                         "label": []
@@ -126,7 +132,8 @@
                         "label": []
                       },
                       {
-                        "label": []
+                        "label": ["EYVL", "CTR", "FL095-335"],
+                        "station_id": "EYVL-L"
                       },
                       {
                         "label": []
@@ -149,24 +156,24 @@
                   }
                 },
                 {
-                  "label": ["WEST", "VI/KA"],
+                  "label": ["EAST", "VI/KA"],
                   "size": 10,
                   "page": {
                     "keys": [
                       {
-                        "label": ["EYVL", "W", "CTR"],
-                        "station_id": "EYVL-L"
-                      },
-                      {
-                        "label": ["EYVL", "U", "CTR"],
+                        "label": ["EYVL", "CTR", "FL365-660"],
                         "station_id": "EYVL-U"
                       },
                       {
-                        "label": []
+                        "label": ["EYVL", "CTR", "FL335-365"],
+                        "station_id": "EYVL-M"
                       },
                       {
-                        "label": ["EYVI", "APP"],
-                        "station_id": "EYVI_APP"
+                        "label": ["EYVL", "CTR", "FL255-335"],
+                        "station_id": "EYVL-M"
+                      },
+                      {
+                        "label": []
                       },
                       {
                         "label": ["EYVI", "TWR"],
@@ -176,10 +183,12 @@
                         "label": []
                       },
                       {
-                        "label": []
+                        "label": ["EYVL", "CTR", "FL255-335"],
+                        "station_id": "EYVL-M"
                       },
                       {
-                        "label": []
+                        "label": ["EYVL", "CTR", "FL095-255"],
+                        "station_id": "EYVL-E"
                       },
                       {
                         "label": []
@@ -225,7 +234,8 @@
                         "station_id": "EYVI_I_APP"
                       },
                       {
-                        "label": ["EVRR", "FIS"]
+                        "label": ["EVRR", "FIS"],
+                        "station_id": "EVRR_FIS"
                       },
                       {
                         "label": []

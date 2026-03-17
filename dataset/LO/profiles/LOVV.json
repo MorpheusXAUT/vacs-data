@@ -281,7 +281,8 @@
                     "station_id": "LZBB_I_CTR"
                   },
                   {
-                    "label": ["BUD", "FICW", "COO"]
+                    "label": ["BUD", "FICW", "COO"],
+                    "station_id": "LHCC_WFIC"
                   },
                   {
                     "label": ["ZAG", "FIC"]
@@ -827,22 +828,28 @@
               "page": {
                 "keys": [
                   {
-                    "label": ["BUD", "WS-PLC", "390+"]
+                    "label": ["BUD", "WS-PLC", "390+"],
+                    "station_id": "LHCC_WT"
                   },
                   {
-                    "label": ["BUD", "WT-PLC", "370-380"]
+                    "label": ["BUD", "WT-PLC", "370-380"],
+                    "station_id": "LHCC_WT"
                   },
                   {
-                    "label": ["BUD", "WH-PLC", "360"]
+                    "label": ["BUD", "WH-PLC", "360"],
+                    "station_id": "LHCC_WU"
                   },
                   {
-                    "label": ["BUD", "WU-PLC", "350"]
+                    "label": ["BUD", "WU-PLC", "350"],
+                    "station_id": "LHCC_WU"
                   },
                   {
-                    "label": ["BUD", "WM-PLC", "310-"]
+                    "label": ["BUD", "WM-PLC", "310-"],
+                    "station_id": "LHCC_WL"
                   },
                   {
-                    "label": ["BUD", "WL-PLC", "300-"]
+                    "label": ["BUD", "WL-PLC", "300-"],
+                    "station_id": "LHCC_WL"
                   }
                 ],
                 "rows": 6
@@ -972,10 +979,12 @@
                     "label": ["FMP", "PRA"]
                   },
                   {
-                    "label": ["FMP", "BUD"]
+                    "label": ["FMP", "BUD"],
+                    "station_id": "LHBP_FMP"
                   },
                   {
-                    "label": ["FMP", "BUD", "2"]
+                    "label": ["FMP", "BUD", "2"],
+                    "station_id": "LHBP_FMP"
                   },
                   {
                     "label": ["FMP", "LJLJ"]

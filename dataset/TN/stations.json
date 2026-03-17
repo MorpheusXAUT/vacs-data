@@ -1,0 +1,60 @@
+{
+  "stations": [
+    {
+      "id": "TNCF_CTR",
+      "controlled_by": ["TNCF_CTR", "TNCF_S_CTR", "TNCF_M_CTR"]
+    },
+    {
+      "id": "TNCM_APP",
+      "controlled_by": ["TNCM_APP", "TNCM_S_APP", "TNCM_M_APP"]
+    },
+    {
+      "id": "TNCM_B_APP",
+      "controlled_by": ["TNCM_B_APP"]
+    },
+    {
+      "id": "TNCF_APP",
+      "parent_id": "TNCF_CTR",
+      "controlled_by": ["TNCF_APP"]
+    },
+    {
+      "id": "TNCA_APP",
+      "parent_id": "TNCF_APP",
+      "controlled_by": ["TNCA_APP"]
+    },
+    {
+      "id": "TNCM_TWR",
+      "parent_id": "TNCM_APP",
+      "controlled_by": ["TNCM_TWR", "TNCM_S_TWR", "TNCM_M_TWR"]
+    },
+    {
+      "id": "TNCA_TWR",
+      "parent_id": "TNCA_APP",
+      "controlled_by": ["TNCA_TWR"]
+    },
+    {
+      "id": "TNCC_TWR",
+      "parent_id": "TNCF_APP",
+      "controlled_by": ["TNCC_TWR"]
+    },
+    {
+      "id": "TNCB_TWR",
+      "parent_id": "TNCF_APP",
+      "controlled_by": ["TNCB_TWR"]
+    },
+    {
+      "id": "TNCA_RMP",
+      "parent_id": "TNCA_TWR",
+      "controlled_by": ["TNCA_RMP"]
+    },
+    {
+      "id": "TNCM_DEL",
+      "parent_id": "TNCM_TWR",
+      "controlled_by": ["TNCM_DEL"]
+    },
+    {
+      "id": "TNCM_FMP",
+      "controlled_by": ["TNCM_FMP"]
+    }
+  ]
+}

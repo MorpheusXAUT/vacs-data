@@ -9,7 +9,7 @@
         "keys": [
           {
             "label": ["SV 9"],
-            "station_id": "ENSV-16"
+            "station_id": "ENSV-9"
           },
           {
             "label": ["SV 10"],
@@ -80,7 +80,8 @@
             "station_id": "ENOB"
           },
           {
-            "label": ["DK UN", "FL365+"]
+            "label": ["DK UN", "FL365+"],
+            "station_id": "EKDKUN"
           },
           {
             "label": ["DK N", "FL365-"],
@@ -120,7 +121,7 @@
       }
     },
     {
-      "label": ["APP/TWR"],
+      "label": ["OTHER"],
       "page": {
         "rows": 4,
         "keys": [
@@ -184,7 +185,7 @@
             "station_id": "ENTO_APP"
           },
           {
-            "label": ["MØRE SOUTH", "APP"],
+            "label": ["MØRE", "SOUTH", "APP"],
             "station_id": "ENAL_APP"
           },
           {
@@ -194,19 +195,11 @@
             "label": []
           },
           {
-            "label": ["EGPD", "HELS"]
+            "label": []
           },
           {
-            "label": ["EGPB", "APP"]
-          }
-        ]
-      }
-    },
-    {
-      "label": ["AFIS"],
-      "page": {
-        "rows": 5,
-        "keys": [
+            "label": []
+          },
           {
             "label": ["FL", "AFIS"],
             "station_id": "ENFL_I_TWR"
@@ -228,18 +221,6 @@
             "station_id": "ENSO_I_TWR"
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
             "label": ["OV", "AFIS"],
             "station_id": "ENOV_I_TWR"
           },
@@ -258,7 +239,10 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EGPD", "HELS"]
+          },
+          {
+            "label": ["EGPB", "APP"]
           }
         ]
       }

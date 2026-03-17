@@ -44,7 +44,7 @@
           },
           {
             "label": ["MM", "XL"],
-            "station_id": "ESMS_XL"
+            "station_id": "ESMM_XL"
           },
           {
             "label": []
@@ -346,10 +346,12 @@
             "station_id": "EETT_FMP"
           },
           {
-            "label": ["EVRR", "FIS"]
+            "label": ["EVRR", "FIS"],
+            "station_id": "EVRR_FIS"
           },
           {
-            "label": []
+            "label": ["EPWW", "FMP"],
+            "station_id": "EPWW_FMP"
           },
           {
             "label": ["EPWW", "F HIGH", ""],
@@ -368,7 +370,8 @@
             "station_id": "EETT_W_FIS"
           },
           {
-            "label": ["EVRR N"]
+            "label": ["EVRR", "N"],
+            "station_id": "EVRR_N"
           },
           {
             "label": []
@@ -390,7 +393,8 @@
             "station_id": "EETT_W"
           },
           {
-            "label": ["EVRR S"]
+            "label": ["EVRR", "S"],
+            "station_id": "EVRR_S"
           },
           {
             "label": ["EYVL", "L"],
@@ -459,17 +463,6 @@
             "station_id": "ESMV_TWR"
           }
         ]
-      }
-    },
-    {
-      "label": ["OTHER"],
-      "page": {
-        "rows": 6,
-        "client_page": {
-          "include": ["EVRR*", "UMKK*", "RU-NWC*"],
-          "exclude": [],
-          "priority": ["*_FMP", "*FSS*", "*_CTR", "*_APP"]
-        }
       }
     }
   ]

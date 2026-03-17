@@ -890,3 +890,31 @@ controlled_by = [
 [[stations]]
 id = "SFAL_I_TWR"
 controlled_by = ["SFAL_I_TWR"]
+
+####################
+# Temporary Scottish Phones (oceanic) pending resectorisation
+####################
+
+[[stations]]
+id = "SCO_N_CTR"
+parent_id = "SCO_E_CTR"
+controlled_by = ["SCO_N_CTR"]
+
+[[stations]]
+id = "SCO_E_CTR"
+parent_id = "SCO_CTR"
+controlled_by = ["SCO_E_CTR"]
+
+[[stations]]
+id = "SCO_CTR"
+controlled_by = ["SCO_CTR"]
+
+[[stations]]
+id = "SCO_W_CTR"
+parent_id = "SCO_WD_CTR"
+controlled_by = ["SCO_W_CTR"]
+
+[[stations]]
+id = "SCO_WD_CTR"
+parent_id = "SCO_CTR"
+controlled_by = ["SCO_WD_CTR"]

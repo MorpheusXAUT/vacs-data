@@ -1,0 +1,77 @@
+{
+  "id": "ESSV",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESSV"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["APP"],
+            "station_id": "ESSV_APP"
+          },
+          {
+            "label": ["TWR", ""],
+            "station_id": "ESSV_TWR"
+          },
+          {
+            "label": ["OS", "9"],
+            "station_id": "ESOS_9"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OS", "2"],
+            "station_id": "ESOS_2"
+          },
+          {
+            "label": ["MM", "Y"],
+            "station_id": "ESMM_Y"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["COB"],
+            "station_id": "ESPF"
+          },
+          {
+            "label": ["GRI"],
+            "station_id": "ESCR"
+          },
+          {
+            "label": ["BSH"],
+            "station_id": "ESDK"
+          }
+        ]
+      }
+    }
+  ]
+}

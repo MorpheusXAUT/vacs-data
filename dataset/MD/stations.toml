@@ -1,0 +1,160 @@
+### ANT ###
+
+[[stations]]
+id = "ANT_CTR"
+controlled_by = ["ANT_CTR"]
+
+[[stations]]
+id = "ANT_B_CTR"
+controlled_by = ["ANT_B_CTR"]
+parent_id = "ANT_CTR"
+
+### MDCS ###
+
+[[stations]]
+id = "MDCS_CTR"
+controlled_by = ["MDCS_CTR"]
+parent_id = "ANT_CTR"
+
+[[stations]]
+id = "MDCS_N_CTR"
+controlled_by = ["MDCS_N_CTR"]
+parent_id = "MDCS_CTR"
+
+[[stations]]
+id = "MDCS_S_CTR"
+controlled_by = ["MDCS_S_CTR"]
+parent_id = "MDCS_CTR"
+
+### MDPC ###
+
+[[stations]]
+id = "MDPC_APP"
+controlled_by = ["MDPC_APP"]
+parent_id = "MDCS_CTR"
+
+[[stations]]
+id = "MDPC_A_APP"
+controlled_by = ["MDPC_A_APP"]
+parent_id = "MDPC_APP"
+
+[[stations]]
+id = "MDPC_TWR"
+controlled_by = ["MDPC_TWR"]
+parent_id = "MDPC_APP"
+
+[[stations]]
+id = "MDPC_GND"
+controlled_by = ["MDPC_GND"]
+parent_id = "MDPC_TWR"
+
+[[stations]]
+id = "MDPC_DEL"
+controlled_by = ["MDPC_DEL"]
+parent_id = "MDPC_GND"
+
+### MDSD ###
+
+[[stations]]
+id = "MDSD_APP"
+controlled_by = ["MDSD_APP"]
+parent_id = "MDCS_CTR"
+
+[[stations]]
+id = "MDSD_TWR"
+controlled_by = ["MDSD_TWR"]
+parent_id = "MDSD_APP"
+
+[[stations]]
+id = "MDSD_GND"
+controlled_by = ["MDSD_GND"]
+parent_id = "MDSD_TWR"
+
+[[stations]]
+id = "MDSD_DEL"
+controlled_by = ["MDSD_DEL"]
+parent_id = "MDSD_GND"
+
+### MDLR (under MDSD_APP) ###
+
+[[stations]]
+id = "MDLR_TWR"
+controlled_by = ["MDLR_TWR"]
+parent_id = "MDSD_APP"
+
+[[stations]]
+id = "MDLR_GND"
+controlled_by = ["MDLR_GND"]
+parent_id = "MDLR_TWR"
+
+### MDJB (under MDSD_APP) ###
+
+[[stations]]
+id = "MDJB_TWR"
+controlled_by = ["MDJB_TWR"]
+parent_id = "MDSD_APP"
+
+[[stations]]
+id = "MDJB_GND"
+controlled_by = ["MDJB_GND"]
+parent_id = "MDJB_TWR"
+
+### MDSI (under MDSD_APP) ###
+
+[[stations]]
+id = "MDSI_TWR"
+controlled_by = ["MDSI_TWR"]
+parent_id = "MDSD_APP"
+
+[[stations]]
+id = "MDSI_GND"
+controlled_by = ["MDSI_GND"]
+parent_id = "MDSI_TWR"
+
+### MDAB (under MDSD_APP, no GND) ###
+
+[[stations]]
+id = "MDAB_TWR"
+controlled_by = ["MDAB_TWR"]
+parent_id = "MDSD_APP"
+
+### MDCY ###
+
+[[stations]]
+id = "MDCY_APP"
+controlled_by = ["MDCY_APP"]
+parent_id = "MDCS_CTR"
+
+[[stations]]
+id = "MDCY_TWR"
+controlled_by = ["MDCY_TWR"]
+parent_id = "MDCY_APP"
+
+[[stations]]
+id = "MDCY_GND"
+controlled_by = ["MDCY_GND"]
+parent_id = "MDCY_TWR"
+
+### MDPP (under MDCY_APP) ###
+
+[[stations]]
+id = "MDPP_TWR"
+controlled_by = ["MDPP_TWR"]
+parent_id = "MDCY_APP"
+
+[[stations]]
+id = "MDPP_GND"
+controlled_by = ["MDPP_GND"]
+parent_id = "MDPP_TWR"
+
+### MDST (under MDCY_APP) ###
+
+[[stations]]
+id = "MDST_TWR"
+controlled_by = ["MDST_TWR"]
+parent_id = "MDCY_APP"
+
+[[stations]]
+id = "MDST_GND"
+controlled_by = ["MDST_GND"]
+parent_id = "MDST_TWR"

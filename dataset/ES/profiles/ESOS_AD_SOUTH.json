@@ -144,7 +144,7 @@
           },
           {
             "label": ["MM", "XL"],
-            "station_id": "ESMS_XL"
+            "station_id": "ESMM_XL"
           },
           {
             "label": []
@@ -364,13 +364,16 @@
         "rows": 3,
         "keys": [
           {
-            "label": ["ENOR", "1"]
+            "label": ["ENOS", "1"],
+            "station_id": "ENOS-1"
           },
           {
-            "label": ["ENOR", "2"]
+            "label": ["ENOS", "2"],
+            "station_id": "ENOS-2"
           },
           {
-            "label": ["ENOS", "OSLO", "APP-E"]
+            "label": ["ENOS", "OSLO", "APP-E"],
+            "station_id": "ENGM_E_APP"
           }
         ]
       }
@@ -424,17 +427,6 @@
             "station_id": "ESMV_TWR"
           }
         ]
-      }
-    },
-    {
-      "label": ["OTHER"],
-      "page": {
-        "rows": 6,
-        "client_page": {
-          "include": ["EN*"],
-          "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP"]
-        }
       }
     }
   ]

@@ -1,0 +1,217 @@
+### ANT ###
+
+[[positions]]
+id = "ANT_CTR"
+prefixes = ["ANT"]
+frequency = "131.200"
+facility_type = "CTR"
+profile_id = "MDCS_CTR"
+
+[[positions]]
+id = "ANT_B_CTR"
+prefixes = ["ANT"]
+frequency = "131.250"
+facility_type = "CTR"
+profile_id = "MDCS_CTR"
+
+### MDCS ###
+
+[[positions]]
+id = "MDCS_CTR"
+prefixes = ["MDCS"]
+frequency = "124.300"
+facility_type = "CTR"
+profile_id = "MDCS_CTR"
+
+[[positions]]
+id = "MDCS_N_CTR"
+prefixes = ["MDCS"]
+frequency = "124.300"
+facility_type = "CTR"
+profile_id = "MDCS_CTR"
+
+[[positions]]
+id = "MDCS_S_CTR"
+prefixes = ["MDCS"]
+frequency = "124.600"
+facility_type = "CTR"
+profile_id = "MDCS_CTR"
+
+### MDPC ###
+
+[[positions]]
+id = "MDPC_APP"
+prefixes = ["MDPC"]
+frequency = "119.750"
+facility_type = "APP"
+profile_id = "MDCS_APP"
+
+[[positions]]
+id = "MDPC_A_APP"
+prefixes = ["MDPC"]
+frequency = "120.700"
+facility_type = "APP"
+profile_id = "MDCS_APP"
+
+[[positions]]
+id = "MDPC_TWR"
+prefixes = ["MDPC"]
+frequency = "118.800"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDPC_GND"
+prefixes = ["MDPC"]
+frequency = "121.900"
+facility_type = "GND"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDPC_DEL"
+prefixes = ["MDPC"]
+frequency = "121.650"
+facility_type = "DEL"
+profile_id = "MDCS_LOCAL"
+
+### MDSD ###
+
+[[positions]]
+id = "MDSD_APP"
+prefixes = ["MDSD"]
+frequency = "119.300"
+facility_type = "APP"
+profile_id = "MDCS_APP"
+
+[[positions]]
+id = "MDSD_TWR"
+prefixes = ["MDSD"]
+frequency = "118.100"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDSD_GND"
+prefixes = ["MDSD"]
+frequency = "121.900"
+facility_type = "GND"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDSD_DEL"
+prefixes = ["MDSD"]
+frequency = "121.250"
+facility_type = "DEL"
+profile_id = "MDCS_LOCAL"
+
+### MDCY ###
+
+[[positions]]
+id = "MDCY_APP"
+prefixes = ["MDCY"]
+frequency = "119.000"
+facility_type = "APP"
+profile_id = "MDCS_APP"
+
+[[positions]]
+id = "MDCY_TWR"
+prefixes = ["MDCY"]
+frequency = "118.350"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDCY_GND"
+prefixes = ["MDCY"]
+frequency = "121.700"
+facility_type = "GND"
+profile_id = "MDCS_LOCAL"
+
+### MDLR ###
+
+[[positions]]
+id = "MDLR_TWR"
+prefixes = ["MDLR"]
+frequency = "118.600"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDLR_GND"
+prefixes = ["MDLR"]
+frequency = "121.600"
+facility_type = "GND"
+profile_id = "MDCS_LOCAL"
+
+### MDJB ###
+
+[[positions]]
+id = "MDJB_TWR"
+prefixes = ["MDJB"]
+frequency = "118.900"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDJB_GND"
+prefixes = ["MDJB"]
+frequency = "121.700"
+facility_type = "GND"
+profile_id = "MDCS_LOCAL"
+
+### MDSI ###
+
+[[positions]]
+id = "MDSI_TWR"
+prefixes = ["MDSI"]
+frequency = "122.700"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDSI_GND"
+prefixes = ["MDSI"]
+frequency = "121.800"
+facility_type = "GND"
+profile_id = "MDCS_LOCAL"
+
+### MDPP ###
+
+[[positions]]
+id = "MDPP_TWR"
+prefixes = ["MDPP"]
+frequency = "118.000"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDPP_GND"
+prefixes = ["MDPP"]
+frequency = "121.900"
+facility_type = "GND"
+profile_id = "MDCS_LOCAL"
+
+### MDST ###
+
+[[positions]]
+id = "MDST_TWR"
+prefixes = ["MDST"]
+frequency = "118.300"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"
+
+[[positions]]
+id = "MDST_GND"
+prefixes = ["MDST"]
+frequency = "121.900"
+facility_type = "GND"
+profile_id = "MDCS_LOCAL"
+
+### MDAB ###
+
+[[positions]]
+id = "MDAB_TWR"
+prefixes = ["MDAB"]
+frequency = "118.450"
+facility_type = "TWR"
+profile_id = "MDCS_LOCAL"

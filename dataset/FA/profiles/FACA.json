@@ -25,11 +25,11 @@
           },
           {
             "label": ["FAJO", "2"],
-            "station_id": "FAJO_2"
+            "station_id": "FAJO_2_FSS"
           },
           {
-            "label": ["FYWH", "ACC"],
-            "station_id": "FYWH"
+            "label": ["FYWF", "ACC"],
+            "station_id": "FYWF_CTR"
           },
           {
             "label": ["EAST", "ACC"],
@@ -49,7 +49,7 @@
           },
           {
             "label": ["FAJO"],
-            "station_id": "FAJO"
+            "station_id": "FAJO_FSS"
           },
           {
             "label": []

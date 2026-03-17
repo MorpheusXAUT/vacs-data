@@ -1,0 +1,102 @@
+{
+  "id": "TNCF",
+  "type": "Geo",
+  "direction": "row",
+  "padding": 0.5,
+  "gap": 1.5,
+  "children": [
+    {
+      "direction": "col",
+      "height": "100%",
+      "width": "50%",
+      "justify_content": "space-between",
+      "gap": 0.75,
+      "children": [
+        {
+          "label": ["CURACAO", "FIR"],
+          "size": 10.4,
+          "page": {
+            "rows": 3,
+            "keys": [
+              { "label": ["TNCA", "RMP"], "station_id": "TNCA_RMP" },
+              { "label": ["TNCA", "TWR"], "station_id": "TNCA_TWR" },
+              { "label": ["TNCA", "APP"], "station_id": "TNCA_APP" },
+
+              { "label": [" "] },
+              { "label": ["TNCC", "TWR"], "station_id": "TNCC_TWR" },
+              { "label": [" "] },
+
+              { "label": [" "] },
+              { "label": ["TNCB", "TWR"], "station_id": "TNCB_TWR" },
+              { "label": [" "] },
+
+              { "label": ["TNCF", "APP"], "station_id": "TNCF_APP" },
+              { "label": ["TNCF", "CTR"], "station_id": "TNCF_CTR" },
+              { "label": [" "] }
+            ]
+          }
+        },
+        {
+          "label": ["SAN JUAN", "CERAP"],
+          "size": 10.4,
+          "page": {
+            "rows": 6,
+            "keys": [
+              { "label": ["SJU", "2 CTR"] },
+              { "label": ["SJU", "8 CTR"] }
+            ]
+          }
+        },
+        {
+          "label": ["MIDCARIB", "FIR"],
+          "size": 10.4,
+          "page": {
+            "rows": 3,
+            "keys": [
+              { "label": ["MDCS", "CTR"] },
+              { "label": ["MTEG", "CTR"] },
+              { "label": ["ANT", "CTR"] }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "direction": "col",
+      "height": "100%",
+      "width": "48%",
+      "justify_content": "space-between",
+      "gap": 0.75,
+      "children": [
+        {
+          "label": ["KINGSTON", "FIR"],
+          "size": 10.4,
+          "page": {
+            "rows": 5,
+            "keys": [{ "label": ["MKJK", "CTR"] }]
+          }
+        },
+        {
+          "label": ["FSS"],
+          "size": 10.4,
+          "page": {
+            "rows": 3,
+            "keys": [
+              { "label": ["CARI", "FSS"] },
+              { "label": ["CARW", "FSS"] },
+              { "label": ["CARE", "FSS"] }
+            ]
+          }
+        },
+        {
+          "label": ["OTHER"],
+          "size": 10.4,
+          "page": {
+            "rows": 5,
+            "keys": []
+          }
+        }
+      ]
+    }
+  ]
+}

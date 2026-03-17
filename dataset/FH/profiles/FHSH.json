@@ -1,0 +1,43 @@
+{
+  "id": "FHSH",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ST", "HELENA"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": []
+          },
+          {
+            "label": ["Luanda", "Control", "(INOP)"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["APP"],
+            "station_id": "FHSH_APP"
+          },
+          {
+            "label": ["AIR"],
+            "station_id": "FHSH_TWR"
+          }
+        ]
+      }
+    }
+  ]
+}

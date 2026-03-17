@@ -1,0 +1,55 @@
+{
+  "id": "ESNX",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESNX"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["PE", "APP"],
+            "station_id": "ESPE_APP"
+          },
+          {
+            "label": ["NL", "AFIS"],
+            "station_id": "ESNL_AFIS"
+          },
+          {
+            "label": ["OS", "XK"],
+            "station_id": "ESOS_XK"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OS", "K"],
+            "station_id": "ESOS_K"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    }
+  ]
+}
