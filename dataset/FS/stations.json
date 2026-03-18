@@ -1,34 +1,34 @@
 {
-    "stations": [
-        {
-            "id": "FSSS_FSS",
-            "parent_id": "FSSS_CTR",
-            "controlled_by": ["FSSS_CTR"]
-        },
-        {
-            "id": "FSSS_CTR",
-            "parent_id": "AFRC_FSS",
-            "controlled_by": ["FSSS_CTR"]
-        },
-        {
-            "id": "FSIA_APP",
-            "parent_id": "FSSS_CTR",
-            "controlled_by": ["FSIA_APP"]
-        },
-        {
-            "id": "FSIA_TWR",
-            "parent_id": "FSIA_APP",
-            "controlled_by": ["FSIA_TWR"]
-        },
-        {
-            "id": "FSIA_GND",
-            "parent_id": "FSIA_TWR",
-            "controlled_by": ["FSIA_GND"]
-        },
-        {
-            "id": "FSPP_TWR",
-            "parent_id": "FSIA_APP",
-            "controlled_by": ["FSPP_TWR"]
-        }
-    ]
+  "stations": [
+    {
+      "id": "FSSS_FSS",
+      "parent_id": "FSSS_CTR",
+      "controlled_by": ["FSSS_CTR"]
+    },
+    {
+      "id": "FSSS_CTR",
+      "parent_id": "AFRC_FSS",
+      "controlled_by": ["FSSS_CTR"]
+    },
+    {
+      "id": "FSIA_APP",
+      "parent_id": "FSSS_CTR",
+      "controlled_by": ["FSIA_APP"]
+    },
+    {
+      "id": "FSIA_TWR",
+      "parent_id": "FSIA_APP",
+      "controlled_by": ["FSIA_TWR"]
+    },
+    {
+      "id": "FSIA_GND",
+      "parent_id": "FSIA_TWR",
+      "controlled_by": ["FSIA_GND"]
+    },
+    {
+      "id": "FSPP_TWR",
+      "parent_id": "FSIA_APP",
+      "controlled_by": ["FSPP_TWR"]
+    }
+  ]
 }
