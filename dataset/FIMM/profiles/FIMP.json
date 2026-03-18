@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": ["PLAI", "SANCE"],
+      "label": ["Plai", "-sance"],
       "page": {
         "rows": 3,
         "keys": [

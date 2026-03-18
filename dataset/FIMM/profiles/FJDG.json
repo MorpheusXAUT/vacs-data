@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": ["DIEGO", "GARCIA", "NAVY"],
+      "label": ["Diego", "Garcia", "Navy"],
       "page": {
         "rows": 2,
         "keys": [
