@@ -8,7 +8,8 @@
         "rows": 7,
         "keys": [
           {
-            "label": ["APP", "W/U EC"]
+            "label": ["APP", "W/U EC"],
+            "station_id": "LHBP_W_DEP"
           },
           {
             "label": ["APP", "W/U PC"]
@@ -26,10 +27,12 @@
             "label": ["cTWR", "SV"]
           },
           {
-            "label": ["TWR", "SV"]
+            "label": ["TWR", "SV"],
+            "station_id": "LHBP_S_TWR"
           },
           {
-            "label": ["TD 1", "EC"]
+            "label": ["TD 1", "EC"],
+            "station_id": "LHBP_D_APP"
           },
           {
             "label": []
@@ -41,16 +44,19 @@
             "label": ["MET", "MOBIL"]
           },
           {
-            "label": ["FMP 1"]
+            "label": ["FMP 1"],
+            "station_id": "LHBP_FMP"
           },
           {
             "label": ["cTWR", "ADC"]
           },
           {
-            "label": ["TWR", "ADC"]
+            "label": ["TWR", "ADC"],
+            "station_id": "LHBP_TWR"
           },
           {
-            "label": ["APP", "E/L EC"]
+            "label": ["APP", "E/L EC"],
+            "station_id": "LHBP_APP"
           },
           {
             "label": ["APP", "E/L PC"]
@@ -65,20 +71,22 @@
             "label": []
           },
           {
-            "label": ["cTWR", "GRC"],
-            "station_id": "LHBP_DEL"
+            "label": ["cTWR", "GRC"]
           },
           {
-            "label": ["TWR", "GRC"]
+            "label": ["TWR", "GRC"],
+            "station_id": "LHBP_GND"
           },
           {
-            "label": ["FINW EC"]
+            "label": ["FINW EC"],
+            "station_id": "LHCC_WFIC"
           },
           {
             "label": ["FINW PC"]
           },
           {
-            "label": ["FINE EC"]
+            "label": ["FINE EC"],
+            "station_id": "LHCC_EFIC"
           },
           {
             "label": ["FINE PC"]
@@ -111,7 +119,8 @@
             "label": ["cTWR", "CDC"]
           },
           {
-            "label": ["TWR", "CDC"]
+            "label": ["TWR", "CDC"],
+            "station_id": "LHBP_DEL"
           },
           {
             "label": ["APRON"]
