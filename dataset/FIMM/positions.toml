@@ -3,39 +3,46 @@ id = "FIMM_FSS"
 prefixes = ["FIMM"]
 frequency = "133.050"
 facility_type = "FSS"
+profile_id = "FIMM"
 
 [[positions]]
 id = "FIMM_CTR"
 prefixes = ["FIMM"]
 frequency = "129.300"
 facility_type = "CTR"
+profile_id = "FIMM"
 
 [[positions]]
 id = "FIMP_APP"
 prefixes = ["FIMP"]
 frequency = "119.100"
 facility_type = "APP"
+profile_id = "FIMP"
 
 [[positions]]
 id = "FIMP_TWR"
 prefixes = ["FIMP"]
 frequency = "118.100"
 facility_type = "TWR"
+profile_id = "FIMP"
 
 [[positions]]
 id = "FIMR_TWR"
 prefixes = ["FIMR"]
 frequency = "122.100"
 facility_type = "TWR"
+profile_id = "FIMR"
 
 [[positions]]
 id = "FJDG_TWR"
 prefixes = ["FJDG"]
 frequency = "126.200"
 facility_type = "TWR"
+profile_id = "FJDG"
 
 [[positions]]
 id = "FJDG_GND"
 prefixes = ["FJDG"]
 frequency = "118.400"
 facility_type = "GND"
+profile_id = "FJDG"

@@ -1,0 +1,35 @@
+{
+  "id": "FJDG",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["DIEGO", "GARCIA", "NAVY"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["Ground"],
+            "station_id": "FJDG_GND"
+          },
+          {
+            "label": ["Local"],
+            "station_id": "FJDG_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Mauritius", "Radio"],
+            "station_id": "FIMM_FSS"
+          }
+        ]
+      }
+    }
+  ]
+}

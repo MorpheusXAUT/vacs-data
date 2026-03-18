@@ -2,6 +2,7 @@
   "stations": [
     {
       "id": "FIMM_FSS",
+      "parent_id": "AFRS_FSS",
       "controlled_by": ["FIMM_FSS"]
     },
     {
