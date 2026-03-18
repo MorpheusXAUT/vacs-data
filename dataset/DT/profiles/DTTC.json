@@ -233,7 +233,7 @@
           },
           {
             "label": ["TX", "TWR"],
-            "station_id": "DTTX_GND"
+            "station_id": "DTTX_TWR"
           },
           {
             "label": ["TJ", "TWR"],
