@@ -202,8 +202,7 @@
             "station_id": "DTNH_TWR"
           },
           {
-            "label": ["MB", "TWR"],
-            "station_id": "DTMB_TWR"
+            "label": []
           },
           {
             "label": ["MB", "TWR"],
