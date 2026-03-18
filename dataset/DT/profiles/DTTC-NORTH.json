@@ -117,8 +117,8 @@
             "station_id": "DTNH_TWR"
           },
           {
-            "label": ["MB", "GND"],
-            "station_id": "DTMB_GND"
+            "label": ["MB", "TWR"],
+            "station_id": "DTMB_TWR"
           },
           {
             "label": ["MB", "TWR"],

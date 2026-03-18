@@ -62,7 +62,7 @@
             "station_id": "DTNH_GND"
           },
           {
-            "label": ["MB", "GND"],
+            "label": ["MB", "TWR"],
             "station_id": "DTMB_TWR"
           },
           {
@@ -109,7 +109,7 @@
           },
           {
             "label": ["TX", "TWR"],
-            "station_id": "DTTX_GND"
+            "station_id": "DTTX_TWR"
           },
           {
             "label": ["TJ", "TWR"],
