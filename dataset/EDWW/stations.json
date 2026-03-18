@@ -395,7 +395,11 @@
     },
     {
       "id": "ETHC-APP",
-      "controlled_by": ["ETHC_APP"]
+      "controlled_by": ["ETHC_APP", "ETHC_P_APP"]
+    },
+    {
+      "id": "ETHC-APP_P",
+      "controlled_by": ["ETHC_P_APP", "ETHC_APP"]
     },
     {
       "id": "ETHC-TWR",
@@ -486,7 +490,11 @@
     },
     {
       "id": "ETNW-APP",
-      "controlled_by": ["ETNW_APP"]
+      "controlled_by": ["ETNW_APP", "ETNW_P_APP"]
+    },
+    {
+      "id": "ETNW-APP_P",
+      "controlled_by": ["ETNW_P_APP", "ETNW_APP"]
     },
     {
       "id": "ETNW-TWR",
@@ -495,7 +503,11 @@
     },
     {
       "id": "ETSH-APP",
-      "controlled_by": ["ETSH_APP"]
+      "controlled_by": ["ETSH_APP", "ETSH_P_APP"]
+    },
+    {
+      "id": "ETSH-APP_P",
+      "controlled_by": ["ETSH_P_APP", "ETSH_APP"]
     },
     {
       "id": "ETSH-TWR",
