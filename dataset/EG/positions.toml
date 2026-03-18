@@ -1,7 +1,7 @@
 [[positions]]
 id = "EGAA_APP"
 prefixes = ["EGAA"]
-frequency = "133.125"
+frequency = "133.130"
 facility_type = "APP"
 profile_id = "EG-Scottish"
 
@@ -15,7 +15,7 @@ profile_id = "EG-Scottish"
 [[positions]]
 id = "EGAA_TWR"
 prefixes = ["EGAA"]
-frequency = "118.300"
+frequency = "118.305"
 facility_type = "TWR"
 profile_id = "EG-Scottish"
 
