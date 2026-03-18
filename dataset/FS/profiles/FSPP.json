@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": ["Praslin"],
+      "label": ["Pras", "-lin"],
       "page": {
         "rows": 2,
         "keys": [
