@@ -80,10 +80,12 @@ pub enum ImportCommand {
         merge: bool,
     },
 
-    /// Import data from an EuroScope sectorfile, converting it to vacs dataset format
+    /// Import data from an EuroScope sectorfile, converting it to vacs dataset format.
+    /// INPUT should be the path to an unpacked sectorfile directory.
+    /// The .ese file and profile files are auto-discovered unless overridden.
     #[command(arg_required_else_help = true)]
     Euroscope {
-        /// Input JSON file (positional)
+        /// Unpacked sectorfile directory (positional)
         #[arg(value_name = "INPUT", required_unless_present = "input")]
         input_pos: Option<PathBuf>,
 
@@ -91,7 +93,7 @@ pub enum ImportCommand {
         #[arg(value_name = "OUTPUT", required_unless_present = "output")]
         output_pos: Option<PathBuf>,
 
-        /// Input JSON file
+        /// Unpacked sectorfile directory
         #[arg(short, long)]
         input: Option<PathBuf>,
 
@@ -103,9 +105,13 @@ pub enum ImportCommand {
         #[arg(short, long, default_value_t = vacs_data_importer::OutputFormat::Toml)]
         format: vacs_data_importer::OutputFormat,
 
-        /// Prefixes to filter positions by
-        #[arg(short, long, value_name = "PREFIX")]
-        prefixes: Option<Vec<String>>,
+        /// Path to the .ese file (auto-discovered if not specified)
+        #[arg(long, value_name = "FILE")]
+        ese: Option<PathBuf>,
+
+        /// Paths to profile files (auto-discovered if not specified)
+        #[arg(short, long, value_name = "FILE")]
+        profiles: Option<Vec<PathBuf>>,
 
         /// Overwrite existing files
         #[arg(long, conflicts_with = "merge")]
