@@ -1,0 +1,30 @@
+{
+  "id": "FSPP",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["Praslin"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["Praslin", "Tower"],
+            "station_id": "FSPP_TWR"
+          },
+          {
+            "label": ["Seychles", "Tower", "118.300"],
+            "station_id": "FSIA_TWR"
+          },
+          {
+            "label": ["Seychles", "Approach", "119.700"],
+            "station_id": "FSIA_APP"
+          },
+          {
+            "label": ["Seychles", "Control", "120.200"],
+            "station_id": "FSSS_CTR"
+          }
+        ]
+      }
+    }
+  ]
+}

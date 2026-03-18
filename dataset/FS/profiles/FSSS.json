@@ -1,0 +1,71 @@
+{
+  "id": "FSSS",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["FSSS", "ACC"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Seychles", "Approach", "119.700"],
+            "station_id": "FSIA_APP"
+          },
+          {
+            "label": ["Seychles", "Tower", "118.300"],
+            "station_id": "FSIA_TWR"
+          },
+          {
+            "label": ["Mogadishu", "Radio", "3.467"]
+          },
+          {
+            "label": ["Nairbi S", "Control", "125.300"],
+            "station_id": "FSSS_CTR"
+          },
+          {
+            "label": ["Seychles", "Control", "120.200"],
+            "station_id": "FSSS_CTR"
+          },
+          {
+            "label": ["Seychles", "Ground", "121.900"],
+            "station_id": "FSIA_GND"
+          },
+          {
+            "label": ["Dar", "Control", "125.300"]
+          },
+          {
+            "label": ["Antanrivo", "Control", "128.900"],
+            "station_id": "FMMM_CTR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Moroni", "Tower", "118.100"],
+            "station_id": "FMCH_TWR"
+          },
+          {
+            "label": ["Mauritius", "Radio", "13.306"],
+            "station_id": "FIMM_FSS"
+          },
+          {
+            "label": ["Praslin", "Tower", "122.300"],
+            "station_id": "FSPP_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Mumbai", "Radio", "10.084"]
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    }
+  ]
+}
