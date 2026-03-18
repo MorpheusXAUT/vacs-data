@@ -254,7 +254,7 @@ profile_id = "EG-Swanwick_Military"
 id = "EGDY_GND"
 prefixes = ["EGDY"]
 frequency = "122.100"
-facility_type = "TWR"
+facility_type = "GND"
 profile_id = "EG-Swanwick_Military"
 
 [[positions]]
@@ -353,35 +353,35 @@ id = "EGGW_APP"
 prefixes = ["EGGW"]
 frequency = "129.550"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGGW_F_APP"
 prefixes = ["EGGW"]
 frequency = "128.750"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGGW_TWR"
 prefixes = ["EGGW"]
 frequency = "132.555"
 facility_type = "TWR"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGGW_GND"
 prefixes = ["EGGW"]
 frequency = "121.755"
 facility_type = "GND"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGGW_DEL"
 prefixes = ["EGGW"]
 frequency = "121.885"
 facility_type = "DEL"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGHC_TWR"
@@ -1396,21 +1396,21 @@ id = "EGSC_APP"
 prefixes = ["EGSC"]
 frequency = "120.965"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSC_A_APP"
 prefixes = ["EGSC"]
 frequency = "120.965"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSC_TWR"
 prefixes = ["EGSC"]
 frequency = "125.905"
 facility_type = "TWR"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSH_APP"
@@ -1438,42 +1438,42 @@ id = "ESSEX_APP"
 prefixes = ["ESSEX"]
 frequency = "120.625"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_APP"
 prefixes = ["EGSS"]
 frequency = "120.625"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_F_APP"
 prefixes = ["EGSS"]
 frequency = "136.200"
 facility_type = "APP"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_TWR"
 prefixes = ["EGSS"]
 frequency = "123.805"
 facility_type = "TWR"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_GND"
 prefixes = ["EGSS"]
 frequency = "121.730"
 facility_type = "GND"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSS_DEL"
 prefixes = ["EGSS"]
 frequency = "121.955"
 facility_type = "DEL"
-profile_id = "EG-Central_LAG"
+profile_id = "ESSEX"
 
 [[positions]]
 id = "EGSY_TWR"
@@ -3201,112 +3201,68 @@ facility_type = "CTR"
 profile_id = "EG-UK_ALL"
 
 #######################
-# Oceanic
+# Non-domestic owned
 #######################
-[[positions]]
-id = "EGGX_A_FSS"
-prefixes = ["EGGX"]
-frequency = "131.450"
-facility_type = "FSS"
 
 [[positions]]
-id = "EGGX_B_FSS"
-prefixes = ["EGGX"]
-frequency = "131.550"
-facility_type = "FSS"
+id = "LXGB_APP"
+prefixes = ["LXGB"]
+frequency = "123.300"
+facility_type = "APP"
+profile_id = "LXGB"
 
 [[positions]]
-id = "EGGX_C_FSS"
-prefixes = ["EGGX"]
-frequency = "131.650"
-facility_type = "FSS"
+id = "LXGB_P_APP"
+prefixes = ["LXGB"]
+frequency = "130.400"
+facility_type = "APP"
+profile_id = "LXGB"
 
 [[positions]]
-id = "EGGX_D_FSS"
-prefixes = ["EGGX"]
-frequency = "131.750"
-facility_type = "FSS"
+id = "LXGB_TWR"
+prefixes = ["LXGB"]
+frequency = "131.200"
+facility_type = "TWR"
+profile_id = "LXGB"
 
 [[positions]]
-id = "EGGX_FSS"
-prefixes = ["EGGX"]
-frequency = "131.800"
-facility_type = "FSS"
-
-[[positions]]
-id = "EGGX_F_FSS"
-prefixes = ["EGGX"]
-frequency = "131.850"
-facility_type = "FSS"
-
-[[positions]]
-id = "EGGX_A_CTR"
-prefixes = ["EGGX"]
-frequency = "131.450"
+id = "ISLAND_CTR"
+prefixes = ["ISLAND"]
+frequency = "131.500"
 facility_type = "CTR"
+profile_id = "ISLAND"
 
 [[positions]]
-id = "EGGX_B_CTR"
-prefixes = ["EGGX"]
-frequency = "131.550"
-facility_type = "CTR"
+id = "EGYP_APP"
+prefixes = ["EGYP"]
+frequency = "118.500"
+facility_type = "APP"
+profile_id = "ISLAND"
 
 [[positions]]
-id = "EGGX_CTR"
-prefixes = ["EGGX"]
-frequency = "131.800"
-facility_type = "CTR"
+id = "EGYP_P_APP"
+prefixes = ["EGYP"]
+frequency = "125.950"
+facility_type = "APP"
+profile_id = "ISLAND"
 
 [[positions]]
-id = "EGGX_C_CTR"
-prefixes = ["EGGX"]
-frequency = "131.650"
-facility_type = "CTR"
+id = "EGYP_TWR"
+prefixes = ["EGYP"]
+frequency = "133.350"
+facility_type = "TWR"
+profile_id = "ISLAND"
 
 [[positions]]
-id = "EGGX_D_CTR"
-prefixes = ["EGGX"]
-frequency = "131.750"
-facility_type = "CTR"
+id = "EGYP_GND"
+prefixes = ["EGYP"]
+frequency = "130.300"
+facility_type = "GND"
+profile_id = "ISLAND"
 
 [[positions]]
-id = "EGGX_F_CTR"
-prefixes = ["EGGX"]
-frequency = "131.850"
-facility_type = "CTR"
-
-[[positions]]
-id = "EGGX_A_DEL"
-prefixes = ["EGGX"]
-frequency = "127.900"
-facility_type = "DEL"
-
-[[positions]]
-id = "EGGX_B_DEL"
-prefixes = ["EGGX"]
-frequency = "123.950"
-facility_type = "DEL"
-
-[[positions]]
-id = "EGGX_C_DEL"
-prefixes = ["EGGX"]
-frequency = "124.175"
-facility_type = "DEL"
-
-[[positions]]
-id = "EGGX_DEL"
-prefixes = ["EGGX"]
-frequency = "127.650"
-facility_type = "DEL"
-
-[[positions]]
-id = "EGGX_D_DEL"
-prefixes = ["EGGX"]
-frequency = "126.375"
-facility_type = "DEL"
-
-[[positions]]
-id = "EGGX_F_DEL"
-prefixes = ["EGGX"]
-frequency = "128.375"
-facility_type = "DEL"
+id = "SFAL_I_TWR"
+prefixes = ["SFAL"]
+frequency = "118.100"
+facility_type = "TWR"
+profile_id = "ISLAND"

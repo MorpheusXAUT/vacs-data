@@ -1,0 +1,84 @@
+{
+  "id": "MDCS_CTR",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "CTR",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["ANT", "Control"],
+            "station_id": "ANT_CTR"
+          },
+          {
+            "label": ["ANT", "Ctrl B"],
+            "station_id": "ANT_B_CTR"
+          },
+          {
+            "label": ["MDCS", "Control"],
+            "station_id": "MDCS_CTR"
+          },
+          {
+            "label": ["MDCS", "North"],
+            "station_id": "MDCS_N_CTR"
+          },
+          {
+            "label": ["MDCS", "South"],
+            "station_id": "MDCS_S_CTR"
+          },
+          {
+            "label": ["MTEG", "Center"],
+            "station_id": "MTEG_CTR"
+          },
+          {
+            "label": ["MTEG", "North"],
+            "station_id": "MTEG_N_CTR"
+          },
+          {
+            "label": ["MTEG", "South"],
+            "station_id": "MTEG_S_CTR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "APP",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["MDPC", "Approach"],
+            "station_id": "MDPC_APP"
+          },
+          {
+            "label": ["MDPC", "App A"],
+            "station_id": "MDPC_A_APP"
+          },
+          {
+            "label": ["MDSD", "Approach"],
+            "station_id": "MDSD_APP"
+          },
+          {
+            "label": ["MDCY", "Approach"],
+            "station_id": "MDCY_APP"
+          },
+          {
+            "label": ["MTEG", "Approach"],
+            "station_id": "MTEG_APP"
+          }
+        ]
+      }
+    },
+    {
+      "label": "EXT",
+      "page": {
+        "rows": 6,
+        "client_page": {
+          "include": ["SJU*", "TNCF*", "MKJK*", "ZMO*", "MUFH*"],
+          "grouping": "Fir"
+        }
+      }
+    }
+  ]
+}

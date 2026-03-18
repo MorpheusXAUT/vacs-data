@@ -1,0 +1,124 @@
+{
+  "id": "MDCS_APP",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "CTR",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["MDCS", "Control"],
+            "station_id": "MDCS_CTR"
+          },
+          {
+            "label": ["MDCS", "North"],
+            "station_id": "MDCS_N_CTR"
+          },
+          {
+            "label": ["MDCS", "South"],
+            "station_id": "MDCS_S_CTR"
+          },
+          {
+            "label": ["ANT", "Control"],
+            "station_id": "ANT_CTR"
+          },
+          {
+            "label": ["ANT", "Ctrl B"],
+            "station_id": "ANT_B_CTR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "APP",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["MDPC", "Approach"],
+            "station_id": "MDPC_APP"
+          },
+          {
+            "label": ["MDPC", "App A"],
+            "station_id": "MDPC_A_APP"
+          },
+          {
+            "label": ["MDSD", "Approach"],
+            "station_id": "MDSD_APP"
+          },
+          {
+            "label": ["MDCY", "Approach"],
+            "station_id": "MDCY_APP"
+          },
+          {
+            "label": ["MTEG", "Approach"],
+            "station_id": "MTEG_APP"
+          }
+        ]
+      }
+    },
+    {
+      "label": "TWR",
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["MDPC", "Tower"],
+            "station_id": "MDPC_TWR"
+          },
+          {
+            "label": ["MDSD", "Tower"],
+            "station_id": "MDSD_TWR"
+          },
+          {
+            "label": ["MDLR", "Tower"],
+            "station_id": "MDLR_TWR"
+          },
+          {
+            "label": ["MDJB", "Tower"],
+            "station_id": "MDJB_TWR"
+          },
+          {
+            "label": ["MDSI", "Tower"],
+            "station_id": "MDSI_TWR"
+          },
+          {
+            "label": ["MDPP", "Tower"],
+            "station_id": "MDPP_TWR"
+          },
+          {
+            "label": ["MDST", "Tower"],
+            "station_id": "MDST_TWR"
+          },
+          {
+            "label": ["MDCY", "Tower"],
+            "station_id": "MDCY_TWR"
+          },
+          {
+            "label": ["MDAB", "Tower"],
+            "station_id": "MDAB_TWR"
+          },
+          {
+            "label": ["MTPP", "Tower"],
+            "station_id": "MTPP_TWR"
+          },
+          {
+            "label": ["MTCH", "Tower"],
+            "station_id": "MTCH_TWR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "EXT",
+      "page": {
+        "rows": 6,
+        "client_page": {
+          "include": ["MD*", "MT*", "ANT*", "SJU*"],
+          "grouping": "FirAndIcao"
+        }
+      }
+    }
+  ]
+}

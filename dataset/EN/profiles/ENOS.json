@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": ["ACC"],
+      "label": ["ENOS", ""],
       "page": {
         "rows": 6,
         "keys": [
@@ -40,8 +40,8 @@
             "station_id": "ENOS-8"
           },
           {
-            "label": ["SV 9"],
-            "station_id": "ENSV-9"
+            "label": ["ESKS", "TWR/APP"],
+            "station_id": "ESKS_TWR"
           },
           {
             "label": ["SV 13"],
@@ -64,13 +64,15 @@
             "station_id": "ENBD-19"
           },
           {
-            "label": []
+            "label": ["SV 9"],
+            "station_id": "ENSV-9"
           },
           {
             "label": []
           },
           {
-            "label": ["DK UN ", "FL365+"]
+            "label": ["DK UN ", "FL365+"],
+            "station_id": "EKDKUN"
           },
           {
             "label": ["DK N", "FL365-"],
@@ -99,42 +101,59 @@
           {
             "label": ["DK L", "FL285-"],
             "station_id": "EKDKL"
-          }
-        ]
-      }
-    },
-    {
-      "label": ["ENGM"],
-      "page": {
-        "rows": 4,
-        "keys": [
+          },
+          {
+            "label": ["CN", "APP"],
+            "station_id": "ENCN_APP"
+          },
+          {
+            "label": ["FARRIS", "APP"],
+            "station_id": "ENTO_APP"
+          },
+          {
+            "label": ["FARRIS", "DIR"],
+            "station_id": "ENTO_D_APP"
+          },
+          {
+            "label": ["TO", "TWR"],
+            "station_id": "ENTO_TWR"
+          },
+          {
+            "label": ["TO", "GND"],
+            "station_id": "ENTO_GND"
+          },
+          {
+            "label": ["NO", "AFIS"],
+            "station_id": "ENNO_I_TWR"
+          },
+          {
+            "label": ["CN", "TWR"],
+            "station_id": "ENCN_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["RY", "TWR"],
+            "station_id": "ENRY_TWR"
+          },
+          {
+            "label": ["RY", "GND"],
+            "station_id": "ENRY_GND"
+          },
+          {
+            "label": []
+          },
           {
             "label": ["GM W", "APP"],
             "station_id": "ENGM_W_APP"
           },
           {
-            "label": ["GM", "DIR"],
-            "station_id": "ENGM_D_APP"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["GM E", "APP"],
-            "station_id": "ENGM_E_APP"
-          },
-          {
             "label": ["GM", "FIN"],
             "station_id": "ENGM_F_APP"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
           },
           {
             "label": ["GM W", "TWR"],
@@ -153,6 +172,14 @@
             "station_id": "ENGM_P_GND"
           },
           {
+            "label": ["GM E", "APP"],
+            "station_id": "ENGM_E_APP"
+          },
+          {
+            "label": ["GM", "DIR"],
+            "station_id": "ENGM_D_APP"
+          },
+          {
             "label": ["GM E", "TWR"],
             "station_id": "ENGM_E_TWR"
           },
@@ -167,72 +194,6 @@
           {
             "label": ["GM", "DEICE"],
             "station_id": "ENGM_ICE_GND"
-          }
-        ]
-      }
-    },
-    {
-      "label": ["OTHER"],
-      "page": {
-        "rows": 4,
-        "keys": [
-          {
-            "label": ["CN", "APP"],
-            "station_id": "ENCN_APP"
-          },
-          {
-            "label": ["CN", "TWR"],
-            "station_id": "ENCN_TWR"
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["FARRIS", "APP"],
-            "station_id": "ENTO_APP"
-          },
-          {
-            "label": ["FARRIS", "DIR"],
-            "station_id": "ENTO_D_APP"
-          },
-          {
-            "label": ["NO", "AFIS"],
-            "station_id": "ENNO_I_TWR"
-          },
-          {
-            "label": [""]
-          },
-          {
-            "label": ["TO", "TWR"],
-            "station_id": "ENTO_TWR"
-          },
-          {
-            "label": ["TO", "GND"],
-            "station_id": "ENTO_GND"
-          },
-          {
-            "label": ["RY", "TWR"],
-            "station_id": "ENRY_TWR"
-          },
-          {
-            "label": ["RY", "GND"],
-            "station_id": "ENRY_GND"
-          },
-          {
-            "label": ["ESKS", "TWR/APP"],
-            "station_id": "ESKS_TWR"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
           }
         ]
       }

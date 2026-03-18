@@ -1,0 +1,61 @@
+### MTEG ###
+
+[[positions]]
+id = "MTEG_CTR"
+prefixes = ["MTEG"]
+frequency = "124.500"
+facility_type = "CTR"
+profile_id = "MTEG_CTR"
+
+[[positions]]
+id = "MTEG_N_CTR"
+prefixes = ["MTEG"]
+frequency = "124.500"
+facility_type = "CTR"
+profile_id = "MTEG_CTR"
+
+[[positions]]
+id = "MTEG_S_CTR"
+prefixes = ["MTEG"]
+frequency = "134.150"
+facility_type = "CTR"
+profile_id = "MTEG_CTR"
+
+[[positions]]
+id = "MTEG_APP"
+prefixes = ["MTEG"]
+frequency = "119.800"
+facility_type = "APP"
+profile_id = "MTEG_APP"
+
+### MTPP ###
+
+[[positions]]
+id = "MTPP_TWR"
+prefixes = ["MTPP"]
+frequency = "118.300"
+facility_type = "TWR"
+profile_id = "MTEG_LOCAL"
+
+[[positions]]
+id = "MTPP_GND"
+prefixes = ["MTPP"]
+frequency = "121.750"
+facility_type = "GND"
+profile_id = "MTEG_LOCAL"
+
+[[positions]]
+id = "MTPP_DEL"
+prefixes = ["MTPP"]
+frequency = "135.100"
+facility_type = "DEL"
+profile_id = "MTEG_LOCAL"
+
+### MTCH ###
+
+[[positions]]
+id = "MTCH_TWR"
+prefixes = ["MTCH"]
+frequency = "118.700"
+facility_type = "TWR"
+profile_id = "MTEG_LOCAL"

@@ -1,0 +1,293 @@
+[[positions]]
+id = "LHBC_I_TWR"
+prefixes = ["LHBC"]
+frequency = "123.260"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHBP_APP"
+prefixes = ["LHBP"]
+frequency = "122.980"
+facility_type = "APP"
+profile_id = "TEL"
+
+[[positions]]
+id = "LHBP_U_APP"
+prefixes = ["LHBP"]
+frequency = "123.860"
+facility_type = "APP"
+profile_id = "TEL"
+
+[[positions]]
+id = "LHBP_D_APP"
+prefixes = ["LHBP"]
+frequency = "119.510"
+facility_type = "APP"
+profile_id = "TEL"
+
+[[positions]]
+id = "LHBP_TWR"
+prefixes = ["LHBP"]
+frequency = "118.715"
+facility_type = "TWR"
+profile_id = "TWR"
+
+[[positions]]
+id = "LHBP_GND"
+prefixes = ["LHBP"]
+frequency = "121.905"
+facility_type = "GND"
+profile_id = "TWR"
+
+[[positions]]
+id = "LHBP_DEL"
+prefixes = ["LHBP"]
+frequency = "134.540"
+facility_type = "DEL"
+profile_id = "TWR"
+
+[[positions]]
+id = "LHBP_FMP"
+prefixes = ["LHBP"]
+frequency = "122.980"
+facility_type = "FMP"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHBP_P_APP"
+prefixes = ["LHBP"]
+frequency = "122.980"
+facility_type = "APP"
+profile_id = "TEL"
+
+[[positions]]
+id = "LHBP_S_TWR"
+prefixes = ["LHBP"]
+frequency = "119.980"
+facility_type = "TWR"
+profile_id = "TWR"
+
+[[positions]]
+id = "LHBP_W_DEP"
+prefixes = ["LHBP"]
+frequency = "123.860"
+facility_type = "DEP"
+profile_id = "TEL"
+
+[[positions]]
+id = "LHBS_I_TWR"
+prefixes = ["LHBS"]
+frequency = "124.510"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_W_CTR"
+prefixes = ["LHCC"]
+frequency = "133.205"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_CTR"
+prefixes = ["LHCC"]
+frequency = "120.380"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_I_CTR"
+prefixes = ["LHCC"]
+frequency = "119.350"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_Z_CTR"
+prefixes = ["LHCC"]
+frequency = "133.000"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_Q_CTR"
+prefixes = ["LHCC"]
+frequency = "125.500"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_2_CTR"
+prefixes = ["LHCC"]
+frequency = "135.205"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_1_CTR"
+prefixes = ["LHCC"]
+frequency = "132.790"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_SV_CTR"
+prefixes = ["LHCC"]
+frequency = "130.580"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_N_CTR"
+prefixes = ["LHCC"]
+frequency = "135.555"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_K_CTR"
+prefixes = ["LHCC"]
+frequency = "127.860"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_U_CTR"
+prefixes = ["LHCC"]
+frequency = "133.535"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHCC_S_CTR"
+prefixes = ["LHCC"]
+frequency = "128.105"
+facility_type = "CTR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHDC_I_TWR"
+prefixes = ["LHDC"]
+frequency = "125.910"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHDK_I_TWR"
+prefixes = ["LHDK"]
+frequency = "129.790"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHGD_I_TWR"
+prefixes = ["LHGD"]
+frequency = "119.060"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHKE_GND"
+prefixes = ["LHKE"]
+frequency = "121.750"
+facility_type = "GND"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHKE_TWR"
+prefixes = ["LHKE"]
+frequency = "135.750"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHKE_APP"
+prefixes = ["LHKE"]
+frequency = "120.250"
+facility_type = "APP"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHNY_I_TWR"
+prefixes = ["LHNY"]
+frequency = "119.410"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHPA_GND"
+prefixes = ["LHPA"]
+frequency = "133.250"
+facility_type = "GND"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHPA_TWR"
+prefixes = ["LHPA"]
+frequency = "129.500"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHPA_APP"
+prefixes = ["LHPA"]
+frequency = "131.250"
+facility_type = "APP"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHPP_I_TWR"
+prefixes = ["LHPP"]
+frequency = "126.915"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHPR_I_TWR"
+prefixes = ["LHPR"]
+frequency = "129.910"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHSM_I_TWR"
+prefixes = ["LHSM"]
+frequency = "134.585"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHSN_GND"
+prefixes = ["LHSN"]
+frequency = "130.250"
+facility_type = "GND"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHSN_TWR"
+prefixes = ["LHSN"]
+frequency = "132.500"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHSN_APP"
+prefixes = ["LHSN"]
+frequency = "127.750"
+facility_type = "APP"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHTL_I_TWR"
+prefixes = ["LHTL"]
+frequency = "127.560"
+facility_type = "TWR"
+profile_id = "ACC"
+
+[[positions]]
+id = "LHUD_I_TWR"
+prefixes = ["LHUD"]
+frequency = "122.810"
+facility_type = "TWR"
+profile_id = "ACC"

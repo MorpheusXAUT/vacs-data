@@ -1,0 +1,44 @@
+{
+  "id": "AT98",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["WOLFS", "FANG"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": []
+          },
+          {
+            "label": ["WOLFS", "FANG", "INFO"],
+            "station_id": "AT98_I_FSS"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["JOBURG", "OCA"],
+            "station_id": "FAJO_FSS"
+          },
+          {
+            "label": ["OCA", "FLOW"],
+            "station_id": "FAJO_FMP"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[[positions]]
+id = "FSSS_FSS"
+prefixes = ["FSSS"]
+frequency = "132.900"
+facility_type = "FSS"
+profile_id = "FSSS"
+
+[[positions]]
+id = "FSSS_CTR"
+prefixes = ["FSSS"]
+frequency = "120.200"
+facility_type = "CTR"
+profile_id = "FSSS"
+
+[[positions]]
+id = "FSIA_APP"
+prefixes = ["FSIA"]
+frequency = "119.700"
+facility_type = "APP"
+profile_id = "FSIA"
+
+[[positions]]
+id = "FSIA_TWR"
+prefixes = ["FSIA"]
+frequency = "118.300"
+facility_type = "TWR"
+profile_id = "FSIA"
+
+[[positions]]
+id = "FSIA_GND"
+prefixes = ["FSIA"]
+frequency = "121.900"
+facility_type = "GND"
+profile_id = "FSIA"
+
+[[positions]]
+id = "FSPP_TWR"
+prefixes = ["FSPP"]
+frequency = "122.300"
+facility_type = "TWR"
+profile_id = "FSPP"

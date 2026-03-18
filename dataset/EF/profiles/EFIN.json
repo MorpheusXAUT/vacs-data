@@ -132,10 +132,12 @@
             "label": []
           },
           {
-            "label": ["ENOR", "SEC 26"]
+            "label": ["ENOR", "SEC 26"],
+            "station_id": "ENBD-26"
           },
           {
-            "label": ["ENKR", "APP"]
+            "label": ["ENKR", "APP"],
+            "station_id": "ENKR_APP"
           },
           {
             "label": ["ULLL", "West"]
@@ -150,7 +152,7 @@
             "label": []
           },
           {
-            "label": [""]
+            "label": []
           },
           {
             "label": []
@@ -183,7 +185,7 @@
             "station_id": "EFKU_COR"
           },
           {
-            "label": ["EFTU", "COR", ""],
+            "label": ["EFTU", "COR"],
             "station_id": "EFTU_COR"
           },
           {
@@ -392,7 +394,7 @@
             "label": []
           },
           {
-            "label": ["EFHA", "COR", ""],
+            "label": ["EFHA", "COR"],
             "station_id": "EFHA_COR"
           },
           {
@@ -419,19 +421,19 @@
       }
     },
     {
-      "label": ["EFHK", ""],
+      "label": ["EFHK"],
       "page": {
         "rows": 7,
         "keys": [
           {
-            "label": [""]
+            "label": []
           },
           {
-            "label": ["RAD-W", ""],
+            "label": ["RAD-W"],
             "station_id": "EFHK_RW"
           },
           {
-            "label": ["ARR-W", ""],
+            "label": ["ARR-W"],
             "station_id": "EFHK_AW"
           },
           {
@@ -453,11 +455,11 @@
             "label": []
           },
           {
-            "label": ["RAD-E", ""],
+            "label": ["RAD-E"],
             "station_id": "EFHK_RE"
           },
           {
-            "label": ["ARR-E", ""],
+            "label": ["ARR-E"],
             "station_id": "EFHK_AE"
           },
           {

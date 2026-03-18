@@ -300,7 +300,7 @@ controlled_by = ["LON_H_CTR"]
 [[stations]]
 id = "LON_S_CTR"
 parent_id = "LON_SC_CTR"
-controlled_by = ["LON_SC_CTR"]
+controlled_by = ["LON_S_CTR"]
 
 ####################
 # NORTH LAG SECTORS
@@ -682,6 +682,41 @@ controlled_by = ["EGVV_D_CTR"]
 ####################
 
 [[stations]]
+id = "EGBB_APP"
+parent_id = "LTC_MC_CTR"
+controlled_by = ["EGBB_APP", "EGBB_F_APP"]
+
+[[stations]]
+id = "EGBB_F_APP"
+parent_id = "EGBB_APP"
+controlled_by = ["EGBB_F_APP"]
+
+[[stations]]
+id = "EGGW_DEL"
+parent_id = "EGGW_GND"
+controlled_by = ["EGGW_DEL"]
+
+[[stations]]
+id = "EGGW_GND"
+parent_id = "EGGW_TWR"
+controlled_by = ["EGGW_APP"]
+
+[[stations]]
+id = "EGGW_TWR"
+parent_id = "EGGW_APP"
+controlled_by = ["EGGW_TWR"]
+
+[[stations]]
+id = "EGGW_APP"
+parent_id = "LTC_NW_CTR"
+controlled_by = ["EGGW_APP", "EGGW_F_APP", "ESSEX_APP"]
+
+[[stations]]
+id = "EGGW_F_APP"
+parent_id = "EGGW_APP"
+controlled_by = ["EGGW_F_APP"]
+
+[[stations]]
 id = "EGKK_APP"
 parent_id = "LTC_SW_CTR"
 controlled_by = ["EGKK_APP", "EGKK_F_APP"]
@@ -785,13 +820,72 @@ parent_id = "EGLL-CTR-TC_SVFR"
 controlled_by = ["EGLW_TWR"]
 
 [[stations]]
+id = "EGNX_APP"
+parent_id = "LTC_MW_CTR"
+controlled_by = ["EGNX_APP", "EGNX_F_APP"]
+
+[[stations]]
+id = "EGNX_F_APP"
+parent_id = "EGNX_APP"
+controlled_by = ["EGNX_F_APP"]
+
+[[stations]]
+id = "EGSC_TWR"
+parent_id = "EGSC_APP"
+controlled_by = ["EGSC_TWR"]
+
+[[stations]]
+id = "EGSC_APP"
+parent_id = "EGSC_A_APP"
+controlled_by = ["EGSC_APP"]
+
+[[stations]]
+id = "EGSC_A_APP"
+parent_id = "EGSS_APP"
+controlled_by = ["EGSC_A_APP"]
+
+[[stations]]
+id = "EGSS_DEL"
+parent_id = "EGSS_GND"
+controlled_by = ["EGSS_DEL"]
+
+[[stations]]
+id = "EGSS_GND"
+parent_id = "EGSS_TWR"
+controlled_by = ["EGSS_TWR"]
+
+[[stations]]
+id = "EGSS_TWR"
+parent_id = "EGSS_APP"
+controlled_by = ["EGSS_TWR"]
+
+[[stations]]
 id = "EGSS_APP"
 parent_id = "LTC_NL_CTR"
 controlled_by = ["EGSS_APP", "EGSS_F_APP", "ESSEX_APP"]
 
 [[stations]]
+id = "EGSS_F_APP"
+parent_id = "EGSS_APP"
+controlled_by = ["EGSS_F_APP"]
+
+[[stations]]
+id = "EGSU_I_TWR"
+controlled_by = ["EGSU_I_TWR"]
+
+[[stations]]
 id = "EGTF_R_TWR"
 controlled_by = ["EGTF_R_TWR"]
+
+[[stations]]
+id = "EGUL_APP"
+parent_id = "EGVV_E_CTR"
+controlled_by = ["EGUL_APP", "EGUL_P_APP"]
+
+[[stations]]
+id = "EGUL_P_APP"
+parent_id = "EGUL_APP"
+controlled_by = ["EGUL_P_APP"]
 
 [[stations]]
 id = "EGWU_GND"
@@ -805,8 +899,8 @@ controlled_by = ["EGWU_TWR", "EGWU_F_APP", "EGWU_P_APP"]
 
 [[stations]]
 id = "EGWU_APP"
-parent_id = "EGLL_N_APP"
-controlled_by = ["EGWU_APP", "EGVV_D_CTR", "EGVV_W_CTR", "EGVV_CTR"]
+parent_id = "EGVV_D_CTR"
+controlled_by = ["EGWU_APP", "EGWU_F_APP", "EGWU_P_APP"]
 
 [[stations]]
 id = "EGWU_F_APP"
@@ -819,8 +913,46 @@ parent_id = "EGWU_F_APP"
 controlled_by = ["EGWU_P_APP"]
 
 [[stations]]
+id = "EGYP_APP"
+parent_id = "ISLAND_CTR"
+controlled_by = ["EGYP_APP", "EGYP_P_APP"]
+
+[[stations]]
+id = "EGYP_P_APP"
+parent_id = "EGYP_APP"
+controlled_by = ["EGYP_P_APP"]
+
+[[stations]]
+id = "EGYP_TWR"
+parent_id = "EGYP_APP"
+controlled_by = ["EGYP_TWR"]
+
+[[stations]]
+id = "EGYP_GND"
+parent_id = "EGYP_TWR"
+controlled_by = ["EGYP_GND"]
+
+[[stations]]
+id = "LXGB_APP"
+controlled_by = ["LXGB_APP", "LXGB_P_APP"]
+
+[[stations]]
+id = "LXGB_P_APP"
+parent_id = "LXGB_APP"
+controlled_by = ["LXGB_P_APP"]
+
+[[stations]]
+id = "LXGB_TWR"
+parent_id = "LXGB_APP"
+controlled_by = ["LXGB_TWR"]
+
+[[stations]]
 id = "ESSEX_APP"
 controlled_by = ["ESSEX_APP"]
+
+[[stations]]
+id = "ISLAND_CTR"
+controlled_by = ["ISLAND_CTR"]
 
 [[stations]]
 id = "SOLENT_APP"
@@ -848,3 +980,35 @@ controlled_by = [
   "LON_SC_CTR",
   "LON_CTR",
 ]
+
+[[stations]]
+id = "SFAL_I_TWR"
+controlled_by = ["SFAL_I_TWR"]
+
+####################
+# Temporary Scottish Phones (oceanic) pending resectorisation
+####################
+
+[[stations]]
+id = "SCO_N_CTR"
+parent_id = "SCO_E_CTR"
+controlled_by = ["SCO_N_CTR"]
+
+[[stations]]
+id = "SCO_E_CTR"
+parent_id = "SCO_CTR"
+controlled_by = ["SCO_E_CTR"]
+
+[[stations]]
+id = "SCO_CTR"
+controlled_by = ["SCO_CTR"]
+
+[[stations]]
+id = "SCO_W_CTR"
+parent_id = "SCO_WD_CTR"
+controlled_by = ["SCO_W_CTR"]
+
+[[stations]]
+id = "SCO_WD_CTR"
+parent_id = "SCO_CTR"
+controlled_by = ["SCO_WD_CTR"]

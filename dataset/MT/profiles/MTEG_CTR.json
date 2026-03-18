@@ -1,0 +1,60 @@
+{
+  "id": "MTEG_CTR",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "CTR",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["MTEG", "Center"],
+            "station_id": "MTEG_CTR"
+          },
+          {
+            "label": ["MTEG", "North"],
+            "station_id": "MTEG_N_CTR"
+          },
+          {
+            "label": ["MTEG", "South"],
+            "station_id": "MTEG_S_CTR"
+          },
+          {
+            "label": ["ANT", "Control"],
+            "station_id": "ANT_CTR"
+          },
+          {
+            "label": ["ANT", "Ctrl B"],
+            "station_id": "ANT_B_CTR"
+          },
+          {
+            "label": ["MDCS", "Control"],
+            "station_id": "MDCS_CTR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "APP",
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["MTEG", "Approach"],
+            "station_id": "MTEG_APP"
+          }
+        ]
+      }
+    },
+    {
+      "label": "EXT",
+      "page": {
+        "rows": 6,
+        "client_page": {
+          "include": ["MKJK*", "ZMO*", "MUFH*", "TNCF*", "MDCS*"],
+          "grouping": "Fir"
+        }
+      }
+    }
+  ]
+}

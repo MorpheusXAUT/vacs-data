@@ -41,13 +41,15 @@
             "label": ["W", "PLC"]
           },
           {
-            "label": ["Riga N", "EC"]
+            "label": ["Riga N", "EC"],
+            "station_id": "EVRR_N"
           },
           {
             "label": ["Riga N", "PLC"]
           },
           {
-            "label": ["Riga APP", "EC"]
+            "label": ["Riga APP", "EC"],
+            "station_id": "EVRA_APP"
           },
           {
             "label": ["EFHK", "RAD-E"],
@@ -61,7 +63,8 @@
             "label": ["E PLC"]
           },
           {
-            "label": ["Riga E", "EC"]
+            "label": ["Riga E", "EC"],
+            "station_id": "EVRR_E"
           },
           {
             "label": ["Riga E", "PLC"]
@@ -100,7 +103,8 @@
             "label": []
           },
           {
-            "label": ["Liepaja", "FIS"]
+            "label": ["Liepaja", "FIS"],
+            "station_id": "EVLA_FIS"
           },
           {
             "label": ["St.Peter", "LCU"]
@@ -119,7 +123,8 @@
             "label": []
           },
           {
-            "label": ["Riga", "FIS"]
+            "label": ["Riga", "FIS"],
+            "station_id": "EVRR_FIS"
           },
           {
             "label": ["EEKA"],

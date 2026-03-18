@@ -50,10 +50,12 @@
             "station_id": "LOWW_E_TWR"
           },
           {
-            "label": ["BUD", "128.10", "EC"]
+            "label": ["BUD", "128.10", "EC"],
+            "station_id": "LHCC_SL"
           },
           {
-            "label": ["BUD", "133.20", "EC"]
+            "label": ["BUD", "133.20", "EC"],
+            "station_id": "LHCC_WL"
           },
           {
             "label": ["MCC", "TAU", "EC"],
@@ -67,7 +69,8 @@
             "station_id": "LOWW_I_APP"
           },
           {
-            "label": []
+            "label": ["GNE"],
+            "station_id": "LOWW_GND"
           },
           {
             "label": ["ACC", "N1", "EC"],
@@ -89,8 +92,8 @@
             "station_id": "LOWW_APP"
           },
           {
-            "label": ["TWR 1"],
-            "station_id": "LOWW_TWR"
+            "label": ["GNW"],
+            "station_id": "LOWW_W_GND"
           },
           {
             "label": ["ACC", "E1", "EC"],
@@ -113,8 +116,8 @@
             "station_id": "LOWW_P_APP"
           },
           {
-            "label": ["TWR 2"],
-            "station_id": "LOWW_E_TWR"
+            "label": ["DLV"],
+            "station_id": "LOWW_DEL"
           }
         ]
       }
@@ -165,10 +168,12 @@
             "station_id": "LOVV_S1"
           },
           {
-            "label": ["BUD", "128.10", "PLC"]
+            "label": ["BUD", "128.10", "PLC"],
+            "station_id": "LHCC_SL"
           },
           {
-            "label": ["BUD", "133.20", "PLC"]
+            "label": ["BUD", "133.20", "PLC"],
+            "station_id": "LHCC_WL"
           },
           {
             "label": ["MCC", "TAU", "PLC"],
@@ -334,10 +339,12 @@
             "station_id": "LOVV_M_CTR"
           },
           {
-            "label": ["LHPR"]
+            "label": ["LHPR"],
+            "station_id": "LHPR_I_TWR"
           },
           {
-            "label": ["BUD", "FIC"]
+            "label": ["BUD", "FIC"],
+            "station_id": "LHCC_WFIC"
           },
           {
             "label": ["LOXZ", "APP"],

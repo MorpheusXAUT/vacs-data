@@ -12,14 +12,17 @@
     },
     {
       "id": "FASA",
+      "parent_id": "AFRS_FSS",
       "controlled_by": ["FASA_CTR"]
     },
     {
       "id": "FAJA_N",
+      "parent_id": "FASA",
       "controlled_by": ["FAJA_N_CTR", "FAJA_CTR", "FASA_CTR"]
     },
     {
       "id": "FAJA_NE",
+      "parent_id": "FASA",
       "controlled_by": ["FAJA_NE_CTR", "FAJA_N_CTR", "FAJA_CTR", "FASA_CTR"]
     },
     {
@@ -58,6 +61,7 @@
     },
     {
       "id": "FACA_W",
+      "parent_id": "FASA",
       "controlled_by": ["FACA_CTR", "FASA_CTR"]
     },
     {
@@ -89,15 +93,6 @@
       "id": "FAMR_I_CTR",
       "parent_id": "FAJA_NE",
       "controlled_by": ["FAMR_I_CTR"]
-    },
-    {
-      "id": "FAJO",
-      "controlled_by": ["FAJO_FSS"]
-    },
-    {
-      "id": "FAJO_2",
-      "parent_id": "FAJO",
-      "controlled_by": ["FAJO_2_FSS"]
     },
     {
       "id": "FAOR_RDR",
@@ -146,7 +141,7 @@
     },
     {
       "id": "FACT_TWR",
-      "parent_id": "FACT_FIN",
+      "parent_id": "FACT_APP",
       "controlled_by": ["FACT_TWR"]
     },
     {
@@ -285,26 +280,6 @@
       "controlled_by": ["FAKN_APP"]
     },
     {
-      "id": "FYWH",
-      "controlled_by": ["FYWH_CTR"]
-    },
-    {
-      "id": "FBGR",
-      "controlled_by": ["FBGR_CTR"]
-    },
-    {
-      "id": "FVHF",
-      "controlled_by": ["FVHF_CTR"]
-    },
-    {
-      "id": "FQMA",
-      "controlled_by": ["FQMA_CTR"]
-    },
-    {
-      "id": "FQMA_APP",
-      "controlled_by": ["FQMA_APP"]
-    },
-    {
       "id": "FDSK_APP",
       "controlled_by": ["FDSK_APP"]
     },
@@ -342,10 +317,6 @@
       "id": "FALM_GMC",
       "parent_id": "FALM_TWR",
       "controlled_by": ["FALM_TWR"]
-    },
-    {
-      "id": "FBSK_APP",
-      "controlled_by": ["FBSK_APP"]
     },
     {
       "id": "FDMS_TWR",
@@ -405,6 +376,16 @@
       "id": "FAHS_GMC",
       "parent_id": "FAHS_TWR",
       "controlled_by": ["FAHS_GND"]
+    },
+    {
+      "id": "FAYP_TWR",
+      "parent_id": "FACT_TWR",
+      "controlled_by": ["FAYP_TWR"]
+    },
+    {
+      "id": "FAYP_GMC",
+      "parent_id": "FAYP_TWR",
+      "controlled_by": ["FAYP_GND"]
     }
   ]
 }

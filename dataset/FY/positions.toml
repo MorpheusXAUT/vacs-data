@@ -1,0 +1,83 @@
+[[positions]]
+id = "FYWF_CTR"
+prefixes = ["FYWF"]
+frequency = "124.700"
+facility_type = "CTR"
+
+[[positions]]
+id = "FYOA_APP"
+prefixes = ["FYOA"]
+frequency = "125.600"
+facility_type = "APP"
+
+[[positions]]
+id = "FYWB_APP"
+prefixes = ["FYWB"]
+frequency = "122.500"
+facility_type = "APP"
+
+[[positions]]
+id = "FYWH_APP"
+prefixes = ["FYWH"]
+frequency = "120.500"
+facility_type = "APP"
+
+[[positions]]
+id = "FYGF_TWR"
+prefixes = ["FYGF"]
+frequency = "123.300"
+facility_type = "TWR"
+
+[[positions]]
+id = "FYKM_TWR"
+prefixes = ["FYKM"]
+frequency = "125.600"
+facility_type = "TWR"
+
+[[positions]]
+id = "FYKT_TWR"
+prefixes = ["FYKT"]
+frequency = "118.300"
+facility_type = "TWR"
+
+[[positions]]
+id = "FYLZ_TWR"
+prefixes = ["FYLZ"]
+frequency = "118.600"
+facility_type = "TWR"
+
+[[positions]]
+id = "FYSM_TWR"
+prefixes = ["FYSM"]
+frequency = "126.300"
+facility_type = "TWR"
+
+[[positions]]
+id = "FYWE_TWR"
+prefixes = ["FYWE"]
+frequency = "118.700"
+facility_type = "TWR"
+
+[[positions]]
+id = "FYWH_TWR"
+prefixes = ["FYWH"]
+frequency = "118.100"
+facility_type = "TWR"
+
+[[positions]]
+id = "FYWB_GND"
+prefixes = ["FYWB"]
+frequency = "121.900"
+facility_type = "GND"
+
+[[positions]]
+id = "FYWE_A_GND"
+prefixes = ["FYWE"]
+frequency = "121.700"
+facility_type = "GND"
+
+[[positions]]
+id = "FYWH_A_GND"
+prefixes = ["FYWH"]
+frequency = "125.900"
+facility_type = "GND"

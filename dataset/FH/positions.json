@@ -1,0 +1,18 @@
+{
+  "positions": [
+    {
+      "id": "FHSH_APP",
+      "prefixes": ["FHSH"],
+      "frequency": "119.500",
+      "facility_type": "APP",
+      "profile_id": "FHSH"
+    },
+    {
+      "id": "FHSH_TWR",
+      "prefixes": ["FHSH"],
+      "frequency": "118.200",
+      "facility_type": "TWR",
+      "profile_id": "FHSH"
+    }
+  ]
+}

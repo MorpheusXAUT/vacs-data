@@ -1,0 +1,162 @@
+{
+  "id": "MDCS_LOCAL",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "CTR",
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["MDCS", "Control"],
+            "station_id": "MDCS_CTR"
+          },
+          {
+            "label": ["ANT", "Control"],
+            "station_id": "ANT_CTR"
+          },
+          {
+            "label": ["ANT", "Ctrl B"],
+            "station_id": "ANT_B_CTR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "APP",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["MDPC", "Approach"],
+            "station_id": "MDPC_APP"
+          },
+          {
+            "label": ["MDPC", "App A"],
+            "station_id": "MDPC_A_APP"
+          },
+          {
+            "label": ["MDSD", "Approach"],
+            "station_id": "MDSD_APP"
+          },
+          {
+            "label": ["MDCY", "Approach"],
+            "station_id": "MDCY_APP"
+          },
+          {
+            "label": ["MTEG", "Approach"],
+            "station_id": "MTEG_APP"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Local",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["MDPC"],
+            "page": {
+              "rows": 3,
+              "keys": [
+                {
+                  "label": ["MDPC", "Delivery"],
+                  "station_id": "MDPC_DEL"
+                },
+                {
+                  "label": ["MDPC", "Ground"],
+                  "station_id": "MDPC_GND"
+                },
+                {
+                  "label": ["MDPC", "Tower"],
+                  "station_id": "MDPC_TWR"
+                },
+                {
+                  "label": ["MDLR", "Ground"],
+                  "station_id": "MDLR_GND"
+                },
+                {
+                  "label": ["MDLR", "Tower"],
+                  "station_id": "MDLR_TWR"
+                }
+              ]
+            }
+          },
+          {
+            "label": ["MDSD"],
+            "page": {
+              "rows": 3,
+              "keys": [
+                {
+                  "label": ["MDSD", "Delivery"],
+                  "station_id": "MDSD_DEL"
+                },
+                {
+                  "label": ["MDSD", "Ground"],
+                  "station_id": "MDSD_GND"
+                },
+                {
+                  "label": ["MDSD", "Tower"],
+                  "station_id": "MDSD_TWR"
+                },
+                {
+                  "label": ["MDJB", "Ground"],
+                  "station_id": "MDJB_GND"
+                },
+                {
+                  "label": ["MDJB", "Tower"],
+                  "station_id": "MDJB_TWR"
+                },
+                {
+                  "label": ["MDSI", "Ground"],
+                  "station_id": "MDSI_GND"
+                },
+                {
+                  "label": ["MDSI", "Tower"],
+                  "station_id": "MDSI_TWR"
+                },
+                {
+                  "label": ["MDAB", "Tower"],
+                  "station_id": "MDAB_TWR"
+                }
+              ]
+            }
+          },
+          {
+            "label": ["MDCY"],
+            "page": {
+              "rows": 3,
+              "keys": [
+                {
+                  "label": ["MDCY", "Ground"],
+                  "station_id": "MDCY_GND"
+                },
+                {
+                  "label": ["MDCY", "Tower"],
+                  "station_id": "MDCY_TWR"
+                },
+                {
+                  "label": ["MDPP", "Ground"],
+                  "station_id": "MDPP_GND"
+                },
+                {
+                  "label": ["MDPP", "Tower"],
+                  "station_id": "MDPP_TWR"
+                },
+                {
+                  "label": ["MDST", "Ground"],
+                  "station_id": "MDST_GND"
+                },
+                {
+                  "label": ["MDST", "Tower"],
+                  "station_id": "MDST_TWR"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

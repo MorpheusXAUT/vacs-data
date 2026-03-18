@@ -8,6 +8,10 @@
         "rows": 5,
         "keys": [
           {
+            "label": ["MH"],
+            "station_id": "EDYY-MH"
+          },
+          {
             "label": ["ML"],
             "station_id": "EDYY-ML"
           },
@@ -24,14 +28,12 @@
             "station_id": "EDGG-DGT"
           },
           {
-            "label": [""]
+            "label": ["RH"],
+            "station_id": "EDYY-RH"
           },
           {
             "label": ["RL"],
             "station_id": "EDYY-RL"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["PADL"],
@@ -83,11 +85,12 @@
             "label": [""]
           },
           {
-            "label": ["EDYY", "SL"],
-            "station_id": "EDYY-SL"
+            "label": ["EDYY", "SH"],
+            "station_id": "EDYY-SH"
           },
           {
-            "label": [""]
+            "label": ["EDYY", "SL"],
+            "station_id": "EDYY-SL"
           },
           {
             "label": ["DKA"],
@@ -100,11 +103,13 @@
             "label": [""]
           },
           {
+            "label": ["EDYY", "CH"],
+            "station_id": "EDYY-CH"
+          },
+
+          {
             "label": ["EDYY", "CL"],
             "station_id": "EDYY-CL"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["EDWW", "HRZ"],
@@ -116,6 +121,10 @@
           },
           {
             "label": [""]
+          },
+          {
+            "label": ["EDYY", "JH"],
+            "station_id": "EDYY-JH"
           },
           {
             "label": ["EDYY", "JL"],
@@ -131,7 +140,8 @@
             "label": [""]
           },
           {
-            "label": [""]
+            "label": ["EDYY", "HH"],
+            "station_id": "EDYY-HH"
           },
           {
             "label": ["EDYY", "HL"],
@@ -142,9 +152,6 @@
           },
           {
             "label": ["EHAA", "ACE"]
-          },
-          {
-            "label": [""]
           },
           {
             "label": [""]

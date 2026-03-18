@@ -1,0 +1,121 @@
+{
+  "id": "ESIB",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESIB"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["OK", "TWR"],
+            "station_id": "ESOK_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["APP"],
+            "station_id": "ESIB_APP"
+          },
+          {
+            "label": ["TWR"],
+            "station_id": "ESIB_TWR"
+          },
+          {
+            "label": ["GND"],
+            "station_id": "ESIB_GND"
+          },
+          {
+            "label": ["IA", "APP"],
+            "station_id": "ESIA_APP"
+          },
+          {
+            "label": ["GJ", "TWR"],
+            "station_id": "ESGJ_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["DIR"],
+            "station_id": "ESIB_DIR"
+          },
+          {
+            "label": ["PAR"],
+            "station_id": "ESIB_PAR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["GG", "APP-W"],
+            "station_id": "ESGG_APP-W"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["MM", "IN"],
+            "station_id": "ESMM_IN"
+          },
+          {
+            "label": ["MM", "4"],
+            "station_id": "ESMM_4"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["GG", "APP-E"],
+            "station_id": "ESGG_APP-E"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": ["MM", "5"],
+            "station_id": "ESMM_5"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["COB"],
+            "station_id": "ESPF"
+          },
+          {
+            "label": ["GRI"],
+            "station_id": "ESCR"
+          },
+          {
+            "label": ["BSH"],
+            "station_id": "ESDK"
+          }
+        ]
+      }
+    }
+  ]
+}

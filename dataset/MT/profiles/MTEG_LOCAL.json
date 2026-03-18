@@ -1,0 +1,78 @@
+{
+  "id": "MTEG_LOCAL",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "CTR",
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["MTEG", "Center"],
+            "station_id": "MTEG_CTR"
+          },
+          {
+            "label": ["ANT", "Control"],
+            "station_id": "ANT_CTR"
+          },
+          {
+            "label": ["ANT", "Ctrl B"],
+            "station_id": "ANT_B_CTR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "APP",
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["MTEG", "Approach"],
+            "station_id": "MTEG_APP"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Local",
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["MTPP"],
+            "page": {
+              "rows": 3,
+              "keys": [
+                {
+                  "label": ["MTPP", "Delivery"],
+                  "station_id": "MTPP_DEL"
+                },
+                {
+                  "label": ["MTPP", "Ground"],
+                  "station_id": "MTPP_GND"
+                },
+                {
+                  "label": ["MTPP", "Tower"],
+                  "station_id": "MTPP_TWR"
+                }
+              ]
+            }
+          },
+          {
+            "label": ["MTCH"],
+            "page": {
+              "rows": 2,
+              "keys": [
+                {
+                  "label": ["MTCH", "Tower"],
+                  "station_id": "MTCH_TWR"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
