@@ -1,0 +1,131 @@
+{
+  "id": "DTTC-NORTH",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["Tunis", "Ctrl", "North"],
+      "page": {
+        "rows": 5,
+        "keys": [
+          {
+            "label": ["North", "ACC"],
+            "station_id": "DTTC_N_CTR"
+          },
+          {
+            "label": ["KA", "APP"],
+            "station_id": "DTKA_APP"
+          },
+          {
+            "label": ["Algrs NE", "Control", "125.400"]
+          },
+          {
+            "label": ["ROMA", "EE", "305-"],
+            "station_id": "LIRR-EE3"
+          },
+          {
+            "label": ["KA", "TWR"],
+            "station_id": "DTKA_TWR"
+          },
+          {
+            "label": ["South", "ACC"],
+            "station_id": "DTTC_S_CTR"
+          },
+          {
+            "label": ["Carthage", "Approach", "121.200"],
+            "station_id": "DTTA_APP"
+          },
+          {
+            "label": ["Marseille", "RAW", "133.430"]
+          },
+          {
+            "label": ["ROMA", "EW", "305+"],
+            "station_id": "LIRR-EW7"
+          },
+          {
+            "label": ["Carthage", "DEL"],
+            "station_id": "DTTA_DEL"
+          },
+          {
+            "label": ["Upper", "ACC"],
+            "station_id": "DTTC_U_CTR"
+          },
+          {
+            "label": ["Carthage", "Upper", "119.500"],
+            "station_id": "DTTA_U_APP"
+          },
+          {
+            "label": ["Roma", "Info", "119.075"]
+          },
+          {
+            "label": ["ROMA", "SU", "305-"],
+            "station_id": "LIRR-SU1"
+          },
+          {
+            "label": ["NH", "GND"],
+            "station_id": "DTNH_GND"
+          },
+          {
+            "label": ["DTTC", "FMP"],
+            "station_id": "DTTC_FMP"
+          },
+          {
+            "label": ["NH", "APP"],
+            "station_id": "DTNH_APP"
+          },
+          {
+            "label": ["Malta", "Control", "130.975"],
+            "station_id": "LMMM-CTR"
+          },
+          {
+            "label": ["ROMA", "SU", "305+"],
+            "station_id": "LIRR-SU7"
+          },
+          {
+            "label": ["MB", "TWR"],
+            "station_id": "DTMB_TWR"
+          }
+        ]
+      }
+    },
+    {
+      "label": ["Tunis", "ADC", "North"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["Crthge", "DEL"],
+            "station_id": "DTTA_DEL"
+          },
+          {
+            "label": ["KA", "TWR"],
+            "station_id": "DTKA_TWR"
+          },
+          {
+            "label": ["Crthge", "GND"],
+            "station_id": "DTTA_GND"
+          },
+          {
+            "label": ["Crthge", "TWR"],
+            "station_id": "DTTA_TWR"
+          },
+          {
+            "label": ["NH", "GND"],
+            "station_id": "DTNH_GND"
+          },
+          {
+            "label": ["NH", "TWR"],
+            "station_id": "DTNH_TWR"
+          },
+          {
+            "label": ["MB", "GND"],
+            "station_id": "DTMB_GND"
+          },
+          {
+            "label": ["MB", "TWR"],
+            "station_id": "DTMB_TWR"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "DTTC-SOUTH",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["SOUTH", "Tunis", "Ctrl"],
+      "page": {
+        "rows": 5,
+        "keys": [
+          {
+            "label": ["South", "ACC"],
+            "station_id": "DTTC_S_CTR"
+          },
+          {
+            "label": ["TZ", "APP"],
+            "station_id": "DTTZ_APP"
+          },
+          {
+            "label": ["Algrs SE", "Control", "124.100"]
+          },
+          {
+            "label": ["TF", "TWR"],
+            "station_id": "DTTF_TWR"
+          },
+          {
+            "label": ["TZ", "TWR"],
+            "station_id": "DTTZ_TWR"
+          },
+          {
+            "label": ["North", "ACC"],
+            "station_id": "DTTC_N_CTR"
+          },
+          {
+            "label": ["TF", "APP"],
+            "station_id": "DTTF_APP"
+          },
+          {
+            "label": ["DTTJ", "APP"],
+            "station_id": "DTTJ_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["TG", "TWR"],
+            "station_id": "DTTG_TWR"
+          },
+          {
+            "label": ["Upper", "ACC"],
+            "station_id": "DTTC_U_CTR"
+          },
+          {
+            "label": ["TG", "APP"],
+            "station_id": "DTTG_APP"
+          },
+          {
+            "label": ["Malta", "Control", "130.975"],
+            "station_id": "LMMM-CTR"
+          },
+          {
+            "label": ["NH", "GND"],
+            "station_id": "DTNH_GND"
+          },
+          {
+            "label": ["MB", "GND"],
+            "station_id": "DTMB_TWR"
+          },
+          {
+            "label": ["DTTC", "FMP"],
+            "station_id": "DTTC_FMP"
+          },
+          {
+            "label": ["TX", "APP"],
+            "station_id": "DTTX_APP"
+          },
+          {
+            "label": ["Tripoli", "Control", "120.900"]
+          },
+          {
+            "label": ["TX", "TWR"],
+            "station_id": "DTTX_TWR"
+          },
+          {
+            "label": ["TJ", "TWR"],
+            "station_id": "DTTJ_TWR"
+          }
+        ]
+      }
+    },
+    {
+      "label": ["SOUTH", "Tunis", "ADC"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["TF", "TWR"],
+            "station_id": "DTTF_TWR"
+          },
+          {
+            "label": ["TZ", "TWR"],
+            "station_id": "DTTZ_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["TG", "TWR"],
+            "station_id": "DTTG_TWR"
+          },
+          {
+            "label": ["TX", "TWR"],
+            "station_id": "DTTX_GND"
+          },
+          {
+            "label": ["TJ", "TWR"],
+            "station_id": "DTTJ_TWR"
+          }
+        ]
+      }
+    }
+  ]
+}
