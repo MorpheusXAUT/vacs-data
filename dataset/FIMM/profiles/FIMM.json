@@ -1,5 +1,5 @@
 {
-  "id": "FMMM",
+  "id": "FIMM",
   "type": "Tabbed",
   "tabs": [
     {
@@ -8,11 +8,11 @@
         "rows": 4,
         "keys": [
           {
-            "label": ["FIMP", "APP"],
+            "label": ["Mauritius", "Approach"],
             "station_id": "FIMP_APP"
           },
           {
-            "label": ["FIMP", "TWR"],
+            "label": ["Mauritius", "Tower"],
             "station_id": "FIMP_TWR"
           },
           {
@@ -23,12 +23,11 @@
             "station_id": "FMMM_CTR"
           },
           {
-            "label": ["Mauritius", "Centre", "129.300"],
+            "label": ["Mauritius", "Centre"],
             "station_id": "FIMM_CTR"
           },
           {
-            "label": ["FIMP", "GND"],
-            "station_id": "FIMP_GND"
+            "label": []
           },
           {
             "label": ["Mauritius", "Radio", "13.306"],
@@ -42,7 +41,7 @@
             "label": []
           },
           {
-            "label": ["FIMR", "TWR"],
+            "label": ["Corail", "Tower"],
             "station_id": "FIMR_TWR"
           },
           {
