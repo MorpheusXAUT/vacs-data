@@ -11,6 +11,7 @@ CONTRIBUTING.md @vacs-project/maintainers
 # Dataset owners
 /dataset/AFRX/ @vacs-project/dataset-maintainers-afrx
 /dataset/DT/ @vacs-project/dataset-maintainers-mag
+/dataset/EB/ @vacs-project/dataset-maintainers-eb
 /dataset/EDGG/ @vacs-project/dataset-maintainers-edgg
 /dataset/EDMM/ @vacs-project/dataset-maintainers-edmm
 /dataset/EDWW/ @vacs-project/dataset-maintainers-edww
