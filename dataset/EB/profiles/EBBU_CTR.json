@@ -277,12 +277,10 @@
             "station_id": "EBBU-FIC"
           },
           {
-            "label": ["PARIS", "TB"],
-            "station_id": ""
+            "label": ["PARIS", "TB"]
           },
           {
-            "label": ["LFQQ", "APP"],
-            "station_id": ""
+            "label": ["LFQQ", "APP"]
           },
           {
             "label": []
