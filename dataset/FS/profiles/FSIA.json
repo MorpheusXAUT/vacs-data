@@ -1,0 +1,46 @@
+{
+  "id": "FSIA",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["Seych", "-elles"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["Seychles", "Approach", "119.700"],
+            "station_id": "FSIA_APP"
+          },
+          {
+            "label": ["Seychles", "Tower", "118.300"],
+            "station_id": "FSIA_TWR"
+          },
+          {
+            "label": ["Seychles", "Ground", "121.900"],
+            "station_id": "FSIA_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Praslin", "Tower", "122.300"],
+            "station_id": "FSPP_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Seychles", "Control", "120.200"],
+            "station_id": "FSSS_CTR"
+          }
+        ]
+      }
+    }
+  ]
+}

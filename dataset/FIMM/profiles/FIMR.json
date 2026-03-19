@@ -1,0 +1,29 @@
+{
+  "id": "FIMR",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["Corail"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["Tower", "122.100"],
+            "station_id": "FIMR_TWR"
+          },
+          {
+            "label": ["Mauritius", "Centre", "129.300"],
+            "station_id": "FIMM_CTR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Mauritius", "Radio", "13.306"],
+            "station_id": "FIMM_FSS"
+          }
+        ]
+      }
+    }
+  ]
+}
