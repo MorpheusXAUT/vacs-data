@@ -18,16 +18,9 @@
           "page": {
             "rows": 5,
             "client_page": {
-              "include": [
-                "NAT_*",
-                "CZQO_*"
-              ],
+              "include": ["NAT_*", "CZQO_*"],
               "frequencies": "ShowAll",
-              "priority": [
-                "*_TMU",
-                "*_CTR",
-                "*_FSS"
-              ],
+              "priority": ["*_TMU", "*_CTR", "*_FSS"],
               "grouping": "Fir"
             }
           }
@@ -38,10 +31,7 @@
           "page": {
             "rows": 5,
             "client_page": {
-              "include": [
-                "CZUL_*",
-                "MTL_*"
-              ]
+              "include": ["CZUL_*", "MTL_*"]
             }
           }
         },
@@ -51,9 +41,7 @@
           "page": {
             "rows": 5,
             "client_page": {
-              "include": [
-                "BOS_*"
-              ]
+              "include": ["BOS_*"]
             }
           }
         },
@@ -63,13 +51,9 @@
           "page": {
             "rows": 5,
             "client_page": {
-              "include": [
-                "NY*_*"
-              ],
+              "include": ["NY*_*"],
               "frequencies": "ShowAll",
-              "priority": [
-                "*_FSS"
-              ],
+              "priority": ["*_FSS"],
               "grouping": "Fir"
             }
           }
@@ -100,47 +84,29 @@
               "gap": 0.5,
               "children": [
                 {
-                  "label": [
-                    "QM",
-                    "Moncton"
-                  ],
+                  "label": ["QM", "Moncton"],
                   "size": 12,
                   "page": {
                     "rows": 5,
                     "keys": [
                       {
-                        "label": [
-                          "QM",
-                          "132.2"
-                        ],
+                        "label": ["QM", "132.2"],
                         "station_id": "CZQM-CTR"
                       },
                       {
-                        "label": [
-                          "QM LO",
-                          "124.4"
-                        ],
+                        "label": ["QM LO", "124.4"],
                         "station_id": "CZQM-QM"
                       },
                       {
-                        "label": [
-                          "SJ LO",
-                          "124.3"
-                        ],
+                        "label": ["SJ LO", "124.3"],
                         "station_id": "CZQM-SJ"
                       },
                       {
-                        "label": [
-                          "QM DG",
-                          "123.9"
-                        ],
+                        "label": ["QM DG", "123.9"],
                         "station_id": "CZQM-DG"
                       },
                       {
-                        "label": [
-                          "QM ZV",
-                          "133.35"
-                        ],
+                        "label": ["QM ZV", "133.35"],
                         "station_id": "CZQM-ZV"
                       },
                       {
@@ -159,62 +125,38 @@
                         "label": ""
                       },
                       {
-                        "label": [
-                          "QM 1",
-                          "123.8"
-                        ],
+                        "label": ["QM 1", "123.8"],
                         "station_id": "CZQM-1-CTR"
                       },
                       {
-                        "label": [
-                          "QM 2",
-                          "132.7"
-                        ],
+                        "label": ["QM 2", "132.7"],
                         "station_id": "CZQM-2-CTR"
                       },
                       {
-                        "label": [
-                          "QM 3",
-                          "135.65"
-                        ],
+                        "label": ["QM 3", "135.65"],
                         "station_id": "CZQM-3-CTR"
                       },
                       {
-                        "label": [
-                          "QM 4",
-                          "123.7"
-                        ],
+                        "label": ["QM 4", "123.7"],
                         "station_id": "CZQM-4-CTR"
                       },
                       {
                         "label": ""
                       },
                       {
-                        "label": [
-                          "QM 5",
-                          "126.45"
-                        ],
+                        "label": ["QM 5", "126.45"],
                         "station_id": "CZQM-5-CTR"
                       },
                       {
-                        "label": [
-                          "QM 6",
-                          "125.75"
-                        ],
+                        "label": ["QM 6", "125.75"],
                         "station_id": "CZQM-6-CTR"
                       },
                       {
-                        "label": [
-                          "QM 7",
-                          "123.75"
-                        ],
+                        "label": ["QM 7", "123.75"],
                         "station_id": "CZQM-7-CTR"
                       },
                       {
-                        "label": [
-                          "QM 8",
-                          "132.25"
-                        ],
+                        "label": ["QM 8", "132.25"],
                         "station_id": "CZQM-8-CTR"
                       },
                       {
@@ -228,49 +170,32 @@
                   "justify_content": "space-around",
                   "children": [
                     {
-                      "label": [
-                        "CYHZ"
-                      ],
+                      "label": ["CYHZ"],
                       "size": 6,
                       "page": {
                         "rows": 5,
                         "keys": [
                           {
-                            "label": [
-                              "HZ APP",
-                              "119.2"
-                            ],
+                            "label": ["HZ APP", "119.2"],
                             "station_id": "CYHZ-TMA"
                           },
                           {
-                            "label": [
-                              "HZ TWR",
-                              "118.4"
-                            ],
+                            "label": ["HZ TWR", "118.4"],
                             "station_id": "CYHZ-TWR"
                           },
                           {
-                            "label": [
-                              "HZ GND",
-                              "121.9"
-                            ],
+                            "label": ["HZ GND", "121.9"],
                             "station_id": "CYHZ-GND"
                           },
                           {
-                            "label": [
-                              "HZ DEL",
-                              "123.95"
-                            ],
+                            "label": ["HZ DEL", "123.95"],
                             "station_id": "CYHZ-DEL"
                           },
                           {
                             "label": ""
                           },
                           {
-                            "label": [
-                              "HZ FI",
-                              "128.55"
-                            ],
+                            "label": ["HZ FI", "128.55"],
                             "station_id": "CYHZ-TMA-FI"
                           },
                           {
@@ -289,32 +214,21 @@
                       }
                     },
                     {
-                      "label": [
-                        "CYQM"
-                      ],
+                      "label": ["CYQM"],
                       "size": 6,
                       "page": {
                         "rows": 5,
                         "keys": [
                           {
-                            "label": [
-                              "QM LO",
-                              "124.4"
-                            ],
+                            "label": ["QM LO", "124.4"],
                             "station_id": "CZQM-QM"
                           },
                           {
-                            "label": [
-                              "QM TWR",
-                              "120.8"
-                            ],
+                            "label": ["QM TWR", "120.8"],
                             "station_id": "CYQM-TWR"
                           },
                           {
-                            "label": [
-                              "QM GND",
-                              "121.8"
-                            ],
+                            "label": ["QM GND", "121.8"],
                             "station_id": "CYQM-GND"
                           },
                           {
@@ -335,32 +249,21 @@
                   "align_items": "center",
                   "children": [
                     {
-                      "label": [
-                        "CYFC"
-                      ],
+                      "label": ["CYFC"],
                       "size": 6,
                       "page": {
                         "rows": 5,
                         "keys": [
                           {
-                            "label": [
-                              "SJ LO",
-                              "124.3"
-                            ],
+                            "label": ["SJ LO", "124.3"],
                             "station_id": "CZQM-SJ"
                           },
                           {
-                            "label": [
-                              "FC TWR",
-                              "119.0"
-                            ],
+                            "label": ["FC TWR", "119.0"],
                             "station_id": "CYFC-TWR"
                           },
                           {
-                            "label": [
-                              "FC GND",
-                              "121.7"
-                            ],
+                            "label": ["FC GND", "121.7"],
                             "station_id": "CYFC-GND"
                           },
                           {
@@ -381,36 +284,24 @@
               "gap": 0.5,
               "children": [
                 {
-                  "label": [
-                    "QX",
-                    "Gander"
-                  ],
+                  "label": ["QX", "Gander"],
                   "size": 12,
                   "page": {
                     "rows": 5,
                     "keys": [
                       {
-                        "label": [
-                          "QX",
-                          "132.1"
-                        ],
+                        "label": ["QX", "132.1"],
                         "station_id": "CZQX-CTR"
                       },
                       {
                         "label": ""
                       },
                       {
-                        "label": [
-                          "QX G",
-                          "132.15"
-                        ],
+                        "label": ["QX G", "132.15"],
                         "station_id": "CZQX-G-CTR"
                       },
                       {
-                        "label": [
-                          "QX O",
-                          "128.075"
-                        ],
+                        "label": ["QX O", "128.075"],
                         "station_id": "CZQX-G-CTR"
                       },
                       {
@@ -432,55 +323,34 @@
                         "label": ""
                       },
                       {
-                        "label": [
-                          "QX 1",
-                          "132.3"
-                        ],
+                        "label": ["QX 1", "132.3"],
                         "station_id": "CZQX-1-CTR"
                       },
                       {
-                        "label": [
-                          "QX 2",
-                          "133.0"
-                        ],
+                        "label": ["QX 2", "133.0"],
                         "station_id": "CZQX-2-CTR"
                       },
                       {
-                        "label": [
-                          "QX 3",
-                          "125.075"
-                        ],
+                        "label": ["QX 3", "125.075"],
                         "station_id": "CZQX-3-CTR"
                       },
                       {
-                        "label": [
-                          "QX 4",
-                          "128.175"
-                        ],
+                        "label": ["QX 4", "128.175"],
                         "station_id": "CZQX-4-CTR"
                       },
                       {
                         "label": ""
                       },
                       {
-                        "label": [
-                          "QX 5",
-                          "132.05"
-                        ],
+                        "label": ["QX 5", "132.05"],
                         "station_id": "CZQX-5-CTR"
                       },
                       {
-                        "label": [
-                          "QX 6",
-                          "119.85"
-                        ],
+                        "label": ["QX 6", "119.85"],
                         "station_id": "CZQX-6-CTR"
                       },
                       {
-                        "label": [
-                          "QX 7",
-                          "132.5"
-                        ],
+                        "label": ["QX 7", "132.5"],
                         "station_id": "CZQX-7-CTR"
                       },
                       {
@@ -497,32 +367,21 @@
                   "justify_content": "space-around",
                   "children": [
                     {
-                      "label": [
-                        "CYQX"
-                      ],
+                      "label": ["CYQX"],
                       "size": 6,
                       "page": {
                         "rows": 5,
                         "keys": [
                           {
-                            "label": [
-                              "QX APP",
-                              "128.5"
-                            ],
+                            "label": ["QX APP", "128.5"],
                             "station_id": "CYQX-APP"
                           },
                           {
-                            "label": [
-                              "QX TWR",
-                              "118.1"
-                            ],
+                            "label": ["QX TWR", "118.1"],
                             "station_id": "CYQX-TWR"
                           },
                           {
-                            "label": [
-                              "QX GND",
-                              "121.9"
-                            ],
+                            "label": ["QX GND", "121.9"],
                             "station_id": "CYQX-GND"
                           },
                           {
@@ -535,32 +394,21 @@
                       }
                     },
                     {
-                      "label": [
-                        "CYYT"
-                      ],
+                      "label": ["CYYT"],
                       "size": 6,
                       "page": {
                         "rows": 5,
                         "keys": [
                           {
-                            "label": [
-                              "YT APP",
-                              "133.15"
-                            ],
+                            "label": ["YT APP", "133.15"],
                             "station_id": "CYYT-APP"
                           },
                           {
-                            "label": [
-                              "YT TWR",
-                              "120.6"
-                            ],
+                            "label": ["YT TWR", "120.6"],
                             "station_id": "CYYT-TWR"
                           },
                           {
-                            "label": [
-                              "YT GND",
-                              "121.9"
-                            ],
+                            "label": ["YT GND", "121.9"],
                             "station_id": "CYYT-GND"
                           },
                           {
@@ -579,25 +427,17 @@
                   "justify_content": "space-around",
                   "children": [
                     {
-                      "label": [
-                        "LFVP"
-                      ],
+                      "label": ["LFVP"],
                       "size": 6,
                       "page": {
                         "rows": 5,
                         "keys": [
                           {
-                            "label": [
-                              "LFVP APP",
-                              "119.1"
-                            ],
+                            "label": ["LFVP APP", "119.1"],
                             "station_id": "LFVP-APP"
                           },
                           {
-                            "label": [
-                              "LFVP TWR",
-                              "118.5"
-                            ],
+                            "label": ["LFVP TWR", "118.5"],
                             "station_id": "LFVP-TWR"
                           },
                           {
@@ -636,17 +476,8 @@
           "size": 6,
           "page": {
             "client_page": {
-              "include": [
-                "CZQM",
-                "CZQX"
-              ],
-              "exclude": [
-                "*_DEL",
-                "*_GND",
-                "*_TWR",
-                "*_APP",
-                "*_CTR"
-              ]
+              "include": ["CZQM", "CZQX"],
+              "exclude": ["*_DEL", "*_GND", "*_TWR", "*_APP", "*_CTR"]
             },
             "rows": 5
           }
@@ -658,27 +489,19 @@
             "rows": 5,
             "keys": [
               {
-                "label": [
-                  "PAGE",
-                  "INOP"
-                ]
+                "label": ["PAGE", "INOP"]
               }
             ]
           }
         },
         {
-          "label": [
-            "MF"
-          ],
+          "label": ["MF"],
           "size": 6,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": [
-                  "PAGE",
-                  "INOP"
-                ]
+                "label": ["PAGE", "INOP"]
               }
             ]
           }
