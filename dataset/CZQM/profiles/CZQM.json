@@ -152,7 +152,7 @@
                         "station_id": "CZQM-6-CTR"
                       },
                       {
-                        "label": ["QM 7", "123.75"],
+                        "label": ["QM 7", "132.8"],
                         "station_id": "CZQM-7-CTR"
                       },
                       {
@@ -297,12 +297,12 @@
                         "label": ""
                       },
                       {
-                        "label": ["QX G", "132.15"],
+                        "label": ["QX G", "135.15"],
                         "station_id": "CZQX-G-CTR"
                       },
                       {
                         "label": ["QX O", "128.075"],
-                        "station_id": "CZQX-G-CTR"
+                        "station_id": "CZQX-O-CTR"
                       },
                       {
                         "label": ""
