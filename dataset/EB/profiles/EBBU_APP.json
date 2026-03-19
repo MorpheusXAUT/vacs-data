@@ -159,7 +159,7 @@
           },
           {
             "label": ["FIN"],
-            "station_id": "EBBR-FAPP"
+            "station_id": "EBBR-F-APP"
           },
           {
             "label": []
@@ -395,7 +395,7 @@
           },
           {
             "label": ["FIN"],
-            "station_id": "EBBR-FAPP"
+            "station_id": "EBBR-F-APP"
           },
           {
             "label": []
@@ -444,7 +444,7 @@
           },
           {
             "label": ["ELLX", "FIN"],
-            "station_id": "ELLX-FAPP"
+            "station_id": "ELLX-F-APP"
           },
           {
             "label": []
