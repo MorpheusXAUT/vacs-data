@@ -8,11 +8,11 @@
         "rows": 5,
         "keys": [
           {
-            "label": []
+            "label": ["ESOS"],
+            "station_id": "ESOS_6"
           },
           {
-            "label": ["ESOS", ""],
-            "station_id": "ESOS_6"
+            "label": ["", ""]
           },
           {
             "label": ["ESMM", "Y"],
@@ -30,34 +30,32 @@
             "label": []
           },
           {
-            "label": ["RIGA", "TWR"],
-            "station_id": "EVRA_TWR"
-          },
-          {
-            "label": ["EVGA", "TWR"],
-            "station_id": "EVGA_TWR"
-          },
-          {
-            "label": ["RIGA", "GMC"],
-            "station_id": "EVRA_GND"
+            "label": ["", ""]
           },
           {
             "label": ["", ""]
+          },
+          {
+            "label": ["EYVL", "L", "0-335"],
+            "station_id": "EYVL-L"
+          },
+          {
+            "label": ["EYPA", ""],
+            "station_id": "EYPA_APP"
           },
           {
             "label": ["EETT", "W"],
             "station_id": "EETT_W"
           },
           {
-            "label": ["EVRR", "N"],
-            "station_id": "EVRR_N"
+            "label": ["", ""]
           },
           {
             "label": ["", ""]
           },
           {
-            "label": ["EVRR", "S"],
-            "station_id": "EVRR_S"
+            "label": ["EYVL", "U", "335-660"],
+            "station_id": "EYVL-U"
           },
           {
             "label": ["EYVL", "E", "0-255"],
@@ -68,36 +66,70 @@
             "station_id": "EETT_E"
           },
           {
-            "label": ["", "APP"],
-            "station_id": "EVRA_APP"
+            "label": ["EVRR", "N"],
+            "station_id": "EVRR_N"
+          },
+          {
+            "label": ["EVRR", "S"],
+            "station_id": "EVRR_S"
+          },
+          {
+            "label": ["", ""]
+          },
+          {
+            "label": ["EYSA", "", ""],
+            "station_id": "EYSA_APP"
+          },
+          {
+            "label": []
           },
           {
             "label": ["EVRR", "E"],
             "station_id": "EVRR_E"
           },
           {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["", "", ""]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["APP"],
+            "station_id": "EVRA_APP"
+          },
+          {
+            "label": ["TWR"],
+            "station_id": "EVRA_TWR"
+          },
+          {
+            "label": ["GMC"],
+            "station_id": "EVRA_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
             "label": ["APP", "BABY"],
             "station_id": "EVRA_B_APP"
           },
           {
-            "label": ["EYVL", "L", "0-335"],
-            "station_id": "EYVL-L"
+            "label": ["EVGA"],
+            "station_id": "EVGA_TWR"
           },
           {
             "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EYVL", "U", "335-660"],
-            "station_id": "EYVL-U"
           },
           {
             "label": []
@@ -142,22 +174,37 @@
             "label": []
           },
           {
-            "label": ["EEKE"],
+            "label": [""]
+          },
+          {
+            "label": ["EVLA", "FIS"],
+            "station_id": "EVLA_FIS"
+          },
+          {
+            "label": ["EYPA", "FIS"],
+            "station_id": "EYPA_I_APP"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["EEKE", "FIS"],
             "station_id": "EEKE"
           },
           {
-            "label": ["EVRR", "I"],
-            "station_id": "EVRR_FIS"
+            "label": ["", ""]
           },
           {
             "label": []
           },
           {
-            "label": ["EYPA"],
-            "station_id": "EYPA_APP"
+            "label": []
           },
           {
-            "label": ["EEPU"],
+            "label": ["", ""]
+          },
+          {
+            "label": ["EEPU", "FIS"],
             "station_id": "EEPU"
           },
           {
@@ -168,32 +215,49 @@
             "label": []
           },
           {
+            "label": ["EVRR", "FIS"],
+            "station_id": "EVRR_FIS"
+          },
+          {
+            "label": ["EYKA", "FIS"],
+            "station_id": "EYKA_I_APP"
+          },
+          {
+            "label": ["EETU", "FIS"],
+            "station_id": "EETU"
+          },
+          {
             "label": []
           },
           {
-            "label": ["EYVL", "FIS"]
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EVAD", "FIS"],
+            "station_id": "EVAD_FIS"
+          },
+          {
+            "label": ["EYVI", "FIS"],
+            "station_id": "EYVI_I_APP"
+          },
+          {
+            "label": []
           },
           {
             "label": ["EETT", "FMP"],
             "station_id": "EETT_FMP"
-          },
-          {
-            "label": ["EETU"],
-            "station_id": "EETU"
-          },
-          {
-            "label": ["EVLA", "I"],
-            "station_id": "EVLA_FIS"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["EYSA"],
-            "station_id": "EYSA_APP"
-          },
-          {
-            "label": []
           },
           {
             "label": []

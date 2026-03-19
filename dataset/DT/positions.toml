@@ -3,36 +3,42 @@ id = "DTTC_FMP"
 prefixes = ["DTTC"]
 frequency = "132.500"
 facility_type = "FMP"
+profile_id = "DTTC"
 
 [[positions]]
 id = "DTTC_CTR"
 prefixes = ["DTTC"]
 frequency = "132.500"
 facility_type = "CTR"
+profile_id = "DTTC"
 
 [[positions]]
 id = "DTTC_I_CTR"
 prefixes = ["DTTC"]
 frequency = "128.900"
 facility_type = "CTR"
+profile_id = "DTTC"
 
 [[positions]]
 id = "DTTC_N_CTR"
 prefixes = ["DTTC"]
 frequency = "132.550"
 facility_type = "CTR"
+profile_id = "DTTC-NORTH"
 
 [[positions]]
 id = "DTTC_S_CTR"
 prefixes = ["DTTC"]
 frequency = "129.300"
 facility_type = "CTR"
+profile_id = "DTTC-SOUTH"
 
 [[positions]]
 id = "DTTC_U_CTR"
 prefixes = ["DTTC"]
 frequency = "129.500"
 facility_type = "CTR"
+profile_id = "DTTC-NORTH"
 
 [[positions]]
 id = "DTKA_APP"
