@@ -457,7 +457,7 @@
         "keys": [
           {
             "label": ["AC", "S2", "315+"],
-            "station_id": "EG-Sector-2"
+            "station_id": "EG-Sector-02"
           },
           {
             "label": ["AC", "S15", "-315"],
