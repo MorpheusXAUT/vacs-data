@@ -439,6 +439,9 @@
             "station_id": "EDUU-WUR"
           },
           {
+            "label": []
+          },
+          {
             "label": ["GG", "KTG"],
             "station_id": "EDGG-KTG"
           },

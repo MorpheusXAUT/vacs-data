@@ -432,6 +432,9 @@
             "label": ["LSAZ", "S 245-"]
           },
           {
+            "label": []
+          },
+          {
             "label": ["UU", "WUR"],
             "station_id": "EDUU-WUR"
           },
