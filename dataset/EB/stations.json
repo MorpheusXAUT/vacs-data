@@ -177,8 +177,7 @@
     },
     {
       "id": "EBBR-FMP",
-      "controlled_by": ["EBBR_P_DEL"],
-      "parent_id": "EBBR-DEL"
+      "controlled_by": ["EBBR_P_DEL"]
     },
     {
       "id": "EBBR-DEL",
