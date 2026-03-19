@@ -96,8 +96,8 @@
             "station_id": "FACA_INFO_E"
           },
           {
-            "label": ["FDSK", "APP"],
-            "station_id": "FDSK_APP"
+            "label": ["FQMA", "APP"],
+            "station_id": "FQMA_APP"
           },
           {
             "label": ["LOWVELD", "MIL", "INFO"],
@@ -120,8 +120,8 @@
             "station_id": "FXMM_APP"
           },
           {
-            "label": ["FACA", "FLOW"],
-            "station_id": "FACA_FMP"
+            "label": ["FDSK", "APP"],
+            "station_id": "FDSK_APP"
           },
           {
             "label": ["FAJA", "FLOW"],
