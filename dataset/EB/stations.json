@@ -1,280 +1,278 @@
 {
-  "stations": [     
-	{
+  "stations": [
+    {
       "id": "EDYY-LXH",
       "controlled_by": [
-		"EDYY_L_CTR",
-		"EDYY_O_CTR",
-		"EBBU_U_CTR",
-		"EBBU_E_CTR",
-		"EBBU_H_CTR",
-		"EBBU_L_CTR",
-		"EBBU_W_CTR",
-		"EBBU_C_CTR",
-		"EBBU_N_CTR"
-	  ]
+        "EDYY_L_CTR",
+        "EDYY_O_CTR",
+        "EBBU_U_CTR",
+        "EBBU_E_CTR",
+        "EBBU_H_CTR",
+        "EBBU_L_CTR",
+        "EBBU_W_CTR",
+        "EBBU_C_CTR",
+        "EBBU_N_CTR"
+      ]
     },
-	{
+    {
       "id": "EDYY-LNH",
       "controlled_by": [
-		"EDYY_O_CTR",
-		"EBBU_U_CTR",
-		"EBBU_E_CTR",
-		"EBBU_H_CTR",
-		"EBBU_L_CTR",
-		"EBBU_W_CTR",
-		"EBBU_C_CTR",
-		"EBBU_N_CTR"
-	  ]
+        "EDYY_O_CTR",
+        "EBBU_U_CTR",
+        "EBBU_E_CTR",
+        "EBBU_H_CTR",
+        "EBBU_L_CTR",
+        "EBBU_W_CTR",
+        "EBBU_C_CTR",
+        "EBBU_N_CTR"
+      ]
     },
-	{
+    {
       "id": "EDYY-NIH",
       "controlled_by": [
-		"EDYY_N_CTR",
-		"EBBU_U_CTR",
-		"EBBU_W_CTR",
-		"EBBU_C_CTR",
-		"EBBU_N_CTR",
-		"EBBU_E_CTR",
-		"EBBU_H_CTR",
-		"EBBU_L_CTR"
-	  ]
+        "EDYY_N_CTR",
+        "EBBU_U_CTR",
+        "EBBU_W_CTR",
+        "EBBU_C_CTR",
+        "EBBU_N_CTR",
+        "EBBU_E_CTR",
+        "EBBU_H_CTR",
+        "EBBU_L_CTR"
+      ]
     },
-	{
+    {
       "id": "EDYY-KOH",
       "controlled_by": [
-	    "EDYY_K_CTR",
-		"EDYY_N_CTR",
-		"EBBU_U_CTR",
-		"EBBU_W_CTR",
-		"EBBU_C_CTR",
-		"EBBU_N_CTR",
-		"EBBU_E_CTR",
-		"EBBU_H_CTR",
-		"EBBU_L_CTR"
-	  ]
+        "EDYY_K_CTR",
+        "EDYY_N_CTR",
+        "EBBU_U_CTR",
+        "EBBU_W_CTR",
+        "EBBU_C_CTR",
+        "EBBU_N_CTR",
+        "EBBU_E_CTR",
+        "EBBU_H_CTR",
+        "EBBU_L_CTR"
+      ]
     },
-	{
+    {
       "id": "EBBU-WLS",
       "controlled_by": [
-		"EBBU_W_CTR",
-		"EBBU_LOW_CTR",
-		"EBBU_N_CTR",
-		"EBBU_C_CTR",
-		"EBBU_E_CTR"
-	  ]
+        "EBBU_W_CTR",
+        "EBBU_LOW_CTR",
+        "EBBU_N_CTR",
+        "EBBU_C_CTR",
+        "EBBU_E_CTR"
+      ]
     },
-	{
+    {
       "id": "EBBU-NLS",
       "controlled_by": [
-		"EBBU_N_CTR",
-		"EBBU_C_CTR",
-		"EBBU_W_CTR",
-		"EBBU_LOW_CTR",
-		"EBBU_E_CTR"
-	  ]
+        "EBBU_N_CTR",
+        "EBBU_C_CTR",
+        "EBBU_W_CTR",
+        "EBBU_LOW_CTR",
+        "EBBU_E_CTR"
+      ]
     },
-	{
+    {
       "id": "EBBU-ELS",
       "controlled_by": [
-		"EBBU_E_CTR",
-		"EBBU_H_CTR",
-		"EBBU_L_CTR",
-		"EBBU_W_CTR",
-		"EBBU_LOW_CTR"
-	  ]
+        "EBBU_E_CTR",
+        "EBBU_H_CTR",
+        "EBBU_L_CTR",
+        "EBBU_W_CTR",
+        "EBBU_LOW_CTR"
+      ]
     },
-	{
+    {
       "id": "EBBU-EHS",
       "controlled_by": [
-	    "EBBU_EH_CTR",
-		"EBBU_E_CTR",
-		"EBBU_H_CTR",
-		"EBBU_L_CTR",
-		"EBBU_W_CTR",
-		"EBBU_LOW_CTR"
-	  ]
-    },	
-	{
+        "EBBU_EH_CTR",
+        "EBBU_E_CTR",
+        "EBBU_H_CTR",
+        "EBBU_L_CTR",
+        "EBBU_W_CTR",
+        "EBBU_LOW_CTR"
+      ]
+    },
+    {
       "id": "EBBU-WHS",
       "controlled_by": [
-		"EBBU_C_CTR",
-		"EBBU_N_CTR",
-		"EBBU_W_CTR",
-		"EBBU_LOW_CTR",
-		"EBBU_E_CTR"
-	  ]
+        "EBBU_C_CTR",
+        "EBBU_N_CTR",
+        "EBBU_W_CTR",
+        "EBBU_LOW_CTR",
+        "EBBU_E_CTR"
+      ]
     },
-	{
+    {
       "id": "EBBU-HUS",
       "controlled_by": [
-		"EBBU_H_CTR",
-		"EBBU_L_CTR",
-		"EBBU_E_CTR",
-		"EBBU_W_CTR",
-		"EBBU_LOW_CTR"
-	  ]
+        "EBBU_H_CTR",
+        "EBBU_L_CTR",
+        "EBBU_E_CTR",
+        "EBBU_W_CTR",
+        "EBBU_LOW_CTR"
+      ]
     },
-	{
+    {
       "id": "EBBU-LUS",
       "controlled_by": [
-		"EBBU_L_CTR",
-		"EBBU_H_CTR",
-		"EBBU_E_CTR",
-		"EBBU_W_CTR",
-		"EBBU_LOW_CTR"
-	  ]
+        "EBBU_L_CTR",
+        "EBBU_H_CTR",
+        "EBBU_E_CTR",
+        "EBBU_W_CTR",
+        "EBBU_LOW_CTR"
+      ]
     },
-	{
+    {
       "id": "EBOS-APP",
-      "controlled_by": [ 
-	    "EBOS_APP",
-		"EBBU_N_CTR",
-		"EBBU_W_CTR",
-		"EBBU_LOW_CTR",
-		"EBBU_C_CTR",
-		"EBBU_E_CTR"
-	  ]
-    },
-	{
-      "id": "EBOS-TWR",
-      "controlled_by": [ "EBOS_TWR" ],
-	  "parent_id": "EBOS-APP"
-    },
-	{
-      "id": "EBOS-GND",
-      "controlled_by": [ "EBOS_GND" ],
-	  "parent_id": "EBOS-TWR"
-    },
-	{
-      "id": "EBKT-INFO",
       "controlled_by": [
-		"EBKT_I_TWR"
-	  ]
+        "EBOS_APP",
+        "EBBU_N_CTR",
+        "EBBU_W_CTR",
+        "EBBU_LOW_CTR",
+        "EBBU_C_CTR",
+        "EBBU_E_CTR"
+      ]
     },
-	{
+    {
+      "id": "EBOS-TWR",
+      "controlled_by": ["EBOS_TWR"],
+      "parent_id": "EBOS-APP"
+    },
+    {
+      "id": "EBOS-GND",
+      "controlled_by": ["EBOS_GND"],
+      "parent_id": "EBOS-TWR"
+    },
+    {
+      "id": "EBKT-INFO",
+      "controlled_by": ["EBKT_I_TWR"]
+    },
+    {
       "id": "EBCI-GND",
       "controlled_by": ["EBCI_GND"],
-	  "parent_id": "EBCI-TWR"
+      "parent_id": "EBCI-TWR"
     },
-	{
+    {
       "id": "EBCI-TWR",
       "controlled_by": ["EBCI_TWR"],
-	  "parent_id": "EBCI-APP"
+      "parent_id": "EBCI-APP"
     },
-	{
+    {
       "id": "EBCI-APP",
       "controlled_by": ["EBCI_APP"],
-	  "parent_id": "EBBR-DEP"
+      "parent_id": "EBBR-DEP"
     },
-	{
+    {
       "id": "EBAW-GND",
       "controlled_by": ["EBAW_GND"],
-	  "parent_id": "EBAW-TWR"
+      "parent_id": "EBAW-TWR"
     },
-	{
+    {
       "id": "EBAW-TWR",
       "controlled_by": ["EBAW_TWR"],
-	  "parent_id": "EBBR-DEP"
+      "parent_id": "EBBR-DEP"
     },
-	{
+    {
       "id": "EBBR-FMP",
       "controlled_by": ["EBBR_P_DEL"],
-	  "parent_id": "EBBR-DEL"
+      "parent_id": "EBBR-DEL"
     },
-	{
+    {
       "id": "EBBR-DEL",
       "controlled_by": ["EBBR_DEL"],
-	  "parent_id": "EBBR-N-GND"
+      "parent_id": "EBBR-N-GND"
     },
-	{
+    {
       "id": "EBBR-N-GND",
-      "controlled_by": ["EBBR_GND", "EBBR_S_GND","EBBR_C_GND"],
-	  "parent_id": "EBBR-NTWR"
+      "controlled_by": ["EBBR_GND", "EBBR_S_GND", "EBBR_C_GND"],
+      "parent_id": "EBBR-NTWR"
     },
-	{
+    {
       "id": "EBBR-C-GND",
       "controlled_by": ["EBBR_C_GND", "EBBR_GND", "EBBR_S_GND"],
-	  "parent_id": "EBBR-NTWR"
+      "parent_id": "EBBR-NTWR"
     },
-	{
+    {
       "id": "EBBR-S-GND",
       "controlled_by": ["EBBR_S_GND", "EBBR_GND", "EBBR_C_GND"],
-	  "parent_id": "EBBR-NTWR"
+      "parent_id": "EBBR-NTWR"
     },
-	{
+    {
       "id": "EBBR-NTWR",
       "controlled_by": ["EBBR_N_TWR"],
-	  "parent_id": "EBBR-TWR"
+      "parent_id": "EBBR-TWR"
     },
-	{
+    {
       "id": "EBBR-TWR",
       "controlled_by": ["EBBR_TWR"],
-	  "parent_id": "EBBR-APP"
+      "parent_id": "EBBR-APP"
     },
-	{
+    {
       "id": "EBBR-DEP",
       "controlled_by": ["EBBR_DEP"],
-	  "parent_id": "EBBR-APP"
+      "parent_id": "EBBR-APP"
     },
-	{
+    {
       "id": "EBBR-F-APP",
       "controlled_by": ["EBBR_F_APP"],
-	  "parent_id": "EBBR-APP"
+      "parent_id": "EBBR-APP"
     },
-	{
+    {
       "id": "EBBR-APP",
       "controlled_by": ["EBBR_APP"],
-	  "parent_id": "EBBU-WLS"
+      "parent_id": "EBBU-WLS"
     },
-	{
+    {
       "id": "EBBR-HW",
       "controlled_by": ["EBBR_HW_APP"]
     },
-	{
+    {
       "id": "EBBR-H",
       "controlled_by": ["EBBR_H_APP"]
     },
-	{
+    {
       "id": "EBLG-GND",
       "controlled_by": ["EBLG_GND"],
-	  "parent_id": "EBLG-TWR"
+      "parent_id": "EBLG-TWR"
     },
-	{
+    {
       "id": "EBLG-TWR",
       "controlled_by": ["EBLG_TWR"],
-	  "parent_id": "EBLG-APP"
+      "parent_id": "EBLG-APP"
     },
-	{
+    {
       "id": "EBLG-APP",
       "controlled_by": ["EBLG_APP"],
-	  "parent_id": "EBBU-ELS"
+      "parent_id": "EBBU-ELS"
     },
-	{
+    {
       "id": "ELLX-DEL",
       "controlled_by": ["ELLX_DEL"],
-	  "parent_id": "ELLX-TWR"
+      "parent_id": "ELLX-TWR"
     },
-	{
+    {
       "id": "ELLX-TWR",
       "controlled_by": ["ELLX_TWR"],
-	  "parent_id": "ELLX-APP"
+      "parent_id": "ELLX-APP"
     },
-	{
+    {
       "id": "ELLX-F-APP",
       "controlled_by": ["ELLX_F_APP"],
-	  "parent_id": "ELLX-APP"
+      "parent_id": "ELLX-APP"
     },
-	{
+    {
       "id": "ELLX-APP",
       "controlled_by": ["ELLX_APP"],
-	  "parent_id": "EBBU-LUS"
+      "parent_id": "EBBU-LUS"
     },
-	{
+    {
       "id": "EBBU-FIC",
       "controlled_by": ["EBBU_I_CTR"]
     },
-	{
+    {
       "id": "EBBU-FMP",
       "controlled_by": ["EBBU_S_CTR"]
     }
