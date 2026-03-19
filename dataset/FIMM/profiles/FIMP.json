@@ -1,0 +1,47 @@
+{
+  "id": "FIMP",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["Plai", "-sance"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": []
+          },
+          {
+            "label": ["Tower", "118.100"],
+            "station_id": "FIMP_TWR"
+          },
+          {
+            "label": ["Approach", "119.100"],
+            "station_id": "FIMP_APP"
+          },
+          {
+            "label": ["Rolland G", "Approach", "119.400"],
+            "station_id": "FMEE_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Antanrivo", "Control", "128.900"],
+            "station_id": "FMMM_CTR"
+          },
+          {
+            "label": ["Mauritius", "Centre", "129.300"],
+            "station_id": "FIMM_CTR"
+          },
+          {
+            "label": ["Mauritius", "Radio", "13.306"],
+            "station_id": "FIMM_FSS"
+          }
+        ]
+      }
+    }
+  ]
+}
