@@ -42,17 +42,32 @@ If your editor supports Prettier, formatting can happen automatically on save. S
 
 If you're contributing configuration for a **new FIR**:
 
-1. Add your dataset files to `dataset/{FIR}/`
-2. In your pull request description, include a brief paragraph about your affiliation to the FIR
-3. After your first PR is merged, we'll add you to the `CODEOWNERS` file for that FIR
-4. Future changes to your FIR will be routed to you for review
+1. **Fork** this repository and create a pull request from your fork.
+2. Add your dataset files to `dataset/{FIR}/`.
+3. In your PR description, tell us **who you are** and **what your role in the FIR is** (e.g., FIR Chief, Training Director, etc.). We want to make sure dataset contributions are transparent about their origin.
+4. Include a **list of at least one other person** who should be added as a maintainer for this FIR. You should have at least 2 people so you can review and approve each other's PRs. If you don't have a second person, that's okay - just let us know in the PR and we will add one of our team members as a temporary maintainer until you find someone from your FIR to take on that role.
+5. Add a `CODEOWNERS` entry for your FIR directory (e.g., `/dataset/XX/ @vacs-project/dataset-maintainers-xx`). If the maintainers team doesn't exist yet, leave a note in the PR description with your preferred team name - it should follow the naming convention of the [existing teams](https://github.com/orgs/vacs-project/teams/dataset-maintainers/teams).
+6. After your first PR is merged, we'll create the team (if needed), add everyone, and the CODEOWNERS entry will take effect.
+7. Once you've **accepted the team invite**, you can create branches directly in this repository - no need to keep your fork. Working from the main repo makes our tooling and cross-FIR collaboration much easier.
 
 ### Existing FIR Contributions
 
 If you're contributing to an **existing FIR**:
 
-- Your PR will be reviewed by the current CODEOWNER(s) for that FIR
-- We'll wait for their feedback before merging
+- Your PR will be reviewed by the current CODEOWNER(s) for that FIR.
+- We'll wait for their approval before merging.
+- If you're already a CODEOWNER, you can merge your own PRs after another CODEOWNER has reviewed them.
+
+### Merging
+
+Dataset maintainers are responsible for merging their own PRs once they're ready (CI passes, reviews approved). The vacs core team does not monitor or merge dataset PRs by default. If you need help from the vacs maintainers (e.g., a tooling issue, a question about the schema, or a CI problem that isn't caused by your changes), request a review from `@vacs-project/core-maintainers` or tag them in a comment.
+
+### Cross-FIR Changes
+
+If your change affects a neighboring FIR's dataset (e.g., you renamed an ID, removed a station, or changed a shared reference), **you must update the affected profiles as well** - CI validation and deployments will fail otherwise.
+
+- **Simple changes** (ID rename, simple station replacements, etc.): Update the other FIR's files yourself in the same PR. The affected FIR's CODEOWNERS will be notified automatically and must approve before the PR can merge.
+- **Complex changes** (restructuring, ambiguous replacements, etc.): You may push your own FIR's changes even if CI fails for the other FIR. In that case, clearly describe in the PR what needs to change in the other dataset(s) so their maintainers can follow up and fix their side. Your changes will not be merged until the other FIR's maintainers have made the necessary updates and checks pass.
 
 ### Validation
 
