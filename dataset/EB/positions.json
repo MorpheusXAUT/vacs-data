@@ -10,14 +10,14 @@
     {
       "id": "EBOS_TWR",
       "prefixes": ["EBOS"],
-      "frequency": "118.980",
+      "frequency": "118.180",
       "facility_type": "TWR",
       "profile_id": "EBBU_TWR"
     },
     {
       "id": "EBOS_APP",
       "prefixes": ["EBOS"],
-      "frequency": "120.600",
+      "frequency": "120.605",
       "facility_type": "APP",
       "profile_id": "EBBU_APP"
     },
@@ -52,7 +52,7 @@
     {
       "id": "EBAW_TWR",
       "prefixes": ["EBAW"],
-      "frequency": "121.905",
+      "frequency": "135.205",
       "facility_type": "TWR",
       "profile_id": "EBBU_TWR"
     },
@@ -66,14 +66,14 @@
     {
       "id": "EBBR_DEL",
       "prefixes": ["EBBR"],
-      "frequency": "121.905",
+      "frequency": "121.955",
       "facility_type": "DEL",
       "profile_id": "EBBU_TWR"
     },
     {
       "id": "EBBR_P_DEL",
       "prefixes": ["EBBR"],
-      "frequency": "121.905",
+      "frequency": "121.955",
       "facility_type": "DEL",
       "profile_id": "EBBU_TWR"
     },
