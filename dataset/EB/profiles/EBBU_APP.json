@@ -67,7 +67,8 @@
             "station_id": "EBBU-FIC"
           },
           {
-            "label": ["FMP"]
+            "label": ["FMP"],
+			"station_id": "EBBR-FMP"
           },
           {
             "label": []
