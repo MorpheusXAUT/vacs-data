@@ -24,11 +24,11 @@ See the **[Tools Documentation](tools/README.md)** for more information.
 
 We welcome contributions from FIR staff and community members! Please refer to the [Dataset Documentation](docs/dataset/README.md) for detailed instructions on the file formats and directory structure.
 
-1.  [Fork the repository](https://github.com/vacs-project/vacs-data/fork).
-2.  Make your changes in your FIR's directory (or create it if it doesn't exist).
-3.  Validate your changes using the provided JSON schemas or the `vacs-data` tool.
-4.  [Submit a Pull Request](https://github.com/vacs-project/vacs-data/compare). Please make sure to enable "Allow edits by maintainers" so that the autofix.ci bot can automatically push formatting fixes to your PR branch.
-5.  Make sure to check our [contribution guidelines](CONTRIBUTING.md) for more information.
+**Already a maintainer?** Create a branch directly in this repository, make your changes, and open a PR. Your fellow CODEOWNERS can review and approve it.
+
+**Adding a new FIR?** [Fork the repository](https://github.com/vacs-project/vacs-data/fork), create your dataset, and open a PR. After your first contribution is accepted, we'll add you and your team as maintainers so you can work directly from the main repo going forward.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution guidelines.
 
 ## License
 
