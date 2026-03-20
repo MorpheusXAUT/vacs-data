@@ -59,7 +59,7 @@
     {
       "id": "EBKT_I_TWR",
       "prefixes": ["EBKT"],
-      "frequency": "120.250",
+      "frequency": "120.255",
       "facility_type": "TWR",
       "profile_id": "EBBU_TWR"
     },
