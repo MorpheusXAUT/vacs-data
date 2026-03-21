@@ -1,0 +1,170 @@
+[[stations]]
+id = "LKAA_CTR"
+controlled_by = ["LKAA_CTR"]
+
+[[stations]]
+id = "LKAA_I_CTR"
+controlled_by = ["LKAA_I_CTR"]
+
+[[stations]]
+id = "LKAA_L_CTR"
+controlled_by = ["LKAA_L_CTR"]
+
+[[stations]]
+id = "LKAA_N_CTR"
+controlled_by = ["LKAA_N_CTR"]
+
+[[stations]]
+id = "LKAA_R_CTR"
+controlled_by = ["LKAA_R_CTR"]
+
+[[stations]]
+id = "LKAA_S_CTR"
+controlled_by = ["LKAA_S_CTR"]
+
+[[stations]]
+id = "LKAA_U_CTR"
+controlled_by = ["LKAA_U_CTR"]
+
+[[stations]]
+id = "LKAA_W_CTR"
+controlled_by = ["LKAA_W_CTR"]
+
+[[stations]]
+id = "LKBE_I_TWR"
+controlled_by = ["LKBE_I_TWR"]
+parent_id = "LKAA_I_CTR"
+
+[[stations]]
+id = "LKCS_I_TWR"
+controlled_by = ["LKCS_I_TWR"]
+parent_id = "LKAA_I_CTR"
+
+[[stations]]
+id = "LKCV_APP"
+controlled_by = ["LKCV_APP"]
+
+[[stations]]
+id = "LKCV_TWR"
+controlled_by = ["LKCV_TWR"]
+parent_id = "LKCV_APP"
+
+[[stations]]
+id = "LKKB_APP"
+controlled_by = ["LKKB_APP"]
+
+[[stations]]
+id = "LKKB_TWR"
+controlled_by = ["LKKB_TWR"]
+parent_id = "LKKB_APP"
+
+[[stations]]
+id = "LKKU_TWR"
+controlled_by = ["LKKU_TWR"]
+
+[[stations]]
+id = "LKKV_APP"
+controlled_by = ["LKKV_APP"]
+
+[[stations]]
+id = "LKKV_TWR"
+controlled_by = ["LKKV_TWR"]
+parent_id = "LKKV_APP"
+
+[[stations]]
+id = "LKLT_I_TWR"
+controlled_by = ["LKLT_I_TWR"]
+parent_id = "LKAA_I_CTR"
+
+[[stations]]
+id = "LKMH_I_TWR"
+controlled_by = ["LKMH_I_TWR"]
+parent_id = "LKAA_I_CTR"
+
+[[stations]]
+id = "LKMT_APP"
+controlled_by = ["LKMT_APP"]
+
+[[stations]]
+id = "LKMT_DEL"
+controlled_by = ["LKMT_DEL"]
+parent_id = "LKMT_TWR"
+
+[[stations]]
+id = "LKMT_TWR"
+controlled_by = ["LKMT_TWR"]
+parent_id = "LKMT_APP"
+
+[[stations]]
+id = "LKNA_APP"
+controlled_by = ["LKNA_APP"]
+
+[[stations]]
+id = "LKNA_TWR"
+controlled_by = ["LKNA_TWR"]
+parent_id = "LKNA_APP"
+
+[[stations]]
+id = "LKPD_APP"
+controlled_by = ["LKPD_APP"]
+
+[[stations]]
+id = "LKPD_TWR"
+controlled_by = ["LKPD_TWR"]
+parent_id = "LKPD_APP"
+
+[[stations]]
+id = "LKPM_I_TWR"
+controlled_by = ["LKPM_I_TWR"]
+parent_id = "LKAA_I_CTR"
+
+[[stations]]
+id = "LKPR_APP"
+controlled_by = ["LKPR_APP"]
+
+[[stations]]
+id = "LKPR_DEL"
+controlled_by = ["LKPR_DEL"]
+parent_id = "LKPR_GND"
+
+[[stations]]
+id = "LKPR_DEP"
+controlled_by = ["LKPR_DEP"]
+parent_id = "LKPR_APP"
+
+[[stations]]
+id = "LKPR_D_APP"
+controlled_by = ["LKPR_D_APP"]
+
+[[stations]]
+id = "LKPR_GND"
+controlled_by = ["LKPR_GND"]
+parent_id = "LKPR_TWR"
+
+[[stations]]
+id = "LKPR_TWR"
+controlled_by = ["LKPR_TWR"]
+parent_id = "LKPR_APP"
+
+[[stations]]
+id = "LKTB_APP"
+controlled_by = ["LKTB_APP"]
+
+[[stations]]
+id = "LKTB_GND"
+controlled_by = ["LKTB_GND"]
+parent_id = "LKTB_TWR"
+
+[[stations]]
+id = "LKTB_TWR"
+controlled_by = ["LKTB_TWR"]
+parent_id = "LKTB_APP"
+
+[[stations]]
+id = "LKVO_APP"
+controlled_by = ["LKVO_APP"]
+
+[[stations]]
+id = "LKVO_TWR"
+controlled_by = ["LKVO_TWR"]
+parent_id = "LKVO_APP"
