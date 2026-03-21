@@ -258,10 +258,20 @@
             "rows": 2,
             "keys": [
               {
-                "label": ["North"]
+                "label": ["Hebrides", "High", "255-660"],
+                "station_id": "EG-Hebrides-High"
               },
               {
-                "label": ["West"]
+                "label": ["Central", "255-660"],
+                "station_id": "EG-Central"
+              },
+              {
+                "label": ["Hebrides", "Low", "DB-255"],
+                "station_id": "EG-Hebrides-Low"
+              },
+              {
+                "label": ["Central", "DB-255"],
+                "station_id": "EG-Westcoast-Central"
               }
             ]
           }
