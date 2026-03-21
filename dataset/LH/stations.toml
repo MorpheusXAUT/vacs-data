@@ -39,7 +39,7 @@ controlled_by = ["LHBP_W_DEP"]
 
 [[stations]]
 id = "LHBP_S_TWR"
-controlled_by = ["LHBP_S_TWR", "LHBP_SV_CTR"]
+controlled_by = ["LHBP_S_TWR", "LHCC_SV_CTR"]
 parent_id = "LHBP_TWR"
 
 [[stations]]
