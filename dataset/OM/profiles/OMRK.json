@@ -1,0 +1,57 @@
+{
+  "id": "OMRK",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OMRK", "ADC"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Ras Al Khaimah", "Ground"],
+            "station_id": "OMRK_GND"
+          },
+          {
+            "label": ["Ras Al Khaimah", "Tower"],
+            "station_id": "OMRK_TWR"
+          },
+          {
+            "label": ["Ras Al Khaimah", "Approach"],
+            "station_id": "OMRK_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": "Neighboring",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "OB*",
+            "OTDF*",
+            "DOH*",
+            "TEH*",
+            "GULF*",
+            "GULF_E*",
+            "OOMM*",
+            "OEJD*"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}
