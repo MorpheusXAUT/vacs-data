@@ -1,0 +1,300 @@
+{
+  "stations": [
+    {
+      "id": "ASEA_FSS",
+      "controlled_by": ["ASEA_FSS"]
+    },
+    {
+      "id": "ASEA_W_FSS",
+      "parent_id": "ASEA_FSS",
+      "controlled_by": ["ASEA_W_FSS", "ASEA_FSS"]
+    },
+    {
+      "id": "ASIA_W_FSS",
+      "controlled_by": ["ASIA_W_FSS"]
+    },
+    {
+      "id": "AFRS_FSS",
+      "controlled_by": ["AFRS_FSS"]
+    },
+    {
+      "id": "VCBI_GND",
+      "parent_id": "VCBI_TWR",
+      "controlled_by": ["VCBI_GND"]
+    },
+    {
+      "id": "VCBI_TWR",
+      "parent_id": "VCBI_APP",
+      "controlled_by": ["VCBI_TWR"]
+    },
+    {
+      "id": "VCCC_TWR",
+      "parent_id": "VCBI_APP",
+      "controlled_by": ["VCCC_TWR"]
+    },
+    {
+      "id": "VCCA_TWR",
+      "parent_id": "VCCA_APP",
+      "controlled_by": ["VCCA_TWR"]
+    },
+    {
+      "id": "VCCB_TWR",
+      "parent_id": "VCCF_CTR",
+      "controlled_by": ["VCCB_TWR"]
+    },
+    {
+      "id": "VCCG_TWR",
+      "parent_id": "VCCF_CTR",
+      "controlled_by": ["VCCG_TWR"]
+    },
+    {
+      "id": "VCCH_TWR",
+      "parent_id": "VCCF_CTR",
+      "controlled_by": ["VCCH_TWR"]
+    },
+    {
+      "id": "VCCJ_TWR",
+      "parent_id": "VCCF_CTR",
+      "controlled_by": ["VCCJ_TWR"]
+    },
+    {
+      "id": "VCCK_TWR",
+      "parent_id": "VCRI_APP",
+      "controlled_by": ["VCCK_TWR"]
+    },
+    {
+      "id": "VCCS_TWR",
+      "parent_id": "VCCF_CTR",
+      "controlled_by": ["VCCS_TWR"]
+    },
+    {
+      "id": "VCCT_TWR",
+      "parent_id": "VCCF_CTR",
+      "controlled_by": ["VCCT_TWR"]
+    },
+    {
+      "id": "VCCV_TWR",
+      "parent_id": "VCCF_CTR",
+      "controlled_by": ["VCCV_TWR"]
+    },
+    {
+      "id": "VCRI_GND",
+      "parent_id": "VCRI_TWR",
+      "controlled_by": ["VCRI_GND"]
+    },
+    {
+      "id": "VCRI_TWR",
+      "parent_id": "VCRI_APP",
+      "controlled_by": ["VCRI_TWR"]
+    },
+    {
+      "id": "VCCF_CTR",
+      "parent_id": "ASIA_W_FSS",
+      "controlled_by": ["VCCF_CTR"]
+    },
+    {
+      "id": "VCCF_OC_CTR",
+      "parent_id": "ASIA_W_FSS",
+      "controlled_by": ["VCCF_OC_CTR", "VCCF_CTR"]
+    },
+    {
+      "id": "VRMM_GND",
+      "parent_id": "VRMM_TWR",
+      "controlled_by": ["VRMM_GND"]
+    },
+    {
+      "id": "VRMM_TWR",
+      "parent_id": "VRMM_APP",
+      "controlled_by": ["VRMM_TWR"]
+    },
+    {
+      "id": "VRMV_TWR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRMV_TWR"]
+    },
+    {
+      "id": "VRDA_TWR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRDA_TWR"]
+    },
+    {
+      "id": "VREI_I_TWR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VREI_I_TWR"]
+    },
+    {
+      "id": "VRMD_TWR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRMD_TWR"]
+    },
+    {
+      "id": "VRMG_TWR",
+      "parent_id": "VRMF_S_CTR",
+      "controlled_by": ["VRMG_TWR"]
+    },
+    {
+      "id": "VRMH_TWR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRMH_TWR"]
+    },
+    {
+      "id": "VRMK_TWR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRMK_TWR", "VRMF_CTR", "VRMF_S_CTR"]
+    },
+    {
+      "id": "VRMO_TWR",
+      "parent_id": "VRMF_S_CTR",
+      "controlled_by": ["VRMO_TWR"]
+    },
+    {
+      "id": "VRMT_TWR",
+      "parent_id": "VRMF_S_CTR",
+      "controlled_by": ["VRMT_TWR"]
+    },
+    {
+      "id": "VRMU_I_TWR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRMU_I_TWR"]
+    },
+    {
+      "id": "VRNT_I_TWR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRNT_TWR"]
+    },
+    {
+      "id": "VRMM_APP",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRMM_APP"]
+    },
+    {
+      "id": "VRMF_CTR",
+      "parent_id": "ASIA_W_FSS",
+      "controlled_by": ["VRMF_CTR"]
+    },
+    {
+      "id": "VRMF_S_CTR",
+      "parent_id": "VRMF_CTR",
+      "controlled_by": ["VRMF_S_CTR", "ASIA_W_FSS"]
+    },
+    {
+      "id": "VOMM_S_CTR",
+      "parent_id": "VOMM_CTR",
+      "controlled_by": [
+        "VOMM_CTR",
+        "VOMF_UMM_CTR",
+        "VOMF_UAC_CTR",
+        "VOMF_CTR",
+        "ASIA_W_FSS"
+      ]
+    },
+    {
+      "id": "VOMM_CTR",
+      "parent_id": "VOMF_UMM_CTR",
+      "controlled_by": [
+        "VOMM_CTR",
+        "VOMF_UMM_CTR",
+        "VOMF_UAC_CTR",
+        "VOMF_CTR",
+        "ASIA_W_FSS"
+      ]
+    },
+    {
+      "id": "VOTV_CTR",
+      "parent_id": "VOMF_UTV_CTR",
+      "controlled_by": [
+        "VOTV_CTR",
+        "VOMF_UTV_CTR",
+        "VOMF_UAC_CTR",
+        "VOMF_CTR",
+        "ASIA_W_FSS"
+      ]
+    },
+    {
+      "id": "VOMF_UAC_CTR",
+      "parent_id": "VOMF_CTR",
+      "controlled_by": ["VOMF_UAC_CTR", "VOMF_CTR", "ASIA_W_FSS"]
+    },
+    {
+      "id": "VOMF_UTV_CTR",
+      "parent_id": "VOMF_CTR",
+      "controlled_by": [
+        "VOMF_UTV_CTR",
+        "VOMF_UAC_CTR",
+        "VOMF_CTR",
+        "ASIA_W_FSS"
+      ]
+    },
+    {
+      "id": "VOMF_UMM_CTR",
+      "parent_id": "VOMF_CTR",
+      "controlled_by": [
+        "VOMF_UMM_CTR",
+        "VOMF_UAC_CTR",
+        "VOMF_CTR",
+        "ASIA_W_FSS"
+      ]
+    },
+    {
+      "id": "VOMF_CTR",
+      "parent_id": "ASIA_W_FSS",
+      "controlled_by": ["VOMF_CTR"]
+    },
+    {
+      "id": "VOMF_OC_CTR",
+      "parent_id": "VOMF_CTR",
+      "controlled_by": ["VOMF_OC_CTR", "VOMF_CTR", "ASIA_W_FSS"]
+    },
+    {
+      "id": "VABF_OC_CTR",
+      "parent_id": "VABF_CTR",
+      "controlled_by": ["VABF_OC_CTR", "VABF_CTR", "ASIA_W_FSS"]
+    },
+    {
+      "id": "VABF_CTR",
+      "parent_id": "ASIA_W_FSS",
+      "controlled_by": ["VABF_CTR", "ASIA_W_FSS"]
+    },
+    {
+      "id": "FIMM_FSS",
+      "parent_id": "AFRS_FSS",
+      "controlled_by": ["FIMM_FSS", "AFRS_FSS"]
+    },
+    {
+      "id": "YMMM_FSS",
+      "controlled_by": ["YMMM-IND_FSS"]
+    },
+    {
+      "id": "WIIF_IS_CTR",
+      "parent_id": "WIIF_CTR",
+      "controlled_by": [
+        "WIIF_IS_CTR",
+        "WIIF_MN_CTR",
+        "WIIF_CTR",
+        "ASEA_W_FSS",
+        "ASEA_FSS"
+      ]
+    },
+    {
+      "id": "WIIF_BC_CTR",
+      "parent_id": "WIIF_CTR",
+      "controlled_by": [
+        "WIIF_BC_CTR",
+        "WIIF_MN_CTR",
+        "WIIF_CTR",
+        "ASEA_W_FSS",
+        "ASEA_FSS"
+      ]
+    },
+    {
+      "id": "WIIF_MN_CTR",
+      "parent_id": "WIIF_CTR",
+      "controlled_by": ["WIIF_MN_CTR", "WIIF_CTR", "ASEA_W_FSS", "ASEA_FSS"]
+    },
+    {
+      "id": "WIIF_CTR",
+      "parent_id": "ASEA_FSS",
+      "controlled_by": ["WIIF_CTR", "ASEA_W_FSS"]
+    }
+  ]
+}
