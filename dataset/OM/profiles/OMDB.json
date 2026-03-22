@@ -1,1 +1,116 @@
-
+{
+  "id": "OMDB",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OMDB", "Ground"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Dubai", "Delivery"],
+            "station_id": "OMDB_DEL"
+          },
+          {
+            "label": ["Dubai", "Ground", "South"],
+            "station_id": "OMDB_1_GND"
+          },
+          {
+            "label": ["Dubai", "Ground", "North"],
+            "station_id": "OMDB_2_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["OMDB", "Tower"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Dubai", "Tower", "North"],
+            "station_id": "OMDB_1_TWR"
+          },
+          {
+            "label": ["Dubai", "Tower", "South"],
+            "station_id": "OMDB_2_TWR"
+          },
+          {
+            "label": ["Dubai", "Tower", "Info"],
+            "station_id": "OMDB_I_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["Dubai", "Approach"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Dubai", "Departure", "South"],
+            "station_id": "OMDB_1_DEP"
+          },
+          {
+            "label": ["Dubai", "Departure", "North"],
+            "station_id": "OMDB_2_DEP"
+          },
+          {
+            "label": ["Dubai", "Arrivals"],
+            "station_id": "OMDB_APP"
+          },
+          {
+            "label": ["Dubai", "Director"],
+            "station_id": "OMDB_F_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": "Neighboring",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "OB*",
+            "OTDF*",
+            "DOH*",
+            "TEH*",
+            "GULF*",
+            "GULF_E*",
+            "OOMM*",
+            "OEJD*"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}
