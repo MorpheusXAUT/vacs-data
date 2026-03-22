@@ -172,7 +172,7 @@ jobs:
           rustup target add ${{ matrix.target }}
 
       - name: Cache cargo
-        uses: Swatinem/rust-cache@779680da715d629ac1d338a641029a2f4372abb5 # v2.8.2
+        uses: Swatinem/rust-cache@c19371144df3bb44fab255c43d04cbc2ab54d1c4 # v2.9.1
         with:
           shared-key: ${{ matrix.platform }}
           workspaces: "tools -> target"
@@ -208,7 +208,7 @@ jobs:
             tools/target/${{ matrix.target }}/release/${{ steps.vars.outputs.release_binary_name }}
 
       - name: Generate SBOM
-        uses: anchore/sbom-action@17ae1740179002c89186b61233e0f892c3118b11 # v0.23.0
+        uses: anchore/sbom-action@57aae528053a48a3f6235f2d9461b05fbcb7366d # v0.23.1
         with:
           path: tools
           format: spdx-json
@@ -241,14 +241,14 @@ jobs:
       id-token: write
     steps:
       - name: Download binaries
-        uses: actions/download-artifact@70fc10c6e5e1ce46ad2ea6f2b72d43f7d47b13c3 # v8.0.0
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
           path: dist
           pattern: vacs-data-*
           merge-multiple: true
 
       - name: Download license file
-        uses: actions/download-artifact@70fc10c6e5e1ce46ad2ea6f2b72d43f7d47b13c3 # v8.0.0
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
           name: third-party-licenses
           path: dist
@@ -267,7 +267,7 @@ jobs:
           done
 
       - name: Install Cosign
-        uses: sigstore/cosign-installer@faadad0cce49287aee09b3a48701e75088a2c6ad # v4.0.0
+        uses: sigstore/cosign-installer@ba7bc0a3fef59531c69a25acd34668d6d3fe6f22 # v4.1.0
 
       - name: Sign checksums using Cosign with GitHub OIDC Token
         working-directory: dist
@@ -284,7 +284,7 @@ jobs:
           subject-checksums: dist/SHA256SUMS-${{ needs.prep.outputs.version }}.txt
 
       - name: Create/update GitHub release
-        uses: softprops/action-gh-release@a06a81a03ee405af7f2048a818ed3f03bbf83c7b # v2.5.0
+        uses: softprops/action-gh-release@153bb8e04406b158c6c84fc1615b65b24149a1fe # v2.6.1
         with:
           tag_name: ${{ needs.prep.outputs.tag }}
           name: ${{ needs.prep.outputs.release_name }}

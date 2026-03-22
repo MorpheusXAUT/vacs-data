@@ -1,0 +1,288 @@
+{
+  "stations": [
+    {
+      "id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_1_CTR"]
+    },
+    {
+      "id": "OMAE_2_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_2_CTR"]
+    },
+    {
+      "id": "OMAE_3_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_3_CTR"]
+    },
+    {
+      "id": "OMAE_4_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_4_CTR"]
+    },
+    {
+      "id": "OMAE_5_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_5_CTR"]
+    },
+    {
+      "id": "OMAE_D_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_D_CTR"]
+    },
+    {
+      "id": "OMAE_E_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_E_CTR"]
+    },
+    {
+      "id": "OMAE_G_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_G_CTR"]
+    },
+    {
+      "id": "OMAE_H_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_H_CTR"]
+    },
+    {
+      "id": "OMAE_L_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_L_CTR"]
+    },
+    {
+      "id": "OMAE_R_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_R_CTR"]
+    },
+    {
+      "id": "OMAE_S_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_S_CTR"]
+    },
+    {
+      "id": "OMAE_W_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_W_CTR"]
+    },
+    {
+      "id": "OMAE_Y_CTR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAE_Y_CTR"]
+    },
+    {
+      "id": "OMAA_1_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAA_1_APP"]
+    },
+    {
+      "id": "OMAA_2_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAA_2_APP"]
+    },
+    {
+      "id": "OMAA_3_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAA_3_APP"]
+    },
+    {
+      "id": "OMAA_4_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAA_4_APP"]
+    },
+    {
+      "id": "OMAA_F_APP",
+      "parent_id": "OMAA_1_APP",
+      "controlled_by": ["OMAA_F_APP"]
+    },
+    {
+      "id": "OMAA_G_APP",
+      "parent_id": "OMAA_2_APP",
+      "controlled_by": ["OMAA_G_APP"]
+    },
+    {
+      "id": "OMAA_1_TWR",
+      "parent_id": "OMAA_F_APP",
+      "controlled_by": ["OMAA_1_TWR"]
+    },
+    {
+      "id": "OMAA_2_TWR",
+      "parent_id": "OMAA_G_APP",
+      "controlled_by": ["OMAA_2_TWR"]
+    },
+    {
+      "id": "OMAA_1_GND",
+      "parent_id": "OMAA_1_TWR",
+      "controlled_by": ["OMAA_1_GND"]
+    },
+    {
+      "id": "OMAA_2_GND",
+      "parent_id": "OMAA_2_TWR",
+      "controlled_by": ["OMAA_2_GND"]
+    },
+    {
+      "id": "OMAA_3_GND",
+      "parent_id": "OMAA_2_TWR",
+      "controlled_by": ["OMAA_3_GND"]
+    },
+    {
+      "id": "OMAA_DEL",
+      "parent_id": "OMAA_1_GND",
+      "controlled_by": ["OMAA_DEL"]
+    },
+    {
+      "id": "OMAA_I_APP",
+      "parent_id": "OMAA_1_APP",
+      "controlled_by": ["OMAA_I_APP"]
+    },
+    {
+      "id": "OMDB_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMDB_APP"]
+    },
+    {
+      "id": "OMDB_F_APP",
+      "parent_id": "OMDB_APP",
+      "controlled_by": ["OMDB_F_APP"]
+    },
+    {
+      "id": "OMDB_1_DEP",
+      "parent_id": "OMDB_APP",
+      "controlled_by": ["OMDB_1_DEP"]
+    },
+    {
+      "id": "OMDB_2_DEP",
+      "parent_id": "OMDB_APP",
+      "controlled_by": ["OMDB_2_DEP"]
+    },
+    {
+      "id": "OMDB_1_TWR",
+      "parent_id": "OMDB_F_APP",
+      "controlled_by": ["OMDB_1_TWR"]
+    },
+    {
+      "id": "OMDB_2_TWR",
+      "parent_id": "OMDB_F_APP",
+      "controlled_by": ["OMDB_2_TWR"]
+    },
+    {
+      "id": "OMDB_1_GND",
+      "parent_id": "OMDB_1_TWR",
+      "controlled_by": ["OMDB_1_GND"]
+    },
+    {
+      "id": "OMDB_2_GND",
+      "parent_id": "OMDB_2_TWR",
+      "controlled_by": ["OMDB_2_GND"]
+    },
+    {
+      "id": "OMDB_DEL",
+      "parent_id": "OMDB_1_GND",
+      "controlled_by": ["OMDB_DEL"]
+    },
+    {
+      "id": "OMDB_I_TWR",
+      "parent_id": "OMDB_1_TWR",
+      "controlled_by": ["OMDB_I_TWR"]
+    },
+    {
+      "id": "OMDW_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMDW_APP"]
+    },
+    {
+      "id": "OMDW_S_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMDW_S_APP"]
+    },
+    {
+      "id": "OMDW_TWR",
+      "parent_id": "OMDW_APP",
+      "controlled_by": ["OMDW_TWR"]
+    },
+    {
+      "id": "OMDW_A_TWR",
+      "parent_id": "OMDW_APP",
+      "controlled_by": ["OMDW_A_TWR"]
+    },
+    {
+      "id": "OMDW_GND",
+      "parent_id": "OMDW_TWR",
+      "controlled_by": ["OMDW_GND"]
+    },
+    {
+      "id": "OMDW_I_GND",
+      "parent_id": "OMDW_GND",
+      "controlled_by": ["OMDW_I_GND"]
+    },
+    {
+      "id": "OMDM_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMDM_APP"]
+    },
+    {
+      "id": "OMSJ_TWR",
+      "parent_id": "OMDB_APP",
+      "controlled_by": ["OMSJ_TWR"]
+    },
+    {
+      "id": "OMSJ_GND",
+      "parent_id": "OMSJ_TWR",
+      "controlled_by": ["OMSJ_GND"]
+    },
+    {
+      "id": "OMRK_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMRK_APP"]
+    },
+    {
+      "id": "OMRK_TWR",
+      "parent_id": "OMRK_APP",
+      "controlled_by": ["OMRK_TWR"]
+    },
+    {
+      "id": "OMRK_GND",
+      "parent_id": "OMRK_TWR",
+      "controlled_by": ["OMRK_GND"]
+    },
+    {
+      "id": "OMFJ_APP",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMFJ_APP"]
+    },
+    {
+      "id": "OMFJ_TWR",
+      "parent_id": "OMFJ_APP",
+      "controlled_by": ["OMFJ_TWR"]
+    },
+    {
+      "id": "OMFJ_GND",
+      "parent_id": "OMFJ_TWR",
+      "controlled_by": ["OMFJ_GND"]
+    },
+    {
+      "id": "OMAL_TWR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAL_TWR"]
+    },
+    {
+      "id": "OMAL_GND",
+      "parent_id": "OMAL_TWR",
+      "controlled_by": ["OMAL_GND"]
+    },
+    {
+      "id": "OMAD_TWR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMAD_TWR"]
+    },
+    {
+      "id": "OMAD_GND",
+      "parent_id": "OMAD_TWR",
+      "controlled_by": ["OMAD_GND"]
+    },
+    {
+      "id": "OMDL_TWR",
+      "parent_id": "OMAE_1_CTR",
+      "controlled_by": ["OMDL_TWR"]
+    }
+  ]
+}

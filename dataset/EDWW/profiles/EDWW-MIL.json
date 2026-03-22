@@ -91,6 +91,10 @@
                   "station_id": "ETHC-APP"
                 },
                 {
+                  "label": ["ETHC", "PAR"],
+                  "station_id": "ETHC-APP_P"
+                },
+                {
                   "label": ["ETHC", "TWR"],
                   "station_id": "ETHC-TWR"
                 }
@@ -223,6 +227,10 @@
                   "station_id": "ETNT-APP"
                 },
                 {
+                  "label": ["ETNW", "PAR"],
+                  "station_id": "ETNW-APP_P"
+                },
+                {
                   "label": ["ETNT", "TWR"],
                   "station_id": "ETNT-TWR"
                 },
@@ -241,6 +249,10 @@
                 {
                   "label": ["ETSH", "APP"],
                   "station_id": "ETSH-APP"
+                },
+                {
+                  "label": ["ETSH", "PAR"],
+                  "station_id": "ETSH-APP_P"
                 },
                 {
                   "label": ["ETSH", "TWR"],

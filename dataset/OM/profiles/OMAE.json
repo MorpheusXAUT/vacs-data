@@ -1,0 +1,98 @@
+{
+  "id": "OMAE",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["UAE", "CTR"],
+      "page": {
+        "rows": 5,
+        "keys": [
+          {
+            "label": ["UAE", "CTR", "North"],
+            "station_id": "OMAE_1_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Alpha"],
+            "station_id": "OMAE_2_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Central"],
+            "station_id": "OMAE_3_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Mike"],
+            "station_id": "OMAE_4_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Bravo"],
+            "station_id": "OMAE_5_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Delta"],
+            "station_id": "OMAE_D_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "East"],
+            "station_id": "OMAE_E_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Golf"],
+            "station_id": "OMAE_G_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Hotel"],
+            "station_id": "OMAE_H_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Lima"],
+            "station_id": "OMAE_L_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Romeo"],
+            "station_id": "OMAE_R_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "South"],
+            "station_id": "OMAE_S_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "West"],
+            "station_id": "OMAE_W_CTR"
+          },
+          {
+            "label": ["UAE", "CTR", "Yankee"],
+            "station_id": "OMAE_Y_CTR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": "Neighboring",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "OB*",
+            "OTDF*",
+            "DOH*",
+            "TEH*",
+            "GULF*",
+            "GULF_E*",
+            "OOMM*",
+            "OEJD*"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}
