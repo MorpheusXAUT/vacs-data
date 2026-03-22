@@ -845,6 +845,46 @@ controlled_by = ["EGVV_D_CTR"]
 ####################
 
 [[stations]]
+id = "EGAA_GND"
+parent_id = "EGAA_TWR"
+controlled_by = ["EGAA_GND"]
+
+[[stations]]
+id = "EGAA_TWR"
+parent_id = "EGAA_APP"
+controlled_by = ["EGAA_TWR"]
+
+[[stations]]
+id = "EGAA_APP"
+parent_id = "STC_A_CTR"
+controlled_by = ["EGAA_APP", "EGAA_F_APP"]
+
+[[stations]]
+id = "EGAA_F_APP"
+parent_id = "EGAA_APP"
+controlled_by = ["EGAA_F_APP"]
+
+[[stations]]
+id = "EGAC_TWR"
+parent_id = "EGAC_APP"
+controlled_by = ["EGAC_TWR"]
+
+[[stations]]
+id = "EGAC_APP"
+parent_id = "EGAA_APP"
+controlled_by = ["EGAC_APP"]
+
+[[stations]]
+id = "EGAE_TWR"
+parent_id = "EGAE_A_APP"
+controlled_by = ["EGAE_TWR"]
+
+[[stations]]
+id = "EGAE_A_APP"
+parent_id = "SCO_R_CTR"
+controlled_by = ["EGAE_A_APP"]
+
+[[stations]]
 id = "EGBB_APP"
 parent_id = "LTC_MC_CTR"
 controlled_by = ["EGBB_APP", "EGBB_F_APP"]
