@@ -103,301 +103,301 @@
       "prefixes": ["OMAA"],
       "frequency": "124.400",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_2_APP",
       "prefixes": ["OMAA"],
       "frequency": "128.100",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_3_APP",
       "prefixes": ["OMAA"],
       "frequency": "135.150",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_4_APP",
       "prefixes": ["OMAA"],
       "frequency": "133.550",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_F_APP",
       "prefixes": ["OMAA"],
       "frequency": "118.425",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_G_APP",
       "prefixes": ["OMAA"],
       "frequency": "118.000",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_1_TWR",
       "prefixes": ["OMAA"],
       "frequency": "119.200",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_2_TWR",
       "prefixes": ["OMAA"],
       "frequency": "118.675",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_1_GND",
       "prefixes": ["OMAA"],
       "frequency": "123.975",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_2_GND",
       "prefixes": ["OMAA"],
       "frequency": "120.425",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_3_GND",
       "prefixes": ["OMAA"],
       "frequency": "121.950",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_DEL",
       "prefixes": ["OMAA"],
       "frequency": "125.100",
       "facility_type": "DEL",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMAA_I_APP",
       "prefixes": ["OMAA"],
       "frequency": "119.200",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMAA"
     },
     {
       "id": "OMDB_APP",
       "prefixes": ["OMDB"],
       "frequency": "124.900",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_F_APP",
       "prefixes": ["OMDB"],
       "frequency": "127.900",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_1_DEP",
       "prefixes": ["OMDB"],
       "frequency": "121.025",
       "facility_type": "DEP",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_2_DEP",
       "prefixes": ["OMDB"],
       "frequency": "124.675",
       "facility_type": "DEP",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_1_TWR",
       "prefixes": ["OMDB"],
       "frequency": "118.750",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_2_TWR",
       "prefixes": ["OMDB"],
       "frequency": "119.550",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_1_GND",
       "prefixes": ["OMDB"],
       "frequency": "118.350",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_2_GND",
       "prefixes": ["OMDB"],
       "frequency": "121.650",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_DEL",
       "prefixes": ["OMDB"],
       "frequency": "120.350",
       "facility_type": "DEL",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDB_I_TWR",
       "prefixes": ["OMDB"],
       "frequency": "126.775",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMDB"
     },
     {
       "id": "OMDW_APP",
       "prefixes": ["OMDW"],
       "frequency": "124.025",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMDW"
     },
     {
       "id": "OMDW_S_APP",
       "prefixes": ["OMDW"],
       "frequency": "120.400",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMDW"
     },
     {
       "id": "OMDW_TWR",
       "prefixes": ["OMDW"],
       "frequency": "118.625",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMDW"
     },
     {
       "id": "OMDW_A_TWR",
       "prefixes": ["OMDW"],
       "frequency": "118.775",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMDW"
     },
     {
       "id": "OMDW_GND",
       "prefixes": ["OMDW"],
       "frequency": "118.375",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMDW"
     },
     {
       "id": "OMDW_I_GND",
       "prefixes": ["OMDW"],
       "frequency": "118.700",
-      "facility_type": "GND",
-      "profile_id": "OMAE"
+      "facility_type": "GD",
+      "profile_id": "OMDW"
     },
     {
       "id": "OMDM_APP",
       "prefixes": ["OMDM"],
       "frequency": "122.500",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMDM"
     },
     {
       "id": "OMSJ_TWR",
       "prefixes": ["OMSJ"],
       "frequency": "118.600",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMSJ"
     },
     {
       "id": "OMSJ_GND",
       "prefixes": ["OMSJ"],
       "frequency": "121.875",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMSJ"
     },
     {
       "id": "OMRK_APP",
       "prefixes": ["OMRK"],
       "frequency": "124.000",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMRK"
     },
     {
       "id": "OMRK_TWR",
       "prefixes": ["OMRK"],
       "frequency": "118.250",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMRK"
     },
     {
       "id": "OMRK_GND",
       "prefixes": ["OMRK"],
       "frequency": "121.750",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMRK"
     },
     {
       "id": "OMFJ_APP",
       "prefixes": ["OMFJ"],
       "frequency": "129.400",
       "facility_type": "APP",
-      "profile_id": "OMAE"
+      "profile_id": "OMFJ"
     },
     {
       "id": "OMFJ_TWR",
       "prefixes": ["OMFJ"],
       "frequency": "124.600",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMFJ"
     },
     {
       "id": "OMFJ_GND",
       "prefixes": ["OMFJ"],
       "frequency": "119.450",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMFJ"
     },
     {
       "id": "OMAL_TWR",
       "prefixes": ["OMAL"],
       "frequency": "119.850",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMAL"
     },
     {
       "id": "OMAL_GND",
       "prefixes": ["OMAL"],
       "frequency": "129.150",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMAL"
     },
     {
       "id": "OMAD_TWR",
       "prefixes": ["OMAD"],
       "frequency": "119.900",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMAD"
     },
     {
       "id": "OMAD_GND",
       "prefixes": ["OMAD"],
       "frequency": "120.375",
       "facility_type": "GND",
-      "profile_id": "OMAE"
+      "profile_id": "OMAD"
     },
     {
       "id": "OMDL_TWR",
       "prefixes": ["OMDL"],
       "frequency": "130.700",
       "facility_type": "TWR",
-      "profile_id": "OMAE"
+      "profile_id": "OMDL"
     }
   ]
 }
