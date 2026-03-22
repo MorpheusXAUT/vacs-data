@@ -1,0 +1,56 @@
+{
+  "id": "OMAD",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OMAD", "ADC"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["Al Bateen", "Ground"],
+            "station_id": "OMAD_GND"
+          },
+          {
+            "label": ["Al Bateen", "Tower"],
+            "station_id": "OMAD_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": "Neighboring",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "OB*",
+            "OTDF*",
+            "DOH*",
+            "TEH*",
+            "GULF*",
+            "GULF_E*",
+            "OOMM*",
+            "OEJD*"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}
