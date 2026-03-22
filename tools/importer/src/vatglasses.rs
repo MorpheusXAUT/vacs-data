@@ -215,6 +215,7 @@ impl TryFromRef<VatglassesData> for PositionConfigFile {
                     frequency: p.frequency.clone().unwrap_or("199.998".to_string()),
                     prefixes: p.pre.iter().cloned().collect(),
                     profile_id: None,
+                    default_call_sources: Vec::from([StationId::from(id.clone())]),
                 })
                 .collect(),
         })

@@ -4,7 +4,7 @@ use std::collections::HashSet;
 use std::io::{BufRead, BufReader};
 use std::path::PathBuf;
 use vacs_data_diagnostics::log;
-use vacs_protocol::vatsim::PositionId;
+use vacs_protocol::vatsim::{PositionId, StationId};
 use vacs_vatsim::FacilityType;
 use vacs_vatsim::coverage::position;
 use vacs_vatsim::coverage::position::{PositionConfigFile, PositionRaw};
@@ -149,6 +149,7 @@ impl ParsePosition for position::PositionRaw {
             prefixes: HashSet::from([parts[5].to_string()]),
             facility_type,
             profile_id: None,
+            default_call_sources: Vec::from([StationId::from(parts[0])])
         })
     }
 }
