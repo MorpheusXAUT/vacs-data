@@ -159,10 +159,12 @@
             "station_id": "EG-Moray-Low"
           },
           {
-            "label": ["EGPD", "HELS"]
+            "label": ["EGPD", "HELS"],
+            "station_id": "EGPD_H_APP"
           },
           {
-            "label": ["EGPB", "APP"]
+            "label": ["EGPB", "APP"],
+            "station_id": "EGPB_APP"
           },
           {
             "label": []
