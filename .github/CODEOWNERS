@@ -49,7 +49,8 @@ CONTRIBUTING.md @vacs-project/maintainers
 /dataset/MD/ @vacs-project/dataset-maintainers-vcmc
 /dataset/MT/ @vacs-project/dataset-maintainers-vcmc
 /dataset/NAT/ @vacs-project/dataset-maintainers-nat
-/dataset/OT/ @vacs-project/dataset-maintainers-ot
+/dataset/OM/ @vacs-project/dataset-maintainers-arb
+/dataset/OT/ @vacs-project/dataset-maintainers-arb
 /dataset/TN/ @vacs-project/dataset-maintainers-tncf
 /dataset/TQ/ @vacs-project/dataset-maintainers-tncf
 /dataset/VH/ @vacs-project/dataset-maintainers-vh
