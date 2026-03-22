@@ -1,0 +1,56 @@
+{
+  "id": "OMSJ",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OMSJ", "ADC"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["Sharjah", "Ground"],
+            "station_id": "OMSJ_GND"
+          },
+          {
+            "label": ["Sharjah", "Tower"],
+            "station_id": "OMSJ_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": "Neighboring",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "OB*",
+            "OTDF*",
+            "DOH*",
+            "TEH*",
+            "GULF*",
+            "GULF_E*",
+            "OOMM*",
+            "OEJD*"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}
