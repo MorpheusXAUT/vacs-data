@@ -298,7 +298,7 @@
       "id": "OMDW_I_GND",
       "prefixes": ["OMDW"],
       "frequency": "118.700",
-      "facility_type": "GD",
+      "facility_type": "GND",
       "profile_id": "OMDW"
     },
     {
