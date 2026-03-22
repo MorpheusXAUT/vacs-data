@@ -1,27 +1,22 @@
 {
   "stations": [
     {
-      "id": "OTDF_CTR",
-      "controlled_by": ["OTDF_CTR"]
-    },
-    {
       "id": "OTDF_1_CTR",
-      "parent_id": "OTDF_CTR",
       "controlled_by": ["OTDF_1_CTR"]
     },
     {
       "id": "OTDF_2_CTR",
-      "parent_id": "OTDF_CTR",
+      "parent_id": "OTDF_1_CTR",
       "controlled_by": ["OTDF_2_CTR"]
     },
     {
       "id": "DOH_R1_APP",
-      "parent_id": "OTDF_CTR",
+      "parent_id": "OTDF_1_CTR",
       "controlled_by": ["DOH_R1_APP"]
     },
     {
       "id": "DOH_R2_APP",
-      "parent_id": "OTDF_CTR",
+      "parent_id": "OTDF_1_CTR",
       "controlled_by": ["DOH_R2_APP"]
     },
     {
