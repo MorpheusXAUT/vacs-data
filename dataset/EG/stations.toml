@@ -983,6 +983,26 @@ parent_id = "EGLL-CTR-TC_SVFR"
 controlled_by = ["EGLW_TWR"]
 
 [[stations]]
+id = "EGNS_TWR"
+parent_id = "EGNS_APP"
+controlled_by = ["EGNS_TWR"]
+
+[[stations]]
+id = "EGNS_APP"
+parent_id = "EGNS_A_APP"
+controlled_by = ["EGNS_APP", "EGNS_F_APP"]
+
+[[stations]]
+id = "EGNS_F_APP"
+parent_id = "EGNS_APP"
+controlled_by = ["EGNS_F_APP"]
+
+[[stations]]
+id = "EGNS_A_APP"
+parent_id = "MAN_WI_CTR"
+controlled_by = ["EGNS_A_APP"]
+
+[[stations]]
 id = "EGNX_APP"
 parent_id = "LTC_MW_CTR"
 controlled_by = ["EGNX_APP", "EGNX_F_APP"]
