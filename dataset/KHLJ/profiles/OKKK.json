@@ -9,7 +9,7 @@
         "keys": [
           {
             "label": ["GMP", "PLN"],
-            "station_id": "OKKK_GMP_DEL"
+            "station_id": "OKKK_GMP_FMP"
           },
           {
             "label": ["GMC", "PLN"],
