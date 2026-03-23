@@ -27,7 +27,14 @@ prefixes = ["LOVV"]
 frequency = "136.390"
 facility_type = "CTR"
 profile_id = "LOVV"
-default_call_sources = ["LOVV_B2", "LOVV_W2", "LOVV_S2"]
+default_call_sources = [
+  "LOVV_B1",
+  "LOVV_B2",
+  "LOVV_W1",
+  "LOVV_W2",
+  "LOVV_S1",
+  "LOVV_S2",
+]
 
 [[positions]]
 id = "LOVV_B_CTR"
@@ -88,7 +95,14 @@ prefixes = ["LOVV"]
 frequency = "135.635"
 facility_type = "CTR"
 profile_id = "LOVV"
-default_call_sources = ["LOVV_E2", "LOVV_N2", "LOVV_S2"]
+default_call_sources = [
+  "LOVV_E1",
+  "LOVV_E2",
+  "LOVV_N1",
+  "LOVV_N2",
+  "LOVV_S1",
+  "LOVV_S2",
+]
 
 [[positions]]
 id = "LOVV_E_CTR"
@@ -152,7 +166,14 @@ prefixes = ["LOVV"]
 frequency = "119.880"
 facility_type = "CTR"
 profile_id = "LOVV"
-default_call_sources = ["LOVV_N2", "LOVV_B2", "LOVV_E2"]
+default_call_sources = [
+  "LOVV_N1",
+  "LOVV_N2",
+  "LOVV_B1",
+  "LOVV_B2",
+  "LOVV_E1",
+  "LOVV_E2",
+]
 
 [[positions]]
 id = "LOVV_N_CTR"
@@ -183,7 +204,7 @@ prefixes = ["LOVV"]
 frequency = "133.965"
 facility_type = "CTR"
 profile_id = "LOVV"
-default_call_sources = ["LOVV_S2", "LOVV_W2"]
+default_call_sources = ["LOVV_S1", "LOVV_S2", "LOVV_W1", "LOVV_W2"]
 
 [[positions]]
 id = "LOVV_S_CTR"
@@ -199,7 +220,18 @@ prefixes = ["LOVV"]
 frequency = "131.350"
 facility_type = "CTR"
 profile_id = "LOVV"
-default_call_sources = ["LOVV_N2", "LOVV_B2", "LOVV_W2", "LOVV_S2", "LOVV_E2"]
+default_call_sources = [
+  "LOVV_N1",
+  "LOVV_N2",
+  "LOVV_B1",
+  "LOVV_B2",
+  "LOVV_W1",
+  "LOVV_W2",
+  "LOVV_S1",
+  "LOVV_S2",
+  "LOVV_E1",
+  "LOVV_E2",
+]
 
 [[positions]]
 id = "LOVV_WU_CTR"
@@ -207,7 +239,7 @@ prefixes = ["LOVV"]
 frequency = "129.965"
 facility_type = "CTR"
 profile_id = "LOVV"
-default_call_sources = ["LOVV_W2", "LOVV_B2"]
+default_call_sources = ["LOVV_W1", "LOVV_W2", "LOVV_B1", "LOVV_B2"]
 
 [[positions]]
 id = "LOVV_W_CTR"
@@ -247,13 +279,7 @@ prefixes = ["LOWI"]
 frequency = "128.975"
 facility_type = "APP"
 profile_id = "LOVV"
-default_call_sources = [
-  "LOWI_APP",
-  "LOWI_E_APP",
-  "LOWI_S_APP",
-  "LOWI_F_APP",
-  "LOWI_TWR",
-]
+default_call_sources = ["LOWI_APP", "LOWI_E_APP", "LOWI_S_APP", "LOWI_F_APP"]
 
 [[positions]]
 id = "LOWI_E_APP"
@@ -261,13 +287,7 @@ prefixes = ["LOWI"]
 frequency = "119.275"
 facility_type = "APP"
 profile_id = "LOVV"
-default_call_sources = [
-  "LOWI_E_APP",
-  "LOWI_APP",
-  "LOWI_S_APP",
-  "LOWI_F_APP",
-  "LOWI_TWR",
-]
+default_call_sources = ["LOWI_E_APP", "LOWI_APP", "LOWI_S_APP", "LOWI_F_APP"]
 
 [[positions]]
 id = "LOWI_F_APP"
@@ -275,7 +295,7 @@ prefixes = ["LOWI"]
 frequency = "121.390"
 facility_type = "APP"
 profile_id = "LOVV"
-default_call_sources = ["LOWI_F_APP", "LOWI_E_APP", "LOWI_S_APP", "LOWI_TWR"]
+default_call_sources = ["LOWI_F_APP", "LOWI_E_APP", "LOWI_S_APP"]
 
 [[positions]]
 id = "LOWI_S_APP"
@@ -283,13 +303,7 @@ prefixes = ["LOWI"]
 frequency = "119.275"
 facility_type = "APP"
 profile_id = "LOVV"
-default_call_sources = [
-  "LOWI_S_APP",
-  "LOWI_APP",
-  "LOWI_E_APP",
-  "LOWI_F_APP",
-  "LOWI_TWR",
-]
+default_call_sources = ["LOWI_S_APP", "LOWI_APP", "LOWI_E_APP", "LOWI_F_APP"]
 
 [[positions]]
 id = "LOWK_APP"
@@ -329,7 +343,7 @@ prefixes = ["LOWW"]
 frequency = "134.125"
 facility_type = "APP"
 profile_id = "LOWW"
-default_call_sources = ["LOWW_D_APP", "LOWW_F_APP"]
+default_call_sources = ["LOWW_D_APP"]
 
 [[positions]]
 id = "LOWW_F_APP"
@@ -337,7 +351,7 @@ prefixes = ["LOWW"]
 frequency = "119.800"
 facility_type = "APP"
 profile_id = "LOWW"
-default_call_sources = ["LOWW_F_APP", "LOWW_D_APP"]
+default_call_sources = ["LOWW_F_APP"]
 
 [[positions]]
 id = "LOWW_M_APP"
@@ -449,7 +463,7 @@ prefixes = ["LOWW"]
 frequency = "123.800"
 facility_type = "TWR"
 profile_id = "LOWW"
-default_call_sources = ["LOWW_E_TWR", "LOWW_TWR"]
+default_call_sources = ["LOWW_E_TWR"]
 
 [[positions]]
 id = "LOWW_TWR"
@@ -457,7 +471,7 @@ prefixes = ["LOWW"]
 frequency = "119.400"
 facility_type = "TWR"
 profile_id = "LOWW"
-default_call_sources = ["LOWW_TWR", "LOWW_E_TWR"]
+default_call_sources = ["LOWW_TWR"]
 
 [[positions]]
 id = "LOXA_TWR"
@@ -505,7 +519,7 @@ prefixes = ["LOWW"]
 frequency = "121.775"
 facility_type = "GND"
 profile_id = "LOWW"
-default_call_sources = ["LOWW_W_GND", "LOWW_GND"]
+default_call_sources = ["LOWW_W_GND"]
 
 [[positions]]
 id = "LOWW_GND"
@@ -513,7 +527,7 @@ prefixes = ["LOWW"]
 frequency = "121.600"
 facility_type = "GND"
 profile_id = "LOWW"
-default_call_sources = ["LOWW_GND", "LOWW_W_GND"]
+default_call_sources = ["LOWW_GND"]
 
 [[positions]]
 id = "LOWI_DEL"
