@@ -148,10 +148,12 @@
             "label": [""]
           },
           {
-            "label": ["EBBU", "BE"]
+            "label": ["EBBU", "EHS"],
+            "station_id": "EBBU-EHS"
           },
           {
-            "label": [""]
+            "label": ["EBBU", "ELS"],
+            "station_id": "EBBU-ELS"
           },
           {
             "label": ["EDWW", "EMS"],
@@ -161,7 +163,8 @@
             "label": [""]
           },
           {
-            "label": ["EDYY", "YO"]
+            "label": ["EDYY", "LNH"],
+            "station_id": "EDYY-LNH"
           },
           {
             "label": [""]
@@ -257,7 +260,8 @@
             "label": [""]
           },
           {
-            "label": ["EDYY", "YL"]
+            "label": ["EDYY", "LXH"],
+            "station_id": "EDYY-LXH"
           },
           {
             "label": ["TAU"],

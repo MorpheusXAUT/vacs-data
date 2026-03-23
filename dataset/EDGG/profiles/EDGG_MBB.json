@@ -209,7 +209,8 @@
             "station_id": "EDYY-SL"
           },
           {
-            "label": ["EDYY", "YO"]
+            "label": ["EDYY", "LNH"],
+            "station_id": "EDYY-LNH"
           },
           {
             "label": ["EDGG", "GIN"],
@@ -256,7 +257,7 @@
             "station_id": "EDWW-HRZ"
           },
           {
-            "label": ["EBUU", "BE"]
+            "label": [""]
           },
           {
             "label": ["EHVK", "CRS"]
@@ -275,10 +276,12 @@
             "label": [""]
           },
           {
-            "label": [""]
+            "label": ["EBUU", "EHS"],
+            "station_id": "EBBU-EHS"
           },
           {
-            "label": [""]
+            "label": ["EBUU", "ELS"],
+            "station_id": "EBBU-ELS"
           },
           {
             "label": [""]
@@ -486,7 +489,8 @@
             "station_id": "EDUU-ERL"
           },
           {
-            "label": ["EDYY", "YO"]
+            "label": ["EDYY", "LNH"],
+            "station_id": "EDYY-LNH"
           },
           {
             "label": ["GIN"],
@@ -501,14 +505,16 @@
             "station_id": "EDWW-HRZ"
           },
           {
-            "label": ["EBBU", "BE"]
+            "label": ["EBBU", "EHS"],
+            "station_id": "EBBU-EHS"
           },
           {
             "label": ["EDYY", "SL"],
             "station_id": "EDYY-SL"
           },
           {
-            "label": ["EDYY", "YL"]
+            "label": ["EDYY", "LXH"],
+            "station_id": "EDYY-LXH"
           },
           {
             "label": ["HEF"],
@@ -523,7 +529,8 @@
             "station_id": "EDMM-HAL"
           },
           {
-            "label": ["EBBU", "BL"]
+            "label": ["EBBU", "ELS"],
+            "station_id": "EBBU-ELS"
           },
           {
             "label": ["EDYY", "ML"],
@@ -545,7 +552,8 @@
             "station_id": "EDMM-GER"
           },
           {
-            "label": ["EBBU", "BH"]
+            "label": ["EBBU", "HUS"],
+            "station_id": "EBBU-HUS"
           },
           {
             "label": ["EDYY", "RL"],
@@ -607,7 +615,8 @@
             "station_id": "EDMM-BBG"
           },
           {
-            "label": [""]
+            "label": ["EBBU", "LUS"],
+            "station_id": "EBBU-LUS"
           }
         ]
       }

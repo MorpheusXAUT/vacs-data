@@ -59,7 +59,7 @@
             "station_id": "EDGG-PAH"
           },
           {
-            "label": ["EBBU", "BE"]
+            "label": [""]
           },
           {
             "label": ["EHAA", "ACE"]
@@ -110,7 +110,22 @@
             "station_id": "EDUU-FFM"
           },
           {
-            "label": ["EDYY", "YO"]
+            "label": [""]
+          },
+          {
+            "label": ["EDYY", "LNH"],
+            "station_id": "EDYY-LNH"
+          },
+          {
+            "label": ["EBBU", "EHS"],
+            "station_id": "EBBU-EHS"
+          },
+          {
+            "label": ["EBBU", "ELS"],
+            "station_id": "EBBU-ELS"
+          },
+          {
+            "label": [""]
           }
         ]
       }
