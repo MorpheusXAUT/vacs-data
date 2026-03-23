@@ -8,7 +8,7 @@
         "rows": 3,
         "keys": [
           {
-            "label": ["DLV", "PLN"],
+            "label": ["[OBBI]", "DLV", "PLN"],
             "station_id": "OBBI_P_DEL"
           },
           {
@@ -18,15 +18,15 @@
             "label": []
           },
           {
-            "label": ["DLV"],
+            "label": ["[OBBI]", "DLV"],
             "station_id": "OBBI_DEL"
           },
           {
-            "label": ["GMC"],
+            "label": ["[OBBI]", "GMC"],
             "station_id": "OBBI_GND"
           },
           {
-            "label": ["TWR"],
+            "label": ["[OBBI]", "TWR"],
             "station_id": "OBBI_TWR"
           },
           {
@@ -42,11 +42,11 @@
             "label": []
           },
           {
-            "label": ["FIN"],
+            "label": ["[OBBI]", "FIN"],
             "station_id": "OBBI_F_APP"
           },
           {
-            "label": ["APP"],
+            "label": ["[OBBI]", "APP"],
             "station_id": "OBBI_APP"
           },
           {
@@ -59,29 +59,29 @@
             "label": []
           },
           {
-            "label": ["SAKHIR", "TOWER", "118.150"],
+            "label": ["OBKH", "Sakhir", "Tower"],
             "station_id": "OBKH_TWR"
           },
           {
             "label": []
           },
           {
-            "label": ["CENT", "LOW"],
+            "label": ["[OBBB]", "CENT", "LOW"],
             "station_id": "OBBB_CL_CTR"
           },
           {
-            "label": ["ISA", "TOWER", "125.450"],
+            "label": ["[OBBS]", "Isa", "Tower"],
             "station_id": "OBBS_TWR"
           },
           {
-            "label": ["DOH", "R1"],
+            "label": ["[OTHH]", "DOH", "R1"],
             "station_id": "DOH_R1_APP"
           },
           {
             "label": ["DMM", "TMA", "(INOP)"]
           },
           {
-            "label": ["ISA", "124.950"],
+            "label": ["[OBBS]", "Isa", "Approach"],
             "station_id": "OBBS_APP"
           },
           {

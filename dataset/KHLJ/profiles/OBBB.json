@@ -10,7 +10,8 @@
           "include": [
             "OB*",
 
-            "OKAC*",
+            "OKAC*",  
+            "OKKK*APP",
             "OERD*",
             "OEDF*_APP",
             "OTDF*",
