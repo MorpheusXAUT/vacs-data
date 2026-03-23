@@ -3,25 +3,95 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "OBBI",
+      "label": ["BAH"],
       "page": {
-        "rows": 10,
-        "client_page": {
-          "include": [
-            "OB*",
-
-            "OERD*",
-            "OEDF*_APP",
-            "OTDF*",
-            "DOH*",
-            "GULF_E*",
-            "GULF*"
-          ],
-          "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
-          "frequencies": "HideAll",
-          "grouping": "None"
-        }
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["DLV", "PLN"],
+            "station_id": "OBBI_P_DEL"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["DLV"],
+            "station_id": "OBBI_DEL"
+          },
+          {
+            "label": ["GMC"],
+            "station_id": "OBBI_GND"
+          },
+          {
+            "label": ["TWR"],
+            "station_id": "OBBI_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["FIN"],
+            "station_id": "OBBI_F_APP"
+          },
+          {
+            "label": ["APP"],
+            "station_id": "OBBI_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["SAKHIR", "TOWER", "118.150"],
+            "station_id": "OBKH_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["CENT", "LOW"],
+            "station_id": "OBBB_CL_CTR"
+          },
+          {
+            "label": ["ISA", "TOWER", "125.450"],
+            "station_id": "OBBS_TWR"
+          },
+          {
+            "label": ["DOH", "R1"],
+            "station_id": "DOH_R1_APP"
+          },
+          {
+            "label": ["DMM", "TMA", "(INOP)"]
+          },
+          {
+            "label": ["ISA", "124.950"],
+            "station_id": "OBBS_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OBBB", "FMP"],
+            "station_id": "OBBB_FM_CTR"
+          }
+        ]
       }
     }
   ]
