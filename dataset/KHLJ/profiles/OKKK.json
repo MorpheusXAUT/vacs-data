@@ -20,7 +20,7 @@
           },
           {
             "label": ["AIR", "PLN"],
-            "station_id": "OKKK"
+            "station_id": "OKKK_AIR_FMP"
           },
           {
             "label": ["GMP"],
