@@ -1043,6 +1043,41 @@ parent_id = "MAN_WI_CTR"
 controlled_by = ["EGNS_A_APP"]
 
 [[stations]]
+id = "EGNT_GND"
+parent_id = "EGNT_TWR"
+controlled_by = ["EGNT_GND"]
+
+[[stations]]
+id = "EGNT_TWR"
+parent_id = "EGNT_APP"
+controlled_by = ["EGNT_TWR"]
+
+[[stations]]
+id = "EGNT_APP"
+parent_id = "MAN_NE_CTR"
+controlled_by = ["EGNT_APP", "EGNT_F_APP"]
+
+[[stations]]
+id = "EGNT_F_APP"
+parent_id = "EGNT_APP"
+controlled_by = ["EGNT_F_APP"]
+
+[[stations]]
+id = "EGNV_TWR"
+parent_id = "EGNV_APP"
+controlled_by = ["EGNV_TWR"]
+
+[[stations]]
+id = "EGNV_APP"
+parent_id = "EGNT_APP"
+controlled_by = ["EGNV_APP", "EGNV_F_APP"]
+
+[[stations]]
+id = "EGNV_F_APP"
+parent_id = "EGNV_APP"
+controlled_by = ["EGNV_F_APP"]
+
+[[stations]]
 id = "EGNX_APP"
 parent_id = "LTC_MW_CTR"
 controlled_by = ["EGNX_APP", "EGNX_F_APP"]
