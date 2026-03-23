@@ -137,7 +137,7 @@
         "keys": [
           {
             "label": ["WEST", "ACC"],
-            "station_id": "FACA_W"
+            "station_id": "FACA_CTR"
           },
           {
             "label": ["CT", "APP"],

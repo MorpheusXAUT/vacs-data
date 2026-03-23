@@ -30,7 +30,7 @@
       "frequency": "134.400",
       "facility_type": "CTR",
       "profile_id": "FAJA",
-      "default_call_sources": ["FAJA_CTR"]
+      "default_call_sources": ["FAJA_NW_CTR"]
     },
     {
       "id": "FAJA_N_CTR",
@@ -126,7 +126,7 @@
       "frequency": "132.125",
       "facility_type": "CTR",
       "profile_id": "FACA",
-      "default_call_sources": ["FACA_I_CTR"]
+      "default_call_sources": ["FACA_IW_CTR"]
     },
     {
       "id": "FAJA_IN_CTR",
@@ -166,7 +166,7 @@
       "frequency": "127.400",
       "facility_type": "CTR",
       "profile_id": "FAJA",
-      "default_call_sources": ["FAJA_I_CTR"]
+      "default_call_sources": ["FAJA_IN_CTR"]
     },
     {
       "id": "FAMR_I_CTR",
