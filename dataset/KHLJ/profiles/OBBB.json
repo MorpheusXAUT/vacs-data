@@ -5,7 +5,7 @@
     {
       "label": "OBBB",
       "page": {
-        "rows": 4,
+        "rows": 6,
         "client_page": {
           "include": [
             "OB*",

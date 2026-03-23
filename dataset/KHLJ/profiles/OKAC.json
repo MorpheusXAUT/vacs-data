@@ -5,7 +5,7 @@
     {
       "label": "OKAC",
       "page": {
-        "rows": 10,
+        "rows": 6,
         "client_page": {
           "include": [
             "OK*",
