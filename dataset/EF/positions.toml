@@ -458,7 +458,7 @@ id = "EFTU_R_TWR"
 prefixes = ["EFTU_R"]
 frequency = "118.300"
 facility_type = "TWR"
-profile_id = "EF_Generic_regional"
+profile_id = "EFTU"
 
 [[positions]]
 id = "EFUT_P_TWR"
