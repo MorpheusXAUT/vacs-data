@@ -38,7 +38,7 @@
       "frequency": "134.400",
       "facility_type": "CTR",
       "profile_id": "FAJA",
-      "default_call_sources": ["FAJA_N_CTR"]
+      "default_call_sources": ["FAJA_NW_CTR"]
     },
     {
       "id": "FAJA_NE_CTR",
@@ -78,7 +78,7 @@
       "frequency": "120.300",
       "facility_type": "CTR",
       "profile_id": "FAJA",
-      "default_call_sources": ["FAJA_S_CTR"]
+      "default_call_sources": ["FAJA_C_CTR"]
     },
     {
       "id": "FAJA_SE_CTR",
