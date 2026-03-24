@@ -192,14 +192,14 @@ id = "EFJY_APP"
 prefixes = ["EFJY"]
 frequency = "127.000"
 facility_type = "APP"
-profile_id = "EF_Generic_regional"
+profile_id = "EFJY"
 
 [[positions]]
 id = "EFJY_R_APP"
 prefixes = ["EFJY"]
 frequency = "128.800"
 facility_type = "APP"
-profile_id = "EF_Generic_regional"
+profile_id = "EFJY"
 
 [[positions]]
 id = "EFKU_APP"
@@ -297,21 +297,21 @@ id = "EFJY_TWR"
 prefixes = ["EFJY"]
 frequency = "118.000"
 facility_type = "TWR"
-profile_id = "EF_Generic_regional"
+profile_id = "EFJY"
 
 [[positions]]
 id = "EFJY_R_TWR"
 prefixes = ["EFJY_R"]
 frequency = "118.000"
 facility_type = "TWR"
-profile_id = "EF_Generic_regional"
+profile_id = "EFJY"
 
 [[positions]]
 id = "EFJY_GND"
 prefixes = ["EFJY"]
 frequency = "121.850"
 facility_type = "GND"
-profile_id = "EF_Generic_regional"
+profile_id = "EFJY"
 
 [[positions]]
 id = "EFKE_R_TWR"
