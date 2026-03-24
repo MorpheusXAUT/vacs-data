@@ -494,7 +494,7 @@
         "keys": [
           {
             "label": ["CT", "CLD"],
-            "station_id": "FACT_CLD"
+            "station_id": "FACT_DEL"
           },
           {
             "label": ["CT", "TWR"],
@@ -516,15 +516,15 @@
           },
           {
             "label": ["CT", "GMC"],
-            "station_id": "FACT_GMC"
+            "station_id": "FACT_GND"
           },
           {
             "label": ["CT", "FIN"],
-            "station_id": "FACT_FIN"
+            "station_id": "FACT_F_APP"
           },
           {
             "label": ["EL", "AFIS"],
-            "station_id": "FAEL_INFO"
+            "station_id": "FAEL_I_TWR"
           },
           {
             "label": []
@@ -534,7 +534,7 @@
           },
           {
             "label": ["FALW", "GMC"],
-            "station_id": "FALW_GMC"
+            "station_id": "FALW_GND"
           },
           {
             "label": []
@@ -584,7 +584,7 @@
           },
           {
             "label": ["PE", "CLD"],
-            "station_id": "FAPE_CLD"
+            "station_id": "FAPE_DEL"
           },
           {
             "label": ["PE", "ASCA"],

@@ -544,7 +544,7 @@
       "prefixes": ["FAUP"],
       "frequency": "121.300",
       "facility_type": "TWR",
-      "default_call_sources": ["FAUP_TWR"]
+      "default_call_sources": ["FAUP_APP"]
     },
     {
       "id": "FAPM_TWR",
