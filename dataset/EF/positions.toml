@@ -206,14 +206,14 @@ id = "EFKU_APP"
 prefixes = ["EFKU"]
 frequency = "130.600"
 facility_type = "APP"
-profile_id = "EF_Generic_regional"
+profile_id = "EFKU"
 
 [[positions]]
 id = "EFKU_R_APP"
 prefixes = ["EFKU"]
 frequency = "122.850"
 facility_type = "APP"
-profile_id = "EF_Generic_regional"
+profile_id = "EFKU"
 
 [[positions]]
 id = "EFOU_APP"
@@ -353,14 +353,14 @@ id = "EFKU_TWR"
 prefixes = ["EFKU"]
 frequency = "120.150"
 facility_type = "TWR"
-profile_id = "EF_Generic_regional"
+profile_id = "EFKU"
 
 [[positions]]
 id = "EFKU_R_TWR"
 prefixes = ["EFKU_R"]
 frequency = "120.150"
 facility_type = "TWR"
-profile_id = "EF_Generic_regional"
+profile_id = "EFKU"
 
 [[positions]]
 id = "EFLP_P_TWR"
