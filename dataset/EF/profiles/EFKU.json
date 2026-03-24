@@ -1,50 +1,50 @@
 {
-    "id": "EFKU",
-    "type": "Tabbed",
-    "tabs": [
-        {
-            "label": ["ETU", "SIVU"],
-            "page": {
-                "rows": 3,
-                "keys": [
-                    {
-                        "label": ["EFIN", "FMP"],
-                        "station_id": "EFIN_FMP"
-                    },
-                    {
-                        "label": ["EFIN", "SEC V"],
-                        "station_id": "EFIN_V"
-                    },
-                    {
-                        "label": ["EFIN", "SEC N"],
-                        "station_id": "EFIN_N"
-                    },
-                    {
-                        "label": "COR",
-                        "station_id": "EFKU_COR"
-                    },
-                    {
-                        "label": "ARR",
-                        "station_id": "EFKU_ARR"
-                    },
-                    {
-                        "label": ["EFJY", "COR"],
-                        "station_id": "EFJY_COR"
-                    },
-                    
-                    {
-                        "label": "TWR",
-                        "station_id": "EFKU_TWR"
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": "EFJO",
-                        "station_id": "EFJO_TWR"
-                    }
-                ]
-            }
-        }
-    ]
+  "id": "EFKU",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ETU", "SIVU"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
+          },
+          {
+            "label": ["EFIN", "SEC V"],
+            "station_id": "EFIN_V"
+          },
+          {
+            "label": ["EFIN", "SEC N"],
+            "station_id": "EFIN_N"
+          },
+          {
+            "label": "COR",
+            "station_id": "EFKU_COR"
+          },
+          {
+            "label": "ARR",
+            "station_id": "EFKU_ARR"
+          },
+          {
+            "label": ["EFJY", "COR"],
+            "station_id": "EFJY_COR"
+          },
+
+          {
+            "label": "TWR",
+            "station_id": "EFKU_TWR"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": "EFJO",
+            "station_id": "EFJO_TWR"
+          }
+        ]
+      }
+    }
+  ]
 }

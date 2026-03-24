@@ -1,60 +1,60 @@
 {
-    "id": "EFRO",
-    "type": "Tabbed",
-    "tabs": [
-        {
-            "label": ["ETU", "SIVU"],
-            "page": {
-                "rows": 4,
-                "keys": [
-                    {
-                        "label": ["EFIN", "FMP"],
-                        "station_id": "EFIN_FMP"
-                    },
-                    {
-                        "label": ["EFIN", "SEC J"],
-                        "station_id": "EFIN_J"
-                    },
-                    {
-                        "label": ["EFIN", "SEC H"],
-                        "station_id": "EFIN_H"
-                    },
-                    {
-                        "label": ["ESOS", "SEC K"],
-                        "station_id": "ESOS_K"
-                    },
-                    {
-                        "label": "COR",
-                        "station_id": "EFRO_COR"
-                    },
-                    
-                    {
-                        "label": "ARR",
-                        "station_id": "EFRO_ARR"
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": ["EFKE", "TWR"],
-                        "station_id": "EFKE_TWR"
-                    },
-                    {
-                        "label": "TWR",
-                        "station_id": "EFRO_TWR"
-                    },
-                    {
-                        "label": "CLD",
-                        "station_id": "EFRO_DEL"
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": ""
-                    }
-                ]
-            }
-        }
-    ]
+  "id": "EFRO",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ETU", "SIVU"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
+          },
+          {
+            "label": ["EFIN", "SEC J"],
+            "station_id": "EFIN_J"
+          },
+          {
+            "label": ["EFIN", "SEC H"],
+            "station_id": "EFIN_H"
+          },
+          {
+            "label": ["ESOS", "SEC K"],
+            "station_id": "ESOS_K"
+          },
+          {
+            "label": "COR",
+            "station_id": "EFRO_COR"
+          },
+
+          {
+            "label": "ARR",
+            "station_id": "EFRO_ARR"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ["EFKE", "TWR"],
+            "station_id": "EFKE_TWR"
+          },
+          {
+            "label": "TWR",
+            "station_id": "EFRO_TWR"
+          },
+          {
+            "label": "CLD",
+            "station_id": "EFRO_DEL"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ""
+          }
+        ]
+      }
+    }
+  ]
 }

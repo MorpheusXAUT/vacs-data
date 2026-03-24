@@ -1,47 +1,47 @@
 {
-    "id": "EFOU",
-    "type": "Tabbed",
-    "tabs": [
-        {
-            "label": ["ETU", "SIVU"],
-            "page": {
-                "rows": 3,
-                "keys": [
-                    {
-                        "label": ["EFIN", "FMP"],
-                        "station_id": "EFIN_FMP"
-                    },
-                    {
-                        "label": ["EFIN", "SEC H"],
-                        "station_id": "EFIN_H"
-                    },
-                    {
-                        "label": ["ESOS", "SEC K"],
-                        "station_id": "ESOS_K"
-                    },
-                    {
-                        "label": "COR",
-                        "station_id": "EFOU_COR"
-                    },
-                    {
-                        "label": "TWR",
-                        "station_id": "EFOU_TWR"
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": ["EFKE", "TWR"],
-                        "station_id": "EFKE_TWR"
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": ""
-                    }
-                ]
-            }
-        }
-    ]
+  "id": "EFOU",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ETU", "SIVU"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
+          },
+          {
+            "label": ["EFIN", "SEC H"],
+            "station_id": "EFIN_H"
+          },
+          {
+            "label": ["ESOS", "SEC K"],
+            "station_id": "ESOS_K"
+          },
+          {
+            "label": "COR",
+            "station_id": "EFOU_COR"
+          },
+          {
+            "label": "TWR",
+            "station_id": "EFOU_TWR"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ["EFKE", "TWR"],
+            "station_id": "EFKE_TWR"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ""
+          }
+        ]
+      }
+    }
+  ]
 }

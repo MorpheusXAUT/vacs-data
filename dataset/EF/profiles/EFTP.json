@@ -1,71 +1,71 @@
 {
-    "id": "EFTP",
-    "type": "Tabbed",
-    "tabs": [
-        {
-            "label": ["ETU", "SIVU"],
-            "page": {
-                "rows": 3,
-                "keys": [
-                    {
-                        "label": ["EFIN", "FMP"],
-                        "station_id": "EFIN_FMP"
-                    },
-                    {
-                        "label": ["EFIN", "SEC E"],
-                        "station_id": "EFIN_E"
-                    },
-                    {
-                        "label": ["EFIN", "SEC F"],
-                        "station_id": "EFIN_F"
-                    },
-                    {
-                        "label": ["EFIN", "SEC G"],
-                        "station_id": "EFIN_G"
-                    },
-                    {
-                        "label": ["EFIN", "SEC M"],
-                        "station_id": "EFIN_M"
-                    },
-                    {
-                        "label": ["EFIN", "SEC K"],
-                        "station_id": "EFIN_K"
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": "COR",
-                        "station_id": "EFTP_COR"
-                    },
-                    {
-                        "label": "ARR",
-                        "station_id": "EFTP_ARR"
-                    },
-                    {
-                        "label": ["EFPO", "COR"],
-                        "station_id": "EFPO_COR"
-                    },
-                    {
-                        "label": "TWR",
-                        "station_id": "EFTP_TWR"
-                    },
-                    {
-                        "label": "GND",
-                        "station_id": "EFTP_GND"
-                    },
-                    {
-                        "label": ["EFHA", "COR"],
-                        "station_id": "EFHA_COR"
-                    }
-                ]
-            }
-        }
-    ]
+  "id": "EFTP",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ETU", "SIVU"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
+          },
+          {
+            "label": ["EFIN", "SEC E"],
+            "station_id": "EFIN_E"
+          },
+          {
+            "label": ["EFIN", "SEC F"],
+            "station_id": "EFIN_F"
+          },
+          {
+            "label": ["EFIN", "SEC G"],
+            "station_id": "EFIN_G"
+          },
+          {
+            "label": ["EFIN", "SEC M"],
+            "station_id": "EFIN_M"
+          },
+          {
+            "label": ["EFIN", "SEC K"],
+            "station_id": "EFIN_K"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": "COR",
+            "station_id": "EFTP_COR"
+          },
+          {
+            "label": "ARR",
+            "station_id": "EFTP_ARR"
+          },
+          {
+            "label": ["EFPO", "COR"],
+            "station_id": "EFPO_COR"
+          },
+          {
+            "label": "TWR",
+            "station_id": "EFTP_TWR"
+          },
+          {
+            "label": "GND",
+            "station_id": "EFTP_GND"
+          },
+          {
+            "label": ["EFHA", "COR"],
+            "station_id": "EFHA_COR"
+          }
+        ]
+      }
+    }
+  ]
 }

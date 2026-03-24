@@ -1,44 +1,44 @@
 {
-    "id": "EFTU",
-    "type": "Tabbed",
-    "tabs": [
-        {
-            "label": ["ETU", "SIVU"],
-            "page": {
-                "rows": 2,
-                "keys": [
-                    {
-                        "label": ["EFIN", "FMP"],
-                        "station_id": "EFIN_FMP"
-                    },
-                    {
-                        "label": ["EFIN", "SEC F"],
-                        "station_id": "EFIN_F"
-                    },
-                    {
-                        "label": ["EFIN", "SEC E"],
-                        "station_id": "EFIN_E"
-                    },
-                    {
-                        "label": ["EFIN", "SEC D"],
-                        "station_id": "EFIN_D"
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": ""
-                    },
-                    {
-                        "label": "COR",
-                        "station_id": "EFTU_COR"
-                    },
-                    {
-                        "label": "TWR",
-                        "station_id": "EFTU_TWR"
-                    }
-                ]
-            }
-        }
-    ]
+  "id": "EFTU",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ETU", "SIVU"],
+      "page": {
+        "rows": 2,
+        "keys": [
+          {
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
+          },
+          {
+            "label": ["EFIN", "SEC F"],
+            "station_id": "EFIN_F"
+          },
+          {
+            "label": ["EFIN", "SEC E"],
+            "station_id": "EFIN_E"
+          },
+          {
+            "label": ["EFIN", "SEC D"],
+            "station_id": "EFIN_D"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": "COR",
+            "station_id": "EFTU_COR"
+          },
+          {
+            "label": "TWR",
+            "station_id": "EFTU_TWR"
+          }
+        ]
+      }
+    }
+  ]
 }
