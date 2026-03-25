@@ -1,0 +1,56 @@
+{
+  "id": "ESOE",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESOE"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["IA", "APP"],
+            "station_id": "ESIA_APP"
+          },
+          {
+            "label": ["OS", "3"],
+            "station_id": "ESOS_3"
+          },
+          {
+            "label": ["MM", "5"],
+            "station_id": "ESMM_5"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OS", "8"],
+            "station_id": "ESOS_8"
+          },
+          {
+            "label": ["MM", "IN"],
+            "station_id": "ESMM_IN"
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    }
+  ]
+}

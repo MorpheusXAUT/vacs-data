@@ -2,6 +2,7 @@ mod cli;
 
 use crate::cli::{Cli, Command, ImportCommand};
 use clap::Parser;
+use vacs_data_diagnostics::log;
 
 pub fn main() {
     let cli = Cli::parse();
@@ -30,9 +31,10 @@ pub fn main() {
             let input = input.or(input_pos).unwrap();
             let output = output.or(output_pos).unwrap();
 
-            if vacs_data_importer::vatglasses::parse(&input, &output, overwrite, merge, format)
-                .is_err()
+            if let Err(err) =
+                vacs_data_importer::vatglasses::parse(&input, &output, overwrite, merge, format)
             {
+                log::error(format_args!("Failed to parse VATGlasses data: {err:?}"));
                 std::process::exit(1);
             }
         }
@@ -54,7 +56,7 @@ pub fn main() {
             let output = output.or(output_pos).unwrap();
             let profiles = profiles.unwrap_or_default();
 
-            if vacs_data_importer::euroscope::parse(
+            if let Err(err) = vacs_data_importer::euroscope::parse(
                 &input,
                 &output,
                 ese.as_ref(),
@@ -62,9 +64,8 @@ pub fn main() {
                 overwrite,
                 merge,
                 format,
-            )
-            .is_err()
-            {
+            ) {
+                log::error(format_args!("Failed to parse EuroScope data: {err:?}"));
                 std::process::exit(1);
             }
         }

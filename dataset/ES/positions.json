@@ -61,7 +61,7 @@
       "prefixes": ["ESCM"],
       "frequency": "130.400",
       "facility_type": "APP",
-      "profile_id": "ESOS_APP",
+      "profile_id": "ESCM",
       "default_call_sources": ["ESCM_APP"]
     },
     {
@@ -69,7 +69,7 @@
       "prefixes": ["ESCM"],
       "frequency": "119.200",
       "facility_type": "TWR",
-      "profile_id": "ESOS_APP",
+      "profile_id": "ESCM",
       "default_call_sources": ["ESCM_APP", "ESCM_TWR"]
     },
     {
@@ -285,7 +285,7 @@
       "prefixes": ["ESKS"],
       "frequency": "124.460",
       "facility_type": "TWR",
-      "profile_id": "ESOS_AD_SOUTH",
+      "profile_id": "ESKS",
       "default_call_sources": ["ESKS_TWR"]
     },
     {
@@ -413,7 +413,7 @@
       "prefixes": ["ESMQ"],
       "frequency": "130.805",
       "facility_type": "TWR",
-      "profile_id": "ESOS_AD_SOUTH",
+      "profile_id": "ESMQ",
       "default_call_sources": ["ESNQ_TWR"]
     },
     {
@@ -589,7 +589,7 @@
       "prefixes": ["ESNZ"],
       "frequency": "135.655",
       "facility_type": "TWR",
-      "profile_id": "ESOS_AD_NORTH",
+      "profile_id": "ESNZ",
       "default_call_sources": ["ESNZ_TWR"]
     },
     {
@@ -597,7 +597,7 @@
       "prefixes": ["ESOE"],
       "frequency": "120.280",
       "facility_type": "TWR",
-      "profile_id": "ESOS_AD_SOUTH",
+      "profile_id": "ESOE",
       "default_call_sources": ["ESOE_TWR"]
     },
     {
@@ -725,7 +725,7 @@
       "prefixes": ["ESOW"],
       "frequency": "125.955",
       "facility_type": "APP",
-      "profile_id": "ESOS_APP",
+      "profile_id": "ESOW",
       "default_call_sources": ["ESOW_APP"]
     },
     {
@@ -733,7 +733,7 @@
       "prefixes": ["ESOW"],
       "frequency": "130.605",
       "facility_type": "TWR",
-      "profile_id": "ESOS_APP",
+      "profile_id": "ESOW",
       "default_call_sources": ["ESOW_APP", "ESOW_TWR"]
     },
     {
@@ -987,7 +987,7 @@
       "prefixes": ["ESSU"],
       "frequency": "126.855",
       "facility_type": "TWR",
-      "profile_id": "ESOS_APP",
+      "profile_id": "ESOW",
       "default_call_sources": ["ESSU_AFIS"]
     },
     {
