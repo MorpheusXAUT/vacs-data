@@ -62,6 +62,13 @@ facility_type = "CTR"
 profile_id = "LPPC_Generic"
 
 [[positions]]
+id = "LPPC_NU_CTR"
+prefixes = ["LPPC"]
+frequency = "127.255"
+facility_type = "CTR"
+profile_id = "LPPC_Generic"
+
+[[positions]]
 id = "LPPC_WU_CTR"
 prefixes = ["LPPC"]
 frequency = "124.350"
