@@ -68,12 +68,10 @@
             "station_id": "EFIN_FMP"
           },
           {
-            "label": ["TSA", "MIL"],
-            "station_id": "EFIN_MIL"
+            "label": ["TSA", "MIL"]
           },
           {
-            "label": ["AMC", "MIL"],
-            "station_id": "EFIN_MIL"
+            "label": ["AMC", "MIL"]
           },
           {
             "label": []
