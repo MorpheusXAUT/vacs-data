@@ -139,6 +139,10 @@ controlled_by = ["LPPC_O_CTR"]
 parent_id = "LPPC_CTR"
 
 [[stations]]
+id = "LPPC_CTR"
+controlled_by = ["LPPC_CTR"]
+
+[[stations]]
 id = "LPOV_TWR"
 controlled_by = ["LPOV_TWR"]
 parent_id = "LPOV_APP"
