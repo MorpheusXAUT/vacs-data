@@ -1,0 +1,45 @@
+{
+  "id": "ESNZ",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESNZ"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["ND", "AFIS"],
+            "station_id": "ESND_AFIS"
+          },
+          {
+            "label": ["OS", "N"],
+            "station_id": "ESOS_N"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["NN", "TWR"],
+            "station_id": "ESNN_TWR"
+          }
+        ]
+      }
+    }
+  ]
+}
