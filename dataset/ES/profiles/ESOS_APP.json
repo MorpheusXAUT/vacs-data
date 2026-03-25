@@ -104,8 +104,12 @@
             "station_id": "ESAA_FMP"
           },
           {
-            "label": ["OW", "TWR"],
-            "station_id": "ESOW_TWR"
+            "label": ["OW", "APP"],
+            "station_id": "ESOW_APP"
+          },
+          {
+            "label": ["SU", "AFIS"],
+            "station_id": "ESSU_AFIS"
           },
           {
             "label": ["ÖKC", "TC"],
@@ -114,10 +118,6 @@
           {
             "label": ["KN", "TWR"],
             "station_id": "ESKN_TWR"
-          },
-          {
-            "label": ["EFIN", "F"],
-            "station_id": "EFIN_F"
           },
           {
             "label": ["EFMA", "TWR"],
