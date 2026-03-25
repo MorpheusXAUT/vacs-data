@@ -156,7 +156,7 @@ profile_id = "LPPC_Generic"
 id = "LPST_TWR"
 prefixes = ["LPST"]
 frequency = "119.860"
-facility_type = "APP"
+facility_type = "TWR"
 profile_id = "LPPC_Generic"
 
 [[positions]]
