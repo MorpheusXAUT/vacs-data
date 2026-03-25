@@ -153,8 +153,15 @@ facility_type = "APP"
 profile_id = "LPPC_Generic"
 
 [[positions]]
+id = "LPST_TWR"
+prefixes = ["LPST"]
+frequency = "119.860"
+facility_type = "APP"
+profile_id = "LPPC_Generic"
+
+[[positions]]
 id = "LPST_APP"
-prefixes = ["LPSR"]
+prefixes = ["LPST"]
 frequency = "118.610"
 facility_type = "APP"
 profile_id = "LPPC_Generic"
