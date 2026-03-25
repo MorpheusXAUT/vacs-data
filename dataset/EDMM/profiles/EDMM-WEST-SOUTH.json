@@ -432,8 +432,7 @@
             "label": ["LSAZ", "S 245-"]
           },
           {
-            "label": ["UU", "CHI"],
-            "station_id": "EDUU-CHI"
+            "label": []
           },
           {
             "label": ["UU", "WUR"],
@@ -456,8 +455,8 @@
             "station_id": "LIPP-NE3"
           },
           {
-            "label": ["UU", "ISA"],
-            "station_id": "EDUU-ISA"
+            "label": ["UU", "AMM"],
+            "station_id": "EDUU-AMM"
           },
           {
             "label": ["LOVV", "W27 315+"],

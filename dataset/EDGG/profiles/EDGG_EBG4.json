@@ -138,8 +138,8 @@
             "label": ["LSAS", "SZE"]
           },
           {
-            "label": ["EDUU", "ISA"],
-            "station_id": "EDUU-ISA"
+            "label": ["EDUU", "AMM"],
+            "station_id": "EDUU-AMM"
           },
           {
             "label": ["KTG"],

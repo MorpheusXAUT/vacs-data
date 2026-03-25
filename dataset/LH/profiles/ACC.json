@@ -381,7 +381,8 @@
             "label": ["ARAD", "APP", "PC"]
           },
           {
-            "label": ["LRBB", "A ST EC", "123.065"]
+            "label": ["LRBB", "A ST EC", "122.030"],
+            "station_id": "LR_LOKOM1"
           },
           {
             "label": ["LRBB", "A T EC", "135.360"],

@@ -1,0 +1,112 @@
+{
+  "id": "OMDW",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OMDW", "Ground"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Al Maktoum", "Ground"],
+            "station_id": "OMDW_GND"
+          },
+          {
+            "label": ["Academy", "Apron"],
+            "station_id": "OMDW_I_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["OMDW", "Tower"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Al Maktoum", "Tower"],
+            "station_id": "OMDW_TWR"
+          },
+          {
+            "label": ["Academy", "Tower"],
+            "station_id": "OMDW_A_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["Al Maktoum", "Radar"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["Al Maktoum", "Radar"],
+            "station_id": "OMDW_APP"
+          },
+          {
+            "label": ["Dubai", "South", "Radar"],
+            "station_id": "OMDW_S_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": "Neighboring",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "OB*",
+            "OTDF*",
+            "DOH*",
+            "TEH*",
+            "GULF*",
+            "GULF_E*",
+            "OOMM*",
+            "OEJD*"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}

@@ -5,12 +5,13 @@
     {
       "label": "OBBB",
       "page": {
-        "rows": 10,
+        "rows": 6,
         "client_page": {
           "include": [
             "OB*",
 
             "OKAC*",
+            "OKKK*APP",
             "OERD*",
             "OEDF*_APP",
             "OTDF*",

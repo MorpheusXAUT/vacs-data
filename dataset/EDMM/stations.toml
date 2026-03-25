@@ -128,8 +128,7 @@ controlled_by = [
 id = "EDUU-ALP"
 controlled_by = [
   "EDUU_ALP_CTR",
-  "EDUU_ISA_CTR",
-  "EDUU_CHI_CTR",
+  "EDUU_AMM_CTR",
   "EDMM_ZUG_CTR",
   "EDMM_FUE_CTR",
   "EDMM_STA_CTR",
@@ -138,11 +137,12 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EDUU-CHI"
+id = "EDUU-AMM"
 controlled_by = [
-  "EDUU_CHI_CTR",
-  "EDUU_ISA_CTR",
+  "EDUU_AMM_CTR",
   "EDUU_ALP_CTR",
+  "EDMM_NDG_CTR",
+  "EDMM_WLD_CTR",
   "EDMM_TRU_CTR",
   "EDMM_STA_CTR",
   "EDMM_TEG_CTR",
@@ -155,7 +155,7 @@ id = "EDUU-DON"
 controlled_by = [
   "EDUU_DON_CTR",
   "EDUU_ERL_CTR",
-  "EDUU_CHI_CTR",
+  "EDUU_AMM_CTR",
   "EDMM_RDG_CTR",
   "EDMM_EGG_CTR",
   "EDMM_ALB_CTR",
@@ -170,18 +170,6 @@ controlled_by = [
   "EDUU_SAL_CTR",
   "EDMM_BBG_CTR",
   "EDMM_HOF_CTR",
-  "EDMM_RDG_CTR",
-]
-
-[[stations]]
-id = "EDUU-ISA"
-controlled_by = [
-  "EDUU_ISA_CTR",
-  "EDUU_CHI_CTR",
-  "EDMM_NDG_CTR",
-  "EDMM_WLD_CTR",
-  "EDMM_TRU_CTR",
-  "EDMM_ZUG_CTR",
   "EDMM_RDG_CTR",
 ]
 

@@ -5,280 +5,320 @@
       "prefixes": ["VHHH"],
       "frequency": "122.150",
       "facility_type": "DEL",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_DEL"]
     },
     {
       "id": "VHHX_DEL",
       "prefixes": ["VHHX"],
       "frequency": "123.225",
       "facility_type": "DEL",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHX_DEL"]
     },
     {
       "id": "VMMC_DEL",
       "prefixes": ["VMMC"],
       "frequency": "121.975",
       "facility_type": "DEL",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VMMC_DEL"]
     },
     {
       "id": "VHHH_1_GND",
       "prefixes": ["VHHH"],
       "frequency": "121.600",
       "facility_type": "GND",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_1_GND"]
     },
     {
       "id": "VHHH_2_GND",
       "prefixes": ["VHHH"],
       "frequency": "122.550",
       "facility_type": "GND",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_2_GND"]
     },
     {
       "id": "VHHH_3_GND",
       "prefixes": ["VHHH"],
       "frequency": "121.875",
       "facility_type": "GND",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_3_GND"]
     },
     {
       "id": "VHHH_4_GND",
       "prefixes": ["VHHH"],
       "frequency": "122.600",
       "facility_type": "GND",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_4_GND"]
     },
     {
       "id": "VHHH_5_GND",
       "prefixes": ["VHHH"],
       "frequency": "122.125",
       "facility_type": "GND",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_5_GND"]
     },
     {
       "id": "VHHX_GND",
       "prefixes": ["VHHX"],
       "frequency": "121.925",
       "facility_type": "GND",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHX_GND"]
     },
     {
       "id": "VMMC_GND",
       "prefixes": ["VMMC"],
       "frequency": "121.725",
       "facility_type": "GND",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VMMC_GND"]
     },
     {
       "id": "VHHH_S_TWR",
       "prefixes": ["VHHH"],
       "frequency": "118.400",
       "facility_type": "TWR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_S_TWR"]
     },
     {
       "id": "VHHH_C_TWR",
       "prefixes": ["VHHH"],
       "frequency": "118.200",
       "facility_type": "TWR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_C_TWR"]
     },
     {
       "id": "VHHH_N_TWR",
       "prefixes": ["VHHH"],
       "frequency": "118.700",
       "facility_type": "TWR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_N_TWR"]
     },
     {
       "id": "VHHH_Z_TWR",
       "prefixes": ["VHHH"],
       "frequency": "120.600",
       "facility_type": "TWR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_Z_TWR"]
     },
     {
       "id": "VHHH_F_TWR",
       "prefixes": ["VHHH"],
       "frequency": "121.000",
       "facility_type": "TWR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_F_TWR"]
     },
     {
       "id": "VHHX_TWR",
       "prefixes": ["VHHX"],
       "frequency": "124.650",
       "facility_type": "TWR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHX_TWR"]
     },
     {
       "id": "VMMC_TWR",
       "prefixes": ["VMMC"],
       "frequency": "118.000",
       "facility_type": "TWR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VMMC_TWR"]
     },
     {
       "id": "VHHH_APP",
       "prefixes": ["VHHH"],
       "frequency": "119.100",
       "facility_type": "APP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_APP"]
     },
     {
       "id": "VHHH_F_APP",
       "prefixes": ["VHHH"],
       "frequency": "119.500",
       "facility_type": "APP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_F_APP"]
     },
     {
       "id": "VHHX_P_APP",
       "prefixes": ["VHHX"],
       "frequency": "119.350",
       "facility_type": "APP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHX_P_APP"]
     },
     {
       "id": "VHHH_N_DEP",
       "prefixes": ["VHHH"],
       "frequency": "123.800",
       "facility_type": "DEP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_N_DEP"]
     },
     {
       "id": "VHHH_S_DEP",
       "prefixes": ["VHHH"],
       "frequency": "122.000",
       "facility_type": "DEP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_S_DEP"]
     },
     {
       "id": "VHHH_H_DEP",
       "prefixes": ["VHHH"],
       "frequency": "122.650",
       "facility_type": "DEP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_H_DEP"]
     },
     {
       "id": "VHHH_W_APP",
       "prefixes": ["VHHH"],
       "frequency": "127.550",
       "facility_type": "APP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_W_APP"]
     },
     {
       "id": "VHHH_L_APP",
       "prefixes": ["VHHH"],
       "frequency": "125.175",
       "facility_type": "APP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_L_APP"]
     },
     {
       "id": "VMMC_APP",
       "prefixes": ["VMMC"],
       "frequency": "123.950",
       "facility_type": "APP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VMMC_APP"]
     },
     {
       "id": "VHHH_S_APP",
       "prefixes": ["VHHH"],
       "frequency": "126.300",
       "facility_type": "APP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_S_APP"]
     },
     {
       "id": "VHHH_C_DEP",
       "prefixes": ["VHHH"],
       "frequency": "123.475",
       "facility_type": "DEP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_C_DEP"]
     },
     {
       "id": "VHHH_E_APP",
       "prefixes": ["VHHH"],
       "frequency": "126.500",
       "facility_type": "APP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_E_APP"]
     },
     {
       "id": "VHHH_E_DEP",
       "prefixes": ["VHHH"],
       "frequency": "133.825",
       "facility_type": "DEP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHH_E_DEP"]
     },
     {
       "id": "VHHK_W_CTR",
       "prefixes": ["HKG"],
       "frequency": "127.100",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_W_CTR"]
     },
     {
       "id": "VHHK_V_CTR",
       "prefixes": ["HKG"],
       "frequency": "125.325",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_V_CTR"]
     },
     {
       "id": "VHHK_D_CTR",
       "prefixes": ["HKG"],
       "frequency": "122.950",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_D_CTR"]
     },
     {
       "id": "VHHK_S_CTR",
       "prefixes": ["HKG"],
       "frequency": "132.150",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_S_CTR"]
     },
     {
       "id": "VHHK_Z_CTR",
       "prefixes": ["HKG"],
       "frequency": "133.700",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_Z_CTR"]
     },
     {
       "id": "VHHK_C_CTR",
       "prefixes": ["HKG"],
       "frequency": "128.750",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_C_CTR"]
     },
     {
       "id": "VHHK_E_CTR",
       "prefixes": ["HKG"],
       "frequency": "118.925",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_E_CTR"]
     },
     {
       "id": "VHHK_K_CTR",
       "prefixes": ["HKG"],
       "frequency": "121.300",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_K_CTR"]
     },
     {
       "id": "VHHK_U_CTR",
       "prefixes": ["HKG"],
       "frequency": "132.525",
       "facility_type": "CTR",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_U_CTR"]
     },
     {
       "id": "VHHK_FMP",
       "prefixes": ["HKG"],
       "frequency": "199.995",
       "facility_type": "FMP",
-      "profile_id": "VHHK"
+      "profile_id": "VHHK",
+      "default_call_sources": ["VHHK_FMP"]
     },
     {
       "id": "RCAA_W_CTR",

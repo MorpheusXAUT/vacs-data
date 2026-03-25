@@ -1,0 +1,142 @@
+{
+  "stations": [
+    {
+      "id": "DTTC_FMP",
+      "controlled_by": ["DTTC_FMP"]
+    },
+    {
+      "id": "DTTC_CTR",
+      "controlled_by": ["DTTC_CTR"]
+    },
+    {
+      "id": "DTTC_I_CTR",
+      "parent_id": "DTTC_CTR",
+      "controlled_by": ["DTTC_I_CTR"]
+    },
+    {
+      "id": "DTTC_N_CTR",
+      "parent_id": "DTTC_CTR",
+      "controlled_by": ["DTTC_N_CTR"]
+    },
+    {
+      "id": "DTTC_S_CTR",
+      "parent_id": "DTTC_CTR",
+      "controlled_by": ["DTTC_S_CTR"]
+    },
+    {
+      "id": "DTTC_U_CTR",
+      "parent_id": "DTTC_N_CTR",
+      "controlled_by": ["DTTC_U_CTR"]
+    },
+    {
+      "id": "DTKA_APP",
+      "parent_id": "DTTC_N_CTR",
+      "controlled_by": ["DTKA_APP"]
+    },
+    {
+      "id": "DTKA_TWR",
+      "parent_id": "DTKA_APP",
+      "controlled_by": ["DTKA_TWR"]
+    },
+    {
+      "id": "DTNH_APP",
+      "parent_id": "DTTC_N_CTR",
+      "controlled_by": ["DTNH_APP"]
+    },
+    {
+      "id": "DTNH_TWR",
+      "parent_id": "DTNH_APP",
+      "controlled_by": ["DTNH_TWR"]
+    },
+    {
+      "id": "DTNH_GND",
+      "parent_id": "DTNH_TWR",
+      "controlled_by": ["DTNH_GND"]
+    },
+    {
+      "id": "DTTA_APP",
+      "parent_id": "DTTC_N_CTR",
+      "controlled_by": ["DTTA_APP"]
+    },
+    {
+      "id": "DTTA_U_APP",
+      "parent_id": "DTTA_APP",
+      "controlled_by": ["DTTA_U_APP"]
+    },
+    {
+      "id": "DTTA_TWR",
+      "parent_id": "DTTA_APP",
+      "controlled_by": ["DTTA_TWR"]
+    },
+    {
+      "id": "DTTA_GND",
+      "parent_id": "DTTA_TWR",
+      "controlled_by": ["DTTA_GND"]
+    },
+    {
+      "id": "DTTA_DEL",
+      "parent_id": "DTTA_GND",
+      "controlled_by": ["DTTA_DEL"]
+    },
+    {
+      "id": "DTTF_APP",
+      "parent_id": "DTTC_S_CTR",
+      "controlled_by": ["DTTF_APP"]
+    },
+    {
+      "id": "DTTF_TWR",
+      "parent_id": "DTTF_APP",
+      "controlled_by": ["DTTF_TWR"]
+    },
+    {
+      "id": "DTTG_APP",
+      "parent_id": "DTTC_S_CTR",
+      "controlled_by": ["DTTG_APP"]
+    },
+    {
+      "id": "DTTG_TWR",
+      "parent_id": "DTTG_APP",
+      "controlled_by": ["DTTG_TWR"]
+    },
+    {
+      "id": "DTTJ_APP",
+      "parent_id": "DTTC_S_CTR",
+      "controlled_by": ["DTTJ_APP"]
+    },
+    {
+      "id": "DTTJ_TWR",
+      "parent_id": "DTTJ_APP",
+      "controlled_by": ["DTTJ_TWR"]
+    },
+    {
+      "id": "DTTX_APP",
+      "parent_id": "DTTC_S_CTR",
+      "controlled_by": ["DTTX_APP"]
+    },
+    {
+      "id": "DTTX_TWR",
+      "parent_id": "DTTX_APP",
+      "controlled_by": ["DTTX_TWR"]
+    },
+    {
+      "id": "DTTZ_APP",
+      "parent_id": "DTTC_S_CTR",
+      "controlled_by": ["DTTZ_APP"]
+    },
+    {
+      "id": "DTTZ_TWR",
+      "parent_id": "DTTZ_APP",
+      "controlled_by": ["DTTZ_TWR"]
+    },
+    {
+      "id": "DTMB_TWR",
+      "parent_id": "DTNH_APP",
+      "controlled_by": ["DTMB_TWR"]
+    },
+    {
+      "id": "DTTI_TWR",
+      "parent_id": "DTTA_APP",
+      "controlled_by": ["DTTI_TWR"]
+    }
+  ]
+}

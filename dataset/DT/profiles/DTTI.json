@@ -1,0 +1,47 @@
+{
+  "id": "DTTI",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["BORJ", "EL", "ARMI"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": []
+          },
+          {
+            "label": ["TWR"],
+            "station_id": "DTTI_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["CARTHAGE", "APP"],
+            "station_id": "DTTA_APP"
+          },
+          {
+            "label": ["CARTHAGE", "TWR"],
+            "station_id": "DTTA_TWR"
+          },
+          {
+            "label": ["CARTHAGE", "UPPER", "APP"],
+            "station_id": "DTTA_U_APP"
+          },
+          {
+            "label": ["DTTC", "N"],
+            "station_id": "DTTC_N_CTR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["DTTC", "FLOW"],
+            "station_id": "DTTC_FMP"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "OMAA",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OMAA", "Ground"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Abu Dhabi", "Delivery"],
+            "station_id": "OMAA_DEL"
+          },
+          {
+            "label": ["Abu Dhabi", "Ground", "South"],
+            "station_id": "OMAA_1_GND"
+          },
+          {
+            "label": ["Abu Dhabi", "Ground", "Central"],
+            "station_id": "OMAA_2_GND"
+          },
+          {
+            "label": ["Abu Dhabi", "Ground", "North"],
+            "station_id": "OMAA_3_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["OMAA", "Tower"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["Abu Dhabi", "Tower", "South"],
+            "station_id": "OMAA_1_TWR"
+          },
+          {
+            "label": ["Abu Dhabi", "Tower", "North"],
+            "station_id": "OMAA_2_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": ["Abu Dhabi", "Radar"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Abu Dhabi", "Radar", "Central"],
+            "station_id": "OMAA_1_APP"
+          },
+          {
+            "label": ["Abu Dhabi", "Radar", "West"],
+            "station_id": "OMAA_2_APP"
+          },
+          {
+            "label": ["Abu Dhabi", "Radar", "North"],
+            "station_id": "OMAA_3_APP"
+          },
+          {
+            "label": ["Abu Dhabi", "Radar", "East"],
+            "station_id": "OMAA_4_APP"
+          },
+          {
+            "label": ["Abu Dhabi", "Director", "North"],
+            "station_id": "OMAA_F_APP"
+          },
+          {
+            "label": ["Abu Dhabi", "Director", "South"],
+            "station_id": "OMAA_G_APP"
+          },
+          {
+            "label": ["Abu Dhabi", "Information"],
+            "station_id": "OMAA_I_APP"
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    },
+    {
+      "label": "Neighboring",
+      "page": {
+        "rows": 10,
+        "client_page": {
+          "include": [
+            "OB*",
+            "OTDF*",
+            "DOH*",
+            "TEH*",
+            "GULF*",
+            "GULF_E*",
+            "OOMM*",
+            "OEJD*"
+          ],
+          "exclude": [],
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "frequencies": "HideAll",
+          "grouping": "None"
+        }
+      }
+    }
+  ]
+}

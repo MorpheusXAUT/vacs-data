@@ -23,13 +23,7 @@ controlled_by = ["EVRA_B_APP", "EVRA_APP", "EVRR_E_CTR", "EVRR_CTR"]
 
 [[stations]]
 id = "EVRR_FIS"
-controlled_by = [
-  "EVRR_I_CTR",
-  "EVRA_APP",
-  "EVRR_E_CTR",
-  "EVRR_CTR",
-  "EVRA_B_APP",
-]
+controlled_by = ["EVRR_I_CTR", "EVRR_CTR"]
 
 [[stations]]
 id = "EVLA_FIS"

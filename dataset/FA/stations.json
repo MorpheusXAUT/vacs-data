@@ -2,140 +2,140 @@
   "stations": [
     {
       "id": "FACA_FMP",
-      "parent_id": "FACA_W",
+      "parent_id": "FACA_CTR",
       "controlled_by": ["FACA_FMP", "FASA_CTR"]
     },
     {
       "id": "FAJA_FMP",
-      "parent_id": "FAJA_NE",
+      "parent_id": "FAJA_NE_CTR",
       "controlled_by": ["FAJA_FMP", "FASA_CTR"]
     },
     {
-      "id": "FASA",
+      "id": "FASA_CTR",
       "parent_id": "AFRS_FSS",
       "controlled_by": ["FASA_CTR"]
     },
     {
-      "id": "FAJA_N",
-      "parent_id": "FASA",
+      "id": "FAJA_N_CTR",
+      "parent_id": "FASA_CTR",
       "controlled_by": ["FAJA_N_CTR", "FAJA_CTR", "FASA_CTR"]
     },
     {
-      "id": "FAJA_NE",
-      "parent_id": "FASA",
+      "id": "FAJA_NE_CTR",
+      "parent_id": "FASA_CTR",
       "controlled_by": ["FAJA_NE_CTR", "FAJA_N_CTR", "FAJA_CTR", "FASA_CTR"]
     },
     {
-      "id": "FAJA_NW",
-      "parent_id": "FAJA_N",
+      "id": "FAJA_NW_CTR",
+      "parent_id": "FAJA_N_CTR",
       "controlled_by": ["FAJA_NW_CTR", "FAJA_N_CTR", "FAJA_CTR"]
     },
     {
-      "id": "FAJA_SE",
-      "parent_id": "FAJA_N",
+      "id": "FAJA_SE_CTR",
+      "parent_id": "FAJA_N_CTR",
       "controlled_by": ["FAJA_SE_CTR", "FAJA_N_CTR", "FAJA_CTR"]
     },
     {
-      "id": "FAJA_SW",
-      "parent_id": "FAJA_N",
+      "id": "FAJA_SW_CTR",
+      "parent_id": "FAJA_N_CTR",
       "controlled_by": ["FAJA_SW_CTR"]
     },
     {
-      "id": "FAJA_S",
+      "id": "FAJA_S_CTR",
       "controlled_by": ["FAJA_S_CTR", "FAJA_CTR", "FASA_CTR"]
     },
     {
-      "id": "FAJA_W",
-      "parent_id": "FAJA_S",
+      "id": "FAJA_W_CTR",
+      "parent_id": "FAJA_S_CTR",
       "controlled_by": ["FAJA_W_CTR", "FAJA_S_CTR", "FAJA_CTR"]
     },
     {
-      "id": "FAJA_C",
-      "parent_id": "FAJA_S",
+      "id": "FAJA_C_CTR",
+      "parent_id": "FAJA_S_CTR",
       "controlled_by": ["FAJA_C_CTR", "FAJA_S_CTR", "FAJA_CTR"]
     },
     {
-      "id": "FAJA_E",
-      "parent_id": "FAJA_S",
+      "id": "FAJA_E_CTR",
+      "parent_id": "FAJA_S_CTR",
       "controlled_by": ["FAJA_E_CTR", "FAJA_S_CTR", "FAJA_CTR"]
     },
     {
-      "id": "FACA_W",
-      "parent_id": "FASA",
+      "id": "FACA_CTR",
+      "parent_id": "FASA_CTR",
       "controlled_by": ["FACA_CTR", "FASA_CTR"]
     },
     {
-      "id": "FACA_E",
-      "parent_id": "FACA_W",
+      "id": "FACA_E_CTR",
+      "parent_id": "FACA_CTR",
       "controlled_by": ["FACA_E_CTR", "FACA_CTR"]
     },
     {
-      "id": "FAJA_INFO_N",
-      "parent_id": "FAJA_NE",
+      "id": "FAJA_IN_CTR",
+      "parent_id": "FAJA_NE_CTR",
       "controlled_by": ["FAJA_IN_CTR", "FAJA_I_CTR"]
     },
     {
-      "id": "FAJA_INFO_S",
-      "parent_id": "FAJA_C",
+      "id": "FAJA_IS_CTR",
+      "parent_id": "FAJA_C_CTR",
       "controlled_by": ["FAJA_IS_CTR", "FAJA_I_CTR"]
     },
     {
-      "id": "FACA_INFO_W",
-      "parent_id": "FACA_W",
+      "id": "FACA_IW_CTR",
+      "parent_id": "FACA_CTR",
       "controlled_by": ["FACA_IW_CTR", "FACA_I_CTR"]
     },
     {
-      "id": "FACA_INFO_E",
-      "parent_id": "FACA_E",
+      "id": "FACA_IE_CTR",
+      "parent_id": "FACA_E_CTR",
       "controlled_by": ["FACA_IE_CTR", "FACA_I_CTR"]
     },
     {
       "id": "FAMR_I_CTR",
-      "parent_id": "FAJA_NE",
+      "parent_id": "FAJA_NE_CTR",
       "controlled_by": ["FAMR_I_CTR"]
     },
     {
-      "id": "FAOR_RDR",
-      "parent_id": "FAJA_NW",
+      "id": "FAOR_APP",
+      "parent_id": "FAJA_NW_CTR",
       "controlled_by": ["FAOR_APP"]
     },
     {
-      "id": "FAOR_RDR_W",
-      "parent_id": "FAOR_RDR",
+      "id": "FAOR_W_APP",
+      "parent_id": "FAOR_APP",
       "controlled_by": ["FAOR_W_APP", "FAOR_APP"]
     },
     {
-      "id": "FAOR_FIN",
-      "parent_id": "FAOR_RDR",
+      "id": "FAOR_F_APP",
+      "parent_id": "FAOR_APP",
       "controlled_by": ["FAOR_F_APP"]
     },
     {
-      "id": "FAOR_TWR_W",
-      "parent_id": "FAOR_RDR",
+      "id": "FAOR_TWR",
+      "parent_id": "FAOR_APP",
       "controlled_by": ["FAOR_TWR"]
     },
     {
-      "id": "FAOR_TWR_E",
-      "parent_id": "FAOR_TWR_W",
+      "id": "FAOR_E_TWR",
+      "parent_id": "FAOR_TWR",
       "controlled_by": ["FAOR_E_TWR"]
     },
     {
-      "id": "FAOR_GMC",
-      "parent_id": "FAOR_TWR_W",
+      "id": "FAOR_GND",
+      "parent_id": "FAOR_TWR",
       "controlled_by": ["FAOR_GND"]
     },
     {
-      "id": "FAOR_CLD",
-      "parent_id": "FAOR_GMC",
+      "id": "FAOR_DEL",
+      "parent_id": "FAOR_GND",
       "controlled_by": ["FAOR_DEL"]
     },
     {
       "id": "FACT_APP",
-      "parent_id": "FACA_W",
+      "parent_id": "FACA_CTR",
       "controlled_by": ["FACT_APP"]
     },
     {
-      "id": "FACT_FIN",
+      "id": "FACT_F_APP",
       "parent_id": "FACT_APP",
       "controlled_by": ["FACT_F_APP"]
     },
@@ -145,18 +145,18 @@
       "controlled_by": ["FACT_TWR"]
     },
     {
-      "id": "FACT_GMC",
+      "id": "FACT_GND",
       "parent_id": "FACT_TWR",
       "controlled_by": ["FACT_GND"]
     },
     {
-      "id": "FACT_CLD",
-      "parent_id": "FACT_GMC",
+      "id": "FACT_DEL",
+      "parent_id": "FACT_GND",
       "controlled_by": ["FACT_DEL"]
     },
     {
       "id": "FALE_APP",
-      "parent_id": "FAJA_E",
+      "parent_id": "FAJA_E_CTR",
       "controlled_by": ["FALE_APP"]
     },
     {
@@ -165,23 +165,23 @@
       "controlled_by": ["FALE_TWR"]
     },
     {
-      "id": "FALE_GMC",
+      "id": "FALE_GND",
       "parent_id": "FALE_TWR",
       "controlled_by": ["FALE_GND"]
     },
     {
       "id": "FALA_TWR",
-      "parent_id": "FAOR_RDR_W",
+      "parent_id": "FAOR_W_APP",
       "controlled_by": ["FALA_TWR"]
     },
     {
-      "id": "FALA_GMC",
+      "id": "FALA_GND",
       "parent_id": "FALA_TWR",
       "controlled_by": ["FALA_GND"]
     },
     {
       "id": "FAPE_APP",
-      "parent_id": "FACA_E",
+      "parent_id": "FACA_E_CTR",
       "controlled_by": ["FAPE_APP"]
     },
     {
@@ -190,13 +190,13 @@
       "controlled_by": ["FAPE_TWR"]
     },
     {
-      "id": "FAPE_CLD",
+      "id": "FAPE_DEL",
       "parent_id": "FAPE_TWR",
       "controlled_by": ["FAPE_DEL"]
     },
     {
       "id": "FAEL_APP",
-      "parent_id": "FACA_E",
+      "parent_id": "FACA_E_CTR",
       "controlled_by": ["FAEL_APP"]
     },
     {
@@ -205,13 +205,13 @@
       "controlled_by": ["FAEL_TWR"]
     },
     {
-      "id": "FAEL_INFO",
+      "id": "FAEL_I_TWR",
       "parent_id": "FAEL_TWR",
       "controlled_by": ["FAEL_I_TWR"]
     },
     {
       "id": "FAGG_APP",
-      "parent_id": "FACA_E",
+      "parent_id": "FACA_E_CTR",
       "controlled_by": ["FAGG_APP"]
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "id": "FABL_APP",
-      "parent_id": "FAJA_C",
+      "parent_id": "FAJA_C_CTR",
       "controlled_by": ["FABL_APP"]
     },
     {
@@ -231,42 +231,42 @@
     },
     {
       "id": "FAGM_TWR",
-      "parent_id": "FAOR_RDR",
+      "parent_id": "FAOR_APP",
       "controlled_by": ["FAGM_TWR"]
     },
     {
       "id": "FASK_TWR",
-      "parent_id": "FAOR_RDR_W",
+      "parent_id": "FAOR_W_APP",
       "controlled_by": ["FASK_TWR"]
     },
     {
       "id": "FAWB_TWR",
-      "parent_id": "FAOR_RDR_W",
+      "parent_id": "FAOR_W_APP",
       "controlled_by": ["FAWB_TWR"]
     },
     {
-      "id": "FAWB_GMC",
+      "id": "FAWB_GND",
       "parent_id": "FAWB_TWR",
       "controlled_by": ["FAWB_GND"]
     },
     {
       "id": "FAGC_TWR",
-      "parent_id": "FAOR_RDR_W",
+      "parent_id": "FAOR_W_APP",
       "controlled_by": ["FAGC_TWR"]
     },
     {
       "id": "FAWK_TWR",
-      "parent_id": "FAOR_RDR_W",
+      "parent_id": "FAOR_W_APP",
       "controlled_by": ["FAWK_TWR"]
     },
     {
-      "id": "FAWK_GMC",
+      "id": "FAWK_GND",
       "parent_id": "FAWK_TWR",
       "controlled_by": ["FAWK_GND"]
     },
     {
       "id": "FAKM_APP",
-      "parent_id": "FAJA_C",
+      "parent_id": "FAJA_C_CTR",
       "controlled_by": ["FAKM_APP"]
     },
     {
@@ -285,7 +285,7 @@
     },
     {
       "id": "FXMM_APP",
-      "parent_id": "FAJA_E",
+      "parent_id": "FAJA_E_CTR",
       "controlled_by": ["FXMM_APP"]
     },
     {
@@ -294,13 +294,13 @@
       "controlled_by": ["FXMM_TWR"]
     },
     {
-      "id": "FXMM_GMC",
+      "id": "FXMM_GND",
       "parent_id": "FXMM_TWR",
       "controlled_by": ["FXMM_GND"]
     },
     {
       "id": "FAMM_TWR",
-      "parent_id": "FAJA_W",
+      "parent_id": "FAJA_W_CTR",
       "controlled_by": ["FAMM_TWR"]
     },
     {
@@ -314,9 +314,9 @@
       "controlled_by": ["FALM_TWR"]
     },
     {
-      "id": "FALM_GMC",
+      "id": "FALM_GND",
       "parent_id": "FALM_TWR",
-      "controlled_by": ["FALM_TWR"]
+      "controlled_by": ["FALM_GND"]
     },
     {
       "id": "FDMS_TWR",
@@ -324,13 +324,13 @@
       "controlled_by": ["FDMS_TWR"]
     },
     {
-      "id": "FDMS_GMC",
+      "id": "FDMS_GND",
       "parent_id": "FDMS_TWR",
       "controlled_by": ["FDMS_GND"]
     },
     {
       "id": "FAUP_APP",
-      "parent_id": "FAJA_W",
+      "parent_id": "FAJA_W_CTR",
       "controlled_by": ["FAUP_APP", "FAUP_TWR"]
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "id": "FALW_APP",
-      "parent_id": "FACA_W",
+      "parent_id": "FACA_CTR",
       "controlled_by": ["FALW_APP"]
     },
     {
@@ -353,13 +353,13 @@
       "controlled_by": ["FALW_TWR"]
     },
     {
-      "id": "FALW_GMC",
+      "id": "FALW_GND",
       "parent_id": "FALW_TWR",
       "controlled_by": ["FALW_GND"]
     },
     {
       "id": "FAOB_APP",
-      "parent_id": "FACA_W",
+      "parent_id": "FACA_CTR",
       "controlled_by": ["FAOB_APP"]
     },
     {
@@ -373,7 +373,7 @@
       "controlled_by": ["FAHS_TWR"]
     },
     {
-      "id": "FAHS_GMC",
+      "id": "FAHS_GND",
       "parent_id": "FAHS_TWR",
       "controlled_by": ["FAHS_GND"]
     },
@@ -383,7 +383,7 @@
       "controlled_by": ["FAYP_TWR"]
     },
     {
-      "id": "FAYP_GMC",
+      "id": "FAYP_GND",
       "parent_id": "FAYP_TWR",
       "controlled_by": ["FAYP_GND"]
     }

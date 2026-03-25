@@ -367,7 +367,7 @@
     {
       "id": "EDDV_DEL",
       "prefixes": ["EDDV"],
-      "frequency": "120.450",
+      "frequency": "120.405",
       "facility_type": "DEL",
       "profile_id": "EDDV"
     },
@@ -389,6 +389,13 @@
       "id": "ETHC_APP",
       "prefixes": ["ETHC"],
       "frequency": "123.305",
+      "facility_type": "APP",
+      "profile_id": "EDWW-MIL"
+    },
+    {
+      "id": "ETHC_P_APP",
+      "prefixes": ["ETHC"],
+      "frequency": "130.505",
       "facility_type": "APP",
       "profile_id": "EDWW-MIL"
     },
@@ -526,6 +533,13 @@
       "profile_id": "EDWW-MIL"
     },
     {
+      "id": "ETNW_P_APP",
+      "prefixes": ["ETNW"],
+      "frequency": "123.300",
+      "facility_type": "APP",
+      "profile_id": "EDWW-MIL"
+    },
+    {
       "id": "ETNW_TWR",
       "prefixes": ["ETNW"],
       "frequency": "132.055",
@@ -536,6 +550,13 @@
       "id": "ETSH_APP",
       "prefixes": ["ETSH"],
       "frequency": "129.855",
+      "facility_type": "APP",
+      "profile_id": "EDWW-MIL"
+    },
+    {
+      "id": "ETSH_P_APP",
+      "prefixes": ["ETSH"],
+      "frequency": "123.300",
       "facility_type": "APP",
       "profile_id": "EDWW-MIL"
     },
@@ -558,7 +579,7 @@
       "prefixes": ["EDHI"],
       "frequency": "123.255",
       "facility_type": "TWR",
-      "profile_id": "EDWW-MINOR"
+      "profile_id": "EDDH"
     },
     {
       "id": "EDHL_TWR",

@@ -3,26 +3,112 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "OKKK",
+      "label": ["KWI"],
       "page": {
-        "rows": 10,
-        "client_page": {
-          "include": [
-            "OK*",
-
-            "OEJD*",
-            "OERD*",
-            "ORBB*",
-            "ORMM*_APP",
-            "TEH*",
-            "GULF_E*",
-            "GULF*"
-          ],
-          "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
-          "frequencies": "HideAll",
-          "grouping": "None"
-        }
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["GMP", "PLN"],
+            "station_id": "OKKK_GMP_FMP"
+          },
+          {
+            "label": ["GMC", "PLN"],
+            "station_id": "OKKK_GMC_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["AIR", "PLN"],
+            "station_id": "OKKK_AIR_FMP"
+          },
+          {
+            "label": ["GMP"],
+            "station_id": "OKKK_DEL"
+          },
+          {
+            "label": ["GMC", "1"],
+            "station_id": "OKKK_1_GND"
+          },
+          {
+            "label": ["GMC", "2"],
+            "station_id": "OKKK_2_GND"
+          },
+          {
+            "label": ["AIR"],
+            "station_id": "OKKK_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["FIN"],
+            "station_id": "OKKK_F_APP"
+          },
+          {
+            "label": ["APP"],
+            "station_id": "OKKK_APP"
+          },
+          {
+            "label": ["Al Jaber", "Ground", "127.00"],
+            "station_id": "OKAJ_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Al Jaber", "Tower", "124.150"],
+            "station_id": "OKAJ_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["UPPER"],
+            "station_id": "OKAC_U_CTR"
+          },
+          {
+            "label": ["LOWER"],
+            "station_id": "OKAC_CTR"
+          },
+          {
+            "label": ["Al Jaber", "Control", "128.300"],
+            "station_id": "OKAJ_APP"
+          },
+          {
+            "label": ["Al Salem", "Tower", "118.000"],
+            "station_id": "OKAS_TWR"
+          },
+          {
+            "label": ["Al Salem", "Ground", "120.500"],
+            "station_id": "OKAS_GND"
+          },
+          {
+            "label": ["OKAC", "FMP"],
+            "station_id": "OKAC_ACC_FMP"
+          }
+        ]
       }
     }
   ]

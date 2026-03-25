@@ -1,0 +1,72 @@
+{
+  "id": "FIMM",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["FIMM", "ACC"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          {
+            "label": ["Mauritius", "Approach"],
+            "station_id": "FIMP_APP"
+          },
+          {
+            "label": ["Mauritius", "Tower"],
+            "station_id": "FIMP_TWR"
+          },
+          {
+            "label": ["Seychles", "Control", "120.200"]
+          },
+          {
+            "label": ["Antanrivo", "Control", "128.900"],
+            "station_id": "FMMM_CTR"
+          },
+          {
+            "label": ["Mauritius", "Centre"],
+            "station_id": "FIMM_CTR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Mauritius", "Radio", "13.306"],
+            "station_id": "FIMM_FSS"
+          },
+          {
+            "label": ["Rolland G", "Approach", "119.400"],
+            "station_id": "FMEE_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["Corail", "Tower"],
+            "station_id": "FIMR_TWR"
+          },
+          {
+            "label": ["Mumbai", "Radio", "10.084"]
+          },
+          {
+            "label": ["Joburg", "Oceanic", "17.955"],
+            "station_id": "FAJO_FSS"
+          },
+          {
+            "label": ["FJDG", "TWR", "126.200"],
+            "station_id": "FJDG_TWR"
+          },
+          {
+            "label": ["FJDG", "GND", "118.400"],
+            "station_id": "FJDG_GND"
+          },
+          {
+            "label": ["Male (S)", "Control", "127.100"]
+          },
+          {
+            "label": ["Brisbane", "Radio", "5.634"]
+          }
+        ]
+      }
+    }
+  ]
+}

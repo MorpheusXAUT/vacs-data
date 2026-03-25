@@ -43,7 +43,8 @@ pub fn main() {
                     output_pos,
                     input,
                     output,
-                    prefixes,
+                    ese,
+                    profiles,
                     overwrite,
                     merge,
                     format,
@@ -51,10 +52,16 @@ pub fn main() {
         } => {
             let input = input.or(input_pos).unwrap();
             let output = output.or(output_pos).unwrap();
-            let prefixes = prefixes.unwrap_or_default();
+            let profiles = profiles.unwrap_or_default();
 
             if vacs_data_importer::euroscope::parse(
-                &input, &output, &prefixes, overwrite, merge, format,
+                &input,
+                &output,
+                ese.as_ref(),
+                &profiles,
+                overwrite,
+                merge,
+                format,
             )
             .is_err()
             {
