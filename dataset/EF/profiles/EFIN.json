@@ -362,41 +362,27 @@
       }
     },
     {
-      "label": [
-        "Etelä"
-      ],
+      "label": ["Etelä"],
       "page": {
         "rows": 7,
         "keys": [
           {
-            "label": [
-              "EFJY",
-              "TWR"
-            ],
+            "label": ["EFJY", "TWR"],
             "station_id": "EFJY_TWR"
           },
           {
-            "label": [
-              "EFJY",
-              "GND"
-            ],
+            "label": ["EFJY", "GND"],
             "station_id": "EFJY_GND"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "EFHA",
-              "TWR"
-            ],
+            "label": ["EFHA", "TWR"],
             "station_id": "EFHA_TWR"
           },
           {
-            "label": [
-              "EFHA",
-              "APP"
-            ],
+            "label": ["EFHA", "APP"],
             "station_id": "EFHA_COR"
           },
           {
@@ -406,32 +392,22 @@
             "label": []
           },
           {
-            "label": [
-              "EFJY",
-              "APP"
-            ],
+            "label": ["EFJY", "APP"],
             "station_id": "EFJY_COR"
           },
           {
-            "label": [
-              "EFJY",
-              "ARR"
-            ],
+            "label": ["EFJY", "ARR"],
             "station_id": "EFJY_ARR"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "EFJO"
-            ],
+            "label": ["EFJO"],
             "station_id": "EFJO_TWR"
           },
           {
-            "label": [
-              "EFSA"
-            ],
+            "label": ["EFSA"],
             "station_id": "EFSA"
           },
           {
@@ -441,10 +417,7 @@
             "label": []
           },
           {
-            "label": [
-              "EFKU",
-              "TWR"
-            ],
+            "label": ["EFKU", "TWR"],
             "station_id": "EFKU_TWR"
           },
           {
@@ -454,15 +427,11 @@
             "label": []
           },
           {
-            "label": [
-              "EFKK"
-            ],
+            "label": ["EFKK"],
             "station_id": "EFKK_TWR"
           },
           {
-            "label": [
-              "EFSI"
-            ],
+            "label": ["EFSI"],
             "station_id": "EFSI"
           },
           {
@@ -472,32 +441,22 @@
             "label": []
           },
           {
-            "label": [
-              "EFKU",
-              "APP"
-            ],
+            "label": ["EFKU", "APP"],
             "station_id": "EFKU_COR"
           },
           {
-            "label": [
-              "EFKU",
-              "ARR"
-            ],
+            "label": ["EFKU", "ARR"],
             "station_id": "EFKU_ARR"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "EFLP"
-            ],
+            "label": ["EFLP"],
             "station_id": "EFLP_TWR"
           },
           {
-            "label": [
-              "EFUT"
-            ],
+            "label": ["EFUT"],
             "station_id": "EFUT_TWR"
           },
           {
@@ -507,32 +466,22 @@
             "label": []
           },
           {
-            "label": [
-              "EFTP",
-              "TWR"
-            ],
+            "label": ["EFTP", "TWR"],
             "station_id": "EFTP_TWR"
           },
           {
-            "label": [
-              "EFTP",
-              "GND"
-            ],
+            "label": ["EFTP", "GND"],
             "station_id": "EFTP_GND"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "EFMA"
-            ],
+            "label": ["EFMA"],
             "station_id": "EFMA_TWR"
           },
           {
-            "label": [
-              "EFVA"
-            ],
+            "label": ["EFVA"],
             "station_id": "EFVA_TWR"
           },
           {
@@ -542,26 +491,18 @@
             "label": []
           },
           {
-            "label": [
-              "EFTP",
-              "APP"
-            ],
+            "label": ["EFTP", "APP"],
             "station_id": "EFTP_COR"
           },
           {
-            "label": [
-              "EFTP",
-              "ARR"
-            ],
+            "label": ["EFTP", "ARR"],
             "station_id": "EFTP_ARR"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "EFMI"
-            ],
+            "label": ["EFMI"],
             "station_id": "EFMI"
           },
           {
@@ -574,34 +515,22 @@
             "label": []
           },
           {
-            "label": [
-              "EFTU",
-              "TWR"
-            ],
+            "label": ["EFTU", "TWR"],
             "station_id": "EFTU_TWR"
           },
           {
-            "label": [
-              "EFTU",
-              "APP"
-            ],
+            "label": ["EFTU", "APP"],
             "station_id": "EFTU_COR"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "EFPO",
-              "TWR"
-            ],
+            "label": ["EFPO", "TWR"],
             "station_id": "EFPO_TWR"
           },
           {
-            "label": [
-              "EFPO",
-              "APP"
-            ],
+            "label": ["EFPO", "APP"],
             "station_id": "EFPO_COR"
           },
           {
