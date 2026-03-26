@@ -1,9 +1,9 @@
 {
-  "id": "EFHK",
+  "id": "EFXX",
   "type": "Tabbed",
   "tabs": [
     {
-      "label": ["ETU", "SIVU"],
+      "label": ["ACC", "EFHK"],
       "page": {
         "rows": 7,
         "keys": [
@@ -28,6 +28,22 @@
             "station_id": "EFIN_E"
           },
           {
+            "label": ["SEC F"],
+            "station_id": "EFIN_F"
+          },
+          {
+            "label": ["SEC G"],
+            "station_id": "EFIN_G"
+          },
+          {
+            "label": ["SEC H"],
+            "station_id": "EFIN_H"
+          },
+          {
+            "label": ["SEC J"],
+            "station_id": "EFIN_J"
+          },
+          {
             "label": ["SEC K"],
             "station_id": "EFIN_K"
           },
@@ -36,14 +52,99 @@
             "station_id": "EFIN_L"
           },
           {
+            "label": ["SEC M"],
+            "station_id": "EFIN_M"
+          },
+          {
+            "label": ["SEC N"],
+            "station_id": "EFIN_N"
+          },
+          {
+            "label": ["SEC V"],
+            "station_id": "EFIN_V"
+          },
+          {
+            "label": []
+          },
+          {
             "label": []
           },
           {
             "label": []
           },
           {
-            "label": ["EETT", "W12"],
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["ESOS K"],
+            "station_id": "ESOS_K"
+          },
+          {
+            "label": ["ESOS F"],
+            "station_id": "ESOS_F"
+          },
+          {
+            "label": ["ESOS 4"],
+            "station_id": "ESOS_4"
+          },
+          {
+            "label": ["ESOS 6"],
+            "station_id": "ESOS_6"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["HK TWR-E"],
+            "station_id": "EFHK_TWE"
+          },
+          {
+            "label": ["HK RAD-E"],
+            "station_id": "EFHK_RE"
+          },
+          {
+            "label": ["ESOS N"],
+            "station_id": "ESOS_N"
+          },
+          {
+            "label": ["ENOR"],
+            "station_id": "ENBD-26"
+          },
+          {
+            "label": ["EETT W11"],
+            "station_id": "EETT_W11"
+          },
+          {
+            "label": ["EETT W12"],
             "station_id": "EETT_W12"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EFHK", "GND"],
+            "station_id": "EFHK_GND"
+          },
+          {
+            "label": ["EFHK", "CLD"],
+            "station_id": "EFHK_CLD"
+          },
+          {
+            "label": ["ESNU"],
+            "station_id": "ESNU_TWR"
+          },
+          {
+            "label": ["ENKR"],
+            "station_id": "ENKR_APP"
           },
           {
             "label": ["EETN", "APP"],
@@ -54,13 +155,6 @@
             "station_id": "EETN_TWR"
           },
           {
-            "label": ["INTOR"],
-            "station_id": "EETT_FED"
-          },
-          {
-            "label": ["ULLL", "West"]
-          },
-          {
             "label": []
           },
           {
@@ -70,112 +164,28 @@
             "label": []
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["RAD-E"],
-            "station_id": "EFHK_RE"
-          },
-          {
-            "label": ["ARR-E"],
-            "station_id": "EFHK_AE"
-          },
-          {
-            "label": ["TWR-E"],
-            "station_id": "EFHK_TWE"
-          },
-          {
-            "label": ["GND"],
-            "station_id": "EFHK_GND"
-          },
-          {
-            "label": ["DEICE"],
-            "station_id": "EFHK_DEICE_CO"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["RAD-W"],
-            "station_id": "EFHK_RW"
-          },
-          {
-            "label": ["ARR-W"],
-            "station_id": "EFHK_AW"
-          },
-          {
-            "label": ["TWR-W"],
-            "station_id": "EFHK_TWW"
-          },
-          {
-            "label": ["CLD"],
-            "station_id": "EFHK_CLD"
-          },
-          {
-            "label": ["DEICE OP"],
-            "station_id": "EFHK_DEICE_OP"
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["FMP"],
+            "label": ["EFIN", "FMP"],
             "station_id": "EFIN_FMP"
+          },
+          {
+            "label": ["ESAA", "FMP"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": ["ENOR", "FMP"]
           },
           {
             "label": ["EETT", "FMP"],
             "station_id": "EETT_FMP"
           },
           {
-            "label": ["AMC", "MIL"]
+            "label": []
           },
           {
             "label": ["TSA", "MIL"]
+          },
+          {
+            "label": ["AMC", "MIL"]
           }
         ]
       }
@@ -204,10 +214,12 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
           },
           {
-            "label": []
+            "label": ["SEC H"],
+            "station_id": "EFIN_H"
           },
           {
             "label": ["EFRO", "APP"],
@@ -228,10 +240,12 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["SEC J"],
+            "station_id": "EFIN_J"
           },
           {
-            "label": []
+            "label": ["SEC V"],
+            "station_id": "EFIN_V"
           },
           {
             "label": []
@@ -274,10 +288,12 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["ESOS N"],
+            "station_id": "ESOS_N"
           },
           {
-            "label": []
+            "label": ["ESOS K"],
+            "station_id": "ESOS_K"
           },
           {
             "label": ["EFKT", "TWR"],
@@ -298,10 +314,12 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["ENOR"],
+            "station_id": "ENBD-26"
           },
           {
-            "label": []
+            "label": ["ENKR"],
+            "station_id": "ENKR_APP"
           },
           {
             "label": []
@@ -320,7 +338,11 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["ESAA", "FMP"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": ["ENOR", "FMP"]
           },
           {
             "label": []
@@ -338,13 +360,10 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["TSA", "MIL"]
           },
           {
-            "label": []
-          },
-          {
-            "label": []
+            "label": ["AMC", "MIL"]
           }
         ]
       }
@@ -377,7 +396,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EFIN", "FMP"],
+            "station_id": "EFIN_FMP"
           },
           {
             "label": ["EFJY", "APP"],
@@ -402,7 +422,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["ESAA", "FMP"],
+            "station_id": "ESAA_FMP"
           },
           {
             "label": ["EFKU", "TWR"],
@@ -426,7 +447,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EETT", "FMP"],
+            "station_id": "EETT_FMP"
           },
           {
             "label": ["EFKU", "APP"],
@@ -500,7 +522,7 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["TSA", "MIL"]
           },
           {
             "label": ["EFTU", "TWR"],
@@ -525,7 +547,7 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["AMC", "MIL"]
           }
         ]
       }
