@@ -59,7 +59,7 @@
                 "label": ["Gander"]
               },
               {
-                "label": []
+                "label": ["DEL"]
               },
               {
                 "label": []
@@ -227,7 +227,8 @@
                 "station_id": "Shanwick"
               },
               {
-                "label": []
+                "label": ["DEL"],
+                "station_id": "Shanwick_DEL"
               },
               {
                 "label": []
