@@ -13,28 +13,19 @@
       "gap": 0.75,
       "children": [
         {
-          "label": [
-            "Edmonton"
-          ],
+          "label": ["Edmonton"],
           "size": 7
         },
         {
-          "label": [
-            "Montreal"
-          ],
+          "label": ["Montreal"],
           "size": 7
         },
         {
-          "label": [
-            "Gander",
-            "Domestic"
-          ],
+          "label": ["Gander", "Domestic"],
           "size": 7
         },
         {
-          "label": [
-            "New York"
-          ],
+          "label": ["New York"],
           "size": 7
         }
       ]
@@ -47,97 +38,64 @@
       "gap": 0.75,
       "children": [
         {
-          "label": [
-            "Gander"
-          ],
+          "label": ["Gander"],
           "size": 12,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": [
-                  "DEL",
-                  "A"
-                ],
+                "label": ["DEL", "A"],
                 "station_id": "Gander_DEL_A"
               },
               {
-                "label": [
-                  "DEL",
-                  "B"
-                ],
+                "label": ["DEL", "B"],
                 "station_id": "Gander_DEL_B"
               },
               {
-                "label": [
-                  "DEL",
-                  "C"
-                ],
+                "label": ["DEL", "C"],
                 "station_id": "Gander_DEL_C"
               },
               {
-                "label": [
-                  "DEL",
-                  "D"
-                ],
+                "label": ["DEL", "D"],
                 "station_id": "Gander_DEL_D"
               },
               {
-                "label": [
-                  "DEL",
-                  "F"
-                ],
+                "label": ["DEL", "F"],
                 "station_id": "Gander_DEL_F"
               },
               {
-                "label": [
-                  "A"
-                ],
+                "label": ["A"],
                 "station_id": "Gander_A"
               },
               {
-                "label": [
-                  "B"
-                ],
+                "label": ["B"],
                 "station_id": "Gander_B"
               },
               {
-                "label": [
-                  "C"
-                ],
+                "label": ["C"],
                 "station_id": "Gander_C"
               },
               {
-                "label": [
-                  "D"
-                ],
+                "label": ["D"],
                 "station_id": "Gander_D"
               },
               {
-                "label": [
-                  "F"
-                ],
+                "label": ["F"],
                 "station_id": "Gander_F"
               },
               {
-                "label": [
-                  "G"
-                ],
+                "label": ["G"],
                 "station_id": "Gander_G"
               },
               {
                 "label": []
               },
               {
-                "label": [
-                  "Gander"
-                ],
+                "label": ["Gander"],
                 "station_id": "Gander"
               },
               {
-                "label": [
-                  "DEL"
-                ],
+                "label": ["DEL"],
                 "station_id": "Gander_DEL"
               },
               {
@@ -155,158 +113,84 @@
       "gap": 0.75,
       "children": [
         {
-          "label": [
-            "Reykjavík"
-          ],
+          "label": ["Reykjavík"],
           "size": 7,
           "page": {
             "rows": 4,
             "keys": [
               {
-                "label": [
-                  "West",
-                  "Upper",
-                  "365-660"
-                ]
+                "label": ["West", "Upper", "365-660"]
               },
               {
-                "label": [
-                  "West",
-                  "Middle",
-                  "355-365"
-                ]
+                "label": ["West", "Middle", "355-365"]
               },
               {
-                "label": [
-                  "West",
-                  "Middle",
-                  "345-355"
-                ]
+                "label": ["West", "Middle", "345-355"]
               },
               {
-                "label": [
-                  "West",
-                  "Lower",
-                  "55-345"
-                ]
+                "label": ["West", "Lower", "55-345"]
               },
               {
-                "label": [
-                  "South",
-                  "Upper",
-                  "365-660"
-                ]
+                "label": ["South", "Upper", "365-660"]
               },
               {
-                "label": [
-                  "South",
-                  "Middle",
-                  "355-365"
-                ]
+                "label": ["South", "Middle", "355-365"]
               },
               {
-                "label": [
-                  "South",
-                  "Middle",
-                  "345-355"
-                ]
+                "label": ["South", "Middle", "345-355"]
               },
               {
-                "label": [
-                  "South",
-                  "Lower",
-                  "55-345"
-                ]
+                "label": ["South", "Lower", "55-345"]
               },
               {
-                "label": [
-                  "East",
-                  "Upper",
-                  "365-660"
-                ]
+                "label": ["East", "Upper", "365-660"]
               },
               {
-                "label": [
-                  "East",
-                  "Middle",
-                  "355-365"
-                ]
+                "label": ["East", "Middle", "355-365"]
               },
               {
-                "label": [
-                  "East",
-                  "Middle",
-                  "345-355"
-                ]
+                "label": ["East", "Middle", "345-355"]
               },
               {
-                "label": [
-                  "East",
-                  "Lower",
-                  "55-345"
-                ]
+                "label": ["East", "Lower", "55-345"]
               }
             ]
           }
         },
         {
-          "label": [
-            "NAT",
-            "BBx"
-          ],
+          "label": ["NAT", "BBx"],
           "size": 7,
           "station_id": "NAT_BBx"
         },
         {
-          "label": [
-            "Santa",
-            "Maria"
-          ],
+          "label": ["Santa", "Maria"],
           "size": 7,
           "page": {
             "rows": 3,
             "keys": [
               {
-                "label": [
-                  "Oceanic",
-                  "clearance"
-                ]
+                "label": ["Oceanic", "clearance"]
               },
               {
-                "label": [
-                  "Oceanic",
-                  "clearance",
-                  "2"
-                ]
+                "label": ["Oceanic", "clearance", "2"]
               },
               {
                 "label": []
               },
               {
-                "label": [
-                  "Radio",
-                  "1"
-                ]
+                "label": ["Radio", "1"]
               },
               {
-                "label": [
-                  "Radio",
-                  "2"
-                ]
+                "label": ["Radio", "2"]
               },
               {
-                "label": [
-                  "Radio",
-                  "3"
-                ]
+                "label": ["Radio", "3"]
               },
               {
                 "label": []
               },
               {
-                "label": [
-                  "Radio"
-                ]
+                "label": ["Radio"]
               },
               {
                 "label": []
@@ -324,76 +208,49 @@
       "gap": 0.75,
       "children": [
         {
-          "label": [
-            "Shanwick"
-          ],
+          "label": ["Shanwick"],
           "size": 12,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": [
-                  "DEL",
-                  "A"
-                ],
+                "label": ["DEL", "A"],
                 "station_id": "Shanwick_DEL_A"
               },
               {
-                "label": [
-                  "DEL",
-                  "B"
-                ],
+                "label": ["DEL", "B"],
                 "station_id": "Shanwick_DEL_B"
               },
               {
-                "label": [
-                  "DEL",
-                  "C"
-                ],
+                "label": ["DEL", "C"],
                 "station_id": "Shanwick_DEL_C"
               },
               {
-                "label": [
-                  "DEL",
-                  "D"
-                ],
+                "label": ["DEL", "D"],
                 "station_id": "Shanwick_DEL_D"
               },
               {
-                "label": [
-                  "DEL",
-                  "F"
-                ],
+                "label": ["DEL", "F"],
                 "station_id": "Shanwick_DEL_F"
               },
               {
-                "label": [
-                  "A"
-                ],
+                "label": ["A"],
                 "station_id": "Shanwick_A"
               },
               {
-                "label": [
-                  "B"
-                ],
+                "label": ["B"],
                 "station_id": "Shanwick_B"
               },
               {
-                "label": [
-                  "C"
-                ],
+                "label": ["C"],
                 "station_id": "Shanwick_C"
               },
               {
-                "label": [
-                  "D"
-                ],
+                "label": ["D"],
                 "station_id": "Shanwick_D"
               },
               {
-                "label": [
-                  "F"
-                ],
+                "label": ["F"],
                 "station_id": "Shanwick_F"
               },
               {
@@ -403,15 +260,11 @@
                 "label": []
               },
               {
-                "label": [
-                  "Shanwick"
-                ],
+                "label": ["Shanwick"],
                 "station_id": "Shanwick"
               },
               {
-                "label": [
-                  "DEL"
-                ],
+                "label": ["DEL"],
                 "station_id": "Shanwick_DEL"
               },
               {
