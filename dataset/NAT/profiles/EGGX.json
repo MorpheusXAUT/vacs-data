@@ -76,7 +76,7 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Reykjavík", "Control"],
+          "label": ["Reykjavík"],
           "size": 7,
           "page": {
             "rows": 4,
@@ -126,7 +126,7 @@
           "station_id": "NAT_BBx"
         },
         {
-          "label": ["Santa", "Maria", "Radio"],
+          "label": ["Santa", "Maria"],
           "size": 7,
           "page": {
             "rows": 3,
@@ -245,7 +245,7 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Scottish", "Control"],
+          "label": ["Scottish"],
           "size": 7,
           "page": {
             "rows": 2,
@@ -322,7 +322,7 @@
           "gap": 0.75,
           "children": [
             {
-              "label": ["Brest", "Control"],
+              "label": ["Brest"],
               "size": 7,
               "page": {
                 "rows": 2,
@@ -349,7 +349,7 @@
               }
             },
             {
-              "label": ["Madrid", "Radar"],
+              "label": ["Madrid"],
               "size": 7,
               "page": {
                 "rows": 2,
