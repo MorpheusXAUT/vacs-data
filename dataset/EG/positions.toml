@@ -738,7 +738,7 @@ id = "EGLL_F_APP"
 prefixes = ["EGLL"]
 frequency = "120.400"
 facility_type = "APP"
-profile_id = "EGLF"
+profile_id = "EGLL"
 
 [[positions]]
 id = "EGLL_N_APP"
