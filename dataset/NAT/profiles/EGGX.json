@@ -123,15 +123,7 @@
         {
           "label": ["NAT", "BBx"],
           "size": 7,
-          "page": {
-            "rows": 2,
-            "keys": [
-              {
-                "label": ["NAT", "BBx"],
-                "station_id": "NAT_BBx"
-              }
-            ]
-          }
+          "station_id": "NAT_BBx"
         },
         {
           "label": ["Santa", "Maria", "Radio"],
