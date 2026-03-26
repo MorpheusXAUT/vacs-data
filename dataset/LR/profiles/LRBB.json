@@ -72,11 +72,7 @@
             "label": ["BPS_EN", "MID", ""]
           },
           {
-            "label": [
-              "BPS_EN",
-              "LOW",
-              "F095-345"
-            ],
+            "label": ["BPS_EN", "LOW", "F095-345"],
             "station_id": "LHCC_CTR"
           },
           {
@@ -97,11 +93,7 @@
             "station_id": "LHCC_NU"
           },
           {
-            "label": [
-              "BPS_EN",
-              "FIC",
-              "GND-9500"
-            ],
+            "label": ["BPS_EN", "FIC", "GND-9500"],
             "station_id": "LHCC_EFIC"
           },
           {
