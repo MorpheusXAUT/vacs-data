@@ -340,7 +340,7 @@
                     "label": ["AS", "255-355"]
                   },
                   {
-                    "label": ["Lower", "SFC-255"]
+                    "label": ["Lower", "255-"]
                   },
                   {
                     "label": []
@@ -358,7 +358,7 @@
                     "label": ["Upper", "245-660"]
                   },
                   {
-                    "label": ["Lower", "SFC-245"]
+                    "label": ["Lower", "245-"]
                   }
                 ]
               }
