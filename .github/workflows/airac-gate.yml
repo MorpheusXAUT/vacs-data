@@ -1,4 +1,4 @@
-name: AIRAC Gate
+name: AIRAC
 
 on:
   pull_request:
@@ -13,6 +13,7 @@ defaults:
 
 jobs:
   gate:
+    name: "AIRAC ✓"
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
