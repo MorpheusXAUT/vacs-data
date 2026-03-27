@@ -12,11 +12,11 @@
             "station_id": "LIRR-FMP"
           },
           {
-            "label": ["LAMPED", "APP"],
+            "label": ["LAMPE", "APP"],
             "station_id": "LICD-APP"
           },
           {
-            "label": ["PANTEL", "APP"],
+            "label": ["PANTE", "APP"],
             "station_id": "LICG-APP"
           },
           {
