@@ -15,7 +15,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["GT", "TWR"],
+            "station_id": "ESGT_TWR"
           },
           {
             "label": ["APP"],
