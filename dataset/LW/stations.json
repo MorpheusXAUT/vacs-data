@@ -1,0 +1,28 @@
+{
+  "stations": [
+    {
+      "id": "SKOPJE-ACC",
+      "controlled_by": ["LWSS_CTR"]
+    },
+    {
+      "id": "LWSK_APP",
+      "parent_id": "LWSS",
+      "controlled_by": ["LWSK_APP"]
+    },
+    {
+      "id": "LWOH_APP",
+      "parent_id": "LWSS",
+      "controlled_by": ["LWOH_APP"]
+    },
+    {
+      "id": "LWSK_TWR",
+      "parent_id": "LWSK_APP",
+      "controlled_by": ["LWSK_TWR"]
+    },
+    {
+      "id": "LWOH_TWR",
+      "parent_id": "LWOH_APP",
+      "controlled_by": ["LWOH_TWR", "LWOH_APP"]
+    }
+  ]
+}
