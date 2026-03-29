@@ -22,15 +22,39 @@
     },
     {
       "id": "LYBA-UPPER-NORTH",
-      "controlled_by": ["LYBA_UN_CTR", "LYBA_N_CTR", "LYBA_CTR", "ADR_UE_CTR", "ADR_E_CTR", "ADR_U_CTR", "ADR_CTR"]
+      "controlled_by": [
+        "LYBA_UN_CTR",
+        "LYBA_N_CTR",
+        "LYBA_CTR",
+        "ADR_UE_CTR",
+        "ADR_E_CTR",
+        "ADR_U_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "LYBA-UPPER-WEST",
-      "controlled_by": ["LYBA_UW_CTR", "LYBA_W_CTR", "LYBA_CTR", "ADR_UE_CTR", "ADR_E_CTR", "ADR_U_CTR", "ADR_CTR"]
+      "controlled_by": [
+        "LYBA_UW_CTR",
+        "LYBA_W_CTR",
+        "LYBA_CTR",
+        "ADR_UE_CTR",
+        "ADR_E_CTR",
+        "ADR_U_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "LYBA-UPPER-EAST",
-      "controlled_by": ["LYBA_UE_CTR", "LYBA_E_CTR", "LYBA_CTR", "ADR_UE_CTR", "ADR_E_CTR", "ADR_U_CTR", "ADR_CTR"]
+      "controlled_by": [
+        "LYBA_UE_CTR",
+        "LYBA_E_CTR",
+        "LYBA_CTR",
+        "ADR_UE_CTR",
+        "ADR_E_CTR",
+        "ADR_U_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "KFOR",

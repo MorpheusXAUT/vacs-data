@@ -6,7 +6,14 @@
     },
     {
       "id": "LDZO-UPPER",
-      "controlled_by": ["LDZO_U_CTR", "LDZO_CTR", "ADR_UW_CTR", "ADR_U_CTR", "ADR_W_CTR","ADR_CTR"]
+      "controlled_by": [
+        "LDZO_U_CTR",
+        "LDZO_CTR",
+        "ADR_UW_CTR",
+        "ADR_U_CTR",
+        "ADR_W_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "LDZO-NORTH",
@@ -14,7 +21,15 @@
     },
     {
       "id": "LDZO-NORTH-UPPER",
-      "controlled_by": ["LDZO_UN_CTR", "LDZO_U_CTR", "LDZO_CTR", "ADR_UW_CTR", "ADR_U_CTR", "ADR_W_CTR", "ADR_CTR"]
+      "controlled_by": [
+        "LDZO_UN_CTR",
+        "LDZO_U_CTR",
+        "LDZO_CTR",
+        "ADR_UW_CTR",
+        "ADR_U_CTR",
+        "ADR_W_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "LDZO-WEST",
@@ -22,7 +37,15 @@
     },
     {
       "id": "LDZO-WEST-UPPER",
-      "controlled_by": ["LDZO_UW_CTR", "LDZO_W_CTR", "LDZO_CTR", "ADR_UW_CTR", "ADR_U_CTR", "ADR_W_CTR", "ADR_CTR"]
+      "controlled_by": [
+        "LDZO_UW_CTR",
+        "LDZO_W_CTR",
+        "LDZO_CTR",
+        "ADR_UW_CTR",
+        "ADR_U_CTR",
+        "ADR_W_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "LDZO-CENTRAL",
@@ -30,7 +53,15 @@
     },
     {
       "id": "LDZO-CENTRAL-UPPER",
-      "controlled_by": ["LDZO_UC_CTR", "LDZO_C_CTR", "LDZO_CTR", "ADR_UW_CTR", "ADR_U_CTR", "ADR_W_CTR", "ADR_CTR"]
+      "controlled_by": [
+        "LDZO_UC_CTR",
+        "LDZO_C_CTR",
+        "LDZO_CTR",
+        "ADR_UW_CTR",
+        "ADR_U_CTR",
+        "ADR_W_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "LDZO-SOUTH",
@@ -38,7 +69,15 @@
     },
     {
       "id": "LDZO-SOUTH-UPPER",
-      "controlled_by": ["LDZO_US_CTR", "LDZO_S_CTR", "LDZO_CTR", "ADR_UW_CTR", "ADR_U_CTR", "ADR_W_CTR", "ADR_CTR"]
+      "controlled_by": [
+        "LDZO_US_CTR",
+        "LDZO_S_CTR",
+        "LDZO_CTR",
+        "ADR_UW_CTR",
+        "ADR_U_CTR",
+        "ADR_W_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "LDZA_APP",

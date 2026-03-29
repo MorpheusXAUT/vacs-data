@@ -6,7 +6,14 @@
     },
     {
       "id": "LJLA-UPPER",
-      "controlled_by": ["LJLA_U_CTR", "LJLA_CTR", "ADR_UW_CTR", "ADR_U_CTR", "ADR_W_CTR", "ADR_CTR"]
+      "controlled_by": [
+        "LJLA_U_CTR",
+        "LJLA_CTR",
+        "ADR_UW_CTR",
+        "ADR_U_CTR",
+        "ADR_W_CTR",
+        "ADR_CTR"
+      ]
     },
     {
       "id": "LJLA-INFORMATION",
