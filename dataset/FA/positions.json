@@ -1,545 +1,635 @@
 {
   "positions": [
     {
+      "id": "FASA_FMP",
+      "prefixes": ["FASA"],
+      "frequency": "199.998",
+      "facility_type": "FMP",
+      "profile_id": "FASA",
+      "default_call_sources": ["FASA_FMP"]
+    },
+    {
       "id": "FACA_FMP",
       "prefixes": ["FACA"],
       "frequency": "199.998",
       "facility_type": "FMP",
-      "profile_id": "FACA"
+      "profile_id": "FACA",
+      "default_call_sources": ["FACA_FMP"]
     },
     {
       "id": "FAJA_FMP",
       "prefixes": ["FAJA"],
       "frequency": "199.998",
       "facility_type": "FMP",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_FMP"]
     },
     {
       "id": "FASA_CTR",
       "prefixes": ["FASA"],
       "frequency": "128.325",
       "facility_type": "CTR",
-      "profile_id": "FASA"
+      "profile_id": "FASA",
+      "default_call_sources": ["FASA_CTR"]
     },
     {
       "id": "FAJA_CTR",
       "prefixes": ["FAJA"],
       "frequency": "134.400",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_NW_CTR"]
     },
     {
       "id": "FAJA_N_CTR",
       "prefixes": ["FAJA"],
       "frequency": "134.400",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_NW_CTR"]
     },
     {
       "id": "FAJA_NE_CTR",
       "prefixes": ["FAJA"],
       "frequency": "134.400",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_NE_CTR"]
     },
     {
       "id": "FAJA_C_CTR",
       "prefixes": ["FAJA"],
       "frequency": "120.300",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_C_CTR"]
     },
     {
       "id": "FAJA_E_CTR",
       "prefixes": ["FAJA"],
       "frequency": "129.100",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_E_CTR"]
     },
     {
       "id": "FAJA_NW_CTR",
       "prefixes": ["FAJA"],
       "frequency": "126.700",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_NW_CTR"]
     },
     {
       "id": "FAJA_S_CTR",
       "prefixes": ["FAJA"],
       "frequency": "120.300",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_C_CTR"]
     },
     {
       "id": "FAJA_SE_CTR",
       "prefixes": ["FAJA"],
       "frequency": "132.150",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_SE_CTR"]
     },
     {
       "id": "FAJA_SW_CTR",
       "prefixes": ["FAJA"],
       "frequency": "128.300",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_SW_CTR"]
     },
     {
       "id": "FAJA_W_CTR",
       "prefixes": ["FAJA"],
       "frequency": "118.500",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_W_CTR"]
     },
     {
       "id": "FACA_CTR",
       "prefixes": ["FACA"],
       "frequency": "125.100",
       "facility_type": "CTR",
-      "profile_id": "FACA"
+      "profile_id": "FACA",
+      "default_call_sources": ["FACA_CTR"]
     },
     {
       "id": "FACA_E_CTR",
       "prefixes": ["FACA"],
       "frequency": "124.700",
       "facility_type": "CTR",
-      "profile_id": "FACA"
+      "profile_id": "FACA",
+      "default_call_sources": ["FACA_E_CTR"]
     },
     {
       "id": "FACA_I_CTR",
       "prefixes": ["FACA"],
       "frequency": "132.125",
       "facility_type": "CTR",
-      "profile_id": "FACA"
+      "profile_id": "FACA",
+      "default_call_sources": ["FACA_IW_CTR"]
     },
     {
       "id": "FAJA_IN_CTR",
       "prefixes": ["FAJA"],
       "frequency": "127.400",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_IN_CTR"]
     },
     {
       "id": "FAJA_IS_CTR",
       "prefixes": ["FAJA"],
       "frequency": "119.500",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_IS_CTR"]
     },
     {
       "id": "FACA_IW_CTR",
       "prefixes": ["FACA"],
       "frequency": "132.125",
       "facility_type": "CTR",
-      "profile_id": "FACA"
+      "profile_id": "FACA",
+      "default_call_sources": ["FACA_IW_CTR"]
     },
     {
       "id": "FACA_IE_CTR",
       "prefixes": ["FACA"],
       "frequency": "127.525",
       "facility_type": "CTR",
-      "profile_id": "FACA"
+      "profile_id": "FACA",
+      "default_call_sources": ["FACA_IE_CTR"]
     },
     {
       "id": "FAJA_I_CTR",
       "prefixes": ["FAJA"],
       "frequency": "127.400",
       "facility_type": "CTR",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FAJA_IN_CTR"]
     },
     {
       "id": "FAMR_I_CTR",
       "prefixes": ["FAMR"],
       "frequency": "119.000",
       "facility_type": "CTR",
-      "profile_id": "FAMR"
+      "profile_id": "FAMR",
+      "default_call_sources": ["FAMR_I_CTR"]
     },
     {
       "id": "FAOR_APP",
       "prefixes": ["FAOR"],
       "frequency": "124.500",
       "facility_type": "APP",
-      "profile_id": "FAOR"
+      "profile_id": "FAOR",
+      "default_call_sources": ["FAOR_APP"]
     },
     {
       "id": "FAOR_W_APP",
       "prefixes": ["FAOR"],
       "frequency": "123.700",
       "facility_type": "APP",
-      "profile_id": "FAOR"
+      "profile_id": "FAOR",
+      "default_call_sources": ["FAOR_W_APP"]
     },
     {
       "id": "FAOR_F_APP",
       "prefixes": ["FAOR"],
       "frequency": "121.400",
       "facility_type": "APP",
-      "profile_id": "FAOR"
+      "profile_id": "FAOR",
+      "default_call_sources": ["FAOR_F_APP"]
     },
     {
       "id": "FAOR_TWR",
       "prefixes": ["FAOR"],
       "frequency": "118.100",
       "facility_type": "TWR",
-      "profile_id": "FAOR"
+      "profile_id": "FAOR",
+      "default_call_sources": ["FAOR_TWR"]
     },
     {
       "id": "FAOR_E_TWR",
       "prefixes": ["FAOR"],
       "frequency": "118.600",
       "facility_type": "TWR",
-      "profile_id": "FAOR"
+      "profile_id": "FAOR",
+      "default_call_sources": ["FAOR_E_TWR"]
     },
     {
       "id": "FAOR_GND",
       "prefixes": ["FAOR"],
       "frequency": "121.900",
       "facility_type": "GND",
-      "profile_id": "FAOR"
+      "profile_id": "FAOR",
+      "default_call_sources": ["FAOR_GND"]
     },
     {
       "id": "FAOR_DEL",
       "prefixes": ["FAOR"],
       "frequency": "121.700",
       "facility_type": "DEL",
-      "profile_id": "FAOR"
+      "profile_id": "FAOR",
+      "default_call_sources": ["FAOR_DEL"]
     },
     {
       "id": "FACT_APP",
       "prefixes": ["FACT"],
       "frequency": "119.700",
       "facility_type": "APP",
-      "profile_id": "FACT"
+      "profile_id": "FACT",
+      "default_call_sources": ["FACT_APP"]
     },
     {
       "id": "FACT_F_APP",
       "prefixes": ["FACT"],
       "frequency": "124.350",
       "facility_type": "APP",
-      "profile_id": "FACT"
+      "profile_id": "FACT",
+      "default_call_sources": ["FACT_F_APP"]
     },
     {
       "id": "FACT_TWR",
       "prefixes": ["FACT"],
       "frequency": "118.100",
       "facility_type": "TWR",
-      "profile_id": "FACT"
+      "profile_id": "FACT",
+      "default_call_sources": ["FACT_TWR"]
     },
     {
       "id": "FACT_GND",
       "prefixes": ["FACT"],
       "frequency": "121.900",
       "facility_type": "GND",
-      "profile_id": "FACT"
+      "profile_id": "FACT",
+      "default_call_sources": ["FACT_GND"]
     },
     {
       "id": "FACT_DEL",
       "prefixes": ["FACT"],
       "frequency": "122.100",
       "facility_type": "DEL",
-      "profile_id": "FACT"
+      "profile_id": "FACT",
+      "default_call_sources": ["FACT_DEL"]
     },
     {
       "id": "FALE_APP",
       "prefixes": ["FALE"],
       "frequency": "125.750",
       "facility_type": "APP",
-      "profile_id": "FAJA"
+      "profile_id": "FAJA",
+      "default_call_sources": ["FALE_APP"]
     },
     {
       "id": "FALE_TWR",
       "prefixes": ["FALE"],
       "frequency": "118.450",
       "facility_type": "TWR",
-      "profile_id": "FALE"
+      "profile_id": "FALE",
+      "default_call_sources": ["FALE_TWR"]
     },
     {
       "id": "FALE_GND",
       "prefixes": ["FALE"],
       "frequency": "121.650",
       "facility_type": "GND",
-      "profile_id": "FALE"
+      "profile_id": "FALE",
+      "default_call_sources": ["FALE_GND"]
     },
     {
       "id": "FALA_TWR",
       "prefixes": ["FALA"],
       "frequency": "124.000",
       "facility_type": "TWR",
-      "profile_id": "FALA"
+      "profile_id": "FALA",
+      "default_call_sources": ["FALA_TWR"]
     },
     {
       "id": "FALA_GND",
       "prefixes": ["FALA"],
       "frequency": "121.650",
       "facility_type": "GND",
-      "profile_id": "FALA"
+      "profile_id": "FALA",
+      "default_call_sources": ["FALA_GND"]
     },
     {
       "id": "FAPE_APP",
       "prefixes": ["FAPE"],
       "frequency": "120.400",
       "facility_type": "APP",
-      "profile_id": "FAPE"
+      "profile_id": "FAPE",
+      "default_call_sources": ["FAPE_APP"]
     },
     {
       "id": "FAPE_TWR",
       "prefixes": ["FAPE"],
       "frequency": "118.100",
       "facility_type": "TWR",
-      "profile_id": "FAPE"
+      "profile_id": "FAPE",
+      "default_call_sources": ["FAPE_TWR"]
     },
     {
       "id": "FAPE_DEL",
       "prefixes": ["FAPE"],
       "frequency": "122.100",
       "facility_type": "DEL",
-      "profile_id": "FAPE"
+      "profile_id": "FAPE",
+      "default_call_sources": ["FAPE_DEL"]
     },
     {
       "id": "FAEL_APP",
       "prefixes": ["FAPE"],
       "frequency": "120.100",
       "facility_type": "APP",
-      "profile_id": "FAEL"
+      "profile_id": "FAEL",
+      "default_call_sources": ["FAEL_APP"]
     },
     {
       "id": "FAEL_TWR",
       "prefixes": ["FAPE"],
       "frequency": "118.300",
       "facility_type": "TWR",
-      "profile_id": "FAEL"
+      "profile_id": "FAEL",
+      "default_call_sources": ["FAEL_TWR"]
     },
     {
       "id": "FAEL_I_TWR",
       "prefixes": ["FAEL"],
       "frequency": "125.200",
       "facility_type": "TWR",
-      "profile_id": "FAEL"
+      "profile_id": "FAEL",
+      "default_call_sources": ["FAEL_I_TWR"]
     },
     {
       "id": "FAGG_APP",
       "prefixes": ["FAGG"],
       "frequency": "128.200",
       "facility_type": "APP",
-      "profile_id": "FAGG"
+      "profile_id": "FAGG",
+      "default_call_sources": ["FAGG_APP"]
     },
     {
       "id": "FAGG_TWR",
       "prefixes": ["FAGG"],
       "frequency": "118.900",
       "facility_type": "TWR",
-      "profile_id": "FAGG"
+      "profile_id": "FAGG",
+      "default_call_sources": ["FAGG_TWR"]
     },
     {
       "id": "FABL_APP",
       "prefixes": ["FABL"],
       "frequency": "124.300",
       "facility_type": "APP",
-      "profile_id": "FABL"
+      "profile_id": "FABL",
+      "default_call_sources": ["FABL_APP"]
     },
     {
       "id": "FABL_TWR",
       "prefixes": ["FABL"],
       "frequency": "120.800",
       "facility_type": "TWR",
-      "profile_id": "FABL"
+      "profile_id": "FABL",
+      "default_call_sources": ["FABL_TWR"]
     },
     {
       "id": "FAGM_TWR",
       "prefixes": ["FAGM"],
       "frequency": "118.700",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAGM_TWR"]
     },
     {
       "id": "FASK_TWR",
       "prefixes": ["FASK"],
       "frequency": "123.200",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FASK_TWR"]
     },
     {
       "id": "FAWB_TWR",
       "prefixes": ["FAWB"],
       "frequency": "118.350",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAWB_TWR"]
     },
     {
       "id": "FAWB_GND",
       "prefixes": ["FAWB"],
       "frequency": "120.600",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "default_call_sources": ["FAWB_GND"]
     },
     {
       "id": "FAGC_TWR",
       "prefixes": ["FAGC"],
       "frequency": "122.850",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAGC_TWR"]
     },
     {
       "id": "FAWK_TWR",
       "prefixes": ["FAWK"],
       "frequency": "124.100",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAWK_TWR"]
     },
     {
       "id": "FAWK_GND",
       "prefixes": ["FAWK"],
       "frequency": "121.850",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "default_call_sources": ["FAWK_GND"]
     },
     {
       "id": "FAKM_APP",
       "prefixes": ["FAKM"],
       "frequency": "119.400",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FAKM_APP"]
     },
     {
       "id": "FAKM_TWR",
       "prefixes": ["FAKM"],
       "frequency": "118.200",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAKM_TWR"]
     },
     {
       "id": "FAKN_APP",
       "prefixes": ["FAKN"],
       "frequency": "119.200",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FAKN_APP"]
     },
     {
       "id": "FDSK_APP",
       "prefixes": ["FDSK"],
       "frequency": "128.000",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FDSK_APP"]
     },
     {
       "id": "FDMS_TWR",
       "prefixes": ["FDMS"],
       "frequency": "124.900",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FDMS_TWR"]
     },
     {
       "id": "FDMS_GND",
       "prefixes": ["FDMS"],
       "frequency": "121.700",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "default_call_sources": ["FDMS_GND"]
     },
     {
       "id": "FXMM_APP",
       "prefixes": ["FXMM"],
       "frequency": "120.700",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FXMM_APP"]
     },
     {
       "id": "FXMM_TWR",
       "prefixes": ["FXMM"],
       "frequency": "118.500",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FXMM_TWR"]
     },
     {
       "id": "FXMM_GND",
       "prefixes": ["FXMM"],
       "frequency": "121.700",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "default_call_sources": ["FXMM_GND"]
     },
     {
       "id": "FAMM_TWR",
       "prefixes": ["FAMM"],
       "frequency": "119.300",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAMM_TWR"]
     },
     {
       "id": "FALM_APP",
       "prefixes": ["FALM"],
       "frequency": "121.200",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FALM_APP"]
     },
     {
       "id": "FALM_TWR",
       "prefixes": ["FALM"],
       "frequency": "119.800",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FALM_TWR"]
     },
     {
       "id": "FALM_GND",
       "prefixes": ["FALM"],
       "frequency": "121.750",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "default_call_sources": ["FALM_GND"]
     },
     {
       "id": "FAUP_APP",
       "prefixes": ["FAUP"],
       "frequency": "121.300",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FAUP_APP"]
     },
     {
       "id": "FAUP_TWR",
       "prefixes": ["FAUP"],
       "frequency": "121.300",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAUP_APP"]
     },
     {
       "id": "FAPM_TWR",
       "prefixes": ["FAPM"],
       "frequency": "122.000",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAPM_TWR"]
     },
     {
       "id": "FARB_TWR",
       "prefixes": ["FARB"],
       "frequency": "118.900",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FARB_TWR"]
     },
     {
       "id": "FALW_APP",
       "prefixes": ["FALW"],
       "frequency": "122.500",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FALW_APP"]
     },
     {
       "id": "FALW_TWR",
       "prefixes": ["FALW"],
       "frequency": "128.800",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FALW_TWR"]
     },
     {
       "id": "FALW_GND",
       "prefixes": ["FALW"],
       "frequency": "121.750",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "default_call_sources": ["FALW_GND"]
     },
     {
       "id": "FAOB_APP",
       "prefixes": ["FAOB"],
       "frequency": "119.800",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FAOB_APP"]
     },
     {
       "id": "FAHS_APP",
       "prefixes": ["FAHS"],
       "frequency": "126.400",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "default_call_sources": ["FAHS_APP"]
     },
     {
       "id": "FAHS_TWR",
       "prefixes": ["FAHS"],
       "frequency": "119.600",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAHS_TWR"]
     },
     {
       "id": "FAHS_GND",
       "prefixes": ["FAHS"],
       "frequency": "134.350",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "default_call_sources": ["FAHS_GND"]
     },
     {
       "id": "FAYP_TWR",
       "prefixes": ["FAYP"],
       "frequency": "125.500",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "default_call_sources": ["FAYP_TWR"]
     },
     {
       "id": "FAYP_GND",
       "prefixes": ["FAYP"],
       "frequency": "121.850",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "default_call_sources": ["FAYP_GND"]
     }
   ]
 }

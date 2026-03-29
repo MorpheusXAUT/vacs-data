@@ -1,0 +1,58 @@
+{
+  "id": "ESKS",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESKS"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["ENOS", "1"],
+            "station_id": "ENOS-1"
+          },
+          {
+            "label": ["ENOS", "OSLO", "APP-E"],
+            "station_id": "ENGM_E_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["ST", "AFIS"],
+            "station_id": "ESST_AFIS"
+          },
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": ["KM", "AFIS"],
+            "station_id": "ESKM_AFIS"
+          },
+          {
+            "label": ["OH", "AFIS"],
+            "station_id": "ESOH_AFIS"
+          },
+          {
+            "label": ["OS", "N"],
+            "station_id": "ESOS_N"
+          },
+          {
+            "label": ["OS", "3"],
+            "station_id": "ESOS_3"
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 [[positions]]
 id = "EGAA_APP"
 prefixes = ["EGAA"]
-frequency = "133.125"
+frequency = "133.130"
 facility_type = "APP"
 profile_id = "EG-Scottish"
 
@@ -15,7 +15,7 @@ profile_id = "EG-Scottish"
 [[positions]]
 id = "EGAA_TWR"
 prefixes = ["EGAA"]
-frequency = "118.300"
+frequency = "118.305"
 facility_type = "TWR"
 profile_id = "EG-Scottish"
 
@@ -122,63 +122,63 @@ id = "EGCC_F_APP"
 prefixes = ["EGCC"]
 frequency = "121.355"
 facility_type = "APP"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGCC_N_APP"
 prefixes = ["EGCC"]
 frequency = "135.005"
 facility_type = "APP"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGCC_S_APP"
 prefixes = ["EGCC"]
 frequency = "118.580"
 facility_type = "APP"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGCC_N_TWR"
 prefixes = ["EGCC"]
 frequency = "118.630"
 facility_type = "TWR"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGCC_S_TWR"
 prefixes = ["EGCC"]
 frequency = "119.405"
 facility_type = "TWR"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGCC_GND"
 prefixes = ["EGCC"]
 frequency = "121.855"
 facility_type = "GND"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGCC_DEL"
 prefixes = ["EGCC"]
 frequency = "121.705"
 facility_type = "DEL"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGCC_A_DEL"
 prefixes = ["EGCC"]
 frequency = "199.998"
 facility_type = "DEL"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGCC_P_GND"
 prefixes = ["EGCC"]
 frequency = "130.650"
 facility_type = "GND"
-profile_id = "EG-North_LAG"
+profile_id = "EGCC"
 
 [[positions]]
 id = "EGDI_TWR"
@@ -738,7 +738,7 @@ id = "EGLL_F_APP"
 prefixes = ["EGLL"]
 frequency = "120.400"
 facility_type = "APP"
-profile_id = "EGLF"
+profile_id = "EGLL"
 
 [[positions]]
 id = "EGLL_N_APP"

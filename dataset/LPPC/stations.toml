@@ -1,0 +1,223 @@
+[[stations]]
+id = "LPPR_DEL"
+controlled_by = ["LPPR_DEL"]
+parent_id = "LPPR_GND"
+
+[[stations]]
+id = "LPPR_GND"
+controlled_by = ["LPPR_GND"]
+parent_id = "LPPR_TWR"
+
+[[stations]]
+id = "LPPR_TWR"
+controlled_by = ["LPPR_TWR"]
+parent_id = "LPPR_APP"
+
+[[stations]]
+id = "LPPR_APP"
+controlled_by = ["LPPR_APP"]
+parent_id = "LPPC_N_CTR"
+
+[[stations]]
+id = "LPPR_U_APP"
+controlled_by = ["LPPR_U_APP"]
+parent_id = "LPPR_APP"
+
+[[stations]]
+id = "LPPT_DEL"
+controlled_by = ["LPPT_DEL"]
+parent_id = "LPPT_GND"
+
+[[stations]]
+id = "LPPT_GND"
+controlled_by = ["LPPT_GND"]
+parent_id = "LPPT_TWR"
+
+[[stations]]
+id = "LPPT_TWR"
+controlled_by = ["LPPT_TWR"]
+parent_id = "LPPT_APP"
+
+[[stations]]
+id = "LPPT_APP"
+controlled_by = ["LPPT_APP"]
+parent_id = "LPPC_C_CTR"
+
+[[stations]]
+id = "LPPT_W_APP"
+controlled_by = ["LPPT_W_APP"]
+parent_id = "LPPT_APP"
+
+[[stations]]
+id = "LPPT_F_APP"
+controlled_by = ["LPPT_F_APP"]
+parent_id = "LPPT_APP"
+
+[[stations]]
+id = "LPCS_TWR"
+controlled_by = ["LPCS_TWR"]
+parent_id = "LPPT_APP"
+
+[[stations]]
+id = "LPFR_GND"
+controlled_by = ["LPFR_GND"]
+parent_id = "LPFR_TWR"
+
+[[stations]]
+id = "LPFR_TWR"
+controlled_by = ["LPFR_TWR"]
+parent_id = "LPFR_APP"
+
+[[stations]]
+id = "LPFR_APP"
+controlled_by = ["LPFR_APP"]
+parent_id = "LPPC_E_CTR"
+
+[[stations]]
+id = "LPMA_TWR"
+controlled_by = ["LPMA_TWR"]
+parent_id = "LPMA_APP"
+
+[[stations]]
+id = "LPMA_APP"
+controlled_by = ["LPMA_APP"]
+parent_id = "LPPC_I_CTR"
+
+[[stations]]
+id = "LPPS_TWR"
+controlled_by = ["LPPS_TWR"]
+parent_id = "LPMA_APP"
+
+[[stations]]
+id = "LPPC_N_CTR"
+controlled_by = ["LPPC_N_CTR"]
+parent_id = "LPPC_E_CTR"
+
+[[stations]]
+id = "LPPC_NU_CTR"
+controlled_by = ["LPPC_NU_CTR"]
+parent_id = "LPPC_N_CTR"
+
+[[stations]]
+id = "LPPC_C_CTR"
+controlled_by = ["LPPC_C_CTR"]
+parent_id = "LPPC_E_CTR"
+
+[[stations]]
+id = "LPPC_CU_CTR"
+controlled_by = ["LPPC_CU_CTR"]
+parent_id = "LPPC_N_CTR"
+
+[[stations]]
+id = "LPPC_S_CTR"
+controlled_by = ["LPPC_S_CTR"]
+parent_id = "LPPC_E_CTR"
+
+[[stations]]
+id = "LPPC_W_CTR"
+controlled_by = ["LPPC_W_CTR"]
+parent_id = "LPPC_O_CTR"
+
+[[stations]]
+id = "LPPC_WU_CTR"
+controlled_by = ["LPPC_WU_CTR"]
+parent_id = "LPPC_W_CTR"
+
+[[stations]]
+id = "LPPC_I_CTR"
+controlled_by = ["LPPC_I_CTR"]
+parent_id = "LPPC_O_CTR"
+
+[[stations]]
+id = "LPPC_E_CTR"
+controlled_by = ["LPPC_E_CTR"]
+parent_id = "LPPC_CTR"
+
+[[stations]]
+id = "LPPC_O_CTR"
+controlled_by = ["LPPC_O_CTR"]
+parent_id = "LPPC_CTR"
+
+[[stations]]
+id = "LPPC_CTR"
+controlled_by = ["LPPC_CTR"]
+
+[[stations]]
+id = "LPOV_TWR"
+controlled_by = ["LPOV_TWR"]
+parent_id = "LPOV_APP"
+
+[[stations]]
+id = "LPOV_APP"
+controlled_by = ["LPOV_APP", "LPAM_CTR", "LPPR_APP"]
+
+[[stations]]
+id = "LPMR_TWR"
+controlled_by = ["LPMR_TWR"]
+parent_id = "LPMR_APP"
+
+[[stations]]
+id = "LPMR_APP"
+controlled_by = ["LPMR_APP", "LPAM_CTR", "LPPC_N_CTR"]
+
+[[stations]]
+id = "LPST_TWR"
+controlled_by = ["LPST_TWR"]
+parent_id = "LPST_APP"
+
+[[stations]]
+id = "LPST_APP"
+controlled_by = ["LPST_APP", "LPAM_CTR", "LPPT_APP"]
+
+[[stations]]
+id = "LPMT_TWR"
+controlled_by = ["LPMT_TWR", "LPAM_CTR", "LPPT_APP"]
+
+[[stations]]
+id = "LPBJ_TWR"
+controlled_by = ["LPBJ_TWR"]
+parent_id = "LPBJ_APP"
+
+[[stations]]
+id = "LPBJ_APP"
+controlled_by = ["LPBJ_APP", "LPAM_CTR", "LPPC_S_CTR"]
+
+[[stations]]
+id = "LPAM_CTR"
+controlled_by = ["LPAM_CTR"]
+
+[[stations]]
+id = "LPCO_I_TWR"
+controlled_by = ["LPCO_I_TWR"]
+
+[[stations]]
+id = "LPSO_I_TWR"
+controlled_by = ["LPSO_I_TWR"]
+
+[[stations]]
+id = "LPEV_I_TWR"
+controlled_by = ["LPEV_I_TWR"]
+
+[[stations]]
+id = "LPCB_I_TWR"
+controlled_by = ["LPCB_I_TWR"]
+
+[[stations]]
+id = "LPBG_I_TWR"
+controlled_by = ["LPBG_I_TWR"]
+
+[[stations]]
+id = "LPVZ_I_TWR"
+controlled_by = ["LPVZ_I_TWR"]
+
+[[stations]]
+id = "LPPM_I_TWR"
+controlled_by = ["LPPM_I_TWR"]
+
+[[stations]]
+id = "LPVR_I_TWR"
+controlled_by = ["LPVR_I_TWR"]
+
+[[stations]]
+id = "LPCH_I_TWR"
+controlled_by = ["LPCH_I_TWR"]

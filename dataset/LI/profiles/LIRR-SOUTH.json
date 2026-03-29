@@ -72,15 +72,7 @@
             {
               "label": ["PANTE", "APP"],
               "size": 6.25,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["PANTE", "APP"],
-                    "station_id": "LICG-APP"
-                  }
-                ]
-              }
+              "station_id": "LICG-APP"
             }
           ]
         }
@@ -299,54 +291,22 @@
             {
               "label": ["TRAPANI", "APP"],
               "size": 6.25,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["TRAPANI", "APP"],
-                    "station_id": "LICT-APP"
-                  }
-                ]
-              }
+              "station_id": "LICT-APP"
             },
             {
               "label": ["PALERMO", "APP"],
               "size": 6.25,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["PALERMO", "APP"],
-                    "station_id": "LICJ-APP"
-                  }
-                ]
-              }
+              "station_id": "LICJ-APP"
             },
             {
               "label": ["CATANIA", "APP"],
               "size": 6.25,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["CATANIA", "APP"],
-                    "station_id": "LICC-APP"
-                  }
-                ]
-              }
+              "station_id": "LICC-APP"
             },
             {
               "label": ["REGGIO", "APP"],
               "size": 6.25,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["REGGIO", "APP"],
-                    "station_id": "LICR-APP"
-                  }
-                ]
-              }
+              "station_id": "LICR-APP"
             }
           ]
         },
@@ -363,15 +323,7 @@
                 {
                   "label": ["CAGLIARI", "APP"],
                   "size": 6.25,
-                  "page": {
-                    "rows": 3,
-                    "keys": [
-                      {
-                        "label": ["CAGLIARI", "APP"],
-                        "station_id": "LIEE-APP"
-                      }
-                    ]
-                  }
+                  "station_id": "LIEE-APP"
                 }
               ]
             }
@@ -452,15 +404,7 @@
         {
           "label": ["ROMA", "COO"],
           "size": 5,
-          "page": {
-            "rows": 3,
-            "keys": [
-              {
-                "label": ["ROMA", "COO"],
-                "station_id": "LIRR-FMP"
-              }
-            ]
-          }
+          "station_id": "LIRR-FMP"
         },
         {
           "label": ["FMP"],
@@ -480,15 +424,7 @@
         {
           "label": ["FIC"],
           "size": 5,
-          "page": {
-            "rows": 3,
-            "keys": [
-              {
-                "label": ["FIC"],
-                "station_id": "LIRR-FIC"
-              }
-            ]
-          }
+          "station_id": "LIRR-FIC"
         },
         {
           "label": ["TWR"],

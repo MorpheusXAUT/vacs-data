@@ -8,8 +8,8 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["RL"],
-            "station_id": "EDYY-RL"
+            "label": ["RH"],
+            "station_id": "EDYY-RH"
           },
           {
             "label": ["PADH"],
@@ -32,8 +32,8 @@
             "station_id": "EDGG-DLGE"
           },
           {
-            "label": ["RH"],
-            "station_id": "EDYY-RH"
+            "label": ["RL"],
+            "station_id": "EDYY-RL"
           },
           {
             "label": ["EDGG", "SIG"],
@@ -53,8 +53,8 @@
             "label": [""]
           },
           {
-            "label": ["ML"],
-            "station_id": "EDYY-ML"
+            "label": ["MH"],
+            "station_id": "EDYY-MH"
           },
           {
             "label": ["EDGG", "TAU"],
@@ -77,8 +77,8 @@
             "station_id": "EDGG-DKG"
           },
           {
-            "label": ["MH"],
-            "station_id": "EDYY-MH"
+            "label": ["ML"],
+            "station_id": "EDYY-ML"
           },
           {
             "label": ["EDGG", "RUD"],
@@ -122,13 +122,16 @@
             "station_id": "EDUU-NTM"
           },
           {
-            "label": ["EDYY", "YO"]
+            "label": ["EDYY", "LNH"],
+            "station_id": "EDYY-LNH"
           },
           {
-            "label": ["EBBU", "BE"]
+            "label": ["EBBU", "EHS"],
+            "station_id": "EBBU-EHS"
           },
           {
-            "label": [""]
+            "label": ["EBBU", "ELS"],
+            "station_id": "EBBU-ELS"
           },
           {
             "label": [""]

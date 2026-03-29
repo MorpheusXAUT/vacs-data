@@ -9,33 +9,33 @@
         "keys": [
           {
             "label": ["CLD"],
-            "station_id": "FAOR_CLD"
+            "station_id": "FAOR_DEL"
           },
           {
             "label": ["GMC"],
-            "station_id": "FAOR_GMC"
+            "station_id": "FAOR_GND"
           },
           {
             "label": []
           },
           {
             "label": ["RDR"],
-            "station_id": "FAOR_RDR"
+            "station_id": "FAOR_APP"
           },
           {
             "label": ["TWR", "W"],
-            "station_id": "FAOR_TWR_W"
+            "station_id": "FAOR_TWR"
           },
           {
             "label": ["TWR", "E"],
-            "station_id": "FAOR_TWR_E"
+            "station_id": "FAOR_E_TWR"
           },
           {
             "label": []
           },
           {
             "label": ["RDR", "W"],
-            "station_id": "FAOR_RDR_W"
+            "station_id": "FAOR_W_APP"
           },
           {
             "label": []
@@ -49,7 +49,7 @@
           },
           {
             "label": ["FIN"],
-            "station_id": "FAOR_FIN"
+            "station_id": "FAOR_F_APP"
           },
           {
             "label": []
@@ -89,19 +89,19 @@
           },
           {
             "label": ["ACC", "NORTH", "EAST"],
-            "station_id": "FAJA_NE"
+            "station_id": "FAJA_NE_CTR"
           },
           {
             "label": ["ACC", "NORTH", "WEST"],
-            "station_id": "FAJA_NW"
+            "station_id": "FAJA_NW_CTR"
           },
           {
             "label": ["ACC", "SOUTH", "EAST"],
-            "station_id": "FAJA_SE"
+            "station_id": "FAJA_SE_CTR"
           },
           {
             "label": ["ACC", "SOUTH", "WEST"],
-            "station_id": "FAJA_SW"
+            "station_id": "FAJA_SW_CTR"
           },
           {
             "label": []
@@ -111,7 +111,7 @@
           },
           {
             "label": ["FAJA", "INFO", "NORTH"],
-            "station_id": "FAJA_INFO_N"
+            "station_id": "FAJA_IN_CTR"
           },
           {
             "label": ["FAJA", "FLOW"],
@@ -127,33 +127,33 @@
         "keys": [
           {
             "label": ["CLD"],
-            "station_id": "FAOR_CLD"
+            "station_id": "FAOR_DEL"
           },
           {
             "label": ["GMC"],
-            "station_id": "FAOR_GMC"
+            "station_id": "FAOR_GND"
           },
           {
             "label": []
           },
           {
             "label": ["RDR"],
-            "station_id": "FAOR_RDR"
+            "station_id": "FAOR_APP"
           },
           {
             "label": ["TWR", "W"],
-            "station_id": "FAOR_TWR_W"
+            "station_id": "FAOR_TWR"
           },
           {
             "label": ["TWR", "E"],
-            "station_id": "FAOR_TWR_E"
+            "station_id": "FAOR_E_TWR"
           },
           {
             "label": []
           },
           {
             "label": ["RDR", "W"],
-            "station_id": "FAOR_RDR_W"
+            "station_id": "FAOR_W_APP"
           },
           {
             "label": []
@@ -164,11 +164,11 @@
           },
           {
             "label": ["LA", "GMC"],
-            "station_id": "FALA_GMC"
+            "station_id": "FALA_GND"
           },
           {
             "label": ["FIN"],
-            "station_id": "FAOR_FIN"
+            "station_id": "FAOR_F_APP"
           },
           {
             "label": []
@@ -204,7 +204,7 @@
           },
           {
             "label": ["WK", "GMC"],
-            "station_id": "FAWK_GMC"
+            "station_id": "FAWK_GND"
           },
           {
             "label": []
@@ -214,19 +214,19 @@
           },
           {
             "label": ["ACC", "NORTH", "EAST"],
-            "station_id": "FAJA_NE"
+            "station_id": "FAJA_NE_CTR"
           },
           {
             "label": ["ACC", "NORTH", "WEST"],
-            "station_id": "FAJA_NW"
+            "station_id": "FAJA_NW_CTR"
           },
           {
             "label": ["ACC", "SOUTH", "EAST"],
-            "station_id": "FAJA_SE"
+            "station_id": "FAJA_SE_CTR"
           },
           {
             "label": ["ACC", "SOUTH", "WEST"],
-            "station_id": "FAJA_SW"
+            "station_id": "FAJA_SW_CTR"
           },
           {
             "label": ["LOWVELD", "MIL", "INFO"],
@@ -237,7 +237,7 @@
           },
           {
             "label": ["FAJA", "INFO", "NORTH"],
-            "station_id": "FAJA_INFO_N"
+            "station_id": "FAJA_IN_CTR"
           },
           {
             "label": ["FAJA", "FLOW"],

@@ -74,20 +74,20 @@
                 "station_id": "EDMM-ZUG"
               },
               {
-                "label": ["CHI 4", "PLC", "380-660"],
-                "station_id": "EDUU-CHI"
+                "label": ["AMM 4", "PLC", "380-660"],
+                "station_id": "EDUU-AMM"
               },
               {
-                "label": ["CHI 3", "PLC", "370"],
-                "station_id": "EDUU-CHI"
+                "label": ["AMM 3", "PLC", "370"],
+                "station_id": "EDUU-AMM"
               },
               {
-                "label": ["CHI 2", "PLC", "360"],
-                "station_id": "EDUU-CHI"
+                "label": ["AMM 2", "PLC", "360"],
+                "station_id": "EDUU-AMM"
               },
               {
-                "label": ["CHI 1", "PLC", "320-350"],
-                "station_id": "EDUU-CHI"
+                "label": ["AMM 1", "PLC", "320-350"],
+                "station_id": "EDUU-AMM"
               },
               {
                 "label": ["MUN", "TRU-PLC", "310-"],

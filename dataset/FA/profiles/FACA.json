@@ -9,7 +9,7 @@
         "keys": [
           {
             "label": ["WEST", "ACC"],
-            "station_id": "FACA_W"
+            "station_id": "FACA_CTR"
           },
           {
             "label": ["CT", "APP"],
@@ -21,7 +21,7 @@
           },
           {
             "label": ["FAJA", "WEST", "ACC"],
-            "station_id": "FAJA_W"
+            "station_id": "FAJA_W_CTR"
           },
           {
             "label": ["FAJO", "2"],
@@ -33,19 +33,19 @@
           },
           {
             "label": ["EAST", "ACC"],
-            "station_id": "FACA_E"
+            "station_id": "FACA_E_CTR"
           },
           {
             "label": ["CT", "FIN"],
-            "station_id": "FACT_FIN"
+            "station_id": "FACT_F_APP"
           },
           {
             "label": ["CT", "GMC"],
-            "station_id": "FACT_GMC"
+            "station_id": "FACT_GND"
           },
           {
             "label": ["FAJA", "CENT", "ACC"],
-            "station_id": "FAJA_E"
+            "station_id": "FAJA_E_CTR"
           },
           {
             "label": ["FAJO"],
@@ -60,15 +60,15 @@
           },
           {
             "label": ["PE", "CLD"],
-            "station_id": "FAPE_CLD"
+            "station_id": "FAPE_DEL"
           },
           {
             "label": ["CT", "CLD"],
-            "station_id": "FACT_CLD"
+            "station_id": "FACT_DEL"
           },
           {
             "label": ["FAJA", "EAST", "ACC"],
-            "station_id": "FAJA_E"
+            "station_id": "FAJA_E_CTR"
           },
           {
             "label": ["FALW", "APP"],
@@ -79,7 +79,7 @@
           },
           {
             "label": ["FACA", "INFO", "WEST"],
-            "station_id": "FACA_INFO_W"
+            "station_id": "FACA_IW_CTR"
           },
           {
             "label": ["GG", "APP"],
@@ -91,7 +91,7 @@
           },
           {
             "label": ["FAJA", "INFO", "SOUTH"],
-            "station_id": "FAJA_INFO_S"
+            "station_id": "FAJA_IS_CTR"
           },
           {
             "label": ["FAOB", "APP"],
@@ -102,7 +102,7 @@
           },
           {
             "label": ["FACA", "INFO", "EAST"],
-            "station_id": "FACA_INFO_E"
+            "station_id": "FACA_IE_CTR"
           },
           {
             "label": ["GG", "TWR"],
@@ -134,7 +134,7 @@
         "keys": [
           {
             "label": ["CT", "CLD"],
-            "station_id": "FACT_CLD"
+            "station_id": "FACT_DEL"
           },
           {
             "label": ["CT", "TWR"],
@@ -156,15 +156,15 @@
           },
           {
             "label": ["CT", "GMC"],
-            "station_id": "FACT_GMC"
+            "station_id": "FACT_GND"
           },
           {
             "label": ["CT", "FIN"],
-            "station_id": "FACT_FIN"
+            "station_id": "FACT_F_APP"
           },
           {
             "label": ["EL", "AFIS"],
-            "station_id": "FAEL_INFO"
+            "station_id": "FAEL_I_TWR"
           },
           {
             "label": []
@@ -174,7 +174,7 @@
           },
           {
             "label": ["FALW", "GMC"],
-            "station_id": "FALW_GMC"
+            "station_id": "FALW_GND"
           },
           {
             "label": []
@@ -224,7 +224,7 @@
           },
           {
             "label": ["PE", "CLD"],
-            "station_id": "FAPE_CLD"
+            "station_id": "FAPE_DEL"
           },
           {
             "label": ["PE", "ASCA"],
