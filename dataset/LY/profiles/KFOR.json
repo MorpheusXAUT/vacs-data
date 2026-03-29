@@ -24,19 +24,11 @@
             "station_id": "LYBA-EAST"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "UPPER W",
-              "BGUW"
-            ],
+            "label": ["BEOGRAD", "UPPER W", "BGUW"],
             "station_id": "LYBA-UPPER-WEST"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "UPPER E",
-              "BGUE"
-            ],
+            "label": ["BEOGRAD", "UPPER E", "BGUE"],
             "station_id": "LYBA-UPPER-EAST"
           },
           {
@@ -108,11 +100,7 @@
         "rows": 4,
         "keys": [
           {
-            "label": [
-              "PRISTINA",
-              "APPROACH",
-              "PR"
-            ],
+            "label": ["PRISTINA", "APPROACH", "PR"],
             "station_id": "BKPR_APP"
           },
           {
@@ -125,11 +113,7 @@
             "label": []
           },
           {
-            "label": [
-              "TIRANA",
-              "APPROACH",
-              "TIR"
-            ],
+            "label": ["TIRANA", "APPROACH", "TIR"],
             "station_id": "LATI_APP"
           },
           {
@@ -142,11 +126,7 @@
             "label": []
           },
           {
-            "label": [
-              "SKOPJE",
-              "APPROACH",
-              "SKA"
-            ],
+            "label": ["SKOPJE", "APPROACH", "SKA"],
             "station_id": "LWSK_APP"
           },
           {
