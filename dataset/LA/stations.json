@@ -2,7 +2,7 @@
   "stations": [
     {
       "id": "LATI-ACC",
-      "controlled_by": ["LATI_CTR"]
+      "controlled_by": ["LAAA_CTR"]
     },
     {
       "id": "LATI_APP",
