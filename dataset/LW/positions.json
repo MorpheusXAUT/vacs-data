@@ -1,0 +1,34 @@
+{
+  "positions": [
+    {
+      "id": "LWSS_CTR",
+      "prefixes": ["LWSS"],
+      "frequency": "119.375",
+      "facility_type": "CTR"
+    },
+    {
+      "id": "LWSK_APP",
+      "prefixes": ["LWSK"],
+      "frequency": "120.300",
+      "facility_type": "APP"
+    },
+    {
+      "id": "LWOH_APP",
+      "prefixes": ["LWOH"],
+      "frequency": "119.200",
+      "facility_type": "APP"
+    },
+    {
+      "id": "LWSK_TWR",
+      "prefixes": ["LWSK"],
+      "frequency": "118.500",
+      "facility_type": "TWR"
+    },
+    {
+      "id": "LWOH_TWR",
+      "prefixes": ["LWOH"],
+      "frequency": "119.200",
+      "facility_type": "TWR"
+    }
+  ]
+}
