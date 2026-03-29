@@ -1,0 +1,149 @@
+{
+  "id": "EDGG_AFIS",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "North",
+      "page": {
+        "rows": 5,
+        "keys": [
+          {
+            "label": ["DKA"],
+            "station_id": "EDGG-DKA"
+          },
+          {
+            "label": ["EDDK", "TWR"],
+            "station_id": "EDGG-DKT"
+          },
+          {
+            "label": ["EDKB", "RDO"],
+            "station_id": "EDGG-KBI"
+          },
+          {
+            "label": ["EDKL", "RDO"],
+            "station_id": "EDGG-KLI"
+          },
+          {
+            "label": ["EDKN", "RDO"],
+            "station_id": "EDGG-KNI"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["ETNN", "TWR"],
+            "station_id": "EDGG-TNT"
+          },
+          {
+            "label": ["EDKZ", "RDO"],
+            "station_id": "EDGG-KZI"
+          },
+          {
+            "label": ["EDKF", "RDO"],
+            "station_id": "EDGG-KFI"
+          },
+          {
+            "label": ["EDKH", "RDO"],
+            "station_id": "EDGG-KHI"
+          },
+          {
+            "label": ["DLA"],
+            "station_id": "EDGG-DLA"
+          },
+          {
+            "label": ["EDDL", "TWR"],
+            "station_id": "EDGG-DLT"
+          },
+          {
+            "label": ["EDLE", "RDO"],
+            "station_id": "EDGG-LEI"
+          },
+          {
+            "label": ["EDLK", "RDO"],
+            "station_id": "EDGG-LKI"
+          },
+          {
+            "label": ["EDLD", "RDO"],
+            "station_id": "EDGG-LDI"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["EDLN", "TWR"],
+            "station_id": "EDGG-LNT"
+          },
+          {
+            "label": ["EDLF", "RDO"],
+            "station_id": "EDGG-LFI"
+          },
+          {
+            "label": ["EDLM", "RDO"],
+            "station_id": "EDGG-LDI"
+          },
+          {
+            "label": ["EDKD", "RDO"],
+            "station_id": "EDGG-KDI"
+          },
+          {
+            "label": ["PAL"],
+            "station_id": "EDGG-PADL"
+          },
+          {
+            "label": ["EDLW", "TWR"],
+            "station_id": "EDGG-LWT"
+          },
+          {
+            "label": ["EDKS", "RDO"],
+            "station_id": "EDGG-KSI"
+          },
+          {
+            "label": ["EDLA", "RDO"],
+            "station_id": "EDGG-LAI"
+          },
+          {
+            "label": ["EDLH", "RDO"],
+            "station_id": "EDGG-LHI"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": ["EDLP", "TWR"],
+            "station_id": "EDGG-LPT"
+          },
+          {
+            "label": ["EDLR", "RDO"],
+            "station_id": "EDGG-LRI"
+          },
+          {
+            "label": ["EDLZ", "RDO"],
+            "station_id": "EDGG-LZI"
+          },
+          {
+            "label": ["EDKO", "RDO"],
+            "station_id": "EDGG-KOI"
+          },
+          {
+            "label": ["HMM"],
+            "station_id": "EDGG-HMM"
+          },
+          {
+            "label": ["EDDG", "TWR"],
+            "station_id": "EDGG-DGT"
+          },
+          {
+            "label": ["EDLT", "RDO"],
+            "station_id": "EDGG-LTI"
+          },
+          {
+            "label": [""]
+          },
+          {
+            "label": [""]
+          }
+        ]
+      }
+    }
+  ]
+}
