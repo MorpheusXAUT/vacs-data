@@ -151,11 +151,7 @@
             "station_id": "LHCC_CTR"
           },
           {
-            "label": [
-              "BUDAPEST",
-              "W LOW",
-              "LHCW"
-            ],
+            "label": ["BUDAPEST", "W LOW", "LHCW"],
             "station_id": "LHCC_WL"
           },
           {
@@ -163,19 +159,11 @@
             "station_id": "LHCC_WU"
           },
           {
-            "label": [
-              "BUDAPEST",
-              "W TOP",
-              "LHC2"
-            ],
+            "label": ["BUDAPEST", "W TOP", "LHC2"],
             "station_id": "LHCC_WT"
           },
           {
-            "label": [
-              "BUDAPEST",
-              "S LOW",
-              "LHCS"
-            ],
+            "label": ["BUDAPEST", "S LOW", "LHCS"],
             "station_id": "LHCC_SL"
           },
           {
