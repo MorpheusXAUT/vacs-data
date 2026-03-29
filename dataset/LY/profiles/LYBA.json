@@ -39,13 +39,32 @@
             "label": []
           },
           {
-            "label": ["BUCHAREST", "RESERVED"]
+            "label": ["BUCHAREST", "LRCB"],
+            "station_id": "LR_LOKOM1"
           },
           {
-            "label": []
+            "label": ["BUCHAREST", "LRCG", "LRCH"],
+            "station_id": "LR_LOKOM2"
           },
           {
-            "label": []
+            "label": ["BUCHAREST", "LRCV", "LRCU"],
+            "station_id": "LR_LOKOM3"
+          },
+          {
+            "label": ["BUCHAREST", "LRCW", "LRCB"],
+            "station_id": "LR_BUMON1"
+          },
+          {
+            "label": ["BUCHAREST", "LRCG", "LRCH"],
+            "station_id": "LR_BUDMO2"
+          },
+          {
+            "label": ["BUCHAREST", "LRCV", "LRCU"],
+            "station_id": "LR_BUDMO3"
+          },
+          {
+            "label": ["ARAD", "APPROACH", "ARA"],
+            "station_id": "LRAR_APP"
           },
           {
             "label": []
@@ -77,6 +96,10 @@
         "rows": 4,
         "keys": [
           {
+            "label": ["BEOGRAD", "BG"],
+            "station_id": "LYBA"
+          },
+          {
             "label": ["BEOGRAD", "BGN"],
             "station_id": "LYBA-NORTH"
           },
@@ -89,67 +112,96 @@
             "station_id": "LYBA-EAST"
           },
           {
-            "label": []
+            "label": ["BEOGRAD", "BGUC"],
+            "station_id": "LYBA-UPPER"
           },
           {
-            "label": ["ZAGREB", "RESERVED"]
+            "label": ["BEOGRAD", "BGUW"],
+            "station_id": "LYBA-UPPER-NORTH"
           },
           {
-            "label": []
+            "label": ["BEOGRAD", "BGUN"],
+            "station_id": "LYBA-UPPER-WEST"
           },
           {
-            "label": []
+            "label": ["BEOGRAD", "BGUE"],
+            "station_id": "LYBA-UPPER-EAST"
           },
           {
-            "label": []
+            "label": ["ZAGREB", "ZG"],
+            "station_id": "LDZO"
           },
           {
-            "label": ["SARAJEVO", "RESERVED"]
+            "label": ["ZAGREB", "UPPER", "ZGU"],
+            "station_id": "LDZO-UPPER"
           },
           {
-            "label": []
+            "label": ["ZAGREB", "NORTH", "ZGRN"],
+            "station_id": "LDZO-NORTH"
           },
           {
-            "label": []
+            "label": ["ZAGREB", "N UPPER", "ZGUN"],
+            "station_id": "LDZO-NORTH-UPPER"
           },
           {
-            "label": []
+            "label": ["ZAGREB", "SOUTH", "ZGRS"],
+            "station_id": "LDZO-SOUTH"
           },
           {
-            "label": ["TIRANA", "RESERVED"]
+            "label": ["ZAGREB", "S UPPER", "ZGUS"],
+            "station_id": "LDZO-SOUTH-UPPER"
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
-            "label": ["SKOPJE", "RESERVED"]
-          },
-          {
-            "label": []
-          },
-          {
-            "label": []
+            "label": ["SARAJEVO", "RADAR", "SJJ"],
+            "station_id": "LQSB-ACC"
           },
           {
             "label": []
           },
           {
-            "label": ["KFOR", "RESERVED"]
-          },
-          {
-            "label": []
+            "label": ["TIRANA", "ACC", "TI"],
+            "station_id": "LATI-ACC"
           },
           {
             "label": []
           },
           {
             "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["SKOPJE", "ACC", "SK"],
+            "station_id": "LWSS-ACC"
+          },
+          {
+            "label": ["ADRIA", "AD"],
+            "station_id": "ADRIA"
+          },
+          {
+            "label": ["ADRIA", "W", "ADW"],
+            "station_id": "ADRIA-WEST"
+          },
+          {
+            "label": ["ADRIA", "UW", "ADUW"],
+            "station_id": "ADRIA-WEST-UPPER"
+          },
+          {
+            "label": ["KFOR", "KFR"],
+            "station_id": "KFOR"
+          },
+          {
+            "label": ["ADRIA", "ADU"],
+            "station_id": "ADRIA-UPPER"
+          },
+          {
+            "label": ["ADRIA", "E", "ADE"],
+            "station_id": "ADRIA-EAST"
+          },
+          {
+            "label": ["ADRIE", "UE", "ADUE"],
+            "station_id": "ADRIA-EAST-UPPER"
           }
         ]
       }
@@ -168,11 +220,11 @@
             "station_id": "LYBE_F_APP"
           },
           {
-            "label": ["BATAJNICA", "APPROACH", "BTA"],
+            "label": ["BATAJNICA", "APP", "BTA"],
             "station_id": "LYBT_APP"
           },
           {
-            "label": ["VRSAC", "APPROACH", "VR"],
+            "label": ["VRSAC", "APP", "VR"],
             "station_id": "LYVR_TWR"
           },
           {
@@ -180,7 +232,7 @@
             "station_id": "LYPG_APP"
           },
           {
-            "label": ["TIVAT", "APPROACH", "TV"],
+            "label": ["TIVAT", "APP", "TV"],
             "station_id": "LYTV_APP"
           },
           {
@@ -190,11 +242,11 @@
             "label": []
           },
           {
-            "label": ["NIS", "APPROACH", "NI"],
+            "label": ["NIS", "APP", "NI"],
             "station_id": "LYNI_APP"
           },
           {
-            "label": ["KRALJEVO", "APPROACH", "KV"],
+            "label": ["KRALJEVO", "APP", "KV"],
             "station_id": "LYKV_APP"
           },
           {
@@ -204,11 +256,34 @@
             "label": []
           },
           {
-            "label": ["PRISTINA", "APPROACH", "PR"],
+            "label": ["PRISTINA", "APP", "PR"],
             "station_id": "BKPR_APP"
           },
           {
             "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["TIRANA", "APP", "TIR"],
+            "station_id": "LATI_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["SKOPJE", "APP", "SKA"],
+            "station_id": "LWSK_APP"
           }
         ]
       }
