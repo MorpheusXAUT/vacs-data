@@ -132,7 +132,8 @@
             "station_id": "EGKK_DEL"
           },
           {
-            "label": ["GMC"]
+            "label": ["GMC", "(N)"],
+            "station_id": "EGKK_N_GND"
           },
           {
             "label": ["AIR"],
