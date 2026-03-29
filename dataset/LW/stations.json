@@ -6,7 +6,7 @@
     },
     {
       "id": "LWSK_APP",
-      "parent_id": "SKOPJE-ACC",
+      "parent_id": "LWSS-ACC",
       "controlled_by": ["LWSK_APP"]
     },
     {
