@@ -6,12 +6,12 @@
     },
     {
       "id": "LWSK_APP",
-      "parent_id": "LWSS",
+      "parent_id": "SKOPJE-ACC",
       "controlled_by": ["LWSK_APP"]
     },
     {
       "id": "LWOH_APP",
-      "parent_id": "LWSS",
+      "parent_id": "SKOPJE-ACC",
       "controlled_by": ["LWOH_APP"]
     },
     {
