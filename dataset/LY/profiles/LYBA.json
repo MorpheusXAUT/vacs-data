@@ -24,11 +24,7 @@
             "station_id": "LHCC_WT"
           },
           {
-            "label": [
-              "BUDAPEST",
-              "HC",
-              "EAST LOW"
-            ],
+            "label": ["BUDAPEST", "HC", "EAST LOW"],
             "station_id": "LHCC_EL"
           },
           {
@@ -172,11 +168,7 @@
             "station_id": "LYBE_F_APP"
           },
           {
-            "label": [
-              "BATAJNICA",
-              "APPROACH",
-              "BTA"
-            ],
+            "label": ["BATAJNICA", "APPROACH", "BTA"],
             "station_id": "LYBT_APP"
           },
           {
@@ -202,11 +194,7 @@
             "station_id": "LYNI_APP"
           },
           {
-            "label": [
-              "KRALJEVO",
-              "APPROACH",
-              "KV"
-            ],
+            "label": ["KRALJEVO", "APPROACH", "KV"],
             "station_id": "LYKV_APP"
           },
           {
@@ -216,11 +204,7 @@
             "label": []
           },
           {
-            "label": [
-              "PRISTINA",
-              "APPROACH",
-              "PR"
-            ],
+            "label": ["PRISTINA", "APPROACH", "PR"],
             "station_id": "BKPR_APP"
           },
           {
@@ -243,22 +227,14 @@
             "station_id": "LYBE_GND"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "DELIVERY",
-              "BGD"
-            ],
+            "label": ["BEOGRAD", "DELIVERY", "BGD"],
             "station_id": "LYBE_DEL"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "BATAJNICA",
-              "TOWER",
-              "BTT"
-            ],
+            "label": ["BATAJNICA", "TOWER", "BTT"],
             "station_id": "LYBT_TWR"
           },
           {
@@ -286,11 +262,7 @@
             "label": []
           },
           {
-            "label": [
-              "PODGORICA",
-              "TOWER",
-              "PGT"
-            ],
+            "label": ["PODGORICA", "TOWER", "PGT"],
             "station_id": "LYPG_TWR"
           },
           {
