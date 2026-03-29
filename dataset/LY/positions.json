@@ -4,7 +4,8 @@
       "id": "KFOR_CTR",
       "prefixes": ["KFOR"],
       "frequency": "133.185",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "KFOR"
     },
     {
       "id": "LYBA_W_CTR",
@@ -66,21 +67,22 @@
       "id": "BKPR_APP",
       "prefixes": ["BKPR"],
       "frequency": "136.300",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "KFOR"
     },
     {
       "id": "LYBE_APP",
       "prefixes": ["LYBE"],
       "frequency": "133.100",
       "facility_type": "APP",
-      "profile_id": "LYBA"
+      "profile_id": "LYBE"
     },
     {
       "id": "LYBE_F_APP",
       "prefixes": ["LYBE"],
       "frequency": "119.100",
       "facility_type": "APP",
-      "profile_id": "LYBA"
+      "profile_id": "LYBE"
     },
     {
       "id": "LYBT_APP",
@@ -128,14 +130,15 @@
       "id": "BKPR_TWR",
       "prefixes": ["BKPR"],
       "frequency": "126.550",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "profile_id": "KFOR"
     },
     {
       "id": "LYBE_TWR",
       "prefixes": ["LYBE"],
       "frequency": "118.100",
       "facility_type": "TWR",
-      "profile_id": "LYBA"
+      "profile_id": "LYBE"
     },
     {
       "id": "LYBT_TWR",
@@ -183,21 +186,22 @@
       "id": "BKPR_GND",
       "prefixes": ["BKPR"],
       "frequency": "128.830",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "profile_id": "KFOR"
     },
     {
       "id": "LYBE_GND",
       "prefixes": ["LYBE"],
       "frequency": "118.300",
       "facility_type": "GND",
-      "profile_id": "LYBA"
+      "profile_id": "LYBE"
     },
     {
       "id": "LYBE_DEL",
       "prefixes": ["LYBE"],
       "frequency": "121.975",
       "facility_type": "DEL",
-      "profile_id": "LYBA"
+      "profile_id": "LYBE"
     }
   ]
 }
