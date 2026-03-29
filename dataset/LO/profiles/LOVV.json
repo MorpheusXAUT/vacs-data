@@ -731,30 +731,6 @@
                   {
                     "label": ["LJMB", "APP"],
                     "station_id": "LJMB_APP"
-                  },
-                  {
-                    "label": ["ADR", "WEST", "UPP"],
-                    "station_id": "ADRIA-WEST-UPPER"
-                  },
-                  {
-                    "label": ["ADR", "UPP"],
-                    "station_id": "ADRIA-UPPER"
-                  },
-                  {
-                    "label": ["ADR", "EAST", "UPP"],
-                    "station_id": "ADRIA-EAST-UPPER"
-                  },
-                  {
-                    "label": ["ADR", "WEST"],
-                    "station_id": "ADRIA-WEST"
-                  },
-                  {
-                    "label": ["ADR"],
-                    "station_id": "ADRIA"
-                  },
-                  {
-                    "label": ["ADR", "EAST"],
-                    "station_id": "ADRIA-EAST"
                   }
                 ],
                 "rows": 6
@@ -912,30 +888,6 @@
                   {
                     "label": ["ZAG APP", "200-", "PLC"],
                     "station_id": "LDZA_APP"
-                  },
-                  {
-                    "label": ["ADR", "WEST", "UPP"],
-                    "station_id": "ADRIA-WEST-UPPER"
-                  },
-                  {
-                    "label": ["ADR", "UPP"],
-                    "station_id": "ADRIA-UPPER"
-                  },
-                  {
-                    "label": ["ADR", "EAST", "UPP"],
-                    "station_id": "ADRIA-EAST-UPPER"
-                  },
-                  {
-                    "label": ["ADR", "WEST"],
-                    "station_id": "ADRIA-WEST"
-                  },
-                  {
-                    "label": ["ADR"],
-                    "station_id": "ADRIA"
-                  },
-                  {
-                    "label": ["ADR", "EAST"],
-                    "station_id": "ADRIA-EAST"
                   }
                 ],
                 "rows": 6
