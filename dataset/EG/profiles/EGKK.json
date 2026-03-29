@@ -136,8 +136,7 @@
             "station_id": "EGKK_N_GND"
           },
           {
-            "label": ["AIR"],
-            "station_id": "EGKK_TWR"
+            "label": []
           },
           {
             "label": []
@@ -150,7 +149,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["AIR"],
+            "station_id": "EGKK_TWR"
           },
           {
             "label": []
