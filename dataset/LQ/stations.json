@@ -2,7 +2,7 @@
   "stations": [
     {
       "id": "LQSB-ACC",
-      "controlled_by": ["LQSB_CTR"]
+      "controlled_by": ["LQSB_CTR", "ADR_W_CTR", "ADR_CTR"]
     },
     {
       "id": "LQSB-INFORMATION",

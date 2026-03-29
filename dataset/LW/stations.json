@@ -2,7 +2,7 @@
   "stations": [
     {
       "id": "LWSS-ACC",
-      "controlled_by": ["LWSS_CTR"]
+      "controlled_by": ["LWSS_CTR", "ADR_E_CTR", "ADR_CTR"]
     },
     {
       "id": "LWSK_APP",
