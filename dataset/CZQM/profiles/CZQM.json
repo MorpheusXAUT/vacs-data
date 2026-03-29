@@ -147,23 +147,23 @@
                     "rows": 5,
                     "keys": [
                       {
-                        "label": ["QM", "132.2"],
+                        "label": ["QM"],
                         "station_id": "CZQM-CTR"
                       },
                       {
-                        "label": ["QM LO", "124.4"],
+                        "label": ["QM", "LO"],
                         "station_id": "CZQM-QM"
                       },
                       {
-                        "label": ["SJ LO", "124.3"],
+                        "label": ["SJ", "LO"],
                         "station_id": "CZQM-SJ"
                       },
                       {
-                        "label": ["QM DG", "123.9"],
+                        "label": ["QM", "DG"],
                         "station_id": "CZQM-DG"
                       },
                       {
-                        "label": ["QM ZV", "133.35"],
+                        "label": ["QM", "ZV"],
                         "station_id": "CZQM-ZV"
                       },
                       {
@@ -182,38 +182,38 @@
                         "label": ""
                       },
                       {
-                        "label": ["QM 1", "123.8"],
+                        "label": ["QM", "1"],
                         "station_id": "CZQM-1-CTR"
                       },
                       {
-                        "label": ["QM 2", "132.7"],
+                        "label": ["QM", "2"],
                         "station_id": "CZQM-2-CTR"
                       },
                       {
-                        "label": ["QM 3", "135.65"],
+                        "label": ["QM", "3"],
                         "station_id": "CZQM-3-CTR"
                       },
                       {
-                        "label": ["QM 4", "123.7"],
+                        "label": ["QM", "4"],
                         "station_id": "CZQM-4-CTR"
                       },
                       {
                         "label": ""
                       },
                       {
-                        "label": ["QM 5", "126.45"],
+                        "label": ["QM", "5"],
                         "station_id": "CZQM-5-CTR"
                       },
                       {
-                        "label": ["QM 6", "125.75"],
+                        "label": ["QM", "6"],
                         "station_id": "CZQM-6-CTR"
                       },
                       {
-                        "label": ["QM 7", "132.8"],
+                        "label": ["QM", "7"],
                         "station_id": "CZQM-7-CTR"
                       },
                       {
-                        "label": ["QM 8", "132.25"],
+                        "label": ["QM", "8"],
                         "station_id": "CZQM-8-CTR"
                       },
                       {
@@ -233,26 +233,26 @@
                         "rows": 5,
                         "keys": [
                           {
-                            "label": ["HZ APP", "119.2"],
+                            "label": ["HZ", "APP"],
                             "station_id": "CYHZ-TMA"
                           },
                           {
-                            "label": ["HZ TWR", "118.4"],
+                            "label": ["HZ", "TWR"],
                             "station_id": "CYHZ-TWR"
                           },
                           {
-                            "label": ["HZ GND", "121.9"],
+                            "label": ["HZ", "GND"],
                             "station_id": "CYHZ-GND"
                           },
                           {
-                            "label": ["HZ DEL", "123.95"],
+                            "label": ["HZ", "DEL"],
                             "station_id": "CYHZ-DEL"
                           },
                           {
                             "label": ""
                           },
                           {
-                            "label": ["HZ FI", "128.55"],
+                            "label": ["HZ", "FI"],
                             "station_id": "CYHZ-TMA-FI"
                           },
                           {
@@ -277,15 +277,15 @@
                         "rows": 5,
                         "keys": [
                           {
-                            "label": ["QM LO", "124.4"],
+                            "label": ["QM", "LO"],
                             "station_id": "CZQM-QM"
                           },
                           {
-                            "label": ["QM TWR", "120.8"],
+                            "label": ["QM", "TWR"],
                             "station_id": "CYQM-TWR"
                           },
                           {
-                            "label": ["QM GND", "121.8"],
+                            "label": ["QM", "GND"],
                             "station_id": "CYQM-GND"
                           },
                           {
@@ -312,15 +312,15 @@
                         "rows": 5,
                         "keys": [
                           {
-                            "label": ["SJ LO", "124.3"],
+                            "label": ["SJ", "LO"],
                             "station_id": "CZQM-SJ"
                           },
                           {
-                            "label": ["FC TWR", "119.0"],
+                            "label": ["FC", "TWR"],
                             "station_id": "CYFC-TWR"
                           },
                           {
-                            "label": ["FC GND", "121.7"],
+                            "label": ["FC", "GND"],
                             "station_id": "CYFC-GND"
                           },
                           {
@@ -347,18 +347,18 @@
                     "rows": 5,
                     "keys": [
                       {
-                        "label": ["QX", "132.1"],
+                        "label": ["QX"],
                         "station_id": "CZQX-CTR"
                       },
                       {
                         "label": ""
                       },
                       {
-                        "label": ["QX G", "135.15"],
+                        "label": ["QX", "G"],
                         "station_id": "CZQX-G-CTR"
                       },
                       {
-                        "label": ["QX O", "128.075"],
+                        "label": ["QX", "O"],
                         "station_id": "CZQX-O-CTR"
                       },
                       {
@@ -380,34 +380,34 @@
                         "label": ""
                       },
                       {
-                        "label": ["QX 1", "132.3"],
+                        "label": ["QX", "1"],
                         "station_id": "CZQX-1-CTR"
                       },
                       {
-                        "label": ["QX 2", "133.0"],
+                        "label": ["QX", "2"],
                         "station_id": "CZQX-2-CTR"
                       },
                       {
-                        "label": ["QX 3", "125.075"],
+                        "label": ["QX", "3"],
                         "station_id": "CZQX-3-CTR"
                       },
                       {
-                        "label": ["QX 4", "128.175"],
+                        "label": ["QX", "4"],
                         "station_id": "CZQX-4-CTR"
                       },
                       {
                         "label": ""
                       },
                       {
-                        "label": ["QX 5", "132.05"],
+                        "label": ["QX", "5"],
                         "station_id": "CZQX-5-CTR"
                       },
                       {
-                        "label": ["QX 6", "119.85"],
+                        "label": ["QX", "6"],
                         "station_id": "CZQX-6-CTR"
                       },
                       {
-                        "label": ["QX 7", "132.5"],
+                        "label": ["QX", "7"],
                         "station_id": "CZQX-7-CTR"
                       },
                       {
@@ -430,15 +430,15 @@
                         "rows": 5,
                         "keys": [
                           {
-                            "label": ["QX APP", "128.5"],
+                            "label": ["QX", "APP"],
                             "station_id": "CYQX-APP"
                           },
                           {
-                            "label": ["QX TWR", "118.1"],
+                            "label": ["QX", "TWR"],
                             "station_id": "CYQX-TWR"
                           },
                           {
-                            "label": ["QX GND", "121.9"],
+                            "label": ["QX", "GND"],
                             "station_id": "CYQX-GND"
                           },
                           {
@@ -457,15 +457,15 @@
                         "rows": 5,
                         "keys": [
                           {
-                            "label": ["YT APP", "133.15"],
+                            "label": ["YT", "APP"],
                             "station_id": "CYYT-APP"
                           },
                           {
-                            "label": ["YT TWR", "120.6"],
+                            "label": ["YT", "TWR"],
                             "station_id": "CYYT-TWR"
                           },
                           {
-                            "label": ["YT GND", "121.9"],
+                            "label": ["YT", "GND"],
                             "station_id": "CYYT-GND"
                           },
                           {
@@ -490,11 +490,11 @@
                         "rows": 5,
                         "keys": [
                           {
-                            "label": ["LFVP APP", "119.1"],
+                            "label": ["LFVP", "APP"],
                             "station_id": "LFVP-APP"
                           },
                           {
-                            "label": ["LFVP TWR", "118.5"],
+                            "label": ["LFVP", "TWR"],
                             "station_id": "LFVP-TWR"
                           },
                           {
@@ -528,7 +528,13 @@
           "page": {
             "client_page": {
               "include": ["CZQM", "CZQX"],
-              "exclude": ["*_DEL", "*_GND", "*_TWR", "*_APP", "*_CTR"]
+              "exclude": [
+                "*_DEL",
+                "*_GND",
+                "*_TWR",
+                "*_APP",
+                "*_CTR"
+              ]
             },
             "rows": 5
           }
