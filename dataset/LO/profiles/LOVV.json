@@ -242,7 +242,8 @@
                     "label": ["WW", "MET"]
                   },
                   {
-                    "label": ["LJU", "FIC"]
+                    "label": ["LJU", "FIC"],
+                    "station_id": "LJLA-INFORMATION"
                   },
                   {
                     "label": ["FIC-S", "PLC"],
@@ -262,7 +263,8 @@
                     "label": ["RCC"]
                   },
                   {
-                    "label": ["LJMB", "APP"]
+                    "label": ["LJMB", "APP"],
+                    "station_id": "LJMB_APP"
                   },
                   {
                     "label": ["FIC-S", "EC"],
@@ -709,22 +711,50 @@
               "page": {
                 "keys": [
                   {
-                    "label": ["LJU", "121.330", "PLC"]
+                    "label": []
                   },
                   {
-                    "label": ["LJU", "128.880", "PLC"]
+                    "label": []
                   },
                   {
-                    "label": ["LJU", "119.885", "PLC"]
+                    "label": ["LJU", "UPP"],
+                    "station_id": "LJLA-UPPER"
                   },
                   {
-                    "label": ["LJU", "130.235", "PLC"]
+                    "label": ["LJU"],
+                    "station_id": "LJLA"
                   },
                   {
-                    "label": ["LJU", "135.280", "PLC"]
+                    "label": ["LJLJ", "APP"],
+                    "station_id": "LJLJ_APP"
                   },
                   {
-                    "label": ["LJMB", "APP"]
+                    "label": ["LJMB", "APP"],
+                    "station_id": "LJMB_APP"
+                  },
+                  {
+                    "label": ["ADR", "WEST", "UPP"],
+                    "station_id": "ADRIA-WEST-UPPER"
+                  },
+                  {
+                    "label": ["ADR", "UPP"],
+                    "station_id": "ADRIA-UPPER"
+                  },
+                  {
+                    "label": ["ADR", "EAST", "UPP"],
+                    "station_id": "ADRIA-EAST-UPPER"
+                  },
+                  {
+                    "label": ["ADR", "WEST"],
+                    "station_id": "ADRIA-WEST"
+                  },
+                  {
+                    "label": ["ADR"],
+                    "station_id": "ADRIA"
+                  },
+                  {
+                    "label": ["ADR", "EAST"],
+                    "station_id": "ADRIA-EAST"
                   }
                 ],
                 "rows": 6
@@ -864,19 +894,48 @@
                     "label": []
                   },
                   {
-                    "label": ["ZAG", "TOP", "PLC"]
+                    "label": ["ZAG", "TOP", "PLC"],
+                    "station_id": "LDZO-NORTH-UPPER"
                   },
                   {
-                    "label": ["ZAG", "HIGH", "PLC"]
+                    "label": ["ZAG", "HIGH", "PLC"],
+                    "station_id": "LDZO-NORTH-UPPER"
                   },
                   {
-                    "label": ["ZAG", "UPP", "PLC"]
+                    "label": ["ZAG", "UPP", "PLC"],
+                    "station_id": "LDZO-NORTH-UPPER"
                   },
                   {
-                    "label": ["ZAG", "LOW", "PLC"]
+                    "label": ["ZAG", "LOW", "PLC"],
+                    "station_id": "LDZO-NORTH"
                   },
                   {
-                    "label": ["ZAG APP", "200-", "PLC"]
+                    "label": ["ZAG APP", "200-", "PLC"],
+                    "station_id": "LDZA_APP"
+                  },
+                  {
+                    "label": ["ADR", "WEST", "UPP"],
+                    "station_id": "ADRIA-WEST-UPPER"
+                  },
+                  {
+                    "label": ["ADR", "UPP"],
+                    "station_id": "ADRIA-UPPER"
+                  },
+                  {
+                    "label": ["ADR", "EAST", "UPP"],
+                    "station_id": "ADRIA-EAST-UPPER"
+                  },
+                  {
+                    "label": ["ADR", "WEST"],
+                    "station_id": "ADRIA-WEST"
+                  },
+                  {
+                    "label": ["ADR"],
+                    "station_id": "ADRIA"
+                  },
+                  {
+                    "label": ["ADR", "EAST"],
+                    "station_id": "ADRIA-EAST"
                   }
                 ],
                 "rows": 6
