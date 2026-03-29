@@ -10,7 +10,7 @@
       "id": "LWSK_APP",
       "prefixes": ["LWSK"],
       "frequency": "120.300",
-      "facility_type": "APR"
+      "facility_type": "APP"
     },
     {
       "id": "LWOH_APP",
