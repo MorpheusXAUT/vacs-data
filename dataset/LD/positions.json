@@ -166,6 +166,7 @@
       "id": "LDDU_DEL",
       "prefixes": ["LDDU"],
       "frequency": "125.400"
+      "facility_type": "DEL"
     },
     {
       "id": "LDZD_DEL",
