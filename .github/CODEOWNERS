@@ -38,7 +38,9 @@ CONTRIBUTING.md @vacs-project/maintainers
 /dataset/FY/ @vacs-project/dataset-maintainers-vatssa
 /dataset/GV/ @vacs-project/dataset-maintainers-vatssa
 /dataset/KHLJ/ @vacs-project/dataset-maintainers-khlj
+/dataset/LA/ @vacs-project/dataset-maintainers-adr
 /dataset/LB/ @vacs-project/dataset-maintainers-lb
+/dataset/LD/ @vacs-project/dataset-maintainers-adr
 /dataset/LH/ @vacs-project/dataset-maintainers-lh
 /dataset/LI/ @vacs-project/dataset-maintainers-li
 /dataset/LM/ @vacs-project/dataset-maintainers-lm
@@ -46,6 +48,7 @@ CONTRIBUTING.md @vacs-project/maintainers
 /dataset/LPPC/ @vacs-project/dataset-maintainers-lppc
 /dataset/LR/ @vacs-project/dataset-maintainers-lr
 /dataset/LU/ @vacs-project/dataset-maintainers-lr
+/dataset/LW/ @vacs-project/dataset-maintainers-adr
 /dataset/LY/ @vacs-project/dataset-maintainers-adr
 /dataset/LZ/ @vacs-project/dataset-maintainers-lz
 /dataset/MD/ @vacs-project/dataset-maintainers-vcmc
