@@ -1,0 +1,389 @@
+{
+  "positions": [
+    {
+      "id": "VCBI_GND",
+      "prefixes": ["VCBI"],
+      "frequency": "121.900",
+      "facility_type": "GND",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCBI_TWR",
+      "prefixes": ["VCBI"],
+      "frequency": "118.700",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCC_TWR",
+      "prefixes": ["VCCC"],
+      "frequency": "119.100",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCRI_GND",
+      "prefixes": ["VCRI"],
+      "frequency": "121.700",
+      "facility_type": "GND",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCRI_TWR",
+      "prefixes": ["VCRI"],
+      "frequency": "119.850",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCA_TWR",
+      "prefixes": ["VCCA"],
+      "frequency": "122.300",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCB_TWR",
+      "prefixes": ["VCCB"],
+      "frequency": "123.700",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCG_TWR",
+      "prefixes": ["VCCG"],
+      "frequency": "118.075",
+      "facility_type": "TWR",
+      "profile_id": "VHHK"
+    },
+    {
+      "id": "VCCH_TWR",
+      "prefixes": ["VCCG"],
+      "frequency": "118.075",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCJ_TWR",
+      "prefixes": ["VCCJ"],
+      "frequency": "118.800",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCN_TWR",
+      "prefixes": ["VCCN"],
+      "frequency": "118.400",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCS_TWR",
+      "prefixes": ["VCCS"],
+      "frequency": "118.900",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCT_TWR",
+      "prefixes": ["VCCT"],
+      "frequency": "118.550",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCV_TWR",
+      "prefixes": ["VCCV"],
+      "frequency": "118.100",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCW_TWR",
+      "prefixes": ["VCCW"],
+      "frequency": "118.100",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMM_GND",
+      "prefixes": ["VRMM"],
+      "frequency": "121.600",
+      "facility_type": "GND",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMM_TWR",
+      "prefixes": ["VRMM"],
+      "frequency": "118.100",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMV_TWR",
+      "prefixes": ["VRMV"],
+      "frequency": "124.350",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMO_TWR",
+      "prefixes": ["VRMO"],
+      "frequency": "118.300",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMR_TWR",
+      "prefixes": ["VRMR"],
+      "frequency": "118.150",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMT_TWR",
+      "prefixes": ["VRMT"],
+      "frequency": "119.400",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMH_TWR",
+      "prefixes": ["VRMH"],
+      "frequency": "118.500",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMD_TWR",
+      "prefixes": ["VRMD"],
+      "frequency": "118.500",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VREI_I_TWR",
+      "prefixes": ["VREI"],
+      "frequency": "118.350",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRGD_I_TWR",
+      "prefixes": ["VRGD"],
+      "frequency": "118.950",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRNT_I_TWR",
+      "prefixes": ["VRNT"],
+      "frequency": "118.400",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMU_I_TWR",
+      "prefixes": ["VRMU"],
+      "frequency": "118.550",
+      "facility_type": "TWR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCBI_APP",
+      "prefixes": ["VCBI"],
+      "frequency": "132.400",
+      "facility_type": "APP",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCRI_APP",
+      "prefixes": ["VCRI"],
+      "frequency": "124.350",
+      "facility_type": "APP",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCA_APP",
+      "prefixes": ["VCCA"],
+      "frequency": "126.700",
+      "facility_type": "APP",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMM_APP",
+      "prefixes": ["VRMM"],
+      "frequency": "119.700",
+      "facility_type": "APP",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCF_CTR",
+      "prefixes": ["VCCF"],
+      "frequency": "124.900",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VCCF_OC_CTR",
+      "prefixes": ["VCCF"],
+      "frequency": "126.000",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMF_CTR",
+      "prefixes": ["VRMF"],
+      "frequency": "123.900",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VRMF_S_CTR",
+      "prefixes": ["VRMF"],
+      "frequency": "127.100",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VOMM_CTR",
+      "prefixes": ["VOMM"],
+      "frequency": "120.750",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VOMM_S_CTR",
+      "prefixes": ["VOMM"],
+      "frequency": "125.300",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VOTV_CTR",
+      "prefixes": ["VOTV"],
+      "frequency": "125.950",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VOMF_UTV_CTR",
+      "prefixes": ["VOMF"],
+      "frequency": "132.500",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VOMF_UAC_CTR",
+      "prefixes": ["VOMF"],
+      "frequency": "128.100",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VOMF_UMM_CTR",
+      "prefixes": ["VOMF"],
+      "frequency": "134.250",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VOMF_OC_CTR",
+      "prefixes": ["VOMF"],
+      "frequency": "126.150",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VOMF_CTR",
+      "prefixes": ["VOMF"],
+      "frequency": "132.200",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VABF_OC_CTR",
+      "prefixes": ["VABF"],
+      "frequency": "132.600",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "VABF_CTR",
+      "prefixes": ["VABF"],
+      "frequency": "132.700",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "ASIA_W_FSS",
+      "prefixes": ["ASIA"],
+      "frequency": "135.400",
+      "facility_type": "FSS",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "WIIF_CTR",
+      "prefixes": ["WIIF"],
+      "frequency": "132.150",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "WIIF_IS_CTR",
+      "prefixes": ["WIIF"],
+      "frequency": "132.850",
+      "facility_type": "CTR",
+      "profile_id": "VHHK"
+    },
+    {
+      "id": "WIIF_BC_CTR",
+      "prefixes": ["WIIF"],
+      "frequency": "128.300",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "WIIF_MN_CTR",
+      "prefixes": ["WIIF"],
+      "frequency": "133.200",
+      "facility_type": "CTR",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "FIMM_FSS",
+      "prefixes": ["FIMM"],
+      "frequency": "133.050",
+      "facility_type": "FSS",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "YMMM_FSS",
+      "prefixes": ["ML"],
+      "frequency": "129.250",
+      "facility_type": "FSS",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "ASEA_W_FSS",
+      "prefixes": ["ASEA"],
+      "frequency": "134.255",
+      "facility_type": "FSS",
+      "profile_id": "VHHK"
+    },
+    {
+      "id": "ASEA_FSS",
+      "prefixes": ["ASEA"],
+      "frequency": "135.350",
+      "facility_type": "FSS",
+      "profile_id": "SRM"
+    },
+    {
+      "id": "AFRS_FSS",
+      "prefixes": ["AFRS"],
+      "frequency": "134.575",
+      "facility_type": "FSS",
+      "profile_id": "SRM"
+    }
+  ]
+}
