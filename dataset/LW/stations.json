@@ -11,7 +11,7 @@
     },
     {
       "id": "LWOH_APP",
-      "parent_id": "SKOPJE-ACC",
+      "parent_id": "LWSS-ACC",
       "controlled_by": ["LWOH_APP"]
     },
     {
