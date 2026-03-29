@@ -528,13 +528,7 @@
           "page": {
             "client_page": {
               "include": ["CZQM", "CZQX"],
-              "exclude": [
-                "*_DEL",
-                "*_GND",
-                "*_TWR",
-                "*_APP",
-                "*_CTR"
-              ]
+              "exclude": ["*_DEL", "*_GND", "*_TWR", "*_APP", "*_CTR"]
             },
             "rows": 5
           }
