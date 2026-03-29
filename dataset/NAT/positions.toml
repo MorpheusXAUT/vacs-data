@@ -1,4 +1,20 @@
 [[positions]]
+id = "CZQO_CTR"
+prefixes = ["CZQO"]
+frequency = "131.700"
+facility_type = "CTR"
+profile_id = "NAT"
+default_call_sources = ["Gander"]
+
+[[positions]]
+id = "CZQO_DEL"
+prefixes = ["CZQO"]
+frequency = "128.700"
+facility_type = "DEL"
+profile_id = "NAT"
+default_call_sources = ["Gander_DEL"]
+
+[[positions]]
 id = "CZQO_A_CTR"
 prefixes = ["CZQO"]
 frequency = "131.575"
@@ -31,14 +47,6 @@ profile_id = "NAT"
 default_call_sources = ["Gander_DEL_B"]
 
 [[positions]]
-id = "CZQO_CTR"
-prefixes = ["CZQO"]
-frequency = "131.700"
-facility_type = "CTR"
-profile_id = "NAT"
-default_call_sources = ["Gander"]
-
-[[positions]]
 id = "CZQO_C_CTR"
 prefixes = ["CZQO"]
 frequency = "131.775"
@@ -53,14 +61,6 @@ frequency = "128.450"
 facility_type = "DEL"
 profile_id = "NAT"
 default_call_sources = ["Gander_DEL_C"]
-
-[[positions]]
-id = "CZQO_DEL"
-prefixes = ["CZQO"]
-frequency = "128.700"
-facility_type = "DEL"
-profile_id = "NAT"
-default_call_sources = ["Gander_DEL"]
 
 [[positions]]
 id = "CZQO_D_CTR"
@@ -103,7 +103,23 @@ profile_id = "NAT"
 default_call_sources = ["Gander_G"]
 
 [[positions]]
-id = "EGGX_1_CTR"
+id = "EGGX_CTR"
+prefixes = ["EGGX"]
+frequency = "131.800"
+facility_type = "CTR"
+profile_id = "NAT"
+default_call_sources = ["Shanwick"]
+
+[[positions]]
+id = "EGGX_DEL"
+prefixes = ["EGGX"]
+frequency = "127.650"
+facility_type = "DEL"
+profile_id = "NAT"
+default_call_sources = ["Shanwick_DEL"]
+
+[[positions]]
+id = "EGGX_A_CTR"
 prefixes = ["EGGX"]
 frequency = "131.450"
 facility_type = "CTR"
@@ -111,79 +127,7 @@ profile_id = "NAT"
 default_call_sources = ["Shanwick_A"]
 
 [[positions]]
-id = "EGGX_1_DEL"
-prefixes = ["EGGX"]
-frequency = "127.900"
-facility_type = "DEL"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_DEL_A"]
-
-[[positions]]
-id = "EGGX_2_CTR"
-prefixes = ["EGGX"]
-frequency = "131.550"
-facility_type = "CTR"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_B"]
-
-[[positions]]
-id = "EGGX_2_DEL"
-prefixes = ["EGGX"]
-frequency = "123.950"
-facility_type = "DEL"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_DEL_B"]
-
-[[positions]]
-id = "EGGX_3_CTR"
-prefixes = ["EGGX"]
-frequency = "131.650"
-facility_type = "CTR"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_C"]
-
-[[positions]]
-id = "EGGX_3_DEL"
-prefixes = ["EGGX"]
-frequency = "124.175"
-facility_type = "DEL"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_DEL_C"]
-
-[[positions]]
-id = "EGGX_4_CTR"
-prefixes = ["EGGX"]
-frequency = "131.750"
-facility_type = "CTR"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_D"]
-
-[[positions]]
-id = "EGGX_4_DEL"
-prefixes = ["EGGX"]
-frequency = "126.375"
-facility_type = "DEL"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_DEL_D"]
-
-[[positions]]
-id = "EGGX_5_CTR"
-prefixes = ["EGGX"]
-frequency = "131.850"
-facility_type = "CTR"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_F"]
-
-[[positions]]
-id = "EGGX_5_DEL"
-prefixes = ["EGGX"]
-frequency = "128.375"
-facility_type = "DEL"
-profile_id = "NAT"
-default_call_sources = ["Shanwick_DEL_F"]
-
-[[positions]]
-id = "EGGX_A_CTR"
+id = "EGGX_1_CTR"
 prefixes = ["EGGX"]
 frequency = "131.450"
 facility_type = "CTR"
@@ -199,7 +143,23 @@ profile_id = "NAT"
 default_call_sources = ["Shanwick_DEL_A"]
 
 [[positions]]
+id = "EGGX_1_DEL"
+prefixes = ["EGGX"]
+frequency = "127.900"
+facility_type = "DEL"
+profile_id = "NAT"
+default_call_sources = ["Shanwick_DEL_A"]
+
+[[positions]]
 id = "EGGX_B_CTR"
+prefixes = ["EGGX"]
+frequency = "131.550"
+facility_type = "CTR"
+profile_id = "NAT"
+default_call_sources = ["Shanwick_B"]
+
+[[positions]]
+id = "EGGX_2_CTR"
 prefixes = ["EGGX"]
 frequency = "131.550"
 facility_type = "CTR"
@@ -215,15 +175,23 @@ profile_id = "NAT"
 default_call_sources = ["Shanwick_DEL_B"]
 
 [[positions]]
-id = "EGGX_CTR"
+id = "EGGX_2_DEL"
 prefixes = ["EGGX"]
-frequency = "131.800"
-facility_type = "CTR"
+frequency = "123.950"
+facility_type = "DEL"
 profile_id = "NAT"
-default_call_sources = ["Shanwick"]
+default_call_sources = ["Shanwick_DEL_B"]
 
 [[positions]]
 id = "EGGX_C_CTR"
+prefixes = ["EGGX"]
+frequency = "131.650"
+facility_type = "CTR"
+profile_id = "NAT"
+default_call_sources = ["Shanwick_C"]
+
+[[positions]]
+id = "EGGX_3_CTR"
 prefixes = ["EGGX"]
 frequency = "131.650"
 facility_type = "CTR"
@@ -239,15 +207,23 @@ profile_id = "NAT"
 default_call_sources = ["Shanwick_DEL_C"]
 
 [[positions]]
-id = "EGGX_DEL"
+id = "EGGX_3_DEL"
 prefixes = ["EGGX"]
-frequency = "127.650"
+frequency = "124.175"
 facility_type = "DEL"
 profile_id = "NAT"
-default_call_sources = ["Shanwick_DEL"]
+default_call_sources = ["Shanwick_DEL_C"]
 
 [[positions]]
 id = "EGGX_D_CTR"
+prefixes = ["EGGX"]
+frequency = "131.750"
+facility_type = "CTR"
+profile_id = "NAT"
+default_call_sources = ["Shanwick_D"]
+
+[[positions]]
+id = "EGGX_4_CTR"
 prefixes = ["EGGX"]
 frequency = "131.750"
 facility_type = "CTR"
@@ -263,6 +239,14 @@ profile_id = "NAT"
 default_call_sources = ["Shanwick_DEL_D"]
 
 [[positions]]
+id = "EGGX_4_DEL"
+prefixes = ["EGGX"]
+frequency = "126.375"
+facility_type = "DEL"
+profile_id = "NAT"
+default_call_sources = ["Shanwick_DEL_D"]
+
+[[positions]]
 id = "EGGX_F_CTR"
 prefixes = ["EGGX"]
 frequency = "131.850"
@@ -271,7 +255,23 @@ profile_id = "NAT"
 default_call_sources = ["Shanwick_F"]
 
 [[positions]]
+id = "EGGX_5_CTR"
+prefixes = ["EGGX"]
+frequency = "131.850"
+facility_type = "CTR"
+profile_id = "NAT"
+default_call_sources = ["Shanwick_F"]
+
+[[positions]]
 id = "EGGX_F_DEL"
+prefixes = ["EGGX"]
+frequency = "128.375"
+facility_type = "DEL"
+profile_id = "NAT"
+default_call_sources = ["Shanwick_DEL_F"]
+
+[[positions]]
+id = "EGGX_5_DEL"
 prefixes = ["EGGX"]
 frequency = "128.375"
 facility_type = "DEL"
