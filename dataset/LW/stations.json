@@ -1,7 +1,7 @@
 {
   "stations": [
     {
-      "id": "SKOPJE-ACC",
+      "id": "LWSS-ACC",
       "controlled_by": ["LWSS_CTR"]
     },
     {
