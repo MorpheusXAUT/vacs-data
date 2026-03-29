@@ -10,49 +10,57 @@
       "id": "LYBA_W_CTR",
       "prefixes": ["LYBA"],
       "frequency": "128.475",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBA_CTR",
       "prefixes": ["LYBA"],
       "frequency": "123.775",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBA_E_CTR",
       "prefixes": ["LYBA"],
       "frequency": "120.425",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBA_N_CTR",
       "prefixes": ["LYBA"],
       "frequency": "134.025",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBA_UN_CTR",
       "prefixes": ["LYBA"],
       "frequency": "135.355",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBA_UE_CTR",
       "prefixes": ["LYBA"],
       "frequency": "125.925",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBA_UW_CTR",
       "prefixes": ["LYBA"],
       "frequency": "129.025",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBA_U_CTR",
       "prefixes": ["LYBA"],
       "frequency": "129.230",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "LYBA"
     },
     {
       "id": "BKPR_APP",
@@ -64,49 +72,57 @@
       "id": "LYBE_APP",
       "prefixes": ["LYBE"],
       "frequency": "133.100",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBE_F_APP",
       "prefixes": ["LYBE"],
       "frequency": "119.100",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBT_APP",
       "prefixes": ["LYBT"],
       "frequency": "126.050",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYKV_APP",
       "prefixes": ["LYKV"],
       "frequency": "124.925",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYNI_APP",
       "prefixes": ["LYNI"],
       "frequency": "119.525",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYPG_APP",
       "prefixes": ["LYPG"],
       "frequency": "135.150",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYTV_APP",
       "prefixes": ["LYTV"],
       "frequency": "118.000",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYVR_APP",
       "prefixes": ["LYVR"],
       "frequency": "127.050",
-      "facility_type": "APP"
+      "facility_type": "APP",
+      "profile_id": "LYBA"
     },
     {
       "id": "BKPR_TWR",
@@ -118,43 +134,50 @@
       "id": "LYBE_TWR",
       "prefixes": ["LYBE"],
       "frequency": "118.100",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBT_TWR",
       "prefixes": ["LYBT"],
       "frequency": "118.200",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYKV_TWR",
       "prefixes": ["LYKV"],
       "frequency": "127.225",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYNI_TWR",
       "prefixes": ["LYNI"],
       "frequency": "118.950",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYPG_TWR",
       "prefixes": ["LYPG"],
       "frequency": "118.200",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYUZ_TWR",
       "prefixes": ["LYUZ"],
       "frequency": "126.825",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYVR_TWR",
       "prefixes": ["LYVR"],
       "frequency": "126.825",
-      "facility_type": "TWR"
+      "facility_type": "TWR",
+      "profile_id": "LYBA"
     },
     {
       "id": "BKPR_GND",
@@ -166,13 +189,15 @@
       "id": "LYBE_GND",
       "prefixes": ["LYBE"],
       "frequency": "118.300",
-      "facility_type": "GND"
+      "facility_type": "GND",
+      "profile_id": "LYBA"
     },
     {
       "id": "LYBE_DEL",
       "prefixes": ["LYBE"],
       "frequency": "121.975",
-      "facility_type": "DEL"
+      "facility_type": "DEL",
+      "profile_id": "LYBA"
     }
   ]
 }
