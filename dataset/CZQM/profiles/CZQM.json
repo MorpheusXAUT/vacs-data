@@ -237,6 +237,13 @@
                             "station_id": "CYHZ-TMA"
                           },
                           {
+                            "label": [
+                              "HZ",
+                              "FI"
+                            ],
+                            "station_id": "CYHZ-TMA-FI"
+                          },
+                          {
                             "label": ["HZ", "TWR"],
                             "station_id": "CYHZ-TWR"
                           },
@@ -247,25 +254,6 @@
                           {
                             "label": ["HZ", "DEL"],
                             "station_id": "CYHZ-DEL"
-                          },
-                          {
-                            "label": ""
-                          },
-                          {
-                            "label": ["HZ", "FI"],
-                            "station_id": "CYHZ-TMA-FI"
-                          },
-                          {
-                            "label": ""
-                          },
-                          {
-                            "label": ""
-                          },
-                          {
-                            "label": ""
-                          },
-                          {
-                            "label": ""
                           }
                         ]
                       }
