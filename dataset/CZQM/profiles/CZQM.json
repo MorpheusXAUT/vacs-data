@@ -237,10 +237,7 @@
                             "station_id": "CYHZ-TMA"
                           },
                           {
-                            "label": [
-                              "HZ",
-                              "FI"
-                            ],
+                            "label": ["HZ", "FI"],
                             "station_id": "CYHZ-TMA-FI"
                           },
                           {
