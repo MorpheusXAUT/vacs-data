@@ -27,19 +27,11 @@
             "station_id": "LATI-ACC"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "RADAR UP",
-              "BGU"
-            ],
+            "label": ["BEOGRAD", "RADAR UP", "BGU"],
             "station_id": "LYBA-UPPER"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "WEST UP",
-              "BGUW"
-            ],
+            "label": ["BEOGRAD", "WEST UP", "BGUW"],
             "station_id": "LYBA-UPPER-WEST"
           },
           {
@@ -77,11 +69,7 @@
         "rows": 4,
         "keys": [
           {
-            "label": [
-              "TIRANA",
-              "APPROACH",
-              "TIR"
-            ],
+            "label": ["TIRANA", "APPROACH", "TIR"],
             "station_id": "LATI_APP"
           },
           {
@@ -89,11 +77,7 @@
             "station_id": "LYPG_APP"
           },
           {
-            "label": [
-              "SKOPJE",
-              "APPROACH",
-              "SKA"
-            ],
+            "label": ["SKOPJE", "APPROACH", "SKA"],
             "station_id": "LWSK_APP"
           },
           {
@@ -101,11 +85,7 @@
             "station_id": "LWOH_APP"
           },
           {
-            "label": [
-              "PRISTINA",
-              "APPROACH",
-              "PR"
-            ],
+            "label": ["PRISTINA", "APPROACH", "PR"],
             "station_id": "BKPR_APP"
           },
           {

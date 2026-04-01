@@ -151,11 +151,7 @@
             "station_id": "LHCC_CTR"
           },
           {
-            "label": [
-              "BUDAPEST",
-              "W LOW",
-              "LHCW"
-            ],
+            "label": ["BUDAPEST", "W LOW", "LHCW"],
             "station_id": "LHCC_WL"
           },
           {
@@ -163,19 +159,11 @@
             "station_id": "LHCC_WU"
           },
           {
-            "label": [
-              "BUDAPEST",
-              "W TOP",
-              "LHC2"
-            ],
+            "label": ["BUDAPEST", "W TOP", "LHC2"],
             "station_id": "LHCC_WT"
           },
           {
-            "label": [
-              "BUDAPEST",
-              "S LOW",
-              "LHCS"
-            ],
+            "label": ["BUDAPEST", "S LOW", "LHCS"],
             "station_id": "LHCC_SL"
           },
           {
@@ -221,11 +209,7 @@
             "station_id": "LYBA-NORTH"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "NORTH UP",
-              "BGUN"
-            ],
+            "label": ["BEOGRAD", "NORTH UP", "BGUN"],
             "station_id": "LYBA-UPPER-NORTH"
           },
           {
@@ -233,11 +217,7 @@
             "station_id": "LYBA-WEST"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "WEST UP",
-              "BGUW"
-            ],
+            "label": ["BEOGRAD", "WEST UP", "BGUW"],
             "station_id": "LYBA-UPPER-WEST"
           },
           {
@@ -293,11 +273,7 @@
             "station_id": "LDDU_APP"
           },
           {
-            "label": [
-              "DUBROVNIK",
-              "FINAL",
-              "DRF"
-            ],
+            "label": ["DUBROVNIK", "FINAL", "DRF"],
             "station_id": "LDDU_F_APP"
           },
           {

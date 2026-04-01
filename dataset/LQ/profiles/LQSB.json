@@ -28,43 +28,23 @@
             "station_id": "LDZO-SOUTH"
           },
           {
-            "label": [
-              "ZAGREB",
-              "RADAR UP",
-              "ZGU"
-            ],
+            "label": ["ZAGREB", "RADAR UP", "ZGU"],
             "station_id": "LDZO-UPPER"
           },
           {
-            "label": [
-              "ZAGREB",
-              "NORTH UP",
-              "ZGUN"
-            ],
+            "label": ["ZAGREB", "NORTH UP", "ZGUN"],
             "station_id": "LDZO-NORTH-UPPER"
           },
           {
-            "label": [
-              "ZAGREB",
-              "CENTRAL UP",
-              "ZGUC"
-            ],
+            "label": ["ZAGREB", "CENTRAL UP", "ZGUC"],
             "station_id": "LDZO-CENTRAL-UPPER"
           },
           {
-            "label": [
-              "ZAGREB",
-              "WEST UP",
-              "ZGUW"
-            ],
+            "label": ["ZAGREB", "WEST UP", "ZGUW"],
             "station_id": "LDZO-WEST-UPPER"
           },
           {
-            "label": [
-              "ZAGREB",
-              "SOUTH UP",
-              "ZGUS"
-            ],
+            "label": ["ZAGREB", "SOUTH UP", "ZGUS"],
             "station_id": "LDZO-SOUTH-UPPER"
           },
           {
@@ -90,19 +70,11 @@
             "station_id": "LYBA-UPPER"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "NORTH UP",
-              "BGUN"
-            ],
+            "label": ["BEOGRAD", "NORTH UP", "BGUN"],
             "station_id": "LYBA-UPPER-NORTH"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "WEST UP",
-              "BGUW"
-            ],
+            "label": ["BEOGRAD", "WEST UP", "BGUW"],
             "station_id": "LYBA-UPPER-WEST"
           },
           {
@@ -170,11 +142,7 @@
             "station_id": "LYBE_APP"
           },
           {
-            "label": [
-              "KRALJEVO",
-              "APPROACH",
-              "KV"
-            ],
+            "label": ["KRALJEVO", "APPROACH", "KV"],
             "station_id": "LYKV_APP"
           },
           {
