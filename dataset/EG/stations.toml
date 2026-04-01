@@ -620,11 +620,11 @@ controlled_by = ["LON_C_CTR"]
 
 [[stations]]
 id = "EG-Talla"
-parent_id = "STC_E_CTR"
+parent_id = "SCL_TLA_CTR"
 
 [[stations]]
 id = "EG-Galloway"
-parent_id = "STC_W_CTR"
+parent_id = "SCL_GAL_CTR"
 
 [[stations]]
 id = "EG-Tay"
@@ -633,12 +633,12 @@ parent_id = "SCL_TAY_CTR"
 [[stations]]
 id = "EG-Moray-Low"
 parent_id = "EG-Moray-High"
-controlled_by = ["SCO_L_CTR"]
+controlled_by = ["SCL_CTR"]
 
 [[stations]]
 id = "EG-Hebrides-Low"
 parent_id = "EG-Hebrides-High"
-controlled_by = ["SCO_L_CTR"]
+controlled_by = ["SCL_CTR"]
 
 # *****ATTENTION!!!*****
 # Westcoast sector split into pseudo-sectors, when Scottish Low isn't online, the respective upper
@@ -649,32 +649,32 @@ controlled_by = ["SCO_L_CTR"]
 [[stations]]
 id = "EG-Westcoast-Central"
 parent_id = "EG-Central"
-controlled_by = ["SCO_L_CTR"]
+controlled_by = ["SCL_CTR"]
 
 [[stations]]
 id = "EG-Westcoast-Rathlin"
 parent_id = "EG-Rathlin-West"
-controlled_by = ["SCO_L_CTR"]
+controlled_by = ["SCL_CTR"]
 
 [[stations]]
 id = "EG-Antrim"
-parent_id = "STC_A_CTR"
+parent_id = "SCL_ANT_CTR"
 
 [[stations]]
 id = "EG-Rathlin-East"
-parent_id = "SCO_RE_CTR"
+parent_id = "SCO_RAT_CTR"
 
 [[stations]]
 id = "EG-Rathlin-West"
-parent_id = "SCO_R_CTR"
+parent_id = "SCO_RAT_CTR"
 
 [[stations]]
 id = "EG-Central"
-parent_id = "SCO_C_CTR"
+parent_id = "SCO_CEN_CTR"
 
 [[stations]]
 id = "EG-Hebrides-High"
-parent_id = "SCO_EH_CTR"
+parent_id = "SCO_HEB_CTR"
 
 [[stations]]
 id = "EG-Moray-High"
@@ -682,7 +682,7 @@ parent_id = "SCO_N_CTR"
 
 [[stations]]
 id = "EG-Humber"
-parent_id = "SCO_H_CTR"
+parent_id = "SCO_HUM_CTR"
 
 [[stations]]
 id = "EG-Tyne"
@@ -708,51 +708,46 @@ id = "SCO_CTR"
 controlled_by = ["SCO_CTR"]
 
 [[stations]]
-id = "SCO_L_CTR"
-controlled_by = ["SCO_L_CTR"]
+id = "SCL_CTR"
+controlled_by = ["SCL_CTR"]
 
 [[stations]]
 id = "SCL_TAY_CTR"
-controlled_by = ["SCL_TAY_CTR", "SCO_L_CTR"]
+controlled_by = ["SCL_TAY_CTR", "SCL_CTR"]
 
 [[stations]]
-id = "STC_CTR"
-controlled_by = ["STC_CTR", "SCO_L_CTR"]
+id = "SCL_TMA_CTR"
+controlled_by = ["SCL_TMA_CTR", "SCL_CTR"]
 
 [[stations]]
-id = "STC_W_CTR"
-parent_id = "STC_CTR"
-controlled_by = ["STC_W_CTR"]
+id = "SCL_GAL_CTR"
+parent_id = "SCL_TMA_CTR"
+controlled_by = ["SCL_GAL_CTR"]
 
 [[stations]]
-id = "STC_E_CTR"
-parent_id = "STC_CTR"
-controlled_by = ["STC_E_CTR"]
+id = "SCL_TLA_CTR"
+parent_id = "SCL_TMA_CTR"
+controlled_by = ["SCL_TLA_CTR"]
 
 [[stations]]
-id = "STC_A_CTR"
+id = "SCL_ANT_CTR"
 parent_id = "EG-Rathlin-East"
-controlled_by = ["STC_A_CTR", "SCO_L_CTR"]
+controlled_by = ["SCL_ANT_CTR", "SCL_CTR"]
 
 [[stations]]
-id = "SCO_RE_CTR"
-parent_id = "SCO_R_CTR"
-controlled_by = ["SCO_RE_CTR"]
-
-[[stations]]
-id = "SCO_R_CTR"
+id = "SCO_RAT_CTR"
 parent_id = "SCO_W_CTR"
-controlled_by = ["SCO_R_CTR"]
+controlled_by = ["SCO_RAT_CTR"]
 
 [[stations]]
-id = "SCO_C_CTR"
+id = "SCO_CEN_CTR"
 parent_id = "SCO_W_CTR"
-controlled_by = ["SCO_C_CTR", "SCO_HC_CTR"]
+controlled_by = ["SCO_CEN_CTR", "SCO_HC_CTR"]
 
 [[stations]]
-id = "SCO_EH_CTR"
+id = "SCO_HEB_CTR"
 parent_id = "SCO_N_CTR"
-controlled_by = ["SCO_EH_CTR", "SCO_HC_CTR"]
+controlled_by = ["SCO_HEB_CTR", "SCO_HC_CTR"]
 
 [[stations]]
 id = "SCO_HC_CTR"
@@ -773,8 +768,8 @@ parent_id = "SCO_E_CTR"
 controlled_by = ["SCO_N_CTR"]
 
 [[stations]]
-id = "SCO_H_CTR"
-controlled_by = ["SCO_H_CTR"]
+id = "SCO_HUM_CTR"
+controlled_by = ["SCO_HUM_CTR"]
 
 ####################
 # FIS
