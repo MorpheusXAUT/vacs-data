@@ -154,12 +154,12 @@ See [button color reference](#button-colors) for a visual representation of thes
 
 Represents a single callable button.
 
-| Field        | Type                                  | Required | Description                                                                                                                                   |
-| :----------- | :------------------------------------ | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| `label`      | String or Array of strings            | Yes      | Multi-line label (up to 3 lines). Can be empty string or empty array for blank keys.                                                          |
-| `color`      | CustomButtonColor                     | No       | The background color of the key, which may be overridden dynamically by state changes (e.g., incoming call). Defaults to gray if unspecified. |
-| `station_id` | String                                | No       | Station ID to call when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.                        |
-| `page`       | [DirectAccessPage](#directaccesspage) | No       | Subpage to open when pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled.                     |
+| Field        | Type                                    | Required | Description                                                                                                                                   |
+| :----------- | :-------------------------------------- | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| `label`      | String or Array of strings              | Yes      | Multi-line label (up to 3 lines). Can be empty string or empty array for blank keys.                                                          |
+| `color`      | [CustomButtonColor](#custombuttoncolor) | No       | The background color of the key, which may be overridden dynamically by state changes (e.g., incoming call). Defaults to gray if unspecified. |
+| `station_id` | String                                  | No       | Station ID to call when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.                        |
+| `page`       | [DirectAccessPage](#directaccesspage)   | No       | Subpage to open when pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled.                     |
 
 ## Tabbed Profile Components
 
@@ -217,13 +217,13 @@ A layout container that arranges child nodes using flexbox.
 
 A clickable button that can trigger a direct access page or call a station.
 
-| Field        | Type                                  | Required | Description                                                                                                                                         |
-| :----------- | :------------------------------------ | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `label`      | String or Array of strings            | Yes      | Multi-line label (1-3 lines, cannot be empty).                                                                                                      |
-| `size`       | Number                                | Yes      | Button size (> 0). Controls relative sizing in the layout.                                                                                          |
-| `color`      | CustomButtonColor                     | No       | The background color of the button, which may be overridden dynamically by state changes (e.g., incoming call). Defaults to gray if unspecified.    |
-| `page`       | [DirectAccessPage](#directaccesspage) | No       | Optional nested page to display when button is pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled. |
-| `station_id` | String                                | No       | Station ID to call directly when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.                     |
+| Field        | Type                                    | Required | Description                                                                                                                                         |
+| :----------- | :-------------------------------------- | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `label`      | String or Array of strings              | Yes      | Multi-line label (1-3 lines, cannot be empty).                                                                                                      |
+| `size`       | Number                                  | Yes      | Button size (> 0). Controls relative sizing in the layout.                                                                                          |
+| `color`      | [CustomButtonColor](#custombuttoncolor) | No       | The background color of the button, which may be overridden dynamically by state changes (e.g., incoming call). Defaults to gray if unspecified.    |
+| `page`       | [DirectAccessPage](#directaccesspage)   | No       | Optional nested page to display when button is pressed. Mutually exclusive with `station_id`. If neither is specified, the button will be disabled. |
+| `station_id` | String                                  | No       | Station ID to call directly when pressed. Mutually exclusive with `page`. If neither is specified, the button will be disabled.                     |
 
 ### GeoPageDivider
 
