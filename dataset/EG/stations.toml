@@ -1215,6 +1215,16 @@ parent_id = "EGNX_APP"
 controlled_by = ["EGNX_F_APP"]
 
 [[stations]]
+id = "EGPA_A_APP"
+parent_id = "EG-Moray-Low"
+controlled_by = ["EGPA_A_APP"]
+
+[[stations]]
+id = "EGPA_TWR"
+parent_id = "EGPA_A_APP"
+controlled_by = ["EGPA_TWR"]
+
+[[stations]]
 id = "EGPB_TWR"
 parent_id = "EGPB_APP"
 controlled_by = ["EGPB_TWR"]
@@ -1223,6 +1233,16 @@ controlled_by = ["EGPB_TWR"]
 id = "EGPB_APP"
 parent_id = "EG-Moray-Low"
 controlled_by = ["EGPB_APP"]
+
+[[stations]]
+id = "EGPC_A_APP"
+parent_id = "EG-Moray-Low"
+controlled_by = ["EGPC_A_APP"]
+
+[[stations]]
+id = "EGPC_TWR"
+parent_id = "EGPC_A_APP"
+controlled_by = ["EGPC_TWR"]
 
 [[stations]]
 id = "EGPD_GND"
@@ -1248,6 +1268,16 @@ controlled_by = ["EGPD_F_APP"]
 id = "EGPD_H_APP"
 parent_id = "EGPD_APP"
 controlled_by = ["EGPD_H_APP"]
+
+[[stations]]
+id = "EGPE_APP"
+parent_id = "EG-Moray-Low"
+controlled_by = ["EGPE_APP"]
+
+[[stations]]
+id = "EGPE_TWR"
+parent_id = "EGPE_APP"
+controlled_by = ["EGPE_TWR"]
 
 [[stations]]
 id = "EGPF_GND"
@@ -1308,6 +1338,36 @@ controlled_by = ["EGPK_APP", "EGPK_F_APP"]
 id = "EGPK_F_APP"
 parent_id = "EGPK_APP"
 controlled_by = ["EGPK_F_APP"]
+
+[[stations]]
+id = "EGPL_A_APP"
+parent_id = "EG-Westcoast-Central"
+controlled_by = ["EGPL_A_APP"]
+
+[[stations]]
+id = "EGPL_TWR"
+parent_id = "EGPL_A_APP"
+controlled_by = ["EGPL_TWR"]
+
+[[stations]]
+id = "EGPN_A_APP"
+parent_id = "EG-Tay"
+controlled_by = ["EGPN_A_APP"]
+
+[[stations]]
+id = "EGPN_TWR"
+parent_id = "EGPN_A_APP"
+controlled_by = ["EGPN_TWR"]
+
+[[stations]]
+id = "EGPO_A_APP"
+parent_id = "EG-Hebrides-Low"
+controlled_by = ["EGPO_A_APP"]
+
+[[stations]]
+id = "EGPO_TWR"
+parent_id = "EGPO_A_APP"
+controlled_by = ["EGPO_TWR"]
 
 [[stations]]
 id = "EGQL_APP"
