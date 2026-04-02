@@ -147,6 +147,8 @@ A client page displays a dynamic list of online clients instead of a static grid
 - `"steel"`
 - `"umber"`
 - `"lagoon"`
+- `"snow"`
+- `"azure"`
 
 See [button color reference](#button-colors) for a visual representation of these colors.
 
