@@ -13,19 +13,11 @@
               "rows": 4,
               "keys": [
                 {
-                  "label": [
-                    "ADRIA",
-                    "EAST",
-                    "ADE"
-                  ],
+                  "label": ["ADRIA", "EAST", "ADE"],
                   "station_id": "ADRIA-EAST"
                 },
                 {
-                  "label": [
-                    "ADRIA",
-                    "EAST UP",
-                    "ADUE"
-                  ],
+                  "label": ["ADRIA", "EAST UP", "ADUE"],
                   "station_id": "ADRIA-EAST-UPPER"
                 },
                 {
@@ -47,11 +39,7 @@
                   "station_id": "LOVV_S1"
                 },
                 {
-                  "label": [
-                    "WIEN",
-                    "S2",
-                    "UPPER"
-                  ],
+                  "label": ["WIEN", "S2", "UPPER"],
                   "station_id": "LOVV_S2"
                 },
                 {
@@ -59,11 +47,7 @@
                   "station_id": "LOVV_W1"
                 },
                 {
-                  "label": [
-                    "WIEN",
-                    "W2",
-                    "UPPER"
-                  ],
+                  "label": ["WIEN", "W2", "UPPER"],
                   "station_id": "LOVV_W2"
                 }
               ]
@@ -79,35 +63,19 @@
                   "station_id": "LHCC_CTR"
                 },
                 {
-                  "label": [
-                    "BUDAPEST",
-                    "W LOW",
-                    "LHCW"
-                  ],
+                  "label": ["BUDAPEST", "W LOW", "LHCW"],
                   "station_id": "LHCC_WL"
                 },
                 {
-                  "label": [
-                    "BUDAPEST",
-                    "W UP",
-                    "LHU"
-                  ],
+                  "label": ["BUDAPEST", "W UP", "LHU"],
                   "station_id": "LHCC_WU"
                 },
                 {
-                  "label": [
-                    "BUDAPEST",
-                    "W TOP",
-                    "LHC2"
-                  ],
+                  "label": ["BUDAPEST", "W TOP", "LHC2"],
                   "station_id": "LHCC_WT"
                 },
                 {
-                  "label": [
-                    "BUDAPEST",
-                    "S LOW",
-                    "LHCS"
-                  ],
+                  "label": ["BUDAPEST", "S LOW", "LHCS"],
                   "station_id": "LHCC_SL"
                 },
                 {
@@ -131,35 +99,19 @@
                   "station_id": "LYBA"
                 },
                 {
-                  "label": [
-                    "BEOGRAD",
-                    "UPPER",
-                    "BGU"
-                  ],
+                  "label": ["BEOGRAD", "UPPER", "BGU"],
                   "station_id": "LYBA-UPPER"
                 },
                 {
-                  "label": [
-                    "BEOGRAD",
-                    "NORTH",
-                    "BGN"
-                  ],
+                  "label": ["BEOGRAD", "NORTH", "BGN"],
                   "station_id": "LYBA-NORTH"
                 },
                 {
-                  "label": [
-                    "BEOGRAD",
-                    "NORTH UP",
-                    "BGUN"
-                  ],
+                  "label": ["BEOGRAD", "NORTH UP", "BGUN"],
                   "station_id": "LYBA-UPPER-NORTH"
                 },
                 {
-                  "label": [
-                    "BEOGRAD",
-                    "WEST",
-                    "BGW"
-                  ],
+                  "label": ["BEOGRAD", "WEST", "BGW"],
                   "station_id": "LYBA-WEST"
                 },
                 {
@@ -181,11 +133,7 @@
               "rows": 4,
               "keys": [
                 {
-                  "label": [
-                    "BRINDISI",
-                    "ES3",
-                    "INS"
-                  ],
+                  "label": ["BRINDISI", "ES3", "INS"],
                   "station_id": "LIBB-ES3"
                 },
                 {
@@ -231,11 +179,7 @@
                   "station_id": "LIPP-CE0"
                 },
                 {
-                  "label": [
-                    "PADOVA",
-                    "CE1",
-                    "IPC1"
-                  ],
+                  "label": ["PADOVA", "CE1", "IPC1"],
                   "station_id": "LIPP-CE1"
                 },
                 {
@@ -255,35 +199,19 @@
                   "station_id": "LIPP-CE8"
                 },
                 {
-                  "label": [
-                    "PADOVA",
-                    "SD2",
-                    "IPS2"
-                  ],
+                  "label": ["PADOVA", "SD2", "IPS2"],
                   "station_id": "LIPP-SD2"
                 },
                 {
-                  "label": [
-                    "PADOVA",
-                    "SD3",
-                    "IPS3"
-                  ],
+                  "label": ["PADOVA", "SD3", "IPS3"],
                   "station_id": "LIPP-SD3"
                 },
                 {
-                  "label": [
-                    "PADOVA",
-                    "SD5",
-                    "IPS5"
-                  ],
+                  "label": ["PADOVA", "SD5", "IPS5"],
                   "station_id": "LIPP-SD5"
                 },
                 {
-                  "label": [
-                    "PADOVA",
-                    "SD7",
-                    "IPS7"
-                  ],
+                  "label": ["PADOVA", "SD7", "IPS7"],
                   "station_id": "LIPP-SD7"
                 },
                 {
@@ -312,19 +240,11 @@
               "rows": 4,
               "keys": [
                 {
-                  "label": [
-                    "GRAZ",
-                    "RADAR",
-                    "WGR"
-                  ],
+                  "label": ["GRAZ", "RADAR", "WGR"],
                   "station_id": "LOWG_APP"
                 },
                 {
-                  "label": [
-                    "KLAGENFURT",
-                    "RADAR",
-                    "WKR"
-                  ],
+                  "label": ["KLAGENFURT", "RADAR", "WKR"],
                   "station_id": "LOWK_APP"
                 },
                 {
@@ -342,27 +262,15 @@
               "rows": 4,
               "keys": [
                 {
-                  "label": [
-                    "LJUBLJANA",
-                    "RADAR",
-                    "LJR"
-                  ],
+                  "label": ["LJUBLJANA", "RADAR", "LJR"],
                   "station_id": "LJLJ_APP"
                 },
                 {
-                  "label": [
-                    "MARIBOR",
-                    "APPROACH",
-                    "MB"
-                  ],
+                  "label": ["MARIBOR", "APPROACH", "MB"],
                   "station_id": "LJMB_APP"
                 },
                 {
-                  "label": [
-                    "PORTOROZ",
-                    "APPROACH",
-                    "PZ"
-                  ],
+                  "label": ["PORTOROZ", "APPROACH", "PZ"],
                   "station_id": "LJPZ_APP"
                 },
                 {
@@ -377,67 +285,35 @@
               "rows": 4,
               "keys": [
                 {
-                  "label": [
-                    "ZAGREB",
-                    "RADAR",
-                    "ZGR"
-                  ],
+                  "label": ["ZAGREB", "RADAR", "ZGR"],
                   "station_id": "LDZA_APP"
                 },
                 {
-                  "label": [
-                    "PULA",
-                    "RADAR",
-                    "PU"
-                  ],
+                  "label": ["PULA", "RADAR", "PU"],
                   "station_id": "LDPL_APP"
                 },
                 {
-                  "label": [
-                    "ZADAR",
-                    "RADAR",
-                    "ZDR"
-                  ],
+                  "label": ["ZADAR", "RADAR", "ZDR"],
                   "station_id": "LDZD_APP"
                 },
                 {
-                  "label": [
-                    "SPLIT",
-                    "RADAR",
-                    "ST"
-                  ],
+                  "label": ["SPLIT", "RADAR", "ST"],
                   "station_id": "LDSP_APP"
                 },
                 {
-                  "label": [
-                    "SPLIT",
-                    "FINAL",
-                    "STF"
-                  ],
+                  "label": ["SPLIT", "FINAL", "STF"],
                   "station_id": "LDSP_F_APP"
                 },
                 {
-                  "label": [
-                    "DUBROVNIK",
-                    "RADAR",
-                    "DR"
-                  ],
+                  "label": ["DUBROVNIK", "RADAR", "DR"],
                   "station_id": "LDDU_APP"
                 },
                 {
-                  "label": [
-                    "DUBROVNIK",
-                    "FINAL",
-                    "DRF"
-                  ],
+                  "label": ["DUBROVNIK", "FINAL", "DRF"],
                   "station_id": "LDDU_F_APP"
                 },
                 {
-                  "label": [
-                    "OSIJEK",
-                    "APPROACH",
-                    "OS"
-                  ],
+                  "label": ["OSIJEK", "APPROACH", "OS"],
                   "station_id": "LDOS_APP"
                 }
               ]
@@ -449,35 +325,19 @@
               "rows": 4,
               "keys": [
                 {
-                  "label": [
-                    "BJLUKA",
-                    "APPROACH",
-                    "BK"
-                  ],
+                  "label": ["BJLUKA", "APPROACH", "BK"],
                   "station_id": "LQBK_APP"
                 },
                 {
-                  "label": [
-                    "TUZLA",
-                    "APPROACH",
-                    "TZ"
-                  ],
+                  "label": ["TUZLA", "APPROACH", "TZ"],
                   "station_id": "LQTZ_APP"
                 },
                 {
-                  "label": [
-                    "SARAJEVO",
-                    "RADAR",
-                    "SJ"
-                  ],
+                  "label": ["SARAJEVO", "RADAR", "SJ"],
                   "station_id": "LQSA_APP"
                 },
                 {
-                  "label": [
-                    "MOSTAR",
-                    "APPROACH",
-                    "MO"
-                  ],
+                  "label": ["MOSTAR", "APPROACH", "MO"],
                   "station_id": "LQMO_APP"
                 }
               ]
@@ -489,27 +349,15 @@
               "rows": 4,
               "keys": [
                 {
-                  "label": [
-                    "BEOGRAD",
-                    "RADAR",
-                    "BGR"
-                  ],
+                  "label": ["BEOGRAD", "RADAR", "BGR"],
                   "station_id": "LYBE_APP"
                 },
                 {
-                  "label": [
-                    "KRALJEVO",
-                    "APPROACH",
-                    "KV"
-                  ],
+                  "label": ["KRALJEVO", "APPROACH", "KV"],
                   "station_id": "LYKV_APP"
                 },
                 {
-                  "label": [
-                    "PODGORICA",
-                    "RADAR",
-                    "PG"
-                  ],
+                  "label": ["PODGORICA", "RADAR", "PG"],
                   "station_id": "LYPG_APP"
                 },
                 {
@@ -545,10 +393,7 @@
                   "station_id": "LJLJ_TWR"
                 },
                 {
-                  "label": [
-                    "LJUBLJANA",
-                    "GROUND"
-                  ],
+                  "label": ["LJUBLJANA", "GROUND"],
                   "station_id": "LJLJ_GND"
                 }
               ]
@@ -647,10 +492,7 @@
                   "station_id": "LDDU_TWR"
                 },
                 {
-                  "label": [
-                    "DUBROVNIK",
-                    "DELIVERY"
-                  ],
+                  "label": ["DUBROVNIK", "DELIVERY"],
                   "station_id": "LDDU_DEL"
                 }
               ]
