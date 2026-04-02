@@ -16,7 +16,8 @@
       "id": "ADR_W_CTR",
       "prefixes": ["ADR"],
       "frequency": "130.450",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "ADRW"
     },
     {
       "id": "ADR_E_CTR",
@@ -28,7 +29,8 @@
       "id": "ADR_UW_CTR",
       "prefixes": ["ADR"],
       "frequency": "130.110",
-      "facility_type": "CTR"
+      "facility_type": "CTR",
+      "profile_id": "ADRW"
     },
     {
       "id": "ADR_UE_CTR",
