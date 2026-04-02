@@ -1268,6 +1268,41 @@ parent_id = "EGPK_APP"
 controlled_by = ["EGPK_F_APP"]
 
 [[stations]]
+id = "EGQL_APP"
+parent_id = "EGVV_N_CTR"
+controlled_by = ["EGQL_APP", "EGQL_P_APP"]
+
+[[stations]]
+id = "EGQL_P_APP"
+parent_id = "EGQL_APP"
+controlled_by = ["EGQL_P_APP"]
+
+[[stations]]
+id = "EGQL_TWR"
+parent_id = "EGQL_APP"
+controlled_by = ["EGQL_TWR"]
+
+[[stations]]
+id = "EGQL_GND"
+parent_id = "EGQL_TWR"
+controlled_by = ["EGQL_GND"]
+
+[[stations]]
+id = "EGQS_APP"
+parent_id = "EGVV_Q_CTR"
+controlled_by = ["EGQS_APP", "EGQS_P_APP"]
+
+[[stations]]
+id = "EGQS_P_APP"
+parent_id = "EGQS_APP"
+controlled_by = ["EGQS_P_APP"]
+
+[[stations]]
+id = "EGQS_TWR"
+parent_id = "EGQS_APP"
+controlled_by = ["EGQS_TWR"]
+
+[[stations]]
 id = "EGSC_TWR"
 parent_id = "EGSC_APP"
 controlled_by = ["EGSC_TWR"]
