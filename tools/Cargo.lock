@@ -461,9 +461,9 @@ dependencies = [
 
 [[package]]
 name = "toml"
-version = "1.1.1+spec-1.1.0"
+version = "1.1.2+spec-1.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "994b95d9e7bae62b34bab0e2a4510b801fa466066a6a8b2b57361fa1eba068ee"
+checksum = "81f3d15e84cbcd896376e6730314d59fb5a87f31e4b038454184435cd57defee"
 dependencies = [
  "indexmap",
  "serde_core",
@@ -485,9 +485,9 @@ dependencies = [
 
 [[package]]
 name = "toml_parser"
-version = "1.1.1+spec-1.1.0"
+version = "1.1.2+spec-1.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "39ca317ebc49f06bd748bfba29533eac9485569dc9bf80b849024b025e814fb9"
+checksum = "a2abe9b86193656635d2411dc43050282ca48aa31c2451210f4202550afb7526"
 dependencies = [
  "winnow",
 ]
@@ -610,7 +610,7 @@ dependencies = [
 [[package]]
 name = "vacs-protocol"
 version = "0.0.0"
-source = "git+https://github.com/vacs-project/vacs?branch=main#5cbf9f53f91087d5560df09dbd694e54e0ad7af8"
+source = "git+https://github.com/vacs-project/vacs?branch=main#6041c8802b7cc9175e2270d8901b9917aaf3473f"
 dependencies = [
  "serde",
  "serde_json",
@@ -620,7 +620,7 @@ dependencies = [
 [[package]]
 name = "vacs-vatsim"
 version = "0.0.0"
-source = "git+https://github.com/vacs-project/vacs?branch=main#5cbf9f53f91087d5560df09dbd694e54e0ad7af8"
+source = "git+https://github.com/vacs-project/vacs?branch=main#6041c8802b7cc9175e2270d8901b9917aaf3473f"
 dependencies = [
  "regex",
  "serde",
