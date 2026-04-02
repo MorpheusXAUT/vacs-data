@@ -728,6 +728,7 @@ controlled_by = ["SCL_CTR"]
 
 [[stations]]
 id = "SCL_TAY_CTR"
+parent_id = "EG-Grampian"
 controlled_by = ["SCL_TAY_CTR", "SCL_CTR"]
 
 [[stations]]
