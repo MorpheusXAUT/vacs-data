@@ -2402,7 +2402,7 @@ prefixes = ["SCO"]
 frequency = "125.680"
 facility_type = "CTR"
 profile_id = "EGPX"
-default_call_sources = ["SCO_S_CTR", "SCO_N_CTR", "SCO_BDS_CTR", "SCO_W_CTR"]
+default_call_sources = ["SCO_S_CTR", "SCO_N_CTR", "SCO_BDS_CTR", "SCO_W_CTR", "SCO_CTR"]
 
 [[positions]]
 id = "SCO_BDS_CTR"
@@ -2426,7 +2426,7 @@ prefixes = ["SCO"]
 frequency = "134.855"
 facility_type = "CTR"
 profile_id = "EGPX"
-default_call_sources = ["SCO_BDS_CTR", "SCO_S_CTR", "SCO_N_CTR"]
+default_call_sources = ["SCO_BDS_CTR", "SCO_S_CTR", "SCO_N_CTR", "SCO_E_CTR"]
 
 [[positions]]
 id = "SCO_GRP_CTR"
@@ -2442,7 +2442,7 @@ prefixes = ["SCO"]
 frequency = "128.675"
 facility_type = "CTR"
 profile_id = "EGPX"
-default_call_sources = ["SCO_CEN_CTR", "SCO_HEB_CTR"]
+default_call_sources = ["SCO_CEN_CTR", "SCO_HEB_CTR", "SCO_HC_CTR"]
 
 [[positions]]
 id = "SCO_HEB_CTR"
@@ -2506,7 +2506,7 @@ prefixes = ["SCO"]
 frequency = "133.875"
 facility_type = "CTR"
 profile_id = "EGPX"
-default_call_sources = ["SCO_BDS_CTR", "SCO_W_CTR"]
+default_call_sources = ["SCO_BDS_CTR", "SCO_W_CTR", "SCO_WB_CTR"]
 
 [[positions]]
 id = "SCO_W_CTR"
