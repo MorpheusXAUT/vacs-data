@@ -657,6 +657,11 @@ parent_id = "EG-Rathlin-West"
 controlled_by = ["SCL_CTR"]
 
 [[stations]]
+id = "EG-Westcoast-Grampian"
+parent_id = "EG-Grampian"
+controlled_by = ["SCL_CTR"]
+
+[[stations]]
 id = "EG-Antrim"
 parent_id = "SCL_ANT_CTR"
 
@@ -686,18 +691,23 @@ parent_id = "SCO_HUM_CTR"
 
 [[stations]]
 id = "EG-Tyne"
+parent_id = "SCO_S_CTR"
 
 [[stations]]
 id = "EG-Grampian"
+parent_id = "SCO_GRP_CTR"
 
 [[stations]]
 id = "EG-Pennine"
+parent_id = "SCO_PEN_CTR"
 
 [[stations]]
 id = "EG-Solway"
+parent_id = "SCO_SOL_CTR"
 
 [[stations]]
 id = "EG-Borders"
+parent_id = "SCO_BDS_CTR"
 
 ####################
 # SCOTTISH POSITIONS
@@ -706,6 +716,11 @@ id = "EG-Borders"
 [[stations]]
 id = "SCO_CTR"
 controlled_by = ["SCO_CTR"]
+
+[[stations]]
+id = "SCO_WB_CTR"
+parent_id = "SCO_CTR"
+controlled_by = ["SCO_WB_CTR"]
 
 [[stations]]
 id = "SCL_CTR"
@@ -755,6 +770,7 @@ controlled_by = ["SCO_HC_CTR"]
 
 [[stations]]
 id = "SCO_W_CTR"
+parent_id = "SCO_WB_CTR"
 controlled_by = ["SCO_W_CTR"]
 
 [[stations]]
@@ -768,8 +784,34 @@ parent_id = "SCO_E_CTR"
 controlled_by = ["SCO_N_CTR"]
 
 [[stations]]
+id = "SCO_S_CTR"
+parent_id = "SCO_E_CTR"
+controlled_by = ["SCO_S_CTR"]
+
+[[stations]]
 id = "SCO_HUM_CTR"
+parent_id = "SCO_S_CTR"
 controlled_by = ["SCO_HUM_CTR"]
+
+[[stations]]
+id = "SCO_GRP_CTR"
+parent_id = "SCO_S_CTR"
+controlled_by = ["SCO_GRP_CTR"]
+
+[[stations]]
+id = "SCO_BDS_CTR"
+parent_id = "SCO_S_CTR"
+controlled_by = ["SCO_BDS_CTR", "SCO_WB_CTR"]
+
+[[stations]]
+id = "SCO_PEN_CTR"
+parent_id = "SCO_BDS_CTR"
+controlled_by = ["SCO_PEN_CTR"]
+
+[[stations]]
+id = "SCO_SOL_CTR"
+parent_id = "SCO_BDS_CTR"
+controlled_by = ["SCO_SOL_CTR"]
 
 ####################
 # FIS
