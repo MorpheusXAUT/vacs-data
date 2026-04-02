@@ -23,8 +23,8 @@ id = "LTC_FMP"
 controlled_by = ["LTC_FMP"]
 
 [[stations]]
-id = "STC_FMP"
-controlled_by = ["STC_FMP"]
+id = "SCL_FMP"
+controlled_by = ["SCL_FMP"]
 
 [[stations]]
 id = "LON_GS_CTR"
@@ -39,8 +39,8 @@ id = "SCO_GS_CTR"
 controlled_by = ["SCO_GS_CTR"]
 
 [[stations]]
-id = "STC_GS_CTR"
-controlled_by = ["STC_GS_CTR"]
+id = "SCL_GS_CTR"
+controlled_by = ["SCL_GS_CTR"]
 
 [[stations]]
 id = "MAN_GS_CTR"
@@ -893,7 +893,7 @@ controlled_by = ["EGAA_TWR"]
 
 [[stations]]
 id = "EGAA_APP"
-parent_id = "STC_A_CTR"
+parent_id = "SCL_ANT_CTR"
 controlled_by = ["EGAA_APP", "EGAA_F_APP"]
 
 [[stations]]
@@ -918,7 +918,7 @@ controlled_by = ["EGAE_TWR"]
 
 [[stations]]
 id = "EGAE_A_APP"
-parent_id = "SCO_R_CTR"
+parent_id = "SCO_RAT_CTR"
 controlled_by = ["EGAE_A_APP"]
 
 [[stations]]
@@ -1261,7 +1261,7 @@ controlled_by = ["EGPF_TWR"]
 
 [[stations]]
 id = "EGPF_APP"
-parent_id = "STC_W_CTR"
+parent_id = "SCL_GAL_CTR"
 controlled_by = ["EGPF_APP", "EGPF_F_APP"]
 
 [[stations]]
@@ -1286,7 +1286,7 @@ controlled_by = ["EGPH_TWR"]
 
 [[stations]]
 id = "EGPH_APP"
-parent_id = "STC_E_CTR"
+parent_id = "SCL_TLA_CTR"
 controlled_by = ["EGPH_APP", "EGPH_F_APP"]
 
 [[stations]]
@@ -1301,7 +1301,7 @@ controlled_by = ["EGPK_TWR"]
 
 [[stations]]
 id = "EGPK_APP"
-parent_id = "STC_W_CTR"
+parent_id = "SCL_GAL_CTR"
 controlled_by = ["EGPK_APP", "EGPK_F_APP"]
 
 [[stations]]
