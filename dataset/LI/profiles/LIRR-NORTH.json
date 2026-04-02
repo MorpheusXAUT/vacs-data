@@ -130,41 +130,17 @@
             {
               "label": ["PISA", "APP"],
               "size": 6.25,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["PISA", "APP"],
-                    "station_id": "LIRP-APP"
-                  }
-                ]
-              }
+              "station_id": "LIRP-APP"
             },
             {
               "label": ["BOLOGNA", "APP"],
               "size": 6.25,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["BOLOGNA", "APP"],
-                    "station_id": "LIPE-W-APP"
-                  }
-                ]
-              }
+              "station_id": "LIPE-W-APP"
             },
             {
               "label": ["PERUGIA", "APP"],
               "size": 6.25,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["PERUGIA", "APP"],
-                    "station_id": "LIRZ-APP"
-                  }
-                ]
-              }
+              "station_id": "LIRZ-APP"
             }
           ]
         },
@@ -256,28 +232,12 @@
             {
               "label": ["TW"],
               "size": 8,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["TW1"],
-                    "station_id": "LIRR-TW1"
-                  }
-                ]
-              }
+              "station_id": "LIRR-TW1"
             },
             {
               "label": ["AET"],
               "size": 8,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["AET"],
-                    "station_id": "LIRR-AET"
-                  }
-                ]
-              }
+              "station_id": "LIRR-AET"
             }
           ]
         },
@@ -311,28 +271,12 @@
                 {
                   "label": ["AWL"],
                   "size": 5,
-                  "page": {
-                    "rows": 3,
-                    "keys": [
-                      {
-                        "label": ["AWL"],
-                        "station_id": "LIRR-AWL"
-                      }
-                    ]
-                  }
+                  "station_id": "LIRR-AWL"
                 },
                 {
                   "label": ["FCO", "TWR"],
                   "size": 5,
-                  "page": {
-                    "rows": 3,
-                    "keys": [
-                      {
-                        "label": ["FCO", "TWR"],
-                        "station_id": "LIRF-TWR"
-                      }
-                    ]
-                  }
+                  "station_id": "LIRF-TWR"
                 }
               ]
             },
@@ -343,28 +287,12 @@
                 {
                   "label": ["AEM"],
                   "size": 5,
-                  "page": {
-                    "rows": 3,
-                    "keys": [
-                      {
-                        "label": ["AEM"],
-                        "station_id": "LIRR-AEM"
-                      }
-                    ]
-                  }
+                  "station_id": "LIRR-AEM"
                 },
                 {
                   "label": ["FCO", "TWR", "16L"],
                   "size": 5,
-                  "page": {
-                    "rows": 3,
-                    "keys": [
-                      {
-                        "label": ["FCO", "TWR", "16L"],
-                        "station_id": "LIRF-E-TWR"
-                      }
-                    ]
-                  }
+                  "station_id": "LIRF-E-TWR"
                 }
               ]
             }
@@ -468,15 +396,7 @@
             {
               "label": ["PESCARA", "APP"],
               "size": 5.5,
-              "page": {
-                "rows": 3,
-                "keys": [
-                  {
-                    "label": ["PESCARA", "APP"],
-                    "station_id": "LIBP-APP"
-                  }
-                ]
-              }
+              "station_id": "LIBP-APP"
             },
             {
               "label": ["ND"],
@@ -536,7 +456,6 @@
                   },
                   {
                     "label": ["ES0"],
-
                     "station_id": "LIRR-ES0"
                   }
                 ]
@@ -640,15 +559,7 @@
         {
           "label": ["ROMA", "COO"],
           "size": 5,
-          "page": {
-            "rows": 3,
-            "keys": [
-              {
-                "label": ["ROMA", "COO"],
-                "station_id": "LIRR-FMP"
-              }
-            ]
-          }
+          "station_id": "LIRR-FMP"
         },
         {
           "label": ["FMP"],
@@ -670,15 +581,7 @@
         {
           "label": ["FIC"],
           "size": 5,
-          "page": {
-            "rows": 3,
-            "keys": [
-              {
-                "label": ["FIC"],
-                "station_id": "LIRR-FIC"
-              }
-            ]
-          }
+          "station_id": "LIRR-FIC"
         },
         {
           "label": ["TWR"],

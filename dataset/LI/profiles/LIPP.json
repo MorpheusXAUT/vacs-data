@@ -89,15 +89,7 @@
             {
               "label": ["FIC"],
               "size": 6.75,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["FIC"],
-                    "station_id": "LIPP-FIC"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIPP-FIC"
             }
           ]
         }
@@ -112,15 +104,7 @@
         {
           "label": ["RHEIN", "320-UNL"],
           "size": 6.75,
-          "page": {
-            "keys": [
-              {
-                "label": ["RHEIN", "320-UNL"],
-                "station_id": "EDUU-ALP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "EDUU-ALP"
         },
         {
           "label": ["CW"],
@@ -167,15 +151,7 @@
         {
           "label": ["SW"],
           "size": 6.25,
-          "page": {
-            "keys": [
-              {
-                "label": ["SW1"],
-                "station_id": "LIPP-SW1"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPP-SW1"
         }
       ]
     },
@@ -209,41 +185,17 @@
         {
           "label": ["NW"],
           "size": 7,
-          "page": {
-            "keys": [
-              {
-                "label": ["NW1"],
-                "station_id": "LIPP-NW1"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPP-NW1"
         },
         {
           "label": ["SE0"],
           "size": 7,
-          "page": {
-            "keys": [
-              {
-                "label": ["SE0"],
-                "station_id": "LIPP-SE0"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPP-SE0"
         },
         {
           "label": ["BOLOGNA", "WEST"],
           "size": 7,
-          "page": {
-            "keys": [
-              {
-                "label": ["BOLOGNA", "WEST"],
-                "station_id": "LIPE-W-APP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPE-W-APP"
         }
       ]
     },
@@ -256,15 +208,7 @@
         {
           "label": ["INNSBRUCK", "GND-160"],
           "size": 6.75,
-          "page": {
-            "keys": [
-              {
-                "label": ["INNSBRUCK", "GND-160"],
-                "station_id": "LOWI_S_APP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LOWI_S_APP"
         },
         {
           "label": ["NE"],
@@ -294,28 +238,12 @@
         {
           "label": ["CE"],
           "size": 7,
-          "page": {
-            "keys": [
-              {
-                "label": ["CE1"],
-                "station_id": "LIPP-CE1"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPP-CE1"
         },
         {
           "label": ["BOLOGNA", "EAST"],
           "size": 7,
-          "page": {
-            "keys": [
-              {
-                "label": ["BOLOGNA", "EAST"],
-                "station_id": "LIPE-E-APP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPE-E-APP"
         }
       ]
     },
@@ -328,15 +256,7 @@
         {
           "label": ["KLAGENF", "GND-160"],
           "size": 6.75,
-          "page": {
-            "keys": [
-              {
-                "label": ["KLAGENF", "GND-160"],
-                "station_id": "LOWK_APP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LOWK_APP"
         },
         {
           "direction": "row",
@@ -346,56 +266,24 @@
             {
               "label": ["TRE", "APP"],
               "size": 5,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["TRE", "APP"],
-                    "station_id": "LIPH-APP"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIPH-APP"
             },
             {
               "label": ["AVI", "APP"],
               "size": 5,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["AVI", "APP"],
-                    "station_id": "LIPA-APP"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIPA-APP"
             }
           ]
         },
         {
           "label": ["CE0"],
           "size": 7,
-          "page": {
-            "keys": [
-              {
-                "label": ["CE0"],
-                "station_id": "LIPP-CE0"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPP-CE0"
         },
         {
           "label": ["FALCO", "APP"],
           "size": 5,
-          "page": {
-            "keys": [
-              {
-                "label": ["FALCO", "APP"],
-                "station_id": "LIPY-APP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPY-APP"
         },
         {
           "label": ["ROMA"],
@@ -536,15 +424,7 @@
         {
           "label": ["PADOVA", "FMP"],
           "size": 5,
-          "page": {
-            "keys": [
-              {
-                "label": ["PADOVA", "FMP"],
-                "station_id": "LIPP-FMP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPP-FMP"
         },
         {
           "label": ["FMP"],
