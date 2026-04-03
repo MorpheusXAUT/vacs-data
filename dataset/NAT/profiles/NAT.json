@@ -13,49 +13,143 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Edmonton", "(INOP)"],
+          "label": [
+            "Edmonton",
+            "(INOP)"
+          ],
           "size": 7,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": ["INOP"]
+                "label": [
+                  "INOP"
+                ]
               }
             ]
           }
         },
         {
-          "label": ["Montreal", "(INOP)"],
+          "label": [
+            "Montreal",
+            "(INOP)"
+          ],
           "size": 7,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": ["INOP"]
+                "label": [
+                  "INOP"
+                ]
               }
             ]
           }
         },
         {
-          "label": ["Gander", "Domestic", "(INOP)"],
+          "label": [
+            "Gander",
+            "Domestic"
+          ],
           "size": 7,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": ["INOP"]
+                "label": [
+                  "Gander",
+                  "Domestic"
+                ],
+                "station_id": "CZQX-CTR"
+              },
+              {
+                "label": [
+                  "GOTA",
+                  "North",
+                  "(G)"
+                ],
+                "station_id": "CZQX-G-CTR"
+              },
+              {
+                "label": [
+                  "GOTA",
+                  "South",
+                  "(O)"
+                ],
+                "station_id": "CZQX-O-CTR"
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": [
+                  "QX",
+                  "5"
+                ],
+                "station_id": "CZQX-5-CTR"
+              },
+              {
+                "label": [
+                  "QX",
+                  "4"
+                ],
+                "station_id": "CZQX-4-CTR"
+              },
+              {
+                "label": [
+                  "QX",
+                  "3"
+                ],
+                "station_id": "CZQX-3-CTR"
+              },
+              {
+                "label": [
+                  "QX",
+                  "2"
+                ],
+                "station_id": "CZQX-2-CTR"
+              },
+              {
+                "label": [
+                  "QX",
+                  "1"
+                ],
+                "station_id": "CZQX-1-CTR"
               }
             ]
           }
         },
         {
-          "label": ["New York", "(INOP)"],
+          "label": [
+            "New York",
+            "(INOP)"
+          ],
           "size": 7,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": ["INOP"]
+                "label": [
+                  "INOP"
+                ]
               }
             ]
           }
@@ -73,46 +167,97 @@
           "justify_content": "center",
           "children": [
             {
-              "label": ["Reykjavík", "(INOP)"],
+              "label": [
+                "Reykjavík",
+                "(INOP)"
+              ],
               "size": 7,
               "page": {
                 "rows": 4,
                 "keys": [
                   {
-                    "label": ["West", "Upper", "365-660"]
+                    "label": [
+                      "West",
+                      "Upper",
+                      "365-660"
+                    ]
                   },
                   {
-                    "label": ["West", "Middle", "355-365"]
+                    "label": [
+                      "West",
+                      "Middle",
+                      "355-365"
+                    ]
                   },
                   {
-                    "label": ["West", "Middle", "345-355"]
+                    "label": [
+                      "West",
+                      "Middle",
+                      "345-355"
+                    ]
                   },
                   {
-                    "label": ["West", "Lower", "55-345"]
+                    "label": [
+                      "West",
+                      "Lower",
+                      "55-345"
+                    ]
                   },
                   {
-                    "label": ["South", "Upper", "365-660"]
+                    "label": [
+                      "South",
+                      "Upper",
+                      "365-660"
+                    ]
                   },
                   {
-                    "label": ["South", "Middle", "355-365"]
+                    "label": [
+                      "South",
+                      "Middle",
+                      "355-365"
+                    ]
                   },
                   {
-                    "label": ["South", "Middle", "345-355"]
+                    "label": [
+                      "South",
+                      "Middle",
+                      "345-355"
+                    ]
                   },
                   {
-                    "label": ["South", "Lower", "55-345"]
+                    "label": [
+                      "South",
+                      "Lower",
+                      "55-345"
+                    ]
                   },
                   {
-                    "label": ["East", "Upper", "365-660"]
+                    "label": [
+                      "East",
+                      "Upper",
+                      "365-660"
+                    ]
                   },
                   {
-                    "label": ["East", "Middle", "355-365"]
+                    "label": [
+                      "East",
+                      "Middle",
+                      "355-365"
+                    ]
                   },
                   {
-                    "label": ["East", "Middle", "345-355"]
+                    "label": [
+                      "East",
+                      "Middle",
+                      "345-355"
+                    ]
                   },
                   {
-                    "label": ["East", "Lower", "55-345"]
+                    "label": [
+                      "East",
+                      "Lower",
+                      "55-345"
+                    ]
                   }
                 ]
               }
@@ -124,56 +269,85 @@
           "gap": 3,
           "children": [
             {
-              "label": ["Gander"],
+              "label": [
+                "Gander"
+              ],
               "size": 12,
               "page": {
                 "rows": 6,
                 "keys": [
                   {
-                    "label": ["DEL", "A"],
+                    "label": [
+                      "DEL",
+                      "A"
+                    ],
                     "station_id": "Gander_DEL_A"
                   },
                   {
-                    "label": ["DEL", "B"],
+                    "label": [
+                      "DEL",
+                      "B"
+                    ],
                     "station_id": "Gander_DEL_B"
                   },
                   {
-                    "label": ["DEL", "C"],
+                    "label": [
+                      "DEL",
+                      "C"
+                    ],
                     "station_id": "Gander_DEL_C"
                   },
                   {
-                    "label": ["DEL", "D"],
+                    "label": [
+                      "DEL",
+                      "D"
+                    ],
                     "station_id": "Gander_DEL_D"
                   },
                   {
-                    "label": ["DEL", "F"],
+                    "label": [
+                      "DEL",
+                      "F"
+                    ],
                     "station_id": "Gander_DEL_F"
                   },
                   {
                     "label": []
                   },
                   {
-                    "label": ["A"],
+                    "label": [
+                      "A"
+                    ],
                     "station_id": "Gander_A"
                   },
                   {
-                    "label": ["B"],
+                    "label": [
+                      "B"
+                    ],
                     "station_id": "Gander_B"
                   },
                   {
-                    "label": ["C"],
+                    "label": [
+                      "C"
+                    ],
                     "station_id": "Gander_C"
                   },
                   {
-                    "label": ["D"],
+                    "label": [
+                      "D"
+                    ],
                     "station_id": "Gander_D"
                   },
                   {
-                    "label": ["F"],
+                    "label": [
+                      "F"
+                    ],
                     "station_id": "Gander_F"
                   },
                   {
-                    "label": ["G"],
+                    "label": [
+                      "G"
+                    ],
                     "station_id": "Gander_G"
                   },
                   {
@@ -183,11 +357,15 @@
                     "label": []
                   },
                   {
-                    "label": ["Gander"],
+                    "label": [
+                      "Gander"
+                    ],
                     "station_id": "Gander"
                   },
                   {
-                    "label": ["DEL"],
+                    "label": [
+                      "DEL"
+                    ],
                     "station_id": "Gander_DEL"
                   },
                   {
@@ -200,49 +378,76 @@
               }
             },
             {
-              "label": ["Shanwick"],
+              "label": [
+                "Shanwick"
+              ],
               "size": 12,
               "page": {
                 "rows": 5,
                 "keys": [
                   {
-                    "label": ["DEL", "A"],
+                    "label": [
+                      "DEL",
+                      "A"
+                    ],
                     "station_id": "Shanwick_DEL_A"
                   },
                   {
-                    "label": ["DEL", "B"],
+                    "label": [
+                      "DEL",
+                      "B"
+                    ],
                     "station_id": "Shanwick_DEL_B"
                   },
                   {
-                    "label": ["DEL", "C"],
+                    "label": [
+                      "DEL",
+                      "C"
+                    ],
                     "station_id": "Shanwick_DEL_C"
                   },
                   {
-                    "label": ["DEL", "D"],
+                    "label": [
+                      "DEL",
+                      "D"
+                    ],
                     "station_id": "Shanwick_DEL_D"
                   },
                   {
-                    "label": ["DEL", "F"],
+                    "label": [
+                      "DEL",
+                      "F"
+                    ],
                     "station_id": "Shanwick_DEL_F"
                   },
                   {
-                    "label": ["A"],
+                    "label": [
+                      "A"
+                    ],
                     "station_id": "Shanwick_A"
                   },
                   {
-                    "label": ["B"],
+                    "label": [
+                      "B"
+                    ],
                     "station_id": "Shanwick_B"
                   },
                   {
-                    "label": ["C"],
+                    "label": [
+                      "C"
+                    ],
                     "station_id": "Shanwick_C"
                   },
                   {
-                    "label": ["D"],
+                    "label": [
+                      "D"
+                    ],
                     "station_id": "Shanwick_D"
                   },
                   {
-                    "label": ["F"],
+                    "label": [
+                      "F"
+                    ],
                     "station_id": "Shanwick_F"
                   },
                   {
@@ -252,11 +457,15 @@
                     "label": []
                   },
                   {
-                    "label": ["Shanwick"],
+                    "label": [
+                      "Shanwick"
+                    ],
                     "station_id": "Shanwick"
                   },
                   {
-                    "label": ["DEL"],
+                    "label": [
+                      "DEL"
+                    ],
                     "station_id": "Shanwick_DEL"
                   },
                   {
@@ -272,34 +481,56 @@
           "justify_content": "center",
           "children": [
             {
-              "label": ["Santa", "Maria", "(INOP)"],
+              "label": [
+                "Santa",
+                "Maria",
+                "(INOP)"
+              ],
               "size": 7,
               "page": {
                 "rows": 3,
                 "keys": [
                   {
-                    "label": ["Oceanic", "clearance"]
+                    "label": [
+                      "Oceanic",
+                      "clearance"
+                    ]
                   },
                   {
-                    "label": ["Oceanic", "clearance", "2"]
-                  },
-                  {
-                    "label": []
-                  },
-                  {
-                    "label": ["Radio", "1"]
-                  },
-                  {
-                    "label": ["Radio", "2"]
-                  },
-                  {
-                    "label": ["Radio", "3"]
+                    "label": [
+                      "Oceanic",
+                      "clearance",
+                      "2"
+                    ]
                   },
                   {
                     "label": []
                   },
                   {
-                    "label": ["Radio"]
+                    "label": [
+                      "Radio",
+                      "1"
+                    ]
+                  },
+                  {
+                    "label": [
+                      "Radio",
+                      "2"
+                    ]
+                  },
+                  {
+                    "label": [
+                      "Radio",
+                      "3"
+                    ]
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": [
+                      "Radio"
+                    ]
                   },
                   {
                     "label": []
@@ -318,65 +549,110 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Scottish"],
+          "label": [
+            "Scottish"
+          ],
           "size": 7,
           "page": {
             "rows": 2,
             "keys": [
               {
-                "label": ["North"],
+                "label": [
+                  "North"
+                ],
                 "station_id": "SCO_N_CTR"
               },
               {
-                "label": ["West"],
+                "label": [
+                  "West"
+                ],
                 "station_id": "SCO_W_CTR"
               }
             ]
           }
         },
         {
-          "label": ["Shannon", "Control"],
+          "label": [
+            "Shannon",
+            "Control"
+          ],
           "size": 7,
           "page": {
             "rows": 4,
             "keys": [
               {
-                "label": ["NOTA", "Super", "355+"],
+                "label": [
+                  "NOTA",
+                  "Super",
+                  "355+"
+                ],
                 "station_id": "EISN_NS_CTR"
               },
               {
-                "label": ["West", "Super", "355+"],
+                "label": [
+                  "West",
+                  "Super",
+                  "355+"
+                ],
                 "station_id": "EISN_WS_CTR"
               },
               {
-                "label": ["Ocean", "Super", "355+"],
+                "label": [
+                  "Ocean",
+                  "Super",
+                  "355+"
+                ],
                 "station_id": "EISN_SS_CTR"
               },
               {
-                "label": ["SOTA", "Super", "355+"],
+                "label": [
+                  "SOTA",
+                  "Super",
+                  "355+"
+                ],
                 "station_id": "EISN_SS_CTR"
               },
               {
-                "label": ["NOTA", "Upper", "245-355"],
+                "label": [
+                  "NOTA",
+                  "Upper",
+                  "245-355"
+                ],
                 "station_id": "EISN_N_CTR"
               },
               {
-                "label": ["West", "Upper", "245-355"],
+                "label": [
+                  "West",
+                  "Upper",
+                  "245-355"
+                ],
                 "station_id": "EISN_W_CTR"
               },
               {
-                "label": ["Ocean", "Upper", "245-355"],
+                "label": [
+                  "Ocean",
+                  "Upper",
+                  "245-355"
+                ],
                 "station_id": "EISN_O_CTR"
               },
               {
-                "label": ["SOTA", "Upper", "245-255"],
+                "label": [
+                  "SOTA",
+                  "Upper",
+                  "245-255"
+                ],
                 "station_id": "EISN_S_CTR"
               },
               {
                 "label": []
               },
               {
-                "label": ["Low", "Level", "245-"],
+                "label": [
+                  "Low",
+                  "Level",
+                  "245-"
+                ],
                 "station_id": "EISN_LS_CTR"
               },
               {
@@ -389,25 +665,40 @@
           }
         },
         {
-          "label": ["Brest", "(INOP)"],
+          "label": [
+            "Brest",
+            "(INOP)"
+          ],
           "size": 7,
           "page": {
             "rows": 2,
             "keys": [
               {
-                "label": ["West", "255+"]
+                "label": [
+                  "West",
+                  "255+"
+                ]
               },
               {
-                "label": ["AU", "355-660"]
+                "label": [
+                  "AU",
+                  "355-660"
+                ]
               },
               {
                 "label": []
               },
               {
-                "label": ["AS", "255-355"]
+                "label": [
+                  "AS",
+                  "255-355"
+                ]
               },
               {
-                "label": ["Lower", "255-"]
+                "label": [
+                  "Lower",
+                  "255-"
+                ]
               },
               {
                 "label": []
@@ -416,16 +707,25 @@
           }
         },
         {
-          "label": ["Madrid", "(INOP)"],
+          "label": [
+            "Madrid",
+            "(INOP)"
+          ],
           "size": 7,
           "page": {
             "rows": 2,
             "keys": [
               {
-                "label": ["Upper", "245-660"]
+                "label": [
+                  "Upper",
+                  "245-660"
+                ]
               },
               {
-                "label": ["Lower", "245-"]
+                "label": [
+                  "Lower",
+                  "245-"
+                ]
               }
             ]
           }
