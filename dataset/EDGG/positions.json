@@ -752,7 +752,6 @@
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
       "default_call_source": ["EDGG-DFGS"]
-
     },
     {
       "id": "EDDF_ICE_GND",
@@ -977,7 +976,6 @@
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
       "default_call_source": ["EDGG-TART"]
-
     },
     {
       "id": "ETAR_GND",
@@ -1018,7 +1016,6 @@
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
       "default_call_source": ["EDGG-TNGT"]
-
     },
     {
       "id": "ETNN_TWR",
@@ -1027,7 +1024,6 @@
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
       "default_call_source": ["EDGG-TNNT"]
-
     },
     {
       "id": "ETOU_TWR",
@@ -1036,7 +1032,6 @@
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
       "default_call_source": ["EDGG-TOUT"]
-
     },
     {
       "id": "ETOU_GND",
