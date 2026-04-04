@@ -3,29 +3,88 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "OBBB",
+      "label": ["OBBB"],
       "page": {
-        "rows": 6,
-        "client_page": {
-          "include": [
-            "OB*",
-
-            "OKAC*",
-            "OKKK*APP",
-            "OERD*",
-            "OEDF*_APP",
-            "OTDF*",
-            "DOH*",
-            "OMAE*",
-            "TEH*",
-            "GULF_E*",
-            "GULF*"
-          ],
-          "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
-          "frequencies": "HideAll",
-          "grouping": "None"
-        }
+        "rows": 5,
+        "keys": [
+          {
+            "label": ["[OBBB]", "NORTH", "HIGH"],
+            "station_id": "OBBB_3_CTR"
+          },
+          {
+            "label": ["[OBBB]", "NORTH", "LOWER"],
+            "station_id": "OBBB_N_CTR"
+          },
+          {
+            "label": ["[OBBI]", "APP"],
+            "station_id": "OBBI_APP"
+          },
+          {
+            "label": ["[OBBI]", "DLV"],
+            "station_id": "OBBI_DEL"
+          },
+          {
+            "label": ["[OBBI]", "GMC"],
+            "station_id": "OBBI_GND"
+          },
+          {
+            "label": ["[OBBB]", "CENT", "SUPER"],
+            "station_id": "OBBB_1_CTR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["[OBBI]", "FIN"],
+            "station_id": "OBBI_F_APP"
+          },
+          {
+            "label": ["[OBBI]", "GMC"],
+            "station_id": "OBBI_GND"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["[OBBB]", "CENT", "HIGH"],
+            "station_id": "OBBB_CH_CTR"
+          },
+          {
+            "label": ["[OBBB]", "CENT", "LOW"],
+            "station_id": "OBBB_CL_CTR"
+          },
+          {
+            "label": ["[OBBS]", "Isa", "Approach"],
+            "station_id": "OBBS_APP"
+          },
+          {
+            "label": ["[OBBI]", "TWR"],
+            "station_id": "OBBI_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["[OBBB]", "EAST", "HIGH"],
+            "station_id": "OBBB_2_CTR"
+          },
+          {
+            "label": ["[OBBB]", "EAST", "LOW"],
+            "station_id": "OBBB_E_CTR"
+          },
+          {
+            "label": ["[OBBS]", "Isa", "Tower"],
+            "station_id": "OBBS_TWR"
+          },
+          {
+            "label": ["[OBKH]", "Sakhir", "Tower"],
+            "station_id": "OBBS_TWR"
+          },
+          {
+            "label": ["[OTHH]", "DOH", "R1"],
+            "station_id": "DOH_R1_APP"
+          }
+        ]
       }
     }
   ]
