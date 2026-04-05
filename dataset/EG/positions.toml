@@ -2402,7 +2402,13 @@ prefixes = ["SCO"]
 frequency = "125.680"
 facility_type = "CTR"
 profile_id = "EGPX"
-default_call_sources = ["SCO_S_CTR", "SCO_N_CTR", "SCO_BDS_CTR", "SCO_W_CTR", "SCO_CTR"]
+default_call_sources = [
+  "SCO_S_CTR",
+  "SCO_N_CTR",
+  "SCO_BDS_CTR",
+  "SCO_W_CTR",
+  "SCO_CTR",
+]
 
 [[positions]]
 id = "SCO_BDS_CTR"
