@@ -88,11 +88,11 @@
             "station_id": "EKDKN"
           },
           {
-            "label": ["Moray", "High", "FL255+"],
+            "label": ["SCO N", "FL255+"],
             "station_id": "EG-Moray-High"
           },
           {
-            "label": ["Moray", "Low", "FL255-"],
+            "label": ["SCO L", "FL255-"],
             "station_id": "EG-Moray-Low"
           },
           {
