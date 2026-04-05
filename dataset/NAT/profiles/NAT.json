@@ -37,13 +37,63 @@
           }
         },
         {
-          "label": ["Gander", "Domestic", "(INOP)"],
+          "label": ["Gander", "Domestic"],
           "size": 7,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": ["INOP"]
+                "label": ["Gander", "Domestic"],
+                "station_id": "CZQX-CTR"
+              },
+              {
+                "label": ["GOTA", "North", "(G)"],
+                "station_id": "CZQX-G-CTR"
+              },
+              {
+                "label": ["GOTA", "South", "(O)"],
+                "station_id": "CZQX-O-CTR"
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": ["QX", "5"],
+                "station_id": "CZQX-5-CTR"
+              },
+              {
+                "label": ["QX", "4"],
+                "station_id": "CZQX-4-CTR"
+              },
+              {
+                "label": ["QX", "3"],
+                "station_id": "CZQX-3-CTR"
+              },
+              {
+                "label": ["QX", "2"],
+                "station_id": "CZQX-2-CTR"
+              },
+              {
+                "label": ["QX", "1"],
+                "station_id": "CZQX-1-CTR"
               }
             ]
           }
