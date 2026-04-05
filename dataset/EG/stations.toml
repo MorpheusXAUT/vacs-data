@@ -732,8 +732,12 @@ parent_id = "EG-Grampian"
 controlled_by = ["SCL_TAY_CTR", "SCL_CTR"]
 
 [[stations]]
+id = "SCL_GTA_CTR"
+controlled_by = ["SCL_GTA_CTR"]
+
+[[stations]]
 id = "SCL_TMA_CTR"
-controlled_by = ["SCL_TMA_CTR", "SCL_CTR"]
+controlled_by = ["SCL_TMA_CTR", "SCL_GTA_CTR", "SCL_CTR"]
 
 [[stations]]
 id = "SCL_GAL_CTR"
@@ -748,7 +752,7 @@ controlled_by = ["SCL_TLA_CTR"]
 [[stations]]
 id = "SCL_ANT_CTR"
 parent_id = "EG-Rathlin-East"
-controlled_by = ["SCL_ANT_CTR", "SCL_CTR"]
+controlled_by = ["SCL_ANT_CTR", "SCL_GTA_CTR", "SCL_CTR"]
 
 [[stations]]
 id = "SCO_RAT_CTR"

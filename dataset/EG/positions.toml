@@ -2520,6 +2520,14 @@ default_call_sources = ["SCO_W_CTR"]
 # Scottish TMA
 #######################
 [[positions]]
+id = "SCL_GTA_CTR"
+prefixes = ["SCL"]
+frequency = "124.930"
+facility_type = "CTR"
+profile_id = "EGPX"
+default_call_sources = ["SCL_TMA_CTR", "SCL_ANT_CTR"]
+
+[[positions]]
 id = "SCL_ANT_CTR"
 prefixes = ["SCL"]
 frequency = "123.775"
