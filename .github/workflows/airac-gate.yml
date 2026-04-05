@@ -18,7 +18,6 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: read
-      pull-requests: write
     steps:
       - name: Check AIRAC labels
         id: check
@@ -89,9 +88,9 @@ jobs:
           repositories: vacs-data
 
       - name: Post or update comment
-        if: steps.check.outputs.has_label == 'true'
+        if: steps.check.outputs.has_label == 'true' && github.event.pull_request.head.repo.full_name == github.repository
         env:
-          GH_TOKEN: ${{ steps.generate-token.outputs.token || github.token }}
+          GH_TOKEN: ${{ steps.generate-token.outputs.token }}
           GH_REPO: ${{ github.repository }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           CYCLE: ${{ steps.check.outputs.cycle }}
