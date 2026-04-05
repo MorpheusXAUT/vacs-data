@@ -18,6 +18,7 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: read
+      pull-requests: write
     steps:
       - name: Check AIRAC labels
         id: check
@@ -78,7 +79,7 @@ jobs:
           fi
 
       - name: Generate GitHub token
-        if: steps.check.outputs.has_label == 'true'
+        if: steps.check.outputs.has_label == 'true' && github.event.pull_request.head.repo.full_name == github.repository
         uses: actions/create-github-app-token@f8d387b68d61c58ab83c6c016672934102569859 # v3.0.0
         id: generate-token
         with:
@@ -90,7 +91,7 @@ jobs:
       - name: Post or update comment
         if: steps.check.outputs.has_label == 'true'
         env:
-          GH_TOKEN: ${{ steps.generate-token.outputs.token }}
+          GH_TOKEN: ${{ steps.generate-token.outputs.token || github.token }}
           GH_REPO: ${{ github.repository }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           CYCLE: ${{ steps.check.outputs.cycle }}
