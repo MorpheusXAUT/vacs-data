@@ -126,7 +126,7 @@
       "frequency": "120.780",
       "facility_type": "TWR",
       "profile_id": "EBBR_TWR",
-      "default_call_sources": ["EBBR-N-TWR"]
+      "default_call_sources": ["EBBR-NTWR"]
     },
     {
       "id": "EBBR_DEP",
