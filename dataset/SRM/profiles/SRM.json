@@ -1,0 +1,250 @@
+{
+  "id": "SRM",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["VC GMC/AIR"],
+      "page": {
+        "rows": 7,
+        "keys": [
+          {
+            "label": ["BI GMC"],
+            "station_id": "VCBI_GND"
+          },
+          {
+            "label": ["BI ADC"],
+            "station_id": "VCBI_TWR"
+          },
+          {
+            "label": ["CC ADC"],
+            "station_id": "VCCC_TWR"
+          },
+          {
+            "label": ["CA ADC"],
+            "station_id": "VCCA_TWR"
+          },
+          {
+            "label": ["CB ADC"],
+            "station_id": "VCCB_TWR"
+          },
+          {
+            "label": ["CH ADC"],
+            "station_id": "VCCH_TWR"
+          },
+          {
+            "label": ["CJ PROC"],
+            "station_id": "VCCJ_TWR"
+          },
+          {
+            "label": ["CN ADC"],
+            "station_id": "VCCN_TWR"
+          },
+          {
+            "label": ["CS ADC"],
+            "station_id": "VCCS_TWR"
+          },
+          {
+            "label": ["CV ADC"],
+            "station_id": "VCCV_TWR"
+          },
+          {
+            "label": ["CW ADC"],
+            "station_id": "VCCW_TWR"
+          },
+          {
+            "label": ["RI GMC"],
+            "station_id": "VCRI_GND"
+          },
+          {
+            "label": ["RI ADC"],
+            "station_id": "VCRI_TWR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "VR GMC/AIRs",
+      "page": {
+        "rows": 7,
+        "keys": [
+          {
+            "label": ["MM GMC"],
+            "station_id": "VRMM_GND"
+          },
+          {
+            "label": ["MM ADC"],
+            "station_id": "VRMM_TWR"
+          },
+          {
+            "label": ["MV ADC"],
+            "station_id": "VRMV_TWR"
+          },
+          {
+            "label": ["DA ADC"],
+            "station_id": "VRDA_TWR"
+          },
+          {
+            "label": ["MG ADC"],
+            "station_id": "VRMG_TWR"
+          },
+          {
+            "label": ["MH ADC"],
+            "station_id": "VRMH_TWR"
+          },
+          {
+            "label": ["EI AFIS"],
+            "station_id": "VREI_I_TWR"
+          },
+          {
+            "label": ["GD AFIS"],
+            "station_id": "VRGD_I_TWR"
+          },
+          {
+            "label": ["MK ADC"],
+            "station_id": "VRMK_TWR"
+          },
+          {
+            "label": ["MO ADC"],
+            "station_id": "VRMO_TWR"
+          },
+          {
+            "label": ["MR ADC"],
+            "station_id": "VRMR_TWR"
+          },
+          {
+            "label": ["MT ADC"],
+            "station_id": "VRMT_TWR"
+          },
+          {
+            "label": ["MU AFIS"],
+            "station_id": "VRMU_I_TWR"
+          },
+          {
+            "label": ["NT AFIS"],
+            "station_id": "VRNT_I_TWR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "TMA/CTA",
+      "page": {
+        "rows": 7,
+        "keys": [
+          {
+            "label": ["VCBI CTA"],
+            "station_id": "VCBI_APP"
+          },
+          {
+            "label": ["VCRI CTA"],
+            "station_id": "VCRI_APP"
+          },
+          {
+            "label": ["VCCA CTA"],
+            "station_id": "VCCA_APP"
+          },
+          {
+            "label": ["VRMM TMA"],
+            "station_id": "VRMM_APP"
+          },
+          {
+            "label": ["VCCF ACC"],
+            "station_id": "VCCF_CTR"
+          },
+          {
+            "label": ["VCCF OC"],
+            "station_id": "VCCF_OC_CTR"
+          },
+          {
+            "label": ["VRMF ACC"],
+            "station_id": "VRMF_CTR"
+          },
+          {
+            "label": ["VRMF-S ACC"],
+            "station_id": "VRMF_S_CTR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "SRM Neighbour",
+      "page": {
+        "rows": 7,
+        "keys": [
+          {
+            "label": ["VOMM-S"],
+            "station_id": "VOMM_S_CTR"
+          },
+          {
+            "label": ["VOMM"],
+            "station_id": "VOMM_CTR"
+          },
+          {
+            "label": ["VOTV"],
+            "station_id": "VOTV_CTR"
+          },
+          {
+            "label": ["UTV"],
+            "station_id": "VOMF_UTV_CTR"
+          },
+          {
+            "label": ["UAC"],
+            "station_id": "VOMF_UAC_CTR"
+          },
+          {
+            "label": ["VOMF OC"],
+            "station_id": "VOMF_OC_CTR"
+          },
+          {
+            "label": ["VABF ACC"],
+            "station_id": "VABF_CTR"
+          },
+          {
+            "label": ["VABX OC"],
+            "station_id": "VABF_OC_CTR"
+          },
+          {
+            "label": ["FIMM"],
+            "station_id": "FIMM_FSS"
+          },
+          {
+            "label": ["ML-IND"],
+            "station_id": "ML-IND_FSS"
+          },
+          {
+            "label": ["ASIA"],
+            "station_id": "ASIA_W_FSS"
+          },
+          {
+            "label": ["ASEA"],
+            "station_id": "ASEA_FSS"
+          },
+          {
+            "label": ["ASEA-W"],
+            "station_id": "ASEA_W_FSS"
+          },
+          {
+            "label": ["WIIF-IS"],
+            "station_id": "WIIF_IS_CTR"
+          },
+          {
+            "label": ["WIIF-BC"],
+            "station_id": "WIIF_BC_CTR"
+          },
+          {
+            "label": ["WIIF-MN"],
+            "station_id": "WIIF_MN_CTR"
+          },
+          {
+            "label": ["WIIF"],
+            "station_id": "WIIF_CTR"
+          },
+          {
+            "label": ["AFRS"],
+            "station_id": "AFRS_FSS"
+          }
+        ]
+      }
+    }
+  ]
+}
