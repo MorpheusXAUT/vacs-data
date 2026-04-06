@@ -158,7 +158,7 @@
       "frequency": "129.730",
       "facility_type": "APP",
       "profile_id": "EBBR_APP",
-      "default_call_sources": ["EBBR-H-APP"]
+      "default_call_sources": ["EBBR-H"]
     },
     {
       "id": "EBBR_HW_APP",
