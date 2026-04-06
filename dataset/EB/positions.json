@@ -198,7 +198,7 @@
       "frequency": "128.200",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-HUS","EBBU-LUS"]
+	  "default_call_sources": ["EBBU-HUS"]
     },
     {
       "id": "EBBU_L_CTR",
