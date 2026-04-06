@@ -285,7 +285,8 @@
       "prefixes": ["EBBU"],
       "frequency": "125.980",
       "facility_type": "CTR",
-      "profile_id": "EBBU_CTR"
+      "profile_id": "EBBU_CTR",
+	  "default_call_sources": ["EDYY-NIH","EDYY-LNH"]
     },
     {
       "id": "EBLG_GND",
