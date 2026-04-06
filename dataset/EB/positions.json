@@ -22,7 +22,7 @@
       "frequency": "120.605",
       "facility_type": "APP",
       "profile_id": "EBBU_APP",
-	  "default_call_sources": ["EBOS-APP"]
+      "default_call_sources": ["EBOS-APP"]
     },
     {
       "id": "EBCI_GND",
@@ -30,7 +30,7 @@
       "frequency": "121.805",
       "facility_type": "GND",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["EBCI-GND"]
+      "default_call_sources": ["EBCI-GND"]
     },
     {
       "id": "EBCI_TWR",
@@ -38,7 +38,7 @@
       "frequency": "121.305",
       "facility_type": "TWR",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["EBCI-TWR"]
+      "default_call_sources": ["EBCI-TWR"]
     },
     {
       "id": "EBCI_APP",
@@ -46,7 +46,7 @@
       "frequency": "133.130",
       "facility_type": "APP",
       "profile_id": "EBBU_APP",
-	  "default_call_sources": ["EBCI-APP"]
+      "default_call_sources": ["EBCI-APP"]
     },
     {
       "id": "EBAW_GND",
@@ -54,7 +54,7 @@
       "frequency": "121.905",
       "facility_type": "GND",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["EBAW-GND"]
+      "default_call_sources": ["EBAW-GND"]
     },
     {
       "id": "EBAW_TWR",
@@ -62,7 +62,7 @@
       "frequency": "135.205",
       "facility_type": "TWR",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["EBAW-TWR"]
+      "default_call_sources": ["EBAW-TWR"]
     },
     {
       "id": "EBKT_I_TWR",
@@ -70,7 +70,7 @@
       "frequency": "120.255",
       "facility_type": "TWR",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["EBKT-INFO"]
+      "default_call_sources": ["EBKT-INFO"]
     },
     {
       "id": "EBBR_DEL",
@@ -78,7 +78,7 @@
       "frequency": "121.955",
       "facility_type": "DEL",
       "profile_id": "EBBR_TWR",
-	  "default_call_sources": ["EBBR-DEL"]
+      "default_call_sources": ["EBBR-DEL"]
     },
     {
       "id": "EBBR_P_DEL",
@@ -86,7 +86,7 @@
       "frequency": "121.955",
       "facility_type": "DEL",
       "profile_id": "EBBR_TWR",
-	  "default_call_sources": ["EBBR-FMP"]
+      "default_call_sources": ["EBBR-FMP"]
     },
     {
       "id": "EBBR_GND",
@@ -94,7 +94,7 @@
       "frequency": "118.055",
       "facility_type": "GND",
       "profile_id": "EBBR_TWR",
-	  "default_call_sources": ["EBBR-N-GND"]
+      "default_call_sources": ["EBBR-N-GND"]
     },
     {
       "id": "EBBR_S_GND",
@@ -102,7 +102,7 @@
       "frequency": "121.880",
       "facility_type": "GND",
       "profile_id": "EBBR_TWR",
-	  "default_call_sources": ["EBBR-S-GND"]
+      "default_call_sources": ["EBBR-S-GND"]
     },
     {
       "id": "EBBR_C_GND",
@@ -110,7 +110,7 @@
       "frequency": "121.660",
       "facility_type": "GND",
       "profile_id": "EBBR_TWR",
-	  "default_call_sources": ["EBBR-C-GND"]
+      "default_call_sources": ["EBBR-C-GND"]
     },
     {
       "id": "EBBR_TWR",
@@ -118,7 +118,7 @@
       "frequency": "118.605",
       "facility_type": "TWR",
       "profile_id": "EBBR_TWR",
-	  "default_call_sources": ["EBBR-TWR"]
+      "default_call_sources": ["EBBR-TWR"]
     },
     {
       "id": "EBBR_N_TWR",
@@ -126,7 +126,7 @@
       "frequency": "120.780",
       "facility_type": "TWR",
       "profile_id": "EBBR_TWR",
-	  "default_call_sources": ["EBBR-N-TWR"]
+      "default_call_sources": ["EBBR-N-TWR"]
     },
     {
       "id": "EBBR_DEP",
@@ -134,7 +134,7 @@
       "frequency": "126.630",
       "facility_type": "DEP",
       "profile_id": "EBBR_APP",
-	  "default_call_sources": ["EBBR-DEP"]
+      "default_call_sources": ["EBBR-DEP"]
     },
     {
       "id": "EBBR_APP",
@@ -142,7 +142,7 @@
       "frequency": "118.255",
       "facility_type": "APP",
       "profile_id": "EBBR_APP",
-	  "default_call_sources": ["EBBR-APP"]
+      "default_call_sources": ["EBBR-APP"]
     },
     {
       "id": "EBBR_F_APP",
@@ -150,7 +150,7 @@
       "frequency": "120.105",
       "facility_type": "APP",
       "profile_id": "EBBR_APP",
-	  "default_call_sources": ["EBBR-F-APP"]
+      "default_call_sources": ["EBBR-F-APP"]
     },
     {
       "id": "EBBR_H_APP",
@@ -158,7 +158,7 @@
       "frequency": "129.730",
       "facility_type": "APP",
       "profile_id": "EBBR_APP",
-	  "default_call_sources": ["EBBR-H-APP"]
+      "default_call_sources": ["EBBR-H-APP"]
     },
     {
       "id": "EBBR_HW_APP",
@@ -166,7 +166,7 @@
       "frequency": "125.780",
       "facility_type": "APP",
       "profile_id": "EBBR_APP",
-	  "default_call_sources": ["EBBR-HW-APP"]
+      "default_call_sources": ["EBBR-HW-APP"]
     },
     {
       "id": "EBBU_W_CTR",
@@ -174,7 +174,7 @@
       "frequency": "131.100",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-WLS"]
+      "default_call_sources": ["EBBU-WLS"]
     },
     {
       "id": "EBBU_E_CTR",
@@ -182,7 +182,7 @@
       "frequency": "129.575",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-ELS"]
+      "default_call_sources": ["EBBU-ELS"]
     },
     {
       "id": "EBBU_EH_CTR",
@@ -190,7 +190,7 @@
       "frequency": "128.450",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-EHS"]
+      "default_call_sources": ["EBBU-EHS"]
     },
     {
       "id": "EBBU_H_CTR",
@@ -198,7 +198,7 @@
       "frequency": "128.200",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-HUS"]
+      "default_call_sources": ["EBBU-HUS"]
     },
     {
       "id": "EBBU_L_CTR",
@@ -206,7 +206,7 @@
       "frequency": "125.000",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-HUS","EBBU-LUS"]
+      "default_call_sources": ["EBBU-HUS", "EBBU-LUS"]
     },
     {
       "id": "EBBU_LOW_CTR",
@@ -214,7 +214,7 @@
       "frequency": "126.980",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-WLS","EBBU-ELS"]
+      "default_call_sources": ["EBBU-WLS", "EBBU-ELS"]
     },
     {
       "id": "EBBU_C_CTR",
@@ -222,7 +222,7 @@
       "frequency": "127.230",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-WHS"]
+      "default_call_sources": ["EBBU-WHS"]
     },
     {
       "id": "EBBU_N_CTR",
@@ -230,7 +230,7 @@
       "frequency": "128.805",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-NLS"]
+      "default_call_sources": ["EBBU-NLS"]
     },
     {
       "id": "EBBU_S_CTR",
@@ -238,7 +238,7 @@
       "frequency": "199.998",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-FMP"]
+      "default_call_sources": ["EBBU-FMP"]
     },
     {
       "id": "EBBU_I_CTR",
@@ -246,7 +246,7 @@
       "frequency": "126.900",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EBBU-FIC"]
+      "default_call_sources": ["EBBU-FIC"]
     },
     {
       "id": "EDYY_K_CTR",
@@ -254,7 +254,7 @@
       "frequency": "132.205",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EDYY-KOH"]
+      "default_call_sources": ["EDYY-KOH"]
     },
     {
       "id": "EDYY_N_CTR",
@@ -262,7 +262,7 @@
       "frequency": "135.980",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EDYY-NIH"]
+      "default_call_sources": ["EDYY-NIH"]
     },
     {
       "id": "EDYY_O_CTR",
@@ -270,7 +270,7 @@
       "frequency": "132.855",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EDYY-LNH"]
+      "default_call_sources": ["EDYY-LNH"]
     },
     {
       "id": "EDYY_L_CTR",
@@ -278,7 +278,7 @@
       "frequency": "133.355",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EDYY-LXH"]
+      "default_call_sources": ["EDYY-LXH"]
     },
     {
       "id": "EBBU_U_CTR",
@@ -286,7 +286,7 @@
       "frequency": "125.980",
       "facility_type": "CTR",
       "profile_id": "EBBU_CTR",
-	  "default_call_sources": ["EDYY-NIH","EDYY-LNH"]
+      "default_call_sources": ["EDYY-NIH", "EDYY-LNH"]
     },
     {
       "id": "EBLG_GND",
@@ -294,7 +294,7 @@
       "frequency": "121.915",
       "facility_type": "GND",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["EBLG-GND"]
+      "default_call_sources": ["EBLG-GND"]
     },
     {
       "id": "EBLG_TWR",
@@ -302,7 +302,7 @@
       "frequency": "118.130",
       "facility_type": "TWR",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["EBLG-TWR"]
+      "default_call_sources": ["EBLG-TWR"]
     },
     {
       "id": "EBLG_APP",
@@ -310,7 +310,7 @@
       "frequency": "119.280",
       "facility_type": "APP",
       "profile_id": "EBBU_APP",
-	  "default_call_sources": ["EBLG-APP"]
+      "default_call_sources": ["EBLG-APP"]
     },
     {
       "id": "ELLX_DEL",
@@ -318,7 +318,7 @@
       "frequency": "121.855",
       "facility_type": "DEL",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["ELLX-DEL"]
+      "default_call_sources": ["ELLX-DEL"]
     },
     {
       "id": "ELLX_TWR",
@@ -326,7 +326,7 @@
       "frequency": "118.105",
       "facility_type": "TWR",
       "profile_id": "EBBU_TWR",
-	  "default_call_sources": ["ELLX-TWR"]
+      "default_call_sources": ["ELLX-TWR"]
     },
     {
       "id": "ELLX_APP",
@@ -334,7 +334,7 @@
       "frequency": "120.885",
       "facility_type": "APP",
       "profile_id": "EBBU_APP",
-	  "default_call_sources": ["ELLX-APP","ELLX-F-APP"]
+      "default_call_sources": ["ELLX-APP", "ELLX-F-APP"]
     },
     {
       "id": "ELLX_F_APP",
@@ -342,7 +342,7 @@
       "frequency": "118.905",
       "facility_type": "APP",
       "profile_id": "EBBU_APP",
-	  "default_call_sources": ["ELLX-F-APP","ELLX-APP"]
+      "default_call_sources": ["ELLX-F-APP", "ELLX-APP"]
     }
   ]
 }
