@@ -130,7 +130,7 @@
       "frequency": "132.300",
       "facility_type": "CTR",
       "profile_id": "CZQM",
-      "default_call_sources": ["CZQM-1-CTR"]
+      "default_call_sources": ["CZQX-1-CTR"]
     },
     {
       "id": "CZQX_2_CTR",
@@ -138,7 +138,7 @@
       "frequency": "133.000",
       "facility_type": "CTR",
       "profile_id": "CZQM",
-      "default_call_sources": ["CZQM-2-CTR"]
+      "default_call_sources": ["CZQX-2-CTR"]
     },
     {
       "id": "CZQX_3_CTR",
@@ -146,7 +146,7 @@
       "frequency": "125.075",
       "facility_type": "CTR",
       "profile_id": "CZQM",
-      "default_call_sources": ["CZQM-3-CTR"]
+      "default_call_sources": ["CZQX-3-CTR"]
     },
     {
       "id": "CZQX_4_CTR",
@@ -154,7 +154,7 @@
       "frequency": "128.175",
       "facility_type": "CTR",
       "profile_id": "CZQM",
-      "default_call_sources": ["CZQM-4-CTR"]
+      "default_call_sources": ["CZQX-4-CTR"]
     },
     {
       "id": "CZQX_5_CTR",
@@ -162,7 +162,7 @@
       "frequency": "132.050",
       "facility_type": "CTR",
       "profile_id": "CZQM",
-      "default_call_sources": ["CZQM-5-CTR"]
+      "default_call_sources": ["CZQX-5-CTR"]
     },
     {
       "id": "CZQX_6_CTR",
@@ -170,7 +170,7 @@
       "frequency": "119.850",
       "facility_type": "CTR",
       "profile_id": "CZQM",
-      "default_call_sources": ["CZQM-6-CTR"]
+      "default_call_sources": ["CZQX-6-CTR"]
     },
     {
       "id": "CZQX_7_CTR",
@@ -178,7 +178,7 @@
       "frequency": "132.500",
       "facility_type": "CTR",
       "profile_id": "CZQM",
-      "default_call_sources": ["CZQM-7-CTR"]
+      "default_call_sources": ["CZQX-7-CTR"]
     },
     {
       "id": "CZQX_CTR",
@@ -186,7 +186,7 @@
       "frequency": "132.100",
       "facility_type": "CTR",
       "profile_id": "CZQM",
-      "default_call_sources": ["CZQM-CTR"]
+      "default_call_sources": ["CZQX-CTR"]
     },
     {
       "id": "CZQX_G_CTR",
