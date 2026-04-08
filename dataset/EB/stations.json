@@ -206,7 +206,7 @@
     },
     {
       "id": "EBBR-TWR",
-      "controlled_by": ["EBBR_TWR"],
+      "controlled_by": ["EBBR_TWR","EBBR_N_TWR"],
       "parent_id": "EBBR-APP"
     },
     {
