@@ -113,11 +113,11 @@
           },
           {
             "label": ["EBOS", "AIR"],
-            "station_id": "EBCI-TWR"
+            "station_id": "EBOS-TWR"
           },
           {
             "label": ["EBOS", "APP"],
-            "station_id": "EBCI-APP"
+            "station_id": "EBOS-APP"
           },
           {
             "label": []
