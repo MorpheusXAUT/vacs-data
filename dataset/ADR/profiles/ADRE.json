@@ -24,11 +24,7 @@
             "station_id": "LHCC_WT"
           },
           {
-            "label": [
-              "BUDAPEST",
-              "HC",
-              "EAST LOW"
-            ],
+            "label": ["BUDAPEST", "HC", "EAST LOW"],
             "station_id": "LHCC_EL"
           },
           {
@@ -47,43 +43,23 @@
             "station_id": "LR_LOKOM1"
           },
           {
-            "label": [
-              "BUCHAREST",
-              "LRCG",
-              "LRCH"
-            ],
+            "label": ["BUCHAREST", "LRCG", "LRCH"],
             "station_id": "LR_LOKOM2"
           },
           {
-            "label": [
-              "BUCHAREST",
-              "LRCV",
-              "LRCU"
-            ],
+            "label": ["BUCHAREST", "LRCV", "LRCU"],
             "station_id": "LR_LOKOM3"
           },
           {
-            "label": [
-              "BUCHAREST",
-              "LRCW",
-              "LRCB"
-            ],
+            "label": ["BUCHAREST", "LRCW", "LRCB"],
             "station_id": "LR_BUMON1"
           },
           {
-            "label": [
-              "BUCHAREST",
-              "LRCG",
-              "LRCH"
-            ],
+            "label": ["BUCHAREST", "LRCG", "LRCH"],
             "station_id": "LR_BUDMO2"
           },
           {
-            "label": [
-              "BUCHAREST",
-              "LRCV",
-              "LRCU"
-            ],
+            "label": ["BUCHAREST", "LRCV", "LRCU"],
             "station_id": "LR_BUDMO3"
           },
           {
@@ -141,11 +117,7 @@
             "station_id": "LDZO-NORTH"
           },
           {
-            "label": [
-              "ZAGREB",
-              "N UPPER",
-              "ZGUN"
-            ],
+            "label": ["ZAGREB", "N UPPER", "ZGUN"],
             "station_id": "LDZO-NORTH-UPPER"
           },
           {
@@ -153,11 +125,7 @@
             "station_id": "LDZO-SOUTH"
           },
           {
-            "label": [
-              "ZAGREB",
-              "S UPPER",
-              "ZGUS"
-            ],
+            "label": ["ZAGREB", "S UPPER", "ZGUS"],
             "station_id": "LDZO-SOUTH-UPPER"
           },
           {
@@ -226,11 +194,7 @@
             "station_id": "LYBE_F_APP"
           },
           {
-            "label": [
-              "BATAJNICA",
-              "APPROACH",
-              "BTA"
-            ],
+            "label": ["BATAJNICA", "APPROACH", "BTA"],
             "station_id": "LYBT_APP"
           },
           {
@@ -250,11 +214,7 @@
             "station_id": "LDOS_APP"
           },
           {
-            "label": [
-              "DUBROVNIK",
-              "APPROACH",
-              "DR"
-            ],
+            "label": ["DUBROVNIK", "APPROACH", "DR"],
             "station_id": "LDDU_APP"
           },
           {
@@ -262,11 +222,7 @@
             "station_id": "LYNI_APP"
           },
           {
-            "label": [
-              "KRALJEVO",
-              "APPROACH",
-              "KV"
-            ],
+            "label": ["KRALJEVO", "APPROACH", "KV"],
             "station_id": "LYKV_APP"
           },
           {
@@ -277,11 +233,7 @@
             "station_id": "LQTZ_APP"
           },
           {
-            "label": [
-              "PRISTINA",
-              "APPROACH",
-              "PR"
-            ],
+            "label": ["PRISTINA", "APPROACH", "PR"],
             "station_id": "BKPR_APP"
           },
           {
@@ -291,19 +243,11 @@
             "label": []
           },
           {
-            "label": [
-              "SARAJEVO",
-              "APPROACH",
-              "SJ"
-            ],
+            "label": ["SARAJEVO", "APPROACH", "SJ"],
             "station_id": "LQSA_APP"
           },
           {
-            "label": [
-              "TIRANA",
-              "APPROACH",
-              "TIR"
-            ],
+            "label": ["TIRANA", "APPROACH", "TIR"],
             "station_id": "LATI_APP"
           },
           {
@@ -316,11 +260,7 @@
             "label": []
           },
           {
-            "label": [
-              "SKOPJE",
-              "APPROACH",
-              "SKA"
-            ],
+            "label": ["SKOPJE", "APPROACH", "SKA"],
             "station_id": "LWSK_APP"
           },
           {
@@ -350,22 +290,14 @@
             "station_id": "LYBE_GND"
           },
           {
-            "label": [
-              "BEOGRAD",
-              "DELIVERY",
-              "BGD"
-            ],
+            "label": ["BEOGRAD", "DELIVERY", "BGD"],
             "station_id": "LYBE_DEL"
           },
           {
             "label": []
           },
           {
-            "label": [
-              "BATAJNICA",
-              "TOWER",
-              "BTT"
-            ],
+            "label": ["BATAJNICA", "TOWER", "BTT"],
             "station_id": "LYBT_TWR"
           },
           {
@@ -393,11 +325,7 @@
             "label": []
           },
           {
-            "label": [
-              "PODGORICA",
-              "TOWER",
-              "PGT"
-            ],
+            "label": ["PODGORICA", "TOWER", "PGT"],
             "station_id": "LYPG_TWR"
           },
           {
