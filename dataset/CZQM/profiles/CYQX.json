@@ -8,52 +8,32 @@
         "rows": 5,
         "keys": [
           {
-            "label": ["QX", "CTR"],
+            "label": [
+              "QX",
+              "CTR"
+            ],
             "station_id": "CZQX-CTR"
           },
           {
-            "label": ["QX", "APP"],
+            "label": [
+              "QX",
+              "APP"
+            ],
             "station_id": "CYQX-APP"
           },
           {
-            "label": ["QX", "TWR"],
+            "label": [
+              "QX",
+              "TWR"
+            ],
             "station_id": "CYQX-TWR"
           },
           {
-            "label": ["QX", "GND"],
+            "label": [
+              "QX",
+              "GND"
+            ],
             "station_id": "CYQX-GND"
-          },
-          {
-            "label": ""
-          },
-          {
-            "label": ""
-          },
-          {
-            "label": ""
-          },
-          {
-            "label": ""
-          },
-          {
-            "label": ""
-          },
-          {
-            "label": ""
-          },
-          {
-            "label": ["YT", "APP"],
-            "station_id": "CYYT-APP"
-          },
-          {
-            "label": ["LFVP", "APP"],
-            "station_id": "LFVP-APP"
-          },
-          {
-            "label": ""
-          },
-          {
-            "label": ""
           },
           {
             "label": ""
