@@ -8,31 +8,19 @@
         "rows": 5,
         "keys": [
           {
-            "label": [
-              "QM",
-              "CTR"
-            ],
+            "label": ["QM", "CTR"],
             "station_id": "CZQM-CTR"
           },
           {
-            "label": [
-              "SJ",
-              "LO"
-            ],
+            "label": ["SJ", "LO"],
             "station_id": "CZQM-SJ"
           },
           {
-            "label": [
-              "FC",
-              "TWR"
-            ],
+            "label": ["FC", "TWR"],
             "station_id": "CYFC-TWR"
           },
           {
-            "label": [
-              "FC",
-              "GND"
-            ],
+            "label": ["FC", "GND"],
             "station_id": "CYFC-GND"
           },
           {
