@@ -231,11 +231,11 @@
               "rows": 2,
               "keys": [
                 {
-                  "label": ["Moray", "High", "+255"],
+                  "label": ["MORAY H", "+255"],
                   "station_id": "EG-Moray-High"
                 },
                 {
-                  "label": ["Moray", "Low", "-255"],
+                  "label": ["MORAY L", "-255"],
                   "station_id": "EG-Moray-Low"
                 }
               ]
