@@ -84,10 +84,8 @@ jobs:
             elif [[ " ${upcoming[*]} " == *" $date "* ]]; then
               # Create/update labels only for the next N upcoming cycles
               description="AIRAC $cycle - effective $date"
-              if ! gh label view "$label" --json name &>/dev/null; then
-                gh label create "$label" --color "$LABEL_COLOR" --description "$description"
-                echo "Created label: $label"
-              fi
+              gh label create "$label" --color "$LABEL_COLOR" --description "$description" --force
+              echo "Synced label: $label"
             else
               # Future cycle beyond the window, or past cycle within 90 days - delete if it exists
               # (past-but-recent labels with open PRs are kept)
