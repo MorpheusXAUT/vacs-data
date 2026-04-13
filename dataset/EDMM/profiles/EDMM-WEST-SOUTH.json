@@ -112,7 +112,8 @@
                   "label": ["EPWW", "FIS"]
                 },
                 {
-                  "label": ["LKAA", "FIS"]
+                  "label": ["LKAA", "FIS"],
+                  "station_id": "LKAA FIC"
                 },
                 {
                   "label": ["LOVV", "FIS"],

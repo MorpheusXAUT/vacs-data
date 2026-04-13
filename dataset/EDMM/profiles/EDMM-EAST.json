@@ -115,7 +115,8 @@
                   "label": ["EPWW", "FIS"]
                 },
                 {
-                  "label": ["LKAA", "FIS"]
+                  "label": ["LKAA", "FIS"],
+                  "station_id": "LKAA FIC"
                 },
                 {
                   "label": ["LOVV", "FIS"],
@@ -468,10 +469,12 @@
           },
           {
             "label": ["LKAA", "N 305+"],
+            "station_id": "LKAA NU",
             "color": "lilac"
           },
           {
             "label": ["LKAA", "N 305-"],
+            "station_id": "LKAA NL",
             "color": "lilac"
           },
           {
@@ -496,10 +499,12 @@
           },
           {
             "label": ["LKAA", "W 305+"],
+            "station_id": "LKAA WU",
             "color": "lilac"
           },
           {
             "label": ["LKAA", "W 305-"],
+            "station_id": "LKAA WL",
             "color": "lilac"
           },
           {
