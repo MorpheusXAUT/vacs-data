@@ -13,7 +13,7 @@
             "station_id": "OBBB_3_CTR"
           },
           {
-            "label": ["[OBBB]", "NORTH", "LOWER"],
+            "label": ["[OBBB]", "NORTH", "LOW"],
             "color": "lagoon",
             "station_id": "OBBB_N_CTR"
           },
@@ -115,7 +115,9 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["[OBBB]", "FMP"],
+            "color": "blush",
+            "station_id": "OBBB_FM_CTR"
           },
           {
             "label": ["TEH"],
@@ -171,7 +173,7 @@
               "keys": [
                 {
                   "label": ["RD NE", "245-345", "[INOP]"],
-                  "color": "mint"
+                  "color": "lagoon"
                 },
                 {
                   "label": ["JD NE", "345+", "[INOP]"],
@@ -179,7 +181,7 @@
                 },
                 {
                   "label": ["DMM CTA", "245-", "[INOP]"],
-                  "color": "lagoon"
+                  "color": "cadet"
                 }
               ]
             }
