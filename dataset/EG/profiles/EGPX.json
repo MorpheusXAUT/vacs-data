@@ -1,0 +1,17 @@
+{
+  "id": "EGPX",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "EGPX",
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["TEMP", "DO NOT", "USE"]
+          }
+        ]
+      }
+    }
+  ]
+}

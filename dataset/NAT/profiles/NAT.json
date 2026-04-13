@@ -374,12 +374,20 @@
             "rows": 2,
             "keys": [
               {
-                "label": ["North"],
-                "station_id": "SCO_N_CTR"
+                "label": ["Hebrides", "High", "255-660"],
+                "station_id": "EG-Hebrides-High"
               },
               {
-                "label": ["West"],
-                "station_id": "SCO_W_CTR"
+                "label": ["Central", "255-660"],
+                "station_id": "EG-Central"
+              },
+              {
+                "label": ["Hebrides", "Low", "DB-255"],
+                "station_id": "EG-Hebrides-Low"
+              },
+              {
+                "label": ["Central", "DB-255"],
+                "station_id": "EG-Westcoast-Central"
               }
             ]
           }
