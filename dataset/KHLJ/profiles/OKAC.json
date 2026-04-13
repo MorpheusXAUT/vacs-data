@@ -164,18 +164,14 @@
           {
             "label": ["OE"],
             "page": {
-              "rows": 3,
+              "rows": 2,
               "keys": [
                 {
                   "label": ["RD EAST", "345+", "[INOP]"],
                   "color": "lagoon"
                 },
                 {
-                  "label": ["JD EAST", "245-345", "[INOP]"],
-                  "color": "mint"
-                },
-                {
-                  "label": ["JD EAST", "245-", "[INOP]"],
+                  "label": ["JD EAST", "345-", "[INOP]"],
                   "color": "mint"
                 },
                 {
@@ -183,11 +179,7 @@
                   "color": "lagoon"
                 },
                 {
-                  "label": ["JD NE", "245-345", "[INOP]"],
-                  "color": "mint"
-                },
-                {
-                  "label": ["JD NE", "245-", "[INOP]"],
+                  "label": ["JD NE", "345-", "[INOP]"],
                   "color": "mint"
                 }
               ]

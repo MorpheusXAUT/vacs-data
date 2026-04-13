@@ -172,11 +172,11 @@
               "rows": 3,
               "keys": [
                 {
-                  "label": ["RD NE", "245-345", "[INOP]"],
+                  "label": ["RD NE", "345+", "[INOP]"],
                   "color": "lagoon"
                 },
                 {
-                  "label": ["JD NE", "345+", "[INOP]"],
+                  "label": ["JD NE", "245-345", "[INOP]"],
                   "color": "mint"
                 },
                 {
