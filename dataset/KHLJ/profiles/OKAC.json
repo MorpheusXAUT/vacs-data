@@ -94,7 +94,7 @@
           {
             "label": ["[OKAS]", "GMC"],
             "color": "steel",
-            "station_id": "OKAS_GND "
+            "station_id": "OKAS_GND"
           },
           {
             "label": ["[OKKK]", "AIR"],
