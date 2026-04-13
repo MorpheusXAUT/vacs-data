@@ -1,0 +1,530 @@
+{
+  "id": "ULLL",
+  "type": "Tabbed",
+  "tabs": [
+       {
+      "label": ["ACC"],
+      "page": {
+        "rows": 6,
+        "keys": [
+		  {
+            "label": ["ACC", "Combined"],
+            "color": "mint",
+            "station_id": "ULLL_R"
+          },
+		  {
+            "label": ["R", "ACC"],
+            "color": "mint",
+            "station_id": "ULLL_R"
+          },
+          {
+            "label": ["WK", "ACC"],
+            "color": "mint",
+            "station_id": "ULLL_WK"
+          },
+		  {
+            "label": ["AM", "ACC"],
+            "color": "mint",
+            "station_id": "ULLL_AM"
+          },
+		  {
+            "label": ["S", "ACC"],
+            "color": "mint",
+            "station_id": "ULLL_S"
+          },
+		  {
+            "label": ["ACC", "TMU"],
+            "color": "mint",
+			"station_id": "TMU"
+          },
+		  {
+            "label": ["R1", "ACC"],
+			"station_id": "ULLL_R"
+          },
+		  {
+            "label": ["R2", "ACC"],
+            "station_id": "ULLL_R2"
+          },
+          {
+            "label": ["R3", "ACC"],
+            "station_id": "ULLL_SW"
+          },
+          {
+            "label": ["R4", "ACC"],
+            "station_id": "ULLL_R4"
+          },
+		  {
+            "label": ["SW", "(R3+R4)"],
+            "station_id": "ULLL_SW"
+          },
+		  {
+            "label": []
+          },
+          {
+            "label": ["R5", "ACC"],
+            "station_id": "ULLL_R5"
+          },
+          {
+            "label": ["R6", "ACC"],
+            "station_id": "ULLL_R6"
+          },
+		  {
+            "label": ["LCU 1", "132,0"]
+          },
+		  {
+            "label": ["LCU 2", "126,0"]
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+          {
+            "label": ["W1", "ACC"],
+            "station_id": "ULLL_W"
+          },
+          {
+            "label": ["W2", "ACC"],
+            "station_id": "ULLL_W"
+          },
+		  {
+            "label": ["KT", "ACC"],
+            "station_id": "ULLL_WK"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+          {
+            "label": ["AR", "ACC"],
+            "station_id": "ULLL_AR"
+          },
+          {
+            "label": ["MO", "ACC"],
+            "station_id": "ULLL_MR"
+          },
+          {
+            "label": ["MR", "ACC"],
+            "station_id": "ULLL_MR"
+          },
+          {
+            "label": ["NM", "ACC"],
+            "station_id": "ULLL_NM"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["S1", "ACC"],
+            "station_id": "ULLL_SC"
+          },
+		  {
+            "label": ["S2", "ACC"],
+            "station_id": "ULLL_SC"
+          },
+		  {
+            "label": ["S3", "ACC"],
+            "station_id": "ULLL_SC"
+          },
+		  {
+            "label": ["S4", "ACC"],
+            "station_id": "ULLL_S"
+          },
+		  {
+            "label": ["S5", "ACC"],
+            "station_id": "ULLL_S"
+          },
+		  {
+            "label": []
+          }
+        ]
+      }
+    },
+	{
+      "label": ["SPB","AuzDC"],
+      "page": {
+        "rows": 5,
+        "keys": [
+		  {
+            "label": ["APP", "Combined"],
+            "station_id": "ULLL_APP"
+          },
+		  {
+            "label": ["APP", "1(East)"],
+            "station_id": "ULLL_APP"
+          },
+          {
+            "label": ["APP", "2(West)"],
+            "station_id": "?"
+          },
+          {
+            "label": ["LED", "TMU"],
+            "station_id": "?"
+          },
+		  {
+            "label": []
+          },
+          {
+            "label": ["Pulkovo", "Radar"],
+            "station_id": "ULLI_R_APP"
+          },
+          {
+            "label": ["Tower", "10L/28R"],
+            "station_id": "ULLI_A"
+          },
+          {
+            "label": ["Tower", "10R/28L"],
+            "station_id": "ULLI_D"
+          },
+          {
+            "label": ["Tower", "VFR"],
+            "station_id": "ULLI_VFR"
+          },
+		  {
+            "label": []
+          },
+          {
+            "label": ["Pulkovo", "GND"],
+            "station_id": "ULLI_GND"
+          },
+		  {
+            "label": ["Pulkovo", "DEL"],
+            "station_id": "ULLI_DEL"
+          },
+		  {
+                  "label": ["R+W", "Regions"],
+                  "size": 9,
+                  "page": {
+                    "keys": [
+                      {
+					  	"label": ["Petroza", "vodsk", "TWR"],
+					  	"station_id": "ULPB_TWR"
+					  },
+					  {
+					  	"label": ["Pskov", "TWR"],
+					  	"station_id": "ULOO_TWR"
+					  },
+					  {
+					  	"label": []
+					  },
+					  {
+					  	"label": []
+					  },
+					  {
+					  	"label": []
+					  },
+					  {
+					  	"label": ["Cherepo", "vets", "TWR"],
+					  	"station_id": "ULWC_TWR"
+					  },
+					  {
+					  	"label": ["Vologda", "TWR"],
+					  	"station_id": "ULWW_TWR"
+					  },
+					  {
+					  	"label": ["Tochilka", "TWR"],
+					  	"station_id": "ULWU_TWR"
+					  },
+					  {
+					  	"label": []
+					  },
+					  {
+					  	"label": []
+					  },
+		              {
+                        "label": ["Murmansk", "APP"],
+                        "station_id": "ULMM_APP"
+                      },
+		              {
+                        "label": ["Murmansk", "TWR"],
+                        "station_id": "ULMM_TWR"
+                      },
+		              {
+                        "label": ["Talovka", "TWR"],
+                        "station_id": "ULMK_TWR"
+                      }
+                    ],
+                    "rows": 5
+                  }
+		  }
+		]
+      }
+    },
+	{
+      "label": ["SPB","Auz1DC"],
+      "page": {
+        "rows": 5,
+        "keys": [		  
+		  {
+            "label": ["Arkhang", "elsk", "APP"],
+            "station_id": "ULAA_APP"
+          },
+		  {
+            "label": ["Arkhang", "elsk", "TWR"],
+            "station_id": "ULAA_TWR"
+          },
+		  {
+            "label": ["Vaskovo", "TWR"],
+            "station_id": "ULAH_TWR"
+          },
+		  {
+            "label": ["Solovki", "TWR"],
+            "station_id": "ULAS_TWR"
+          },
+		  {
+            "label": ["Mezen", "TWR"],
+            "station_id": "ULAE_TWR"
+          },
+
+		  {
+            "label": ["Naryan-","Mar", "APP"],
+            "station_id": "ULAM_APP"
+          },
+		  {
+            "label": ["Naryan-","Mar", "TWR"],
+            "station_id": "ULAM_TWR"
+          },
+
+
+		  {
+            "label": ["Sivkar", "Radar"],
+            "station_id": "UUYY_R_APP"
+          },
+		  {
+            "label": ["Sivkar", "TWR"],
+            "station_id": "UUYY_TWR"
+          },
+		  {
+            "label": ["Ukhta", "TWR"],
+            "station_id": "UUYH_TWR"
+          },
+		  {
+            "label": ["Vorkuta", "APP"],
+            "station_id": "UUYW_APP"
+          },
+		  {
+            "label": ["Vorkuta", "TWR"],
+            "station_id": "UUYW_APP"
+          },
+		  {
+            "label": ["Pechora", "TWR"],
+            "station_id": "UUYP_TWR"
+          },
+		  {
+            "label": ["Usinsk", "TWR"],
+            "station_id": "UUYS_TWR"
+          },
+		  {
+            "label": ["Avtopark", "TWR"],
+            "station_id": "UUYX_TWR"
+          },
+		  {
+            "label": ["Amderma", "TWR"],
+            "station_id": "ULDD_TWR"
+          },
+		  {
+            "label": ["Varandey", "TWR"],
+            "station_id": "ULDW_TWR"
+          }
+        ]
+      }
+    },
+	{
+      "label": ["ACC","EXT"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["Helsinki", "ACC"],
+            "station_id": "?"
+          },
+		  {
+            "label": ["Helsinki", "J"],
+            "station_id": "?"
+          },
+          {
+            "label": ["Helsinki", "V"],
+            "station_id": "?"
+          },
+          {
+            "label": ["Helsinki", "N"],
+            "station_id": "?"
+          },
+          {
+            "label": ["Helsinki", "L"],
+            "station_id": "?"
+          },
+          {
+            "label": ["Helsinki", "A"],
+            "station_id": "?"
+          },
+		  {
+            "label": ["Helsinki", "APP"],
+            "station_id": "?"
+          },
+          {
+            "label": ["Riga", "ACC"],
+            "station_id": "?"
+          },
+          {
+            "label": ["Tallin", "W"],
+            "station_id": "?"
+          },
+          {
+            "label": ["Tallin", "E"],
+            "station_id": "?"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["Moscow", "Combined"],
+            "station_id": "UUWV"
+          },
+		  {
+            "label": ["Moscow", "N"],
+            "station_id": "UUWV_N"
+          },
+		  {
+            "label": ["Moscow", "W"],
+            "station_id": "UUWV_W"
+          },
+          {
+            "label": ["Moscow", "NW"],
+            "station_id": "UUWV_NW"
+          },		  
+          {
+            "label": ["Moscow", "NE"],
+            "station_id": "UUWV_NE"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["Moscow", "S1"],
+            "station_id": "UUWV_S1"
+          },
+          {
+            "label": ["Moscow", "S2"],
+            "station_id": "UUWV_S2"
+          },
+          {
+            "label": ["Moscow", "S3"],
+            "station_id": "UUWV_S3"
+          },
+		  {
+            "label": ["Moscow", "Z2"],
+			"station_id": "UUWV_Z2"
+          },
+          {
+            "label": ["Moscow", "G5"],
+            "station_id": "UUWV_G5"
+          },
+		  {
+            "label": []
+          },
+          {
+            "label": ["Ekateri", "nburg", "Combined"],
+            "station_id": "USSV_CTR"
+          },
+          {
+            "label": ["Ekateri", "nburg", "W"],
+            "station_id": "USSV_W"
+          },
+          {
+            "label": ["Ekateri", "nburg", "P"],
+            "station_id": "USSV_P"
+          },
+          {
+            "label": ["Ekateri", "nburg", "N"],
+            "station_id": "USSV_N"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+          {
+            "label": ["Ekateri", "nburg", "7"],
+            "station_id": "USSV_7"
+          },
+          {
+            "label": ["Ekateri", "nburg", "8"],
+            "station_id": "USSV_8"
+          },
+          {
+            "label": ["Ekateri", "nburg", "9"],
+            "station_id": "USSV_9"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["Tyumen", "Combined"],
+			"station_id": "USTV_CTR"
+          },
+		  {
+            "label": ["Tyumen", "N"],
+			"station_id": "USTV_N"
+          },
+		  {
+            "label": ["Tyumen", "W"],
+			"station_id": "USTV_W"
+          },
+		  {
+            "label": ["Tyumen", "C"],
+			"station_id": "USTV_C"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["Krasnoya", "rsk", "ACC"],
+			"station_id": "UNKL_CTR"
+          },
+		  {
+            "label": ["Tyumen", "5"],
+			"station_id": "USTV_5"
+          },
+		  {
+            "label": ["Tyumen", "8"],
+			"station_id": "USTV_8"
+          },
+		  {
+            "label": ["Tyumen", "9"],
+			"station_id": "USTV_9"
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": []
+          },
+		  {
+            "label": ["Magadan", "ACC"],
+			"station_id": "UHMM_CTR"
+          }
+        ]
+      }
+    }
+  ]
+}
