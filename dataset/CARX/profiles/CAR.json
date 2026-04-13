@@ -82,10 +82,6 @@
                     "station_id": "MDPC_APP"
                   },
                   {
-                    "label": ["MDST", "APP"],
-                    "station_id": "MDST_APP"
-                  },
-                  {
                     "label": ["MDCY", "APP"],
                     "station_id": "MDCY_APP"
                   }
