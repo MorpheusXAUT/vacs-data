@@ -207,7 +207,7 @@
       "prefixes": ["CYHZ"],
       "frequency": "119.200",
       "facility_type": "APP",
-      "profile_id": "CZQM",
+      "profile_id": "CYHZ",
       "default_call_sources": ["CYHZ-TMA"]
     },
     {
@@ -215,7 +215,7 @@
       "prefixes": ["CYHZ"],
       "frequency": "128.550",
       "facility_type": "APP",
-      "profile_id": "CZQM",
+      "profile_id": "CYHZ",
       "default_call_sources": ["CYHZ-TMA-FI"]
     },
     {
@@ -223,7 +223,7 @@
       "prefixes": ["CYQM"],
       "frequency": "124.400",
       "facility_type": "APP",
-      "profile_id": "CZQM",
+      "profile_id": "CYQM-APP",
       "default_call_sources": ["CZQM-QM"]
     },
     {
@@ -231,7 +231,7 @@
       "prefixes": ["CYQX"],
       "frequency": "128.500",
       "facility_type": "APP",
-      "profile_id": "CZQM",
+      "profile_id": "CYQX",
       "default_call_sources": ["CYQX-APP"]
     },
     {
@@ -255,7 +255,7 @@
       "prefixes": ["CYYT"],
       "frequency": "133.150",
       "facility_type": "APP",
-      "profile_id": "CZQM",
+      "profile_id": "CYYT",
       "default_call_sources": ["CYYT-APP"]
     },
     {
@@ -271,7 +271,7 @@
       "prefixes": ["CZQM"],
       "frequency": "124.400",
       "facility_type": "APP",
-      "profile_id": "CZQM",
+      "profile_id": "CZQM-L",
       "default_call_sources": ["CZQM-L"]
     },
     {
@@ -279,7 +279,7 @@
       "prefixes": ["CYFC"],
       "frequency": "119.000",
       "facility_type": "TWR",
-      "profile_id": "CZQM",
+      "profile_id": "CYFC",
       "default_call_sources": ["CYFC-TWR"]
     },
     {
@@ -287,7 +287,7 @@
       "prefixes": ["CYHZ"],
       "frequency": "118.400",
       "facility_type": "TWR",
-      "profile_id": "CZQM",
+      "profile_id": "CYHZ",
       "default_call_sources": ["CYHZ-TWR"]
     },
     {
@@ -295,7 +295,7 @@
       "prefixes": ["CYQM"],
       "frequency": "120.800",
       "facility_type": "TWR",
-      "profile_id": "CZQM",
+      "profile_id": "CYQM",
       "default_call_sources": ["CYQM-TWR"]
     },
     {
@@ -303,7 +303,7 @@
       "prefixes": ["CYQX"],
       "frequency": "118.100",
       "facility_type": "TWR",
-      "profile_id": "CZQM",
+      "profile_id": "CYQX",
       "default_call_sources": ["CYQX-TWR"]
     },
     {
@@ -319,7 +319,7 @@
       "prefixes": ["CYYT"],
       "frequency": "120.600",
       "facility_type": "TWR",
-      "profile_id": "CZQM",
+      "profile_id": "CYYT",
       "default_call_sources": ["CYYT-TWR"]
     },
     {
@@ -335,7 +335,7 @@
       "prefixes": ["CYFC"],
       "frequency": "121.700",
       "facility_type": "GND",
-      "profile_id": "CZQM",
+      "profile_id": "CYFC",
       "default_call_sources": ["CYFC-GND"]
     },
     {
@@ -343,7 +343,7 @@
       "prefixes": ["CYHZ"],
       "frequency": "121.900",
       "facility_type": "GND",
-      "profile_id": "CZQM",
+      "profile_id": "CYHZ",
       "default_call_sources": ["CYHZ-GND"]
     },
     {
@@ -351,7 +351,7 @@
       "prefixes": ["CYQM"],
       "frequency": "121.800",
       "facility_type": "GND",
-      "profile_id": "CZQM",
+      "profile_id": "CYQM",
       "default_call_sources": ["CYQM-GND"]
     },
     {
@@ -359,7 +359,7 @@
       "prefixes": ["CYQX"],
       "frequency": "121.900",
       "facility_type": "GND",
-      "profile_id": "CZQM",
+      "profile_id": "CYQX",
       "default_call_sources": ["CYQX-GND"]
     },
     {
@@ -375,7 +375,7 @@
       "prefixes": ["CYYT"],
       "frequency": "121.900",
       "facility_type": "GND",
-      "profile_id": "CZQM",
+      "profile_id": "CYYT",
       "default_call_sources": ["CYYT-GND"]
     },
     {
@@ -391,7 +391,7 @@
       "prefixes": ["CYHZ"],
       "frequency": "123.950",
       "facility_type": "DEL",
-      "profile_id": "CZQM",
+      "profile_id": "CYHZ",
       "default_call_sources": ["CYHZ-DEL"]
     },
     {
@@ -431,7 +431,7 @@
       "prefixes": ["LFVP"],
       "frequency": "119.100",
       "facility_type": "APP",
-      "profile_id": "CZQM",
+      "profile_id": "LFVP",
       "default_call_sources": ["LFVP-APP"]
     },
     {
@@ -439,7 +439,7 @@
       "prefixes": ["LFVP"],
       "frequency": "118.500",
       "facility_type": "TWR",
-      "profile_id": "CZQM",
+      "profile_id": "LFVP",
       "default_call_sources": ["LFVP-TWR"]
     },
     {

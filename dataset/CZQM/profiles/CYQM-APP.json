@@ -1,0 +1,53 @@
+{
+  "id": "CYQM-APP",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["CYQM", "APP"],
+      "page": {
+        "rows": 5,
+        "keys": [
+          {
+            "label": ["QM", "CTR"],
+            "station_id": "CZQM-CTR"
+          },
+          {
+            "label": ["QM", "LO"],
+            "station_id": "CZQM-QM"
+          },
+          {
+            "label": ["QM", "TWR"],
+            "station_id": "CYQM-TWR"
+          },
+          {
+            "label": ["QM", "GND"],
+            "station_id": "CYQM-GND"
+          },
+          {
+            "label": ["SJ", "MF"],
+            "station_id": "CYSJ-MF"
+          },
+          {
+            "label": ""
+          },
+          {
+            "label": ["SJ", "LO"],
+            "station_id": "CZQM-SJ"
+          },
+          {
+            "label": ["FC", "TWR"],
+            "station_id": "CYFC-TWR"
+          },
+          {
+            "label": ["FC", "GND"],
+            "station_id": "CYFC-GND"
+          },
+          {
+            "label": ["YG", "MF"],
+            "station_id": "CYYG-MF"
+          }
+        ]
+      }
+    }
+  ]
+}
