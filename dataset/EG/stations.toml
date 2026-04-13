@@ -942,7 +942,7 @@ controlled_by = ["EGSS_DEL"]
 [[stations]]
 id = "EGSS_GND"
 parent_id = "EGSS_TWR"
-controlled_by = ["EGSS_TWR"]
+controlled_by = ["EGSS_GND"]
 
 [[stations]]
 id = "EGSS_TWR"
