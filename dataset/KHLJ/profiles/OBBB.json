@@ -170,15 +170,15 @@
               "rows": 3,
               "keys": [
                 {
-                  "label": ["RD NE", "245-345", "INOP"],
+                  "label": ["RD NE", "245-345", "[INOP]"],
                   "color": "mint"
                 },
                 {
-                  "label": ["JD NE", "345+", "INOP"],
+                  "label": ["JD NE", "345+", "[INOP]"],
                   "color": "mint"
                 },
                 {
-                  "label": ["DMM CTA", "245-", "INOP"],
+                  "label": ["DMM CTA", "245-", "[INOP]"],
                   "color": "lagoon"
                 }
               ]
