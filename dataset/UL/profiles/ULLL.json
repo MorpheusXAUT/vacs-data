@@ -149,199 +149,7 @@
         ]
       }
     },
-	{
-      "label": ["SPB","AuzDC"],
-      "page": {
-        "rows": 5,
-        "keys": [
-		  {
-            "label": ["APP", "Combined"],
-            "station_id": "ULLL_APP"
-          },
-		  {
-            "label": ["APP", "1(East)"],
-            "station_id": "ULLL_APP"
-          },
-          {
-            "label": ["APP", "2(West)"],
-            "station_id": "?"
-          },
-          {
-            "label": ["LED", "TMU"],
-            "station_id": "?"
-          },
-		  {
-            "label": []
-          },
-          {
-            "label": ["Pulkovo", "Radar"],
-            "station_id": "ULLI_R_APP"
-          },
-          {
-            "label": ["Tower", "10L/28R"],
-            "station_id": "ULLI_A"
-          },
-          {
-            "label": ["Tower", "10R/28L"],
-            "station_id": "ULLI_D"
-          },
-          {
-            "label": ["Tower", "VFR"],
-            "station_id": "ULLI_VFR"
-          },
-		      {
-            "label": []
-          },
-          {
-            "label": ["Pulkovo", "GND"],
-            "station_id": "ULLI_GND"
-          },
-		      {
-            "label": ["Pulkovo", "DEL"],
-            "station_id": "ULLI_DEL"
-          },
-					{
-						"label": []
-					},
-					{
-						"label": []
-					},
-					{
-						"label": []
-					},
-  			  {
-						"label": []
-					},
-					{
-						"label": []
-					},
-					{
-						"label": []
-					},
-  			  {
-						"label": []
-					},
-					{
-						"label": []
-					},
-          {
-						"label": ["Petroza", "vodsk", "TWR"],
-						"station_id": "ULPB_TWR"
-					},
-					{
-						"label": ["Pskov", "TWR"],
-						"station_id": "ULOO_TWR"
-					},
-					{
-						"label": []
-					},
-		      {
-            "label": ["Arkhang", "elsk", "APP"],
-            "station_id": "ULAA_APP"
-          },
-		      {
-            "label": ["Sivkar", "Radar"],
-            "station_id": "UUYY_R_APP"
-          },
-					{
-						"label": ["Cherepo", "vets", "TWR"],
-						"station_id": "ULWC_TWR"
-					},
-					{
-						"label": ["Vologda", "TWR"],
-						"station_id": "ULWW_TWR"
-					},
-					{
-						"label": ["Tochilka", "TWR"],
-						"station_id": "ULWU_TWR"
-					},
-		      {
-              "label": ["Arkhang", "elsk", "TWR"],
-              "station_id": "ULAA_TWR"
-          },
-		      {
-            "label": ["Sivkar", "TWR"],
-            "station_id": "UUYY_TWR"
-          },
-          {
-            "label": ["Murmansk", "APP"],
-            "station_id": "ULMM_APP"
-          },
-		      {
-            "label": ["Murmansk", "TWR"],
-            "station_id": "ULMM_TWR"
-          },
-	        {
-            "label": ["Talovka", "TWR"],
-            "station_id": "ULMK_TWR"
-          },
-		      {
-              "label": ["Vaskovo", "TWR"],
-              "station_id": "ULAH_TWR"
-          },
-					{
-						"label": ["OTHER", "ADCs"]
-					}
-        ]
-		  }
-    },
-	{
-      "label": ["Regi","ADCs"],
-      "page": {
-        "rows": 5,
-        "keys": [		  
-		      {
-            "label": ["Naryan-","Mar", "APP"],
-            "station_id": "ULAM_APP"
-          },
-		      {
-            "label": ["Naryan-","Mar", "TWR"],
-            "station_id": "ULAM_TWR"
-          },
-		      {
-            "label": ["Mezen", "TWR"],
-            "station_id": "ULAE_TWR"
-          },
-		      {
-            "label": ["Solovki", "TWR"],
-            "station_id": "ULAS_TWR"
-          },
-		      {
-            "label": ["Ukhta", "TWR"],
-            "station_id": "UUYH_TWR"
-          },
-		      {
-            "label": ["Vorkuta", "APP"],
-            "station_id": "UUYW_APP"
-          },
-		      {
-            "label": ["Vorkuta", "TWR"],
-            "station_id": "UUYW_APP"
-          },
-		      {
-            "label": ["Pechora", "TWR"],
-            "station_id": "UUYP_TWR"
-          },
-		      {
-            "label": ["Usinsk", "TWR"],
-            "station_id": "UUYS_TWR"
-          },
-		      {
-            "label": ["Avtopark", "TWR"],
-            "station_id": "UUYX_TWR"
-          },
-		      {
-            "label": ["Amderma", "TWR"],
-            "station_id": "ULDD_TWR"
-          },
-		      {
-            "label": ["Varandey", "TWR"],
-            "station_id": "ULDW_TWR"
-          }
-        ]
-      }
-    },
-	{
+	  {
       "label": ["ACC","EXT"],
       "page": {
         "rows": 6,
@@ -456,6 +264,201 @@
           },
 		      {
             "label": []
+          },
+		      {
+            "label": []
+          },
+		      {
+            "label": []
+          }
+        ]
+      }
+    },
+	  {
+      "label": ["ADCs","1"],
+      "page": {
+        "rows": 6,
+        "keys": [
+		  {
+            "label": ["APP", "Combined"],
+            "station_id": "ULLL_APP"
+          },
+		  {
+            "label": ["APP", "1(East)"],
+            "station_id": "ULLL_APP"
+          },
+          {
+            "label": ["APP", "2(West)"],
+            "station_id": "?"
+          },
+          {
+            "label": ["LED", "TMU"],
+            "station_id": "?"
+          },
+		      {
+            "label": []
+          },
+		      {
+            "label": []
+          },
+          {
+            "label": ["Pulkovo", "Radar"],
+            "station_id": "ULLI_R_APP"
+          },
+          {
+            "label": ["Tower", "10L/28R"],
+            "station_id": "ULLI_A"
+          },
+          {
+            "label": ["Tower", "10R/28L"],
+            "station_id": "ULLI_D"
+          },
+          {
+            "label": ["Tower", "VFR"],
+            "station_id": "ULLI_VFR"
+          },
+          {
+            "label": ["Pulkovo", "GND"],
+            "station_id": "ULLI_GND"
+          },
+		      {
+            "label": ["Pulkovo", "DEL"],
+            "station_id": "ULLI_DEL"
+          },
+		      {
+            "label": []
+          },
+		      {
+            "label": []
+          },
+					{
+						"label": []
+					},
+					{
+						"label": []
+					},
+					{
+						"label": []
+					},
+					{
+						"label": []
+					},
+          {
+						"label": ["Petroza", "vodsk", "TWR"],
+						"station_id": "ULPB_TWR"
+					},
+					{
+						"label": ["Pskov", "TWR"],
+						"station_id": "ULOO_TWR"
+					},
+					{
+						"label": ["Cherepo", "vets", "TWR"],
+						"station_id": "ULWC_TWR"
+					},
+					{
+						"label": ["Vologda", "TWR"],
+						"station_id": "ULWW_TWR"
+					},
+					{
+						"label": ["Tochilka", "TWR"],
+						"station_id": "ULWU_TWR"
+					},
+		      {
+            "label": []
+          },
+		      {
+            "label": ["Arkhang", "elsk", "APP"],
+            "station_id": "ULAA_APP"
+          },
+		      {
+            "label": ["Arkhang", "elsk", "TWR"],
+            "station_id": "ULAA_TWR"
+          },
+		      {
+            "label": ["Vaskovo", "TWR"],
+            "station_id": "ULAH_TWR"
+          },
+		      {
+            "label": ["Mezen", "TWR"],
+            "station_id": "ULAE_TWR"
+          },
+		      {
+            "label": ["Solovki", "TWR"],
+            "station_id": "ULAS_TWR"
+          },
+		      {
+            "label": []
+          },
+          {
+            "label": ["Murmansk", "APP"],
+            "station_id": "ULMM_APP"
+          },
+		      {
+            "label": ["Murmansk", "TWR"],
+            "station_id": "ULMM_TWR"
+          },
+	        {
+            "label": ["Talovka", "TWR"],
+            "station_id": "ULMK_TWR"
+          },
+		      {
+            "label": ["Naryan-","Mar", "APP"],
+            "station_id": "ULAM_APP"
+          },
+		      {
+            "label": ["Naryan-","Mar", "TWR"],
+            "station_id": "ULAM_TWR"
+          },
+					{
+						"label": []
+					}
+        ]
+		  }
+    },
+	{
+      "label": ["ADCs","2"],
+      "page": {
+        "rows": 6,
+        "keys": [		  
+		      {
+            "label": ["Sivkar", "Radar"],
+            "station_id": "UUYY_R_APP"
+          },
+		      {
+            "label": ["Sivkar", "TWR"],
+            "station_id": "UUYY_TWR"
+          },
+		      {
+            "label": ["Ukhta", "TWR"],
+            "station_id": "UUYH_TWR"
+          },
+		      {
+            "label": ["Pechora", "TWR"],
+            "station_id": "UUYP_TWR"
+          },
+		      {
+            "label": ["Usinsk", "TWR"],
+            "station_id": "UUYS_TWR"
+          },
+		      {
+            "label": ["Avtopark", "TWR"],
+            "station_id": "UUYX_TWR"
+          },
+		      {
+            "label": ["Vorkuta", "APP"],
+            "station_id": "UUYW_APP"
+          },
+		      {
+            "label": ["Vorkuta", "TWR"],
+            "station_id": "UUYW_APP"
+          },
+		      {
+            "label": ["Amderma", "TWR"],
+            "station_id": "ULDD_TWR"
+          },
+		      {
+            "label": ["Varandey", "TWR"],
+            "station_id": "ULDW_TWR"
           },
 		      {
             "label": []
