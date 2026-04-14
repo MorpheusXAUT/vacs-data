@@ -176,11 +176,12 @@
                         "label": []
                       },
                       {
-                        "label": ["EYVI", "TWR"],
-                        "station_id": "EYVI_TWR"
+                        "label": ["EYVI", "APP"],
+                        "station_id": "EYVI_APP"
                       },
                       {
-                        "label": []
+                        "label": ["EYVI", "TWR"],
+                        "station_id": "EYVI_TWR"
                       },
                       {
                         "label": ["EYVL", "CTR", "FL255-335"],
@@ -194,11 +195,11 @@
                         "label": []
                       },
                       {
-                        "label": ["EYKA", "APP"],
-                        "station_id": "EYKA_APP"
+                        "label": []
                       },
                       {
-                        "label": []
+                        "label": ["EYKA", "APP"],
+                        "station_id": "EYKA_APP"
                       },
                       {
                         "label": []

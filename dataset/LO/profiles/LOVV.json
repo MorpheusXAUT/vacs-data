@@ -213,7 +213,8 @@
                     "label": []
                   },
                   {
-                    "label": ["PRA", "FIC", "WEST"]
+                    "label": ["PRA", "FIC", "WEST"],
+                    "station_id": "LKAA FIC"
                   },
                   {
                     "label": ["LOWW", "AIS", "ARO"]
@@ -232,7 +233,8 @@
                     "label": []
                   },
                   {
-                    "label": ["PRA", "FIC", "EAST"]
+                    "label": ["PRA", "FIC", "EAST"],
+                    "station_id": "LKAA FIC"
                   },
                   {
                     "label": ["LOWW", "TWR", "COO"],
@@ -253,7 +255,8 @@
                     "label": []
                   },
                   {
-                    "label": ["PRA", "FIC", "MORAVA"]
+                    "label": ["PRA", "FIC", "MORAVA"],
+                    "station_id": "LKAA FIC"
                   },
                   {
                     "label": ["APP", "TFI", "PLC"],
@@ -757,40 +760,52 @@
               "page": {
                 "keys": [
                   {
-                    "label": ["PRA", "TW", "380+"]
+                    "label": ["PRA", "TW", "380+"],
+                    "station_id": "LKAA WU"
                   },
                   {
-                    "label": ["PRA", "HW", "360-370"]
+                    "label": ["PRA", "HW", "360-370"],
+                    "station_id": "LKAA WU"
                   },
                   {
-                    "label": ["PRA", "UW", "350"]
+                    "label": ["PRA", "UW", "350"],
+                    "station_id": "LKAA WU"
                   },
                   {
-                    "label": ["PRA", "MW", "310-340"]
+                    "label": ["PRA", "MW", "310-340"],
+                    "station_id": "LKAA WU"
                   },
                   {
-                    "label": ["PRA", "LW", "300-"]
+                    "label": ["PRA", "LW", "300-"],
+                    "station_id": "LKAA WL"
                   },
                   {
-                    "label": ["PRA", "KV", "125-"]
+                    "label": ["PRA", "KV", "125-"],
+                    "station_id": "LKAA KV"
                   },
                   {
-                    "label": ["PRA", "TS", "380+"]
+                    "label": ["PRA", "TS", "380+"],
+                    "station_id": "LKAA SU"
                   },
                   {
-                    "label": ["PRA", "HS", "360-370"]
+                    "label": ["PRA", "HS", "360-370"],
+                    "station_id": "LKAA SU"
                   },
                   {
-                    "label": ["PRA", "US", "350"]
+                    "label": ["PRA", "US", "350"],
+                    "station_id": "LKAA SU"
                   },
                   {
-                    "label": ["PRA", "MS", "310-340"]
+                    "label": ["PRA", "MS", "310-340"],
+                    "station_id": "LKAA SU"
                   },
                   {
-                    "label": ["PRA", "LS", "300-"]
+                    "label": ["PRA", "LS", "300-"],
+                    "station_id": "LKAA SL"
                   },
                   {
-                    "label": ["PRA", "TB", "125-"]
+                    "label": ["PRA", "TB", "125-"],
+                    "station_id": "LKAA TB"
                   }
                 ],
                 "rows": 6
