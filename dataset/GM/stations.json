@@ -190,11 +190,6 @@
             "controlled_by": ["GMML_TWR"]
         },
         {
-            "id": "GMML_TWR",
-            "parent_id": "GMML_APP",
-            "controlled_by": ["GMML_TWR"]
-        },
-        {
             "id": "GMMN_APP",
             "parent_id": "GMMN_CTR",
             "controlled_by": ["GMMN_APP"]
