@@ -24,7 +24,8 @@
             "station_id": "CYFC-GND"
           },
           {
-            "label": ""
+            "label": ["YG", "MF"],
+            "station_id": "CYYG-MF"
           }
         ]
       }

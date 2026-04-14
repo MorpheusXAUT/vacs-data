@@ -28,7 +28,8 @@
             "station_id": "CYHZ-DEL"
           },
           {
-            "label": ""
+            "label": ["QM", "DG"],
+            "station_id": "CZQM-DG"
           },
           {
             "label": ["HZ", "FI"],
@@ -44,7 +45,8 @@
             "label": ""
           },
           {
-            "label": ""
+            "label": ["QM", "CB"],
+            "station_id": "CZQM-CB"
           },
           {
             "label": ""
