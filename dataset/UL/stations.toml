@@ -1,15 +1,25 @@
 # ULLL_R Sectors
 
 [[stations]]
-id = "ULLL_SW"
-parent_id = "ULLL_R"
+id = "ULLL_R1"
+parent_id = "ULLL_SW"
 
 [[stations]]
 id = "ULLL_R2"
 parent_id = "ULLL_R"
+controlled_by = ["ULLL_R2_CTR"]
+
+[[stations]]
+id = "ULLL_R3"
+parent_id = "ULLL_SW"
 
 [[stations]]
 id = "ULLL_R4"
+parent_id = "ULLL_SW"
+controlled_by = ["ULLL_R4_CTR"]
+
+[[stations]]
+id = "ULLL_SW"
 parent_id = "ULLL_R"
 
 [[stations]]
