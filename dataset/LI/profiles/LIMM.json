@@ -175,6 +175,10 @@
                   {
                     "label": ["WS2"],
                     "station_id": "LIMM-WS2"
+                  },
+                                    {
+                    "label": ["WS0"],
+                    "station_id": "LIMM-WS0"
                   }
                 ],
                 "rows": 5
