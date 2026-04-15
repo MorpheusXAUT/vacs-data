@@ -68,7 +68,8 @@
             "station_id": "EDDB-TWR_N"
           },
           {
-            "label": ["FIS", "DB"]
+            "label": ["FIS", "DB"],
+            "station_id": "EDXX-FIS-IDB"
           },
           {
             "label": ["EPGD", "FIS"],
@@ -115,7 +116,8 @@
             "station_id": "EDDB-TWR_S"
           },
           {
-            "label": ["FIS", "DC"]
+            "label": ["FIS", "DC"],
+            "station_id": "EDXX-FIS-IDC"
           },
           {
             "label": ["EPPO", "FIS"],
@@ -126,7 +128,8 @@
             "station_id": "EDAZ-AFIS"
           },
           {
-            "label": ["EDWW", "FMP"]
+            "label": ["EDWW", "FMP"],
+            "station_id": "EDWW-FMP"
           }
         ]
       }

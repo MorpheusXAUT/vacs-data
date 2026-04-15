@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "PRIM",
+      "label": ["PRIM"],
       "page": {
         "rows": 6,
         "keys": [
@@ -52,7 +52,8 @@
             "station_id": "EDDB-GND_A"
           },
           {
-            "label": ["EDWW", "FMP"]
+            "label": ["EDWW", "FMP"],
+            "station_id": "EDWW-FMP"
           },
           {
             "label": ["DBDN"],
@@ -67,7 +68,8 @@
             "station_id": "EDAZ-AFIS"
           },
           {
-            "label": ["FIS", "DB"]
+            "label": ["FIS", "DB"],
+            "station_id": "EDXX-FIS-IDB"
           }
         ]
       }

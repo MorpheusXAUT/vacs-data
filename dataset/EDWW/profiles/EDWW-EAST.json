@@ -193,11 +193,11 @@
               "keys": [
                 {
                   "label": ["ETNL", "TWR"],
-                  "station_id": "ETNL_TWR"
+                  "station_id": "ETNL-TWR"
                 },
                 {
                   "label": ["ETNL", "APP"],
-                  "station_id": "ETNL_APP"
+                  "station_id": "ETNL-APP"
                 }
               ]
             }
@@ -224,22 +224,28 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["FIS", "DB"]
+                  "label": ["FIS", "DB"],
+                  "station_id": "EDXX-FIS-IDB"
                 },
                 {
-                  "label": ["FIS", "DC"]
+                  "label": ["FIS", "DC"],
+                  "station_id": "EDXX-FIS-IDC"
                 },
                 {
-                  "label": ["FIS", "DH"]
+                  "label": ["FIS", "DH"],
+                  "station_id": "EDXX-FIS-IDH"
                 },
                 {
-                  "label": ["FIS", "DL"]
+                  "label": ["FIS", "DL"],
+                  "station_id": "EDXX-FIS-IDL"
                 },
                 {
-                  "label": ["FIS", "DV"]
+                  "label": ["FIS", "DV"],
+                  "station_id": "EDXX-FIS-IDV"
                 },
                 {
-                  "label": ["FIS", "SW"]
+                  "label": ["FIS", "SW"],
+                  "station_id": "EDXX-FIS-ISW"
                 },
                 {
                   "label": ["EPGD", "FIS"],
@@ -263,11 +269,11 @@
               "keys": [
                 {
                   "label": ["ETSH", "TWR"],
-                  "station_id": "ETSH_TWR"
+                  "station_id": "ETSH-TWR"
                 },
                 {
                   "label": ["ETSH", "APP"],
-                  "station_id": "ETSH_APP"
+                  "station_id": "ETSH-APP"
                 }
               ]
             }
@@ -289,7 +295,11 @@
             "station_id": "EPSC_TMA"
           },
           {
-            "label": ["TRAMON", "SUNRISE", "LONESHIP"],
+            "label": [
+              "TRAMON",
+              "SUNRISE",
+              "LONESHIP"
+            ],
             "page": {
               "rows": 6,
               "keys": [
@@ -311,10 +321,12 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["EDWW", "FMP"]
+                  "label": ["EDWW", "FMP"],
+                  "station_id": "EDWW-FMP"
                 },
                 {
-                  "label": ["EDGG", "FMP"]
+                  "label": ["EDGG", "FMP"],
+                  "station_id": "EDGG-FMP"
                 },
                 {
                   "label": ["EDMM", "FMP"],

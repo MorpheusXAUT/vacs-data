@@ -72,10 +72,15 @@
             "station_id": "EDHL-GND"
           },
           {
-            "label": ["FIS", "DH"]
+            "label": ["FIS", "DH"],
+            "station_id": "EDXX-FIS-IDH"
           },
           {
-            "label": ["TRAMON", "SUNRISE", "LONESHIP"],
+            "label": [
+              "TRAMON",
+              "SUNRISE",
+              "LONESHIP"
+            ],
             "page": {
               "rows": 6,
               "keys": [
@@ -124,13 +129,16 @@
             }
           },
           {
-            "label": ["FIS", "SW"]
+            "label": ["FIS", "SW"],
+            "station_id": "EDXX-FIS-ISW"
           },
           {
-            "label": ["FIS", "DB"]
+            "label": ["FIS", "DB"],
+            "station_id": "EDXX-FIS-IDB"
           },
           {
-            "label": ["EDWW", "FMP"]
+            "label": ["EDWW", "FMP"],
+            "station_id": "EDWW-FMP"
           }
         ]
       }

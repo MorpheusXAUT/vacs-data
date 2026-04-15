@@ -159,10 +159,15 @@
             "station_id": "EPWWD_LOW"
           },
           {
-            "label": ["LKAA", "N", "+305"]
+            "label": ["LKAA", "N", "+305"],
+            "station_id": "LKAA NU"
           },
           {
-            "label": ["TRAMON", "SUNRISE", "LONESHIP"],
+            "label": [
+              "TRAMON",
+              "SUNRISE",
+              "LONESHIP"
+            ],
             "page": {
               "rows": 6,
               "keys": [
@@ -195,7 +200,8 @@
             "station_id": "EPWWT_LOW"
           },
           {
-            "label": ["LKAA", "W", "+305"]
+            "label": ["LKAA", "W", "+305"],
+            "station_id": "LKAA WU"
           },
           {
             "label": ["FMP"],
@@ -203,10 +209,12 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["EDWW", "FMP"]
+                  "label": ["EDWW", "FMP"],
+                  "station_id": "EDWW-FMP"
                 },
                 {
-                  "label": ["EDGG", "FMP"]
+                  "label": ["EDGG", "FMP"],
+                  "station_id": "EDGG-FMP"
                 },
                 {
                   "label": ["EDMM", "FMP"],

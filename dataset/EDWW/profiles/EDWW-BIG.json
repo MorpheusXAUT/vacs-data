@@ -290,7 +290,7 @@
                 },
                 {
                   "label": ["ETMN", "TWR"],
-                  "station_id": "ETMNS-TWR"
+                  "station_id": "ETMN-TWR"
                 },
                 {
                   "label": ["ETMN", "APP"],
@@ -539,7 +539,11 @@
                   "station_id": "ESMM_L"
                 },
                 {
-                  "label": ["ESMM", "8", "285-365"],
+                  "label": [
+                    "ESMM",
+                    "8",
+                    "285-365"
+                  ],
                   "station_id": "ESMM_8"
                 },
                 {
@@ -559,7 +563,11 @@
                   "station_id": "EPWWB_LOW"
                 },
                 {
-                  "label": ["EPWW", "B", "335-365"],
+                  "label": [
+                    "EPWW",
+                    "B",
+                    "335-365"
+                  ],
                   "station_id": "EPWWB_MID"
                 },
                 {
@@ -571,7 +579,11 @@
                   "station_id": "EPWWD_LOW"
                 },
                 {
-                  "label": ["EPWW", "D", "335-365"],
+                  "label": [
+                    "EPWW",
+                    "D",
+                    "335-365"
+                  ],
                   "station_id": "EPWWD_MID"
                 },
                 {
@@ -587,22 +599,28 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["FIS", "DB"]
+                  "label": ["FIS", "DB"],
+                  "station_id": "EDXX-FIS-IDB"
                 },
                 {
-                  "label": ["FIS", "DC"]
+                  "label": ["FIS", "DC"],
+                  "station_id": "EDXX-FIS-IDC"
                 },
                 {
-                  "label": ["FIS", "DH"]
+                  "label": ["FIS", "DH"],
+                  "station_id": "EDXX-FIS-IDH"
                 },
                 {
-                  "label": ["FIS", "DL"]
+                  "label": ["FIS", "DL"],
+                  "station_id": "EDXX-FIS-IDL"
                 },
                 {
-                  "label": ["FIS", "DV"]
+                  "label": ["FIS", "DV"],
+                  "station_id": "EDXX-FIS-IDV"
                 },
                 {
-                  "label": ["FIS", "SW"]
+                  "label": ["FIS", "SW"],
+                  "station_id": "EDXX-FIS-ISW"
                 },
                 {
                   "label": ["EPGD", "FIS"],
@@ -625,10 +643,12 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["EDWW", "FMP"]
+                  "label": ["EDWW", "FMP"],
+                  "station_id": "EDWW-FMP"
                 },
                 {
-                  "label": ["EDGG", "FMP"]
+                  "label": ["EDGG", "FMP"],
+                  "station_id": "EDGG-FMP"
                 },
                 {
                   "label": ["EDMM", "FMP"],
