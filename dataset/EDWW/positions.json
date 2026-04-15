@@ -1,6 +1,13 @@
 {
   "positions": [
     {
+      "id": "EDWW_FMP",
+      "prefixes": ["EDWW"],
+      "frequency": "199.998",
+      "facility_type": "FMP",
+      "profile_id": "EDWW-BIG"
+    },
+    {
       "id": "EDWW_ALR_CTR",
       "prefixes": ["EDWW"],
       "frequency": "126.325",
