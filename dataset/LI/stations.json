@@ -113,11 +113,11 @@
     },
     {
       "id": "LIMM-WN0",
-      "controlled_by": ["LIMF_WN0_APP", "LIMM_WN2_CTR", "LIMM_WS2_CTR"]
+      "controlled_by": ["LIMF_WN0_APP", "LIMM_WW0_APP", "LIMM_WN2_CTR", "LIMM_WS2_CTR"]
     },
     {
-      "id": "LIMJ-APP",
-      "controlled_by": ["LIMJ_APP", "LIMM_WS2_CTR"]
+      "id": "LIMM-WS0",
+      "controlled_by": ["LIMJ_WS0_APP", "LIMM_WW0_APP", "LIMM_WS2_CTR"]
     },
     {
       "id": "LIMM-ADE",
@@ -245,12 +245,12 @@
     {
       "id": "LIMG-AFIU",
       "controlled_by": ["LIMG_I_TWR"],
-      "parent_id": "LIMJ-APP"
+      "parent_id": "LIMM-WS0"
     },
     {
       "id": "LIMJ-TWR",
       "controlled_by": ["LIMJ_TWR"],
-      "parent_id": "LIMJ-APP"
+      "parent_id": "LIMM-WS0"
     },
     {
       "id": "LIML-TWR",
@@ -544,7 +544,7 @@
     },
     {
       "id": "LIPP-CE0",
-      "controlled_by": ["LIPQ_CE0_APP", "LIPZ_SE0_APP"],
+      "controlled_by": ["LIPQ_CE0_APP", "LIPP_SC0_APP"],
       "parent_id": "LIPP-CE1"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "id": "LIPP-SE0",
-      "controlled_by": ["LIPZ_SE0_APP"],
+      "controlled_by": ["LIPZ_SE0_APP", "LIPP_SC0_APP"],
       "parent_id": "LIPP-CE1"
     },
     {

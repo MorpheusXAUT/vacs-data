@@ -232,11 +232,6 @@
           "align_items": "start",
           "children": [
             {
-              "label": ["GENOVA", "APP"],
-              "size": 6.25,
-              "station_id": "LIMJ-APP"
-            },
-            {
               "label": ["PISA", "APP"],
               "size": 6.25,
               "station_id": "LIRP-APP"
