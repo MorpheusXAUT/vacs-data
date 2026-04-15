@@ -133,12 +133,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "AEC"],
+                  "label": ["LKPR", "APP"],
                   "station_id": "LKPR ARR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "TEC"],
+                  "label": ["LKPR", "TWR"],
                   "station_id": "LKPR TWR",
                   "color": "lavender"
                 },
@@ -163,12 +163,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "DEC"],
+                  "label": ["LKPR", "DEP"],
                   "station_id": "LKPR DEP",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "GEC"],
+                  "label": ["LKPR", "GND"],
                   "station_id": "LKPR GND",
                   "color": "lavender"
                 },
@@ -193,12 +193,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "PEC"],
+                  "label": ["LKPR", "DIR"],
                   "station_id": "LKPR DIR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "CDO"],
+                  "label": ["LKPR", "DEL"],
                   "station_id": "LKPR DEL",
                   "color": "lavender"
                 },
@@ -334,12 +334,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "AEC"],
+                  "label": ["LKPR", "APP"],
                   "station_id": "LKPR ARR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "TEC"],
+                  "label": ["LKPR", "TWR"],
                   "station_id": "LKPR TWR",
                   "color": "lavender"
                 },
@@ -364,12 +364,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "DEC"],
+                  "label": ["LKPR", "DEP"],
                   "station_id": "LKPR DEP",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "GEC"],
+                  "label": ["LKPR", "GND"],
                   "station_id": "LKPR GND",
                   "color": "lavender"
                 },
@@ -394,12 +394,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "PEC"],
+                  "label": ["LKPR", "DIR"],
                   "station_id": "LKPR DIR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "CDO"],
+                  "label": ["LKPR", "DEL"],
                   "station_id": "LKPR DEL",
                   "color": "lavender"
                 },
@@ -561,12 +561,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "AEC"],
+                  "label": ["LKPR", "APP"],
                   "station_id": "LKPR ARR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "TEC"],
+                  "label": ["LKPR", "TWR"],
                   "station_id": "LKPR TWR",
                   "color": "lavender"
                 },
@@ -591,12 +591,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "DEC"],
+                  "label": ["LKPR", "DEP"],
                   "station_id": "LKPR DEP",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "GEC"],
+                  "label": ["LKPR", "GND"],
                   "station_id": "LKPR GND",
                   "color": "lavender"
                 },
@@ -621,12 +621,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "PEC"],
+                  "label": ["LKPR", "DIR"],
                   "station_id": "LKPR DIR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "CDO"],
+                  "label": ["LKPR", "DEL"],
                   "station_id": "LKPR DEL",
                   "color": "lavender"
                 },
@@ -793,12 +793,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "AEC"],
+                  "label": ["LKPR", "APP"],
                   "station_id": "LKPR ARR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "TEC"],
+                  "label": ["LKPR", "TWR"],
                   "station_id": "LKPR TWR",
                   "color": "lavender"
                 },
@@ -823,12 +823,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "DEC"],
+                  "label": ["LKPR", "DEP"],
                   "station_id": "LKPR DEP",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "GEC"],
+                  "label": ["LKPR", "GND"],
                   "station_id": "LKPR GND",
                   "color": "lavender"
                 },
@@ -853,12 +853,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "PEC"],
+                  "label": ["LKPR", "DIR"],
                   "station_id": "LKPR DIR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "CDO"],
+                  "label": ["LKPR", "DEL"],
                   "station_id": "LKPR DEL",
                   "color": "lavender"
                 },
@@ -1012,12 +1012,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "AEC"],
+                  "label": ["LKPR", "APP"],
                   "station_id": "LKPR ARR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "TEC"],
+                  "label": ["LKPR", "TWR"],
                   "station_id": "LKPR TWR",
                   "color": "lavender"
                 },
@@ -1042,12 +1042,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "DEC"],
+                  "label": ["LKPR", "DEP"],
                   "station_id": "LKPR DEP",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "GEC"],
+                  "label": ["LKPR", "GND"],
                   "station_id": "LKPR GND",
                   "color": "lavender"
                 },
@@ -1072,12 +1072,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "PEC"],
+                  "label": ["LKPR", "DIR"],
                   "station_id": "LKPR DIR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "CDO"],
+                  "label": ["LKPR", "DEL"],
                   "station_id": "LKPR DEL",
                   "color": "lavender"
                 },
@@ -1217,12 +1217,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "AEC"],
+                  "label": ["LKPR", "APP"],
                   "station_id": "LKPR ARR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "TEC"],
+                  "label": ["LKPR", "TWR"],
                   "station_id": "LKPR TWR",
                   "color": "lavender"
                 },
@@ -1247,12 +1247,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "DEC"],
+                  "label": ["LKPR", "DEP"],
                   "station_id": "LKPR DEP",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "GEC"],
+                  "label": ["LKPR", "GND"],
                   "station_id": "LKPR GND",
                   "color": "lavender"
                 },
@@ -1277,12 +1277,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "PEC"],
+                  "label": ["LKPR", "DIR"],
                   "station_id": "LKPR DIR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "CDO"],
+                  "label": ["LKPR", "DEL"],
                   "station_id": "LKPR DEL",
                   "color": "lavender"
                 },
@@ -1418,12 +1418,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "AEC"],
+                  "label": ["LKPR", "APP"],
                   "station_id": "LKPR ARR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "TEC"],
+                  "label": ["LKPR", "TWR"],
                   "station_id": "LKPR TWR",
                   "color": "lavender"
                 },
@@ -1448,12 +1448,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "DEC"],
+                  "label": ["LKPR", "DEP"],
                   "station_id": "LKPR DEP",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "GEC"],
+                  "label": ["LKPR", "GND"],
                   "station_id": "LKPR GND",
                   "color": "lavender"
                 },
@@ -1478,12 +1478,12 @@
                   "color": "mint"
                 },
                 {
-                  "label": ["LKPR", "PEC"],
+                  "label": ["LKPR", "DIR"],
                   "station_id": "LKPR DIR",
                   "color": "blush"
                 },
                 {
-                  "label": ["LKPR", "CDO"],
+                  "label": ["LKPR", "DEL"],
                   "station_id": "LKPR DEL",
                   "color": "lavender"
                 },
@@ -1532,12 +1532,12 @@
             "color": "mint"
           },
           {
-            "label": ["LKPR", "AEC"],
+            "label": ["LKPR", "APP"],
             "station_id": "LKPR ARR",
             "color": "blush"
           },
           {
-            "label": ["LKPR", "TEC"],
+            "label": ["LKPR", "TWR"],
             "station_id": "LKPR TWR",
             "color": "lavender"
           },
@@ -1562,12 +1562,12 @@
             "color": "mint"
           },
           {
-            "label": ["LKPR", "DEC"],
+            "label": ["LKPR", "DEP"],
             "station_id": "LKPR DEP",
             "color": "blush"
           },
           {
-            "label": ["LKPR", "GEC"],
+            "label": ["LKPR", "GND"],
             "station_id": "LKPR GND",
             "color": "lavender"
           },
@@ -1592,12 +1592,12 @@
             "color": "mint"
           },
           {
-            "label": ["LKPR", "PEC"],
+            "label": ["LKPR", "DIR"],
             "station_id": "LKPR DIR",
             "color": "blush"
           },
           {
-            "label": ["LKPR", "CDO"],
+            "label": ["LKPR", "DEL"],
             "station_id": "LKPR DEL",
             "color": "lavender"
           },
@@ -1620,11 +1620,11 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["TEC"],
+            "label": ["TWR"],
             "station_id": "LKPR TWR"
           },
           {
-            "label": ["AEC", ""],
+            "label": ["APP"],
             "station_id": "LKPR ARR"
           },
           {
@@ -1644,11 +1644,11 @@
             "station_id": "LKVO TWR"
           },
           {
-            "label": ["GEC"],
+            "label": ["GND"],
             "station_id": "LKPR GND"
           },
           {
-            "label": ["DEC"],
+            "label": ["DEP"],
             "station_id": "LKPR DEP"
           },
           {
@@ -1668,11 +1668,11 @@
             "station_id": "LKKB TWR"
           },
           {
-            "label": ["CDO"],
+            "label": ["DEL"],
             "station_id": "LKPR DEL"
           },
           {
-            "label": ["PEC", "", ""],
+            "label": ["DIR", "", ""],
             "station_id": "LKPR DIR"
           },
           {
@@ -1754,11 +1754,11 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["TEC"],
+                  "label": ["TWR"],
                   "station_id": "LKPR TWR"
                 },
                 {
-                  "label": ["AEC", ""],
+                  "label": ["APP"],
                   "station_id": "LKPR ARR"
                 },
                 {
@@ -1778,11 +1778,11 @@
                   "station_id": "LKVO TWR"
                 },
                 {
-                  "label": ["GEC"],
+                  "label": ["GND"],
                   "station_id": "LKPR GND"
                 },
                 {
-                  "label": ["DEC"],
+                  "label": ["DEP"],
                   "station_id": "LKPR DEP"
                 },
                 {
@@ -1802,11 +1802,11 @@
                   "station_id": "LKKB TWR"
                 },
                 {
-                  "label": ["CDO"],
+                  "label": ["DEL"],
                   "station_id": "LKPR DEL"
                 },
                 {
-                  "label": ["PEC", "", ""],
+                  "label": ["DIR", "", ""],
                   "station_id": "LKPR DIR"
                 },
                 {
@@ -1934,11 +1934,11 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["TEC"],
+                  "label": ["TWR"],
                   "station_id": "LKPR TWR"
                 },
                 {
-                  "label": ["AEC", ""],
+                  "label": ["APP"],
                   "station_id": "LKPR ARR"
                 },
                 {
@@ -1958,11 +1958,11 @@
                   "station_id": "LKVO TWR"
                 },
                 {
-                  "label": ["GEC"],
+                  "label": ["GND"],
                   "station_id": "LKPR GND"
                 },
                 {
-                  "label": ["DEC"],
+                  "label": ["DEP"],
                   "station_id": "LKPR DEP"
                 },
                 {
@@ -1982,11 +1982,11 @@
                   "station_id": "LKKB TWR"
                 },
                 {
-                  "label": ["CDO"],
+                  "label": ["DEL"],
                   "station_id": "LKPR DEL"
                 },
                 {
-                  "label": ["PEC", "", ""],
+                  "label": ["DIR", "", ""],
                   "station_id": "LKPR DIR"
                 },
                 {
@@ -2125,11 +2125,11 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["TEC"],
+                  "label": ["TWR"],
                   "station_id": "LKPR TWR"
                 },
                 {
-                  "label": ["AEC", ""],
+                  "label": ["APP"],
                   "station_id": "LKPR ARR"
                 },
                 {
@@ -2149,11 +2149,11 @@
                   "station_id": "LKVO TWR"
                 },
                 {
-                  "label": ["GEC"],
+                  "label": ["GND"],
                   "station_id": "LKPR GND"
                 },
                 {
-                  "label": ["DEC"],
+                  "label": ["DEP"],
                   "station_id": "LKPR DEP"
                 },
                 {
@@ -2173,11 +2173,11 @@
                   "station_id": "LKKB TWR"
                 },
                 {
-                  "label": ["CDO"],
+                  "label": ["DEL"],
                   "station_id": "LKPR DEL"
                 },
                 {
-                  "label": ["PEC", "", ""],
+                  "label": ["DIR", "", ""],
                   "station_id": "LKPR DIR"
                 },
                 {
@@ -2303,11 +2303,11 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["TEC"],
+                  "label": ["TWR"],
                   "station_id": "LKPR TWR"
                 },
                 {
-                  "label": ["AEC", ""],
+                  "label": ["APP"],
                   "station_id": "LKPR ARR"
                 },
                 {
@@ -2327,11 +2327,11 @@
                   "station_id": "LKVO TWR"
                 },
                 {
-                  "label": ["GEC"],
+                  "label": ["GND"],
                   "station_id": "LKPR GND"
                 },
                 {
-                  "label": ["DEC"],
+                  "label": ["DEP"],
                   "station_id": "LKPR DEP"
                 },
                 {
@@ -2351,11 +2351,11 @@
                   "station_id": "LKKB TWR"
                 },
                 {
-                  "label": ["CDO"],
+                  "label": ["DEL"],
                   "station_id": "LKPR DEL"
                 },
                 {
-                  "label": ["PEC", "", ""],
+                  "label": ["DIR", "", ""],
                   "station_id": "LKPR DIR"
                 },
                 {
@@ -2494,11 +2494,11 @@
         "rows": 6,
         "keys": [
           {
-            "label": ["TEC"],
+            "label": ["TWR"],
             "station_id": "LKPR TWR"
           },
           {
-            "label": ["AEC", ""],
+            "label": ["APP"],
             "station_id": "LKPR ARR"
           },
           {
@@ -2518,11 +2518,11 @@
             "station_id": "LKVO TWR"
           },
           {
-            "label": ["GEC"],
+            "label": ["GND"],
             "station_id": "LKPR GND"
           },
           {
-            "label": ["DEC"],
+            "label": ["DEP"],
             "station_id": "LKPR DEP"
           },
           {
@@ -2542,11 +2542,11 @@
             "station_id": "LKKB TWR"
           },
           {
-            "label": ["CDO"],
+            "label": ["DEL"],
             "station_id": "LKPR DEL"
           },
           {
-            "label": ["PEC", "", ""],
+            "label": ["DIR", "", ""],
             "station_id": "LKPR DIR"
           },
           {
