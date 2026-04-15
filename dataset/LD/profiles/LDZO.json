@@ -124,10 +124,12 @@
             "station_id": "LDZO-WEST-UPPER"
           },
           {
-            "label": []
+            "label": ["LJUBLJANA", "ACC", "LJC"],
+            "station_id": "LJLA"
           },
           {
-            "label": []
+            "label": ["LJUBLJANA", "ACC UP", "LJU"],
+            "station_id": "LJLA-UPPER"
           },
           {
             "label": []
@@ -244,6 +246,10 @@
       "page": {
         "rows": 2,
         "keys": [
+          {
+            "label": ["LJUBLJANA", "RADAR", "LJA"],
+            "station_id": "LJLJ_APP"
+          },
           {
             "label": ["ZAGREB", "RADAR", "ZGR"],
             "station_id": "LDZA_APP"
