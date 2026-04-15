@@ -20,7 +20,7 @@
             "station_id": "EDYY-ML"
           },
           {
-            "label": ["EID", "", ""],
+            "label": ["EID"],
             "station_id": "EDWW-EID"
           },
           {
@@ -76,7 +76,7 @@
             "station_id": "EDWW-HAN"
           },
           {
-            "label": ["BOR", ""],
+            "label": ["BOR"],
             "station_id": "EDWW-BOR"
           },
           {
@@ -115,11 +115,11 @@
             "label": ["YY", "DELTA"]
           },
           {
-            "label": ["DBAN", ""],
+            "label": ["DBAN"],
             "station_id": "EDWW-DBAN"
           },
           {
-            "label": ["DBAS", ""],
+            "label": ["DBAS"],
             "station_id": "EDWW-DBAS"
           },
           {
@@ -252,11 +252,11 @@
             }
           },
           {
-            "label": ["DBDN", ""],
+            "label": ["DBDN"],
             "station_id": "EDWW-DBDN"
           },
           {
-            "label": ["DBDS", ""],
+            "label": ["DBDS"],
             "station_id": "EDWW-DBDN"
           },
           {
@@ -410,7 +410,7 @@
             }
           },
           {
-            "label": ["EDGG", ""],
+            "label": ["EDGG"],
             "page": {
               "rows": 6,
               "keys": [
@@ -450,7 +450,7 @@
             }
           },
           {
-            "label": ["EDMM", ""],
+            "label": ["EDMM"],
             "page": {
               "rows": 6,
               "keys": [
@@ -495,7 +495,7 @@
                   "station_id": "EDBC-AFIS"
                 },
                 {
-                  "label": ["BH", "INFO", ""],
+                  "label": ["BH", "INFO"],
                   "station_id": "EDBH-AFIS"
                 },
                 {
@@ -530,7 +530,7 @@
             "station_id": "EDUU-SPE"
           },
           {
-            "label": ["ESMM", "", ""],
+            "label": ["ESMM"],
             "page": {
               "rows": 6,
               "keys": [
@@ -554,7 +554,7 @@
             }
           },
           {
-            "label": ["EPWW", ""],
+            "label": ["EPWW"],
             "page": {
               "rows": 6,
               "keys": [
