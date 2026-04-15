@@ -805,8 +805,8 @@ controlled_by = ["SCO_GRP_CTR"]
 
 [[stations]]
 id = "SCO_BDS_CTR"
-parent_id = "SCO_S_CTR"
-controlled_by = ["SCO_BDS_CTR", "SCO_WB_CTR"]
+parent_id = "SCO_WB_CTR"
+controlled_by = ["SCO_BDS_CTR", "SCO_WB_CTR", "SCO_S_CTR"]
 
 [[stations]]
 id = "SCO_PEN_CTR"
