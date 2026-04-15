@@ -113,7 +113,12 @@
     },
     {
       "id": "LIMM-WN0",
-      "controlled_by": ["LIMF_WN0_APP", "LIMM_WW0_APP", "LIMM_WN2_CTR", "LIMM_WS2_CTR"]
+      "controlled_by": [
+        "LIMF_WN0_APP",
+        "LIMM_WW0_APP",
+        "LIMM_WN2_CTR",
+        "LIMM_WS2_CTR"
+      ]
     },
     {
       "id": "LIMM-WS0",

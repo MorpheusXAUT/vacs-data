@@ -518,7 +518,7 @@
       "facility_type": "CTR",
       "profile_id": "LIPP"
     },
-        {
+    {
       "id": "LIPP_SC0_APP",
       "prefixes": ["LIPP"],
       "frequency": "130.525",
