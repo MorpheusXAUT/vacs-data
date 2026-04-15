@@ -224,13 +224,16 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": ["TRAMON"]
+                  "label": ["TRAMON"],
+                  "station_id": "ETXX-TRA"
                 },
                 {
-                  "label": ["SUNRISE"]
+                  "label": ["SUNRISE"],
+                  "station_id": "ETXX-SR"
                 },
                 {
-                  "label": ["LONESHIP"]
+                  "label": ["LONESHIP"],
+                  "station_id": "ETXX-LS"
                 }
               ]
             }
