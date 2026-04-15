@@ -362,7 +362,6 @@
                       {
                         "label": ["LKAA", "FIS"],
                         "station_id": "LKAA FIC"
-                        
                       },
                       {
                         "label": []
@@ -497,7 +496,7 @@
           "gap": 0.75,
           "children": [
             {
-              "label": ["UKLV","N/A"],
+              "label": ["UKLV", "N/A"],
               "size": 6.25,
               "page": {
                 "keys": [
