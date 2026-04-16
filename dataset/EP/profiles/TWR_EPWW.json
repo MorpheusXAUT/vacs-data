@@ -65,11 +65,7 @@
                   "station_id": "EDWW-FLG"
                 },
                 {
-                  "label": [
-                    "APP DP",
-                    "TRS",
-                    "EC"
-                  ],
+                  "label": ["APP DP", "TRS", "EC"],
                   "station_id": "EDMM-TRS"
                 },
                 {
@@ -93,11 +89,7 @@
                   "station_id": "EDWW-DBAS"
                 },
                 {
-                  "label": [
-                    "APP DC",
-                    "SAS",
-                    "EC"
-                  ],
+                  "label": ["APP DC", "SAS", "EC"],
                   "station_id": "EDMM-SAS"
                 }
               ]
@@ -270,11 +262,7 @@
                   "label": []
                 },
                 {
-                  "label": [
-                    "APP WA",
-                    "H N",
-                    "EC"
-                  ],
+                  "label": ["APP WA", "H N", "EC"],
                   "station_id": "EPWA_TMA_N"
                 },
                 {
@@ -288,11 +276,7 @@
                   "label": []
                 },
                 {
-                  "label": [
-                    "APP WA",
-                    "H S",
-                    "EC"
-                  ],
+                  "label": ["APP WA", "H S", "EC"],
                   "station_id": "EPWA_TMA_S"
                 },
                 {
@@ -326,11 +310,7 @@
                   "station_id": "EPWW_TM"
                 },
                 {
-                  "label": [
-                    "ALL FIR",
-                    "LM",
-                    "EC"
-                  ],
+                  "label": ["ALL FIR", "LM", "EC"],
                   "station_id": "EPWW_ALL"
                 },
                 {
@@ -1487,12 +1467,7 @@
             "UMMV*CTR",
             "UMBB*TWR"
           ],
-          "exclude": [
-            "LKAA*S*CTR",
-            "LKAA*W*CTR",
-            "UMMV*S*CTR",
-            "EDMM_NDG_CTR"
-          ],
+          "exclude": ["LKAA*S*CTR", "LKAA*W*CTR", "UMMV*S*CTR", "EDMM_NDG_CTR"],
           "grouping": "Fir",
           "priority": [
             "EPWW*",
