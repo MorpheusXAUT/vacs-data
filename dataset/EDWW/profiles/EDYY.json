@@ -188,7 +188,8 @@
             "station_id": "EDGG-SIG"
           },
           {
-            "label": ["EGPX", "HUMBER"]
+            "label": ["EGPX", "HUMBER"],
+            "station_id": "EG-Humber"
           },
           {
             "label": ["EHMC"]
