@@ -134,32 +134,62 @@
           {
             "label": ["PRAHA"],
             "page": {
-              "rows": 2,
+              "rows": 4,
               "keys": [
-                {
-                  "label": ["LKAA", "", "EC"]
-                },
-                {
-                  "label": ["LKAA", "R", "EC"]
-                },
-                {
-                  "label": ["LKAA", "U", "EC"]
-                },
-                {
-                  "label": ["LKAA", "L", "EC"]
-                },
-                {
-                  "label": ["LKAA", "N", "EC"]
-                },
-                {
-                  "label": ["LKAA", "S", "EC"]
-                },
-                {
-                  "label": ["APP", "LKMT", "EC"]
-                },
                 {
                   "label": ["FMP"],
                   "station_id": "EPWW_FMP"
+                },
+                {
+                  "label": ["LKAA", "W", "EC"],
+                  "station_id": "LKAA WL"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["LKAA", "N U", "EC"],
+                  "station_id": "LKAA NU"
+                },
+                {
+                  "label": ["LKAA", "S U", "EC"],
+                  "station_id": "LKAA SU"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["LKAA", "N L", "EC"],
+                  "station_id": "LKAA NL"
+                },
+                {
+                  "label": ["LKAA", "S L", "EC"],
+                  "station_id": "LKAA SL"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["LKMT", "APP", "EC"],
+                  "station_id": "LKAA MT"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 }
               ]
             }
@@ -167,7 +197,7 @@
           {
             "label": ["APP", "KRAJ"],
             "page": {
-              "rows": 2,
+              "rows": 4,
               "keys": [
                 {
                   "label": ["APP GD", "", "EC"],
@@ -178,12 +208,24 @@
                   "station_id": "EPGD_LTMA"
                 },
                 {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
                   "label": ["APP KK", "W", "EC"],
                   "station_id": "EPKK_TMA_W"
                 },
                 {
                   "label": ["DIR", "KT", "EC"],
                   "station_id": "EPKT_DIR"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 },
                 {
                   "label": ["APP KK", "E", "EC"],
@@ -194,6 +236,12 @@
                   "station_id": "EPKK_DIR"
                 },
                 {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
                   "label": ["APP KK", "RZ", "EC"],
                   "station_id": "EPRZ_TMA"
                 },
@@ -202,12 +250,24 @@
                   "station_id": "EPWW_FMP"
                 },
                 {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
                   "label": ["APP PO", "N", "EC"],
                   "station_id": "EPPO_TMA_N"
                 },
                 {
                   "label": ["APP PO", "S", "EC"],
                   "station_id": "EPPO_TMA_S"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 },
                 {
                   "label": [
@@ -222,6 +282,12 @@
                   "station_id": "EPWA_TMA"
                 },
                 {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
                   "label": [
                     "APP WA",
                     "H S",
@@ -232,6 +298,12 @@
                 {
                   "label": ["DIR", "WA", "EC"],
                   "station_id": "EPWA_DIR"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 }
               ]
             }
@@ -346,15 +418,21 @@
           {
             "label": ["MALMO", "UMKK"],
             "page": {
-              "rows": 2,
+              "rows": 4,
               "keys": [
                 {
                   "label": ["ESMM", "2", "EC"],
                   "station_id": "ESMM_2"
                 },
                 {
-                  "label": ["APP", "ESMS", "EC"],
+                  "label": ["ESMS", "APP", "EC"],
                   "station_id": "ESMM_L"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 },
                 {
                   "label": ["ESMM", "9", "EC"],
@@ -365,12 +443,24 @@
                   "station_id": "ESMM_8"
                 },
                 {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
                   "label": ["ESMM", "6", "EC"],
                   "station_id": "ESMM_6"
                 },
                 {
                   "label": ["ESMM", "7", "EC"],
                   "station_id": "ESMM_7"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 },
                 {
                   "label": ["ESMM", "Y", "EC"],
@@ -380,8 +470,23 @@
                   "label": ["UMKK", "", "EC"]
                 },
                 {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
                   "label": ["MALMO", "FMP"],
                   "station_id": "ESAA_FMP"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 }
               ]
             }
@@ -429,23 +534,68 @@
           {
             "label": ["LVIV"],
             "page": {
-              "rows": 1,
+              "rows": 4,
               "keys": [
                 {
                   "label": ["UKLV", "ACC", "EC"]
                 },
                 {
-                  "label": ["APP", "UKLL", "EC"]
+                  "label": []
                 },
                 {
-                  "label": ["TWR", "UKLU"]
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["UKLL", "APP", "EC"]
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["UKLU", "TWR"]
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 },
                 {
                   "label": ["UKR", "ACC", "EC"]
                 },
                 {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
                   "label": ["FMP"],
                   "station_id": "EPWW_FMP"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 }
               ]
             }
@@ -453,23 +603,35 @@
           {
             "label": ["BRATI", "SLAVA"],
             "page": {
-              "rows": 2,
+              "rows": 4,
               "keys": [
                 {
                   "label": ["LZBB", "U", "EC"],
                   "station_id": "LZBB_CENTER_1U"
                 },
                 {
-                  "label": ["LZBB", "", "EC"],
-                  "station_id": "LZBB_CENTER_0L"
+                  "label": ["LZBB", "EC"],
+                  "station_id": "LZBB_EAST_0L"
                 },
                 {
-                  "label": ["TWR", "LZTT"],
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["LZTT", "TWR", ""],
                   "station_id": "LZTT_TWR"
                 },
                 {
                   "label": ["FMP"],
                   "station_id": "EPWW_FMP"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
                 }
               ]
             }
@@ -609,7 +771,44 @@
             }
           },
           {
-            "label": ["FIS"]
+            "label": ["FIS"],
+            "page": {
+              "rows": 4,
+              "keys": [
+                {
+                  "label": ["GD", "FIS"],
+                  "station_id": "EPGD_FIS"
+                },
+                {
+                  "label": ["PO", "FIS"],
+                  "station_id": "EPPO_FIS"
+                },
+                {
+                  "label": ["EPBC", "INFO"],
+                  "station_id": "EPBC"
+                },
+                {
+                  "label": ["EPML", "INFO"],
+                  "station_id": "EPML"
+                },
+                {
+                  "label": ["WA N", "FIS"],
+                  "station_id": "EPWA_FIS_N"
+                },
+                {
+                  "label": ["WA S", "FIS"],
+                  "station_id": "EPWA_FIS_S"
+                },
+                {
+                  "label": ["KK", "FIS"],
+                  "station_id": "EPKK_FIS"
+                },
+                {
+                  "label": ["FMP"],
+                  "station_id": "EPWW_FMP"
+                }
+              ]
+            }
           },
           {
             "label": ["B", "H", "EC"],
