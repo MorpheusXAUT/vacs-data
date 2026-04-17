@@ -17,9 +17,7 @@
           "size": 7,
           "page": {
             "rows": 1,
-            "keys": [
-              { "label": ["INOP"] }
-            ]
+            "keys": [{ "label": ["INOP"] }]
           }
         },
         {
@@ -27,9 +25,7 @@
           "size": 7,
           "page": {
             "rows": 1,
-            "keys": [
-              { "label": ["INOP"] }
-            ]
+            "keys": [{ "label": ["INOP"] }]
           }
         },
         {
@@ -37,9 +33,7 @@
           "size": 7,
           "page": {
             "rows": 1,
-            "keys": [
-              { "label": ["INOP"] }
-            ]
+            "keys": [{ "label": ["INOP"] }]
           }
         },
         {
@@ -47,9 +41,7 @@
           "size": 7,
           "page": {
             "rows": 1,
-            "keys": [
-              { "label": ["INOP"] }
-            ]
+            "keys": [{ "label": ["INOP"] }]
           }
         },
         {
@@ -57,9 +49,7 @@
           "size": 7,
           "page": {
             "rows": 1,
-            "keys": [
-              { "label": ["INOP"] }
-            ]
+            "keys": [{ "label": ["INOP"] }]
           }
         }
       ]
@@ -121,27 +111,69 @@
           "gap": 1.5,
           "children": [
             {
-              "label": ["ZWY","INTERNAL"],
+              "label": ["ZWY", "INTERNAL"],
               "size": 15,
               "page": {
                 "rows": 5,
                 "keys": [
-                  { "label": ["CHAMP", "Low", "130.00"], "station_id": "CHAMP_L" },
-                  { "label": ["CHAMP", "High", "130.05"], "station_id": "CHAMP_H" },
-                  { "label": ["BACUS", "Low", "130.10"], "station_id": "BACUS_L" },
-                  { "label": ["BACUS", "High", "130.15"], "station_id": "BACUS_H" },
-                  { "label": ["KRAFT", "Low", "130.20"], "station_id": "KRAFT_L" },
-                  { "label": ["KRAFT", "High", "130.25"], "station_id": "KRAFT_H" },
-                  { "label": ["GRATX", "Low", "130.30"], "station_id": "GRATX_L" },
-                  { "label": ["GRATX", "High", "130.35"], "station_id": "GRATX_H" },
+                  {
+                    "label": ["CHAMP", "Low", "130.00"],
+                    "station_id": "CHAMP_L"
+                  },
+                  {
+                    "label": ["CHAMP", "High", "130.05"],
+                    "station_id": "CHAMP_H"
+                  },
+                  {
+                    "label": ["BACUS", "Low", "130.10"],
+                    "station_id": "BACUS_L"
+                  },
+                  {
+                    "label": ["BACUS", "High", "130.15"],
+                    "station_id": "BACUS_H"
+                  },
+                  {
+                    "label": ["KRAFT", "Low", "130.20"],
+                    "station_id": "KRAFT_L"
+                  },
+                  {
+                    "label": ["KRAFT", "High", "130.25"],
+                    "station_id": "KRAFT_H"
+                  },
+                  {
+                    "label": ["GRATX", "Low", "130.30"],
+                    "station_id": "GRATX_L"
+                  },
+                  {
+                    "label": ["GRATX", "High", "130.35"],
+                    "station_id": "GRATX_H"
+                  },
                   { "label": ["PAEPR", "82"], "station_id": "PAEPR" },
                   { "label": ["HANRI", "83"], "station_id": "HANRI" },
-                  { "label": ["APOLLO", "Low", "130.40"], "station_id": "APOLLO_L" },
-                  { "label": ["APOLLO", "High", "130.45"], "station_id": "APOLLO_H" },
-                  { "label": ["GEMINI", "Low", "130.50"], "station_id": "GEMINI_L" },
-                  { "label": ["GEMINI", "High", "130.55"], "station_id": "GEMINI_H" },
-                  { "label": ["MERCURY", "Low", "130.60"], "station_id": "MERCURY_L" },
-                  { "label": ["MERCURY", "High", "130.65"], "station_id": "MERCURY_H" },
+                  {
+                    "label": ["APOLLO", "Low", "130.40"],
+                    "station_id": "APOLLO_L"
+                  },
+                  {
+                    "label": ["APOLLO", "High", "130.45"],
+                    "station_id": "APOLLO_H"
+                  },
+                  {
+                    "label": ["GEMINI", "Low", "130.50"],
+                    "station_id": "GEMINI_L"
+                  },
+                  {
+                    "label": ["GEMINI", "High", "130.55"],
+                    "station_id": "GEMINI_H"
+                  },
+                  {
+                    "label": ["MERCURY", "Low", "130.60"],
+                    "station_id": "MERCURY_L"
+                  },
+                  {
+                    "label": ["MERCURY", "High", "130.65"],
+                    "station_id": "MERCURY_H"
+                  },
                   { "label": ["JOBOC", "65"], "station_id": "JOBOC" },
                   { "label": ["OHRYN", "85"], "station_id": "OHRYN" },
                   { "label": ["ATLANTIC", "86"], "station_id": "ATLANTIC" },
@@ -162,9 +194,7 @@
               "size": 7,
               "page": {
                 "rows": 1,
-                "keys": [
-                  { "label": ["INOP"] }
-                ]
+                "keys": [{ "label": ["INOP"] }]
               }
             },
             {
@@ -172,9 +202,7 @@
               "size": 7,
               "page": {
                 "rows": 1,
-                "keys": [
-                  { "label": ["INOP"] }
-                ]
+                "keys": [{ "label": ["INOP"] }]
               }
             },
             {
@@ -182,9 +210,7 @@
               "size": 7,
               "page": {
                 "rows": 1,
-                "keys": [
-                  { "label": ["INOP"] }
-                ]
+                "keys": [{ "label": ["INOP"] }]
               }
             }
           ]
@@ -226,9 +252,7 @@
           "size": 7,
           "page": {
             "rows": 1,
-            "keys": [
-              { "label": ["INOP"] }
-            ]
+            "keys": [{ "label": ["INOP"] }]
           }
         }
       ]
