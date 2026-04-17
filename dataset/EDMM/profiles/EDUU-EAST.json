@@ -382,23 +382,10 @@
       "page": {
         "rows": 6,
         "client_page": {
-          "include": [
-            "ED*",
-            "ET*",
-            "LO*",
-            "LK*",
-            "LS*",
-            "EP*"
-          ],
+          "include": ["ED*", "ET*", "LO*", "LK*", "LS*", "EP*"],
           "exclude": ["LON*"],
           "grouping": "Fir",
-          "priority": [
-            "*_FMP",
-            "*_CTR",
-            "*_APP",
-            "*_TWR",
-            "*_GND"
-          ]
+          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND"]
         }
       }
     }
