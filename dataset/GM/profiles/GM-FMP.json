@@ -29,13 +29,21 @@
             "GC*FMP*"
           ],
           "exclude": [],
-          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL", "*_CTR"],
+          "priority": [
+            "*_FMP",
+            "*_CTR",
+            "*_APP",
+            "*_TWR",
+            "*_GND",
+            "*_DEL",
+            "*_CTR"
+          ],
           "frequencies": "HideAll",
           "grouping": "None"
         }
       }
     },
-    
+
     {
       "label": ["GMMN"],
       "page": {
