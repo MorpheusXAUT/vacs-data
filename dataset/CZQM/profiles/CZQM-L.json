@@ -28,7 +28,8 @@
             "station_id": "CYSJ-MF"
           },
           {
-            "label": ""
+            "label": ["QM", "DG"],
+            "station_id": "CZQM-DG"
           },
           {
             "label": ["SJ", "LO"],
@@ -47,7 +48,8 @@
             "station_id": "CYYG-MF"
           },
           {
-            "label": ""
+            "label": ["QM", "CB"],
+            "station_id": "CZQM-CB"
           },
           {
             "label": ["HZ", "APP"],

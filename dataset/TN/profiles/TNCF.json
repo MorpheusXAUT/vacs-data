@@ -148,13 +148,16 @@
             "rows": 3,
             "keys": [
               {
-                "label": ["CARI", "FSS"]
+                "label": ["CARI", "FSS"],
+                "station_id": "CARI_FSS"
               },
               {
-                "label": ["CARW", "FSS"]
+                "label": ["CARW", "FSS"],
+                "station_id": "CARW_FSS"
               },
               {
-                "label": ["CARE", "FSS"]
+                "label": ["CARE", "FSS"],
+                "station_id": "CARE_FSS"
               }
             ]
           }

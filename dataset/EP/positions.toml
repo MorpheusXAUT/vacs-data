@@ -311,7 +311,7 @@ id = "EPBY_TWR"
 prefixes = ["EPBY"]
 frequency = "131.005"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPDE_TWR"
@@ -325,7 +325,7 @@ id = "EPGD_TWR"
 prefixes = ["EPGD"]
 frequency = "118.105"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPGL_R_TWR"
@@ -367,7 +367,7 @@ id = "EPKK_TWR"
 prefixes = ["EPKK"]
 frequency = "123.255"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPKM_R_TWR"
@@ -402,21 +402,21 @@ id = "EPKT_TWR"
 prefixes = ["EPKT"]
 frequency = "129.255"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPLB_TWR"
 prefixes = ["EPLB"]
 frequency = "136.430"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPLL_TWR"
 prefixes = ["EPLL"]
 frequency = "124.230"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPLR_R_TWR"
@@ -437,7 +437,7 @@ id = "EPMO_TWR"
 prefixes = ["EPMO"]
 frequency = "123.930"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPNT_R_TWR"
@@ -458,7 +458,7 @@ id = "EPPO_TWR"
 prefixes = ["EPPO"]
 frequency = "119.980"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPPZ_R_TWR"
@@ -472,49 +472,49 @@ id = "EPRA_TWR"
 prefixes = ["EPRA"]
 frequency = "118.430"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPRZ_TWR"
 prefixes = ["EPRZ"]
 frequency = "126.805"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPSC_TWR"
 prefixes = ["EPSC"]
 frequency = "121.255"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPSY_TWR"
 prefixes = ["EPSY"]
 frequency = "118.030"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPWA_TWR"
 prefixes = ["EPWA"]
 frequency = "118.305"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPWR_TWR"
 prefixes = ["EPWR"]
 frequency = "120.255"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPZG_TWR"
 prefixes = ["EPZG"]
 frequency = "118.755"
 facility_type = "TWR"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPZP_R_TWR"
@@ -535,28 +535,28 @@ id = "EPGD_GND"
 prefixes = ["EPGD"]
 frequency = "131.330"
 facility_type = "GND"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPKK_GND"
 prefixes = ["EPKK"]
 frequency = "118.105"
 facility_type = "GND"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPKT_GND"
 prefixes = ["EPKT"]
 frequency = "121.805"
 facility_type = "GND"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPPO_GND"
 prefixes = ["EPPO"]
 frequency = "124.140"
 facility_type = "GND"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPRA_M_GND"
@@ -570,67 +570,67 @@ id = "EPRZ_GND"
 prefixes = ["EPRZ"]
 frequency = "121.805"
 facility_type = "GND"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPWA_GND"
 prefixes = ["EPWA"]
 frequency = "121.905"
 facility_type = "GND"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPWR_GND"
 prefixes = ["EPWR"]
 frequency = "121.805"
 facility_type = "GND"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPKK_DEL"
 prefixes = ["EPKK"]
 frequency = "121.980"
 facility_type = "DEL"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPKT_DEL"
 prefixes = ["EPKT"]
 frequency = "124.080"
 facility_type = "DEL"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPLL_DEL"
 prefixes = ["EPLL"]
 frequency = "120.005"
 facility_type = "DEL"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPMO_DEL"
 prefixes = ["EPMO"]
 frequency = "119.680"
 facility_type = "DEL"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPPO_DEL"
 prefixes = ["EPPO"]
 frequency = "121.805"
 facility_type = "DEL"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPWA_DEL"
 prefixes = ["EPWA"]
 frequency = "121.605"
 facility_type = "DEL"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
 
 [[positions]]
 id = "EPWR_DEL"
 prefixes = ["EPWR"]
 frequency = "124.565"
 facility_type = "DEL"
-profile_id = "EPWW"
+profile_id = "TWR_EPWW"
