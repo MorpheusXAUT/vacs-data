@@ -453,10 +453,14 @@
             "color": "blush"
           },
           {
-            "label": []
+            "label": ["EPPO", "TMA S", "195-"],
+            "station_id": "EPPO_TMA_S",
+            "color": "lavender"
           },
           {
-            "label": []
+            "label": ["LKKV", "APP"],
+            "station_id": "LKAA KV",
+            "color": "lilac"
           },
           {
             "label": []
@@ -477,7 +481,19 @@
             "color": "blush"
           },
           {
-            "label": []
+            "label": ["EPWW", "T 365-"],
+            "station_id": "EPWWT_LOW",
+            "color": "lavender"
+          },
+          {
+            "label": ["LKAA", "W 305-"],
+            "station_id": "LKAA WL",
+            "color": "lilac"
+          },
+          {
+            "label": ["LKPR", "APP"],
+            "station_id": "LKPR ARR",
+            "color": "lilac"
           },
           {
             "label": []
@@ -488,21 +504,19 @@
             "color": "mint"
           },
           {
-            "label": []
-          },
-          {
-            "label": []
-          },
-          {
             "label": ["GG", "HEF"],
             "station_id": "EDGG-HEF",
             "color": "blush"
           },
           {
-            "label": []
+            "label": ["EPWW", "D 335-"],
+            "station_id": "EPWWD_LOW",
+            "color": "lavender"
           },
           {
-            "label": []
+            "label": ["LKAA", "N 305-"],
+            "station_id": "LKAA NL",
+            "color": "lilac"
           },
           {
             "label": ["WW", "FLG"],
@@ -520,7 +534,7 @@
             "color": "umber"
           },
           {
-            "label": ["EDGG", "GED"],
+            "label": ["GG", "GED"],
             "station_id": "EDGG-GED",
             "color": "blush"
           }
