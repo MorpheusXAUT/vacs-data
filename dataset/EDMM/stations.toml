@@ -178,7 +178,7 @@ id = "EDUU-SAL"
 controlled_by = [
   "EDUU_SAL_CTR",
   "EDUU_SPE_CTR",
-  #    "EDUU_H12_CTR",
+  "EDUU_H12_CTR",
   "EDMM_GER_CTR",
   "EDMM_HOF_CTR",
   "EDMM_HAL_CTR",
@@ -189,7 +189,7 @@ id = "EDUU-SPE"
 controlled_by = [
   "EDUU_SPE_CTR",
   "EDUU_SAL_CTR",
-  #    "EDUU_H12_CTR",
+  "EDUU_H12_CTR",
   "EDMM_MEI_CTR",
   "EDMM_GER_CTR",
   "EDMM_HOF_CTR",
