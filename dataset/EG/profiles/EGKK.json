@@ -132,11 +132,12 @@
             "station_id": "EGKK_DEL"
           },
           {
-            "label": ["GMC", "(N)"],
+            "label": ["GMC", "North"],
             "station_id": "EGKK_N_GND"
           },
           {
-            "label": []
+            "label": ["GMC", "South"],
+            "station_id": "EGKK_S_GND"
           },
           {
             "label": []
