@@ -186,11 +186,12 @@
             "label": []
           },
           {
-            "label": []
-          },
-          {
             "label": ["IB", "APP"],
             "station_id": "ESIB_APP"
+          },
+          {
+            "label": ["IB", "TWR"],
+            "station_id": "ESIB_TWR"
           },
           {
             "label": []

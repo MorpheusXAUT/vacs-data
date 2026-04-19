@@ -42,7 +42,7 @@ controlled_by = ["EDMM_GER_CTR", "EDMM_HAL_CTR", "EDMM_MEI_CTR", "EDMM_HOF_CTR"]
 
 [[stations]]
 id = "EDMM-HAL"
-controlled_by = ["EDMM_HAL_CTR", "EDMM_GER_CTR", "EDMM_MEI_CTR", "EDMM_HOF_CTR"]
+controlled_by = ["EDMM_HAL_CTR", "EDMM_GER_CTR", "EDMM_HOF_CTR"]
 
 [[stations]]
 id = "EDMM-HOF"
@@ -50,7 +50,7 @@ controlled_by = ["EDMM_HOF_CTR", "EDMM_BBG_CTR", "EDMM_RDG_CTR"]
 
 [[stations]]
 id = "EDMM-MEI"
-controlled_by = ["EDMM_MEI_CTR", "EDMM_GER_CTR", "EDMM_HOF_CTR", "EDMM_HAL_CTR"]
+controlled_by = ["EDMM_MEI_CTR", "EDMM_GER_CTR", "EDMM_HOF_CTR"]
 
 [[stations]]
 id = "EDMM-NDG"
@@ -178,9 +178,8 @@ id = "EDUU-SAL"
 controlled_by = [
   "EDUU_SAL_CTR",
   "EDUU_SPE_CTR",
-  #    "EDUU_H12_CTR",
+  "EDUU_H12_CTR",
   "EDMM_GER_CTR",
-  "EDMM_MEI_CTR",
   "EDMM_HOF_CTR",
   "EDMM_HAL_CTR",
 ]
@@ -190,11 +189,10 @@ id = "EDUU-SPE"
 controlled_by = [
   "EDUU_SPE_CTR",
   "EDUU_SAL_CTR",
-  #    "EDUU_H12_CTR",
+  "EDUU_H12_CTR",
   "EDMM_MEI_CTR",
   "EDMM_GER_CTR",
   "EDMM_HOF_CTR",
-  "EDMM_HAL_CTR",
 ]
 
 # Approaches
@@ -298,7 +296,6 @@ controlled_by = [
   "EDDP_TRS_APP",
   "EDMM_GER_CTR",
   "EDMM_HAL_CTR",
-  "EDMM_MEI_CTR",
   "EDMM_HOF_CTR",
 ]
 
@@ -311,7 +308,6 @@ controlled_by = [
   "EDDP_TRS_APP",
   "EDMM_GER_CTR",
   "EDMM_HAL_CTR",
-  "EDMM_MEI_CTR",
   "EDMM_HOF_CTR",
 ]
 
@@ -322,7 +318,6 @@ controlled_by = [
   "EDDP_TRN_APP",
   "EDMM_GER_CTR",
   "EDMM_HAL_CTR",
-  "EDMM_MEI_CTR",
   "EDMM_HOF_CTR",
 ]
 
@@ -334,7 +329,6 @@ controlled_by = [
   "EDDP_TRN_APP",
   "EDMM_GER_CTR",
   "EDMM_HAL_CTR",
-  "EDMM_MEI_CTR",
   "EDMM_HOF_CTR",
 ]
 
@@ -360,7 +354,6 @@ controlled_by = [
   "EDDP_TRS_APP",
   "EDMM_GER_CTR",
   "EDMM_HOF_CTR",
-  "EDMM_HAL_CTR",
 ]
 
 [[stations]]

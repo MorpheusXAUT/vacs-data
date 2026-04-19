@@ -111,15 +111,7 @@
             {
               "label": ["LUGANO", "TWR"],
               "size": 5,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["LUGANO", "TWR"],
-                    "station_id": "LSZA-TWR"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LSZA-TWR"
             }
           ]
         },
@@ -131,15 +123,7 @@
             {
               "label": ["ANW"],
               "size": 8,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["ANW"],
-                    "station_id": "LIMM-ANW"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIMM-ANW"
             }
           ]
         },
@@ -151,15 +135,7 @@
             {
               "label": ["ASW"],
               "size": 8,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["ASW"],
-                    "station_id": "LIMM-ASW"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIMM-ASW"
             },
             {
               "label": ["MAR"],
@@ -199,6 +175,10 @@
                   {
                     "label": ["WS2"],
                     "station_id": "LIMM-WS2"
+                  },
+                  {
+                    "label": ["WS0"],
+                    "station_id": "LIMM-WS0"
                   }
                 ],
                 "rows": 5
@@ -207,15 +187,7 @@
             {
               "label": ["FIC"],
               "size": 6.25,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["FIC"],
-                    "station_id": "LIMM-FIC"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIMM-FIC"
             }
           ]
         }
@@ -240,15 +212,7 @@
         {
           "label": ["ANE"],
           "size": 9,
-          "page": {
-            "keys": [
-              {
-                "label": ["ANE"],
-                "station_id": "LIMM-ANE"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIMM-ANE"
         },
         {
           "direction": "row",
@@ -257,28 +221,12 @@
             {
               "label": ["LAR"],
               "size": 8,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["LAR"],
-                    "station_id": "LIMM-LAR"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIMM-LAR"
             },
             {
               "label": ["ADE"],
               "size": 8,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["ADE"],
-                    "station_id": "LIMM-ADE"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIMM-ADE"
             }
           ]
         },
@@ -288,30 +236,9 @@
           "align_items": "start",
           "children": [
             {
-              "label": ["GENOVA", "APP"],
-              "size": 6.25,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["GENOVA", "APP"],
-                    "station_id": "LIMJ-APP"
-                  }
-                ],
-                "rows": 3
-              }
-            },
-            {
               "label": ["PISA", "APP"],
               "size": 6.25,
-              "page": {
-                "keys": [
-                  {
-                    "label": ["PISA", "APP"],
-                    "station_id": "LIRP-APP"
-                  }
-                ],
-                "rows": 3
-              }
+              "station_id": "LIRP-APP"
             }
           ]
         }
@@ -465,15 +392,7 @@
         {
           "label": ["BOLOGNA", "APP"],
           "size": 6.25,
-          "page": {
-            "keys": [
-              {
-                "label": ["BOLOGNA", "APP"],
-                "station_id": "LIPE-W-APP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIPE-W-APP"
         },
         {
           "direction": "row",
@@ -554,15 +473,7 @@
         {
           "label": ["DCP"],
           "size": 5,
-          "page": {
-            "keys": [
-              {
-                "label": ["DCP"],
-                "station_id": "LIMM-FMP"
-              }
-            ],
-            "rows": 3
-          }
+          "station_id": "LIMM-FMP"
         },
         {
           "label": ["FMP"],

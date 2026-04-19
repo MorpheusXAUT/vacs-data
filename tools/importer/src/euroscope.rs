@@ -212,8 +212,15 @@ fn is_profile_file(path: &Path) -> bool {
 fn parse_profiles(paths: &[PathBuf]) -> Result<HashSet<String>, Box<dyn std::error::Error>> {
     let mut ids = HashSet::new();
     for path in paths {
-        let content = std::fs::read_to_string(path)?;
-        for line in content.lines() {
+        let file = std::fs::File::open(path)?;
+        let decoder = DecodeReaderBytesBuilder::new()
+            .encoding(Some(WINDOWS_1252))
+            .build(file);
+        let reader = BufReader::new(decoder);
+        for line in reader.lines() {
+            let Ok(line) = line else {
+                break;
+            };
             let trimmed = line.trim();
             if let Some(rest) = trimmed.strip_prefix("PROFILE:")
                 && let Some(id) = rest.split(':').next()

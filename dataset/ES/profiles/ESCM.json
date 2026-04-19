@@ -1,0 +1,77 @@
+{
+  "id": "ESCM",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESCM"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          {
+            "label": ["OS", "ARR-W"],
+            "station_id": "ESOS_ARR-W"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OW", "APP"],
+            "station_id": "ESOW_APP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["APP"],
+            "station_id": "ESCM_APP"
+          },
+          {
+            "label": ["TWR", ""],
+            "station_id": "ESCM_TWR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["SA", "TWR-W"],
+            "station_id": "ESSA_TWR-W"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["COB"],
+            "station_id": "ESPF"
+          },
+          {
+            "label": ["GRI"],
+            "station_id": "ESCR"
+          },
+          {
+            "label": ["BSH"],
+            "station_id": "ESDK"
+          }
+        ]
+      }
+    }
+  ]
+}
