@@ -84,40 +84,40 @@
           "page": {
             "rows": 3,
             "keys": [
-                {
-                  "label": ["NOTA", "Super", "355+"],
-                  "station_id": "EISN_NS_CTR"
-                },
-                {
-                  "label": ["NOTA", "Upper", "245-355"],
-                  "station_id": "EISN_N_CTR"
-                },
-                {
-                  "label": []
-                },
-                {
-                  "label": ["LIFFY", "Super", "355+"],
-                  "station_id": "EISN_ES_CTR"
-                },
-                {
-                  "label": ["LIFFY", "Upper", "245-355"],
-                  "station_id": "EISN_E_CTR"
-                },
-                {
-                  "label": ["Low", "Level", "125-245"],
-                  "station_id": "EISN_LN_CTR"
-                },
-                {
-                  "label": []
-                },
-                {
-                  "label": ["Dublin", "Upper", "125-245"],
-                  "station_id": "EIDW_UN_CTR"
-                },
-                {
-                  "label": ["Dublin", "Lower", "125-"],
-                  "station_id": "EIDW_LN_CTR"
-                }
+              {
+                "label": ["NOTA", "Super", "355+"],
+                "station_id": "EISN_NS_CTR"
+              },
+              {
+                "label": ["NOTA", "Upper", "245-355"],
+                "station_id": "EISN_N_CTR"
+              },
+              {
+                "label": []
+              },
+              {
+                "label": ["LIFFY", "Super", "355+"],
+                "station_id": "EISN_ES_CTR"
+              },
+              {
+                "label": ["LIFFY", "Upper", "245-355"],
+                "station_id": "EISN_E_CTR"
+              },
+              {
+                "label": ["Low", "Level", "125-245"],
+                "station_id": "EISN_LN_CTR"
+              },
+              {
+                "label": []
+              },
+              {
+                "label": ["Dublin", "Upper", "125-245"],
+                "station_id": "EIDW_UN_CTR"
+              },
+              {
+                "label": ["Dublin", "Lower", "125-"],
+                "station_id": "EIDW_LN_CTR"
+              }
             ]
           }
         }
@@ -426,30 +426,30 @@
               "page": {
                 "rows": 3,
                 "keys": [
-                    {
-                        "label": ["20", "Offshore"],
-                        "station_id": "ENSV-20"
-                    },
-                    {
-                        "label": ["21", "Offshore"],
-                        "station_id": "ENSV-21"
-                    },
-                    {
-                        "label": ["22", "Offshore"],
-                        "station_id": "ENSV-22"
-                    },
-                    {
-                        "label": ["15"],
-                        "station_id": "ENSV-15"
-                    },
-                    {
-                        "label": ["11"],
-                        "station_id": "ENSV-11"
-                    },
-                    {
-                        "label": ["10"],
-                        "station_id": "ENSV-10"
-                    }
+                  {
+                    "label": ["20", "Offshore"],
+                    "station_id": "ENSV-20"
+                  },
+                  {
+                    "label": ["21", "Offshore"],
+                    "station_id": "ENSV-21"
+                  },
+                  {
+                    "label": ["22", "Offshore"],
+                    "station_id": "ENSV-22"
+                  },
+                  {
+                    "label": ["15"],
+                    "station_id": "ENSV-15"
+                  },
+                  {
+                    "label": ["11"],
+                    "station_id": "ENSV-11"
+                  },
+                  {
+                    "label": ["10"],
+                    "station_id": "ENSV-10"
+                  }
                 ]
               }
             },
@@ -469,50 +469,50 @@
               }
             },
             {
-                "direction": "col",
-                "height": "50%",
-                "justify_content": "end",
-                "gap": 0.75,
-                "children": [
-                    {
-                      "label": ["Maastricht", "(MUAC)"],
-                      "size": 7,
-                      "page": {
-                        "rows": 2,
-                        "keys": [
-                            {
-                                "label": ["Jever", "High", "365+"],
-                                "station_id": "EDYY-JH"
-                            },
-                            {
-                                "label": ["Delta", "245+"]
-                            },
-                            {
-                                "label": ["Jever", "Low", "245-365"],
-                                "station_id": "EDYY-JL"
-                            },
-                            {
-                                "label": []
-                            }
-                        ]
+              "direction": "col",
+              "height": "50%",
+              "justify_content": "end",
+              "gap": 0.75,
+              "children": [
+                {
+                  "label": ["Maastricht", "(MUAC)"],
+                  "size": 7,
+                  "page": {
+                    "rows": 2,
+                    "keys": [
+                      {
+                        "label": ["Jever", "High", "365+"],
+                        "station_id": "EDYY-JH"
+                      },
+                      {
+                        "label": ["Delta", "245+"]
+                      },
+                      {
+                        "label": ["Jever", "Low", "245-365"],
+                        "station_id": "EDYY-JL"
+                      },
+                      {
+                        "label": []
                       }
-                    },
-                    {
-                      "label": ["Amsterdam"],
-                      "size": 7,
-                      "page": {
-                        "rows": 2,
-                        "keys": [
-                            {
-                                "label": ["Delta", "245+"]
-                            },
-                            {
-                                "label": ["Amsterdam", "245-"]
-                            }
-                        ]
+                    ]
+                  }
+                },
+                {
+                  "label": ["Amsterdam"],
+                  "size": 7,
+                  "page": {
+                    "rows": 2,
+                    "keys": [
+                      {
+                        "label": ["Delta", "245+"]
+                      },
+                      {
+                        "label": ["Amsterdam", "245-"]
                       }
-                    }
-                ]
+                    ]
+                  }
+                }
+              ]
             }
           ]
         },
@@ -535,65 +535,65 @@
               "page": {
                 "rows": 2,
                 "keys": [
-                    {
-                        "label": ["UK", "FMP"],
-                        "station_id": "UK_FMP"
-                    },
-                    {
-                        "label": ["SCL", "FMP"],
-                        "station_id": "SCL_FMP"
-                    },
-                    {
-                        "label": ["UK", "FMP", "2"],
-                        "station_id": "UK_A_FMP"
-                    },
-                    {
-                        "label": ["UK", "FMP", "3"],
-                        "station_id": "UK_B_FMP"
-                    },
-                    {
-                        "label": []
-                    },
-                    {
-                        "label": []
-                    },
-                    {
-                        "label": ["ScAC", "Group", "Supvisr"],
-                        "station_id": "SCO_GS_CTR"
-                    },
-                    {
-                        "label": ["SCL", "Group", "Supvisr"],
-                        "station_id": "SCL_GS_CTR"
-                    },
-                    {
-                        "label": []
-                    },
-                    {
-                        "label": []
-                    },
-                    {
-                        "label": ["MAN", "Group", "Supvisr"],
-                        "station_id": "MAN_GS_CTR"
-                    },
-                    {
-                        "label": ["MAN", "FMP"],
-                        "station_id": "MAN_FMP"
-                    },
-                    {
-                        "label": []
-                    },
-                    {
-                        "label": ["LTC", "FMP"],
-                        "station_id": "LTC_FMP"
-                    },
-                    {
-                        "label": ["LAC", "Group", "Supvisr"],
-                        "station_id": "LON_GS_CTR"
-                    },
-                    {
-                        "label": ["LTC", "Group", "Supvisr"],
-                        "station_id": "LTC_GS_CTR"
-                    }
+                  {
+                    "label": ["UK", "FMP"],
+                    "station_id": "UK_FMP"
+                  },
+                  {
+                    "label": ["SCL", "FMP"],
+                    "station_id": "SCL_FMP"
+                  },
+                  {
+                    "label": ["UK", "FMP", "2"],
+                    "station_id": "UK_A_FMP"
+                  },
+                  {
+                    "label": ["UK", "FMP", "3"],
+                    "station_id": "UK_B_FMP"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["ScAC", "Group", "Supvisr"],
+                    "station_id": "SCO_GS_CTR"
+                  },
+                  {
+                    "label": ["SCL", "Group", "Supvisr"],
+                    "station_id": "SCL_GS_CTR"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["MAN", "Group", "Supvisr"],
+                    "station_id": "MAN_GS_CTR"
+                  },
+                  {
+                    "label": ["MAN", "FMP"],
+                    "station_id": "MAN_FMP"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["LTC", "FMP"],
+                    "station_id": "LTC_FMP"
+                  },
+                  {
+                    "label": ["LAC", "Group", "Supvisr"],
+                    "station_id": "LON_GS_CTR"
+                  },
+                  {
+                    "label": ["LTC", "Group", "Supvisr"],
+                    "station_id": "LTC_GS_CTR"
+                  }
                 ]
               }
             },
