@@ -1,70 +1,972 @@
 {
   "id": "EGPX",
-  "type": "Tabbed",
-  "tabs": [
+  "type": "Geo",
+  "direction": "row",
+  "padding": 0.5,
+  "gap": 1.5,
+  "justify_content": "space-between",
+  "children": [
     {
-      "label": "Scottish",
-      "page": {
-        "rows": 10,
-        "client_page": {
-          "include": [
-            "EGAA_*",
-            "EGAC_*",
-            "EGAE_*",
-            "EGPH_*",
-            "EGPF_*",
-            "EGPK_*",
-            "EGPE_*",
-            "EGPD_*",
-            "EGPB_*",
-            "EGPO_*",
-            "EGPL_*",
-            "EGPC_*",
-            "EGPN_*",
-            "EGPA_*",
-            "EGNT_*",
-            "BIRD_E*",
-            "BIRD_S*",
-            "BIRD_CTR",
-            "EDYY_J*",
-            "EDYY_HH*",
-            "EDWW_W*",
-            "EDWW_ALR*",
-            "EDWW_EID*",
-            "EDYY_D*",
-            "EHAA*",
-            "EKDK_CTR",
-            "EKDK__CTR",
-            "EKDK_*N*CTR",
-            "EKDK_V*CTR",
-            "EKDK_WE*",
-            "ENOR_CTR",
-            "ENOR__CTR",
-            "ENOR_S*",
-            "ENSV*CTR",
-            "EISN_E*",
-            "EISN_L*",
-            "EIDW_UN*",
-            "EIDW_LN*",
-            "MAN_*",
-            "LON_N*",
-            "LON_CTR",
-            "LON__CTR",
-            "STC_*",
-            "SCO_*",
-            "NAT*",
-            "EGGX*",
-            "EGVV_*",
-            "EGTT_*",
-            "EGPX_*",
-            "UK_*"
-          ],
-          "exclude": ["MAN_SE*"],
-          "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
-          "frequencies": "HideAll",
-          "grouping": "None"
+      "direction": "col",
+      "height": "100%",
+      "justify_content": "space-evenly",
+      "gap": 0.75,
+      "children": [
+        {
+          "label": ["Shanwick"],
+          "size": 7,
+          "page": {
+            "rows": 5,
+            "keys": [
+              {
+                "label": ["DEL", "A"],
+                "station_id": "Shanwick_DEL_A"
+              },
+              {
+                "label": ["DEL", "B"],
+                "station_id": "Shanwick_DEL_B"
+              },
+              {
+                "label": ["DEL", "C"],
+                "station_id": "Shanwick_DEL_C"
+              },
+              {
+                "label": ["DEL", "D"],
+                "station_id": "Shanwick_DEL_D"
+              },
+              {
+                "label": ["DEL", "F"],
+                "station_id": "Shanwick_DEL_F"
+              },
+              {
+                "label": ["A"],
+                "station_id": "Shanwick_A"
+              },
+              {
+                "label": ["B"],
+                "station_id": "Shanwick_B"
+              },
+              {
+                "label": ["C"],
+                "station_id": "Shanwick_C"
+              },
+              {
+                "label": ["D"],
+                "station_id": "Shanwick_D"
+              },
+              {
+                "label": ["F"],
+                "station_id": "Shanwick_F"
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": ["Shanwick"],
+                "station_id": "Shanwick"
+              },
+              {
+                "label": ["DEL"],
+                "station_id": "Shanwick_DEL"
+              },
+              {
+                "label": []
+              }
+            ]
+          }
+        },
+        {
+          "label": ["Shannon"],
+          "size": 7,
+          "page": {
+            "rows": 3,
+            "keys": [
+                {
+                  "label": ["NOTA", "Super", "355+"],
+                  "station_id": "EISN_NS_CTR"
+                },
+                {
+                  "label": ["NOTA", "Upper", "245-355"],
+                  "station_id": "EISN_N_CTR"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["LIFFY", "Super", "355+"],
+                  "station_id": "EISN_ES_CTR"
+                },
+                {
+                  "label": ["LIFFY", "Upper", "245-355"],
+                  "station_id": "EISN_E_CTR"
+                },
+                {
+                  "label": ["Low", "Level", "125-245"],
+                  "station_id": "EISN_LN_CTR"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["Dublin", "Upper", "125-245"],
+                  "station_id": "EIDW_UN_CTR"
+                },
+                {
+                  "label": ["Dublin", "Lower", "125-"],
+                  "station_id": "EIDW_LN_CTR"
+                }
+            ]
+          }
         }
-      }
+      ]
+    },
+    {
+      "direction": "col",
+      "height": "100%",
+      "width": "100%",
+      "justify_content": "space-between",
+      "gap": 0.75,
+      "children": [
+        {
+          "direction": "row",
+          "justify_content": "center",
+          "children": [
+            {
+              "label": ["Reykjavík"],
+              "size": 7,
+              "page": {
+                "rows": 4,
+                "keys": [
+                  {
+                    "label": ["South", "Upper", "365-660"]
+                  },
+                  {
+                    "label": ["South", "Middle", "355-365"]
+                  },
+                  {
+                    "label": ["South", "Middle", "345-355"]
+                  },
+                  {
+                    "label": ["South", "Lower", "55-345"]
+                  },
+                  {
+                    "label": ["East", "Upper", "365-660"]
+                  },
+                  {
+                    "label": ["East", "Middle", "355-365"]
+                  },
+                  {
+                    "label": ["East", "Middle", "345-355"]
+                  },
+                  {
+                    "label": ["East", "Lower", "55-345"]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "direction": "col",
+          "align_items": "center",
+          "gap": 0.25,
+          "children": [
+            {
+              "direction": "row",
+              "gap": 0.5,
+              "children": [
+                {
+                  "label": ["Scottish", "255-"],
+                  "size": 10,
+                  "page": {
+                    "rows": 3,
+                    "keys": [
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["Antrim"],
+                        "station_id": "SCL_ANT_CTR"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["Low", "(Event)"],
+                        "station_id": "SCL_CTR"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["Galloway"],
+                        "station_id": "SCL_GAL_CTR"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["Tay", "(Event)"],
+                        "station_id": "SCL_TAY_CTR"
+                      },
+                      {
+                        "label": ["Talla"],
+                        "station_id": "SCL_TLA_CTR"
+                      },
+                      {
+                        "label": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "label": ["Scottish", "255-660"],
+                  "size": 10,
+                  "page": {
+                    "rows": 3,
+                    "keys": [
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["West"],
+                        "station_id": "SCO_W_CTR"
+                      },
+                      {
+                        "label": ["Rathlin"],
+                        "station_id": "SCO_RAT_CTR"
+                      },
+                      {
+                        "label": ["North"],
+                        "station_id": "SCO_N_CTR"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["Borders"],
+                        "station_id": "SCO_BDS_CTR"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["East"],
+                        "station_id": "SCO_E_CTR"
+                      },
+                      {
+                        "label": ["South"],
+                        "station_id": "SCO_S_CTR"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "direction": "row",
+          "justify_content": "center",
+          "align_items": "center",
+          "gap": 3,
+          "children": [
+            {
+              "label": ["EGNS"],
+              "size": 5,
+              "page": {
+                "rows": 3,
+                "keys": [
+                  {
+                    "label": ["NS", "RAD 1"],
+                    "station_id": "EGNS_APP"
+                  },
+                  {
+                    "label": ["NS", "RAD 2"],
+                    "station_id": "EGNS_F_APP"
+                  },
+                  {
+                    "label": ["NS", "ADC"],
+                    "station_id": "EGNS_TWR"
+                  },
+                  {
+                    "label": ["NS", "APP"],
+                    "station_id": "EGNS_A_APP"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["NORTH", "LAG"],
+              "size": 7,
+              "page": {
+                "rows": 4,
+                "keys": [
+                  {
+                    "label": ["LAC", "Lakes"],
+                    "station_id": "LON_NW_CTR"
+                  },
+                  {
+                    "label": ["PC", "West"],
+                    "station_id": "MAN_W_CTR"
+                  },
+                  {
+                    "label": ["LAC", "Sector 4"],
+                    "station_id": "EG-Sector-04"
+                  },
+                  {
+                    "label": ["PC", "IoM"],
+                    "station_id": "EG-MPC-IoM"
+                  },
+                  {
+                    "label": ["LAC", "North"],
+                    "station_id": "LON_N_CTR"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["LAC", "North", "Sea"],
+                    "station_id": "LON_NE_CTR"
+                  },
+                  {
+                    "label": ["PC", "North", "East"],
+                    "station_id": "MAN_NE_CTR"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["PC", "North"],
+                    "station_id": "EG-MPC-North"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["EGNT", "EGNV"],
+              "size": 5,
+              "page": {
+                "rows": 4,
+                "keys": [
+                  {
+                    "label": ["NT", "RAD"],
+                    "station_id": "EGNT_APP"
+                  },
+                  {
+                    "label": ["NT", "FIN"],
+                    "station_id": "EGNT_F_APP"
+                  },
+                  {
+                    "label": ["NT", "AIR"],
+                    "station_id": "EGNT_TWR"
+                  },
+                  {
+                    "label": ["NT", "GMC"],
+                    "station_id": "EGNT_GND"
+                  },
+                  {
+                    "label": ["NV", "RAD"],
+                    "station_id": "EGNV_APP"
+                  },
+                  {
+                    "label": ["NV", "FIN"],
+                    "station_id": "EGNV_F_APP"
+                  },
+                  {
+                    "label": ["NV", "AIR"],
+                    "station_id": "EGNV_TWR"
+                  },
+                  {
+                    "label": []
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "direction": "row",
+      "height": "100%",
+      "gap": 1,
+      "children": [
+        {
+          "direction": "col",
+          "height": "100%",
+          "width": "100%",
+          "justify_content": "space-between",
+          "gap": 0.75,
+          "children": [
+            {
+              "label": ["Stavanger", "(Polaris)"],
+              "size": 7,
+              "page": {
+                "rows": 3,
+                "keys": [
+                    {
+                        "label": ["20", "Offshore"],
+                        "station_id": "ENSV-20"
+                    },
+                    {
+                        "label": ["21", "Offshore"],
+                        "station_id": "ENSV-21"
+                    },
+                    {
+                        "label": ["22", "Offshore"],
+                        "station_id": "ENSV-22"
+                    },
+                    {
+                        "label": ["15"],
+                        "station_id": "ENSV-15"
+                    },
+                    {
+                        "label": ["11"],
+                        "station_id": "ENSV-11"
+                    },
+                    {
+                        "label": ["10"],
+                        "station_id": "ENSV-10"
+                    }
+                ]
+              }
+            },
+            {
+              "label": ["Copenhagen"],
+              "size": 7,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["Sector UN", "365+"]
+                  },
+                  {
+                    "label": ["Sector N", "365-"]
+                  }
+                ]
+              }
+            },
+            {
+                "direction": "col",
+                "height": "50%",
+                "justify_content": "end",
+                "gap": 0.75,
+                "children": [
+                    {
+                      "label": ["Maastricht", "(MUAC)"],
+                      "size": 7,
+                      "page": {
+                        "rows": 2,
+                        "keys": [
+                            {
+                                "label": ["Jever", "High", "365+"],
+                                "station_id": "EDYY-JH"
+                            },
+                            {
+                                "label": ["Delta", "245+"]
+                            },
+                            {
+                                "label": ["Jever", "Low", "245-365"],
+                                "station_id": "EDYY-JL"
+                            },
+                            {
+                                "label": []
+                            }
+                        ]
+                      }
+                    },
+                    {
+                      "label": ["Amsterdam"],
+                      "size": 7,
+                      "page": {
+                        "rows": 2,
+                        "keys": [
+                            {
+                                "label": ["Delta", "245+"]
+                            },
+                            {
+                                "label": ["Amsterdam", "245-"]
+                            }
+                        ]
+                      }
+                    }
+                ]
+            }
+          ]
+        },
+        {
+          "orientation": "vertical",
+          "thickness": 8,
+          "color": "#364153",
+          "oversize": 0.5
+        },
+        {
+          "direction": "col",
+          "height": "100%",
+          "gap": 0.75,
+          "justify_content": "space-between",
+          "children": [
+            {
+              "label": ["SUP"],
+              "size": 3.5,
+              "color": "steel",
+              "page": {
+                "rows": 2,
+                "keys": [
+                    {
+                        "label": ["UK", "FMP"],
+                        "station_id": "UK_FMP"
+                    },
+                    {
+                        "label": ["SCL", "FMP"],
+                        "station_id": "SCL_FMP"
+                    },
+                    {
+                        "label": ["UK", "FMP", "2"],
+                        "station_id": "UK_A_FMP"
+                    },
+                    {
+                        "label": ["UK", "FMP", "3"],
+                        "station_id": "UK_B_FMP"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["ScAC", "Group", "Supvisr"],
+                        "station_id": "SCO_GS_CTR"
+                    },
+                    {
+                        "label": ["SCL", "Group", "Supvisr"],
+                        "station_id": "SCL_GS_CTR"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["MAN", "Group", "Supvisr"],
+                        "station_id": "MAN_GS_CTR"
+                    },
+                    {
+                        "label": ["MAN", "FMP"],
+                        "station_id": "MAN_FMP"
+                    },
+                    {
+                        "label": []
+                    },
+                    {
+                        "label": ["LTC", "FMP"],
+                        "station_id": "LTC_FMP"
+                    },
+                    {
+                        "label": ["LAC", "Group", "Supvisr"],
+                        "station_id": "LON_GS_CTR"
+                    },
+                    {
+                        "label": ["LTC", "Group", "Supvisr"],
+                        "station_id": "LTC_GS_CTR"
+                    }
+                ]
+              }
+            },
+            {
+              "label": ["PA"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["PA", "APP"],
+                    "station_id": "EGPA_A_APP"
+                  },
+                  {
+                    "label": ["PA", "ADC"],
+                    "station_id": "EGPA_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PC"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["PC", "APP"],
+                    "station_id": "EGPC_A_APP"
+                  },
+                  {
+                    "label": ["PC", "ADC"],
+                    "station_id": "EGPC_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PO"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["PO", "APP"],
+                    "station_id": "EGPO_A_APP"
+                  },
+                  {
+                    "label": ["PO", "ADC"],
+                    "station_id": "EGPO_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PL"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["PL", "APP"],
+                    "station_id": "EGPL_A_APP"
+                  },
+                  {
+                    "label": ["PL", "ADC"],
+                    "station_id": "EGPL_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PF"],
+              "size": 3.5,
+              "page": {
+                "rows": 4,
+                "keys": [
+                  {
+                    "label": ["PF", "INT"],
+                    "station_id": "EGPF_APP"
+                  },
+                  {
+                    "label": ["PF", "FIN"],
+                    "station_id": "EGPF_F_APP"
+                  },
+                  {
+                    "label": ["PF", "AIR"],
+                    "station_id": "EGPF_TWR"
+                  },
+                  {
+                    "label": ["PF", "GMC"],
+                    "station_id": "EGPF_GND"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["AE"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["AE", "APP"],
+                    "station_id": "EGAE_A_APP"
+                  },
+                  {
+                    "label": ["AE", "ADC"],
+                    "station_id": "EGAE_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["AA"],
+              "size": 3.5,
+              "page": {
+                "rows": 4,
+                "keys": [
+                  {
+                    "label": ["AA", "INT"],
+                    "station_id": "EGAA_APP"
+                  },
+                  {
+                    "label": ["AA", "FIN"],
+                    "station_id": "EGAA_F_APP"
+                  },
+                  {
+                    "label": ["AA", "AIR"],
+                    "station_id": "EGAA_TWR"
+                  },
+                  {
+                    "label": ["AA", "GMC"],
+                    "station_id": "EGAA_GND"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "direction": "col",
+          "height": "100%",
+          "gap": 0.75,
+          "justify_content": "space-between",
+          "children": [
+            {
+              "label": ["MIL"],
+              "size": 3.5,
+              "color": "steel",
+              "page": {
+                "rows": 4,
+                "keys": [
+                  {
+                    "label": ["Swanwick", "Mil", "North"],
+                    "station_id": "EGVV_N_CTR"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["Swanwick", "Mil", "East"],
+                    "station_id": "EGVV_E_CTR"
+                  },
+                  {
+                    "label": ["Swanwick", "Mil", "West"],
+                    "station_id": "EGVV_W_CTR"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["QL", "Approach"],
+                    "station_id": "EGQL_APP"
+                  },
+                  {
+                    "label": ["QL", "Talkdown"],
+                    "station_id": "EGQL_P_APP"
+                  },
+                  {
+                    "label": ["QL", "Tower"],
+                    "station_id": "EGQL_TWR"
+                  },
+                  {
+                    "label": ["QL", "Ground"],
+                    "station_id": "EGQL_GND"
+                  },
+                  {
+                    "label": ["QS", "Approach"],
+                    "station_id": "EGQS_APP"
+                  },
+                  {
+                    "label": ["QS", "Talkdown"],
+                    "station_id": "EGQS_P_APP"
+                  },
+                  {
+                    "label": ["QS", "Tower"],
+                    "station_id": "EGQS_TWR"
+                  },
+                  {
+                    "label": []
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PB"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["PB", "APP"],
+                    "station_id": "EGPB_APP"
+                  },
+                  {
+                    "label": ["PB", "AIR"],
+                    "station_id": "EGPB_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PE"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["PE", "RAD"],
+                    "station_id": "EGPE_APP"
+                  },
+                  {
+                    "label": ["PE", "ADC"],
+                    "station_id": "EGPE_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PD"],
+              "size": 3.5,
+              "page": {
+                "rows": 4,
+                "keys": [
+                  {
+                    "label": ["PD", "INT"],
+                    "station_id": "EGPD_APP"
+                  },
+                  {
+                    "label": ["PD", "FIN"],
+                    "station_id": "EGPD_F_APP"
+                  },
+                  {
+                    "label": ["PD", "AIR"],
+                    "station_id": "EGPD_TWR"
+                  },
+                  {
+                    "label": ["PD", "GMC"],
+                    "station_id": "EGPD_GND"
+                  },
+                  {
+                    "label": ["PD", "HELS"],
+                    "station_id": "EGPD_H_APP"
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PN"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["PN", "APP"],
+                    "station_id": "EGPN_A_APP"
+                  },
+                  {
+                    "label": ["PN", "ADC"],
+                    "station_id": "EGPN_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PH"],
+              "size": 3.5,
+              "page": {
+                "rows": 5,
+                "keys": [
+                  {
+                    "label": ["PH", "INT"],
+                    "station_id": "EGPH_APP"
+                  },
+                  {
+                    "label": ["PH", "FIN"],
+                    "station_id": "EGPH_F_APP"
+                  },
+                  {
+                    "label": ["PH", "AIR"],
+                    "station_id": "EGPH_TWR"
+                  },
+                  {
+                    "label": ["PH", "GMC"],
+                    "station_id": "EGPH_GND"
+                  },
+                  {
+                    "label": ["PH", "GMP"],
+                    "station_id": "EGPH_DEL"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["PK"],
+              "size": 3.5,
+              "page": {
+                "rows": 3,
+                "keys": [
+                  {
+                    "label": ["PK", "INT"],
+                    "station_id": "EGPK_APP"
+                  },
+                  {
+                    "label": ["PK", "FIN"],
+                    "station_id": "EGPK_F_APP"
+                  },
+                  {
+                    "label": ["PK", "AIR"],
+                    "station_id": "EGPK_TWR"
+                  }
+                ]
+              }
+            },
+            {
+              "label": ["AC"],
+              "size": 3.5,
+              "page": {
+                "rows": 2,
+                "keys": [
+                  {
+                    "label": ["AC", "INT"],
+                    "station_id": "EGAC_APP"
+                  },
+                  {
+                    "label": ["AC", "ADC"],
+                    "station_id": "EGAC_TWR"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
