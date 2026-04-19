@@ -80,7 +80,7 @@
             "EI*"
           ],
           "exclude": ["*FMP"],
-          "priority": ["*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
+          "priority": ["*_FSS", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
           "frequencies": "HideAll",
           "grouping": "FirAndIcao"
         }
