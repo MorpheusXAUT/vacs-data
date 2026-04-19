@@ -7,18 +7,27 @@
       "page": {
         "rows": 6,
         "client_page": {
-            "include": [
-                "LON_GS*",
-                "LTC_GS*",
-                "MAN_GS*",
-                "SCO_GS*",
-                "SCL_GS*",
-                "*FMP"
-            ],
-            "exclude": [],
-            "priority": ["*GS*CTR", "UK_*", "SCO*", "SCL*", "MAN*", "LON*", "LTC*", "*_FMP"],
-            "frequencies": "HideAll",
-            "grouping": "None"
+          "include": [
+            "LON_GS*",
+            "LTC_GS*",
+            "MAN_GS*",
+            "SCO_GS*",
+            "SCL_GS*",
+            "*FMP"
+          ],
+          "exclude": [],
+          "priority": [
+            "*GS*CTR",
+            "UK_*",
+            "SCO*",
+            "SCL*",
+            "MAN*",
+            "LON*",
+            "LTC*",
+            "*_FMP"
+          ],
+          "frequencies": "HideAll",
+          "grouping": "None"
         }
       }
     },
@@ -27,12 +36,7 @@
       "page": {
         "rows": 10,
         "client_page": {
-          "include": [
-            "SCO_*",
-            "SCL_*",
-            "EGA*",
-            "EGP*"
-          ],
+          "include": ["SCO_*", "SCL_*", "EGA*", "EGP*"],
           "exclude": ["*FMP", "*GS*CTR"],
           "priority": ["*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"],
           "frequencies": "HideAll",
