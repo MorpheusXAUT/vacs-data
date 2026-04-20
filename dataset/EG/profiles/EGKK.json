@@ -86,7 +86,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["Solent", "RAD"],
+            "station_id": "SOLENT_APP"
           },
           {
             "label": []
@@ -100,8 +101,8 @@
             "station_id": "EGLL_S_APP"
           },
           {
-            "label": ["Solent", "RAD"],
-            "station_id": "SOLENT_APP"
+            "label": ["LF", "RAD"],
+            "station_id": "EGLF_APP"
           },
           {
             "label": ["TC", "NE"],
@@ -116,8 +117,8 @@
             "station_id": "THAMES_APP"
           },
           {
-            "label": ["LF", "RAD"],
-            "station_id": "EGLF_APP"
+            "label": ["LF", "LARS"],
+            "station_id": "EGLF_L_APP"
           }
         ]
       }
@@ -208,8 +209,8 @@
             "label": []
           },
           {
-            "label": ["LF", "RAD"],
-            "station_id": "EGLF_APP"
+            "label": ["Solent", "RAD"],
+            "station_id": "SOLENT_APP"
           },
           {
             "label": []
@@ -222,8 +223,8 @@
             "station_id": "EGLL_S_APP"
           },
           {
-            "label": ["LF", "LARS"],
-            "station_id": "EGLF_L_APP"
+            "label": ["LF", "RAD"],
+            "station_id": "EGLF_APP"
           },
           {
             "label": []
@@ -236,8 +237,8 @@
             "station_id": "THAMES_APP"
           },
           {
-            "label": ["Solent", "RAD"],
-            "station_id": "SOLENT_APP"
+            "label": ["LF", "LARS"],
+            "station_id": "EGLF_L_APP"
           }
         ]
       }
