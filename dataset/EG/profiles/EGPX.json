@@ -260,12 +260,11 @@
                         "label": []
                       },
                       {
-                        "label": ["East"],
-                        "station_id": "SCO_E_CTR"
-                      },
-                      {
                         "label": ["South"],
                         "station_id": "SCO_S_CTR"
+                      },
+                      {
+                        "label": []
                       }
                     ]
                   }
