@@ -79,7 +79,7 @@
           }
         },
         {
-          "label": ["Shannon"],
+          "label": ["Shannon/", "Dublin"],
           "size": 7,
           "page": {
             "rows": 3,
