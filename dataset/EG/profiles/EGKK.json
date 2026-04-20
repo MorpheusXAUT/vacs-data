@@ -187,8 +187,8 @@
             "label": []
           },
           {
-            "label": ["TC", "SE"],
-            "station_id": "LTC_SE_CTR"
+            "label": ["TC", "SW"],
+            "station_id": "LTC_SW_CTR"
           },
           {
             "label": []
@@ -201,8 +201,8 @@
             "station_id": "LTC_NE_CTR"
           },
           {
-            "label": ["TC", "SW"],
-            "station_id": "LTC_SW_CTR"
+            "label": ["TC", "SE"],
+            "station_id": "LTC_SE_CTR"
           },
           {
             "label": []
