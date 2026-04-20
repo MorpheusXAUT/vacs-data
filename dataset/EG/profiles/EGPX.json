@@ -179,7 +179,7 @@
               "gap": 0.5,
               "children": [
                 {
-                  "label": ["Scottish", "255-"],
+                  "label": ["Scottish Lower", "255-"],
                   "size": 10,
                   "page": {
                     "rows": 3,
@@ -229,7 +229,7 @@
                   }
                 },
                 {
-                  "label": ["Scottish", "255-660"],
+                  "label": ["Scottish Upper", "255+"],
                   "size": 10,
                   "page": {
                     "rows": 3,
