@@ -85,37 +85,37 @@
             "rows": 3,
             "keys": [
               {
-                "label": ["NOTA", "Super", "355+"],
+                "label": ["EISN", "NOTA S", "355+"],
                 "station_id": "EISN_NS_CTR"
               },
               {
-                "label": ["NOTA", "Upper", "245-355"],
+                "label": ["EISN", "NOTA U", "245-355"],
                 "station_id": "EISN_N_CTR"
               },
               {
                 "label": []
               },
               {
-                "label": ["LIFFY", "Super", "355+"],
+                "label": ["EISN", "LIFFY S", "355+"],
                 "station_id": "EISN_ES_CTR"
               },
               {
-                "label": ["LIFFY", "Upper", "245-355"],
+                "label": ["EISN", "LIFFY U", "245-355"],
                 "station_id": "EISN_E_CTR"
               },
               {
-                "label": ["Low", "Level", "125-245"],
+                "label": ["EISN", "LOW N", "125-245"],
                 "station_id": "EISN_LN_CTR"
               },
               {
                 "label": []
               },
               {
-                "label": ["Dublin", "Upper", "125-245"],
+                "label": ["EIDW", "UN", "125-245"],
                 "station_id": "EIDW_UN_CTR"
               },
               {
-                "label": ["Dublin", "Lower", "125-"],
+                "label": ["EIDW", "LN", "125-"],
                 "station_id": "EIDW_LN_CTR"
               }
             ]
