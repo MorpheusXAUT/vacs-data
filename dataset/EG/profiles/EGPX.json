@@ -484,14 +484,14 @@
                         "station_id": "EDYY-JH"
                       },
                       {
-                        "label": ["EDYY", "Delta", "245+"]
-                      },
-                      {
                         "label": ["EDYY", "JEVER LO", "245-365"],
                         "station_id": "EDYY-JL"
                       },
                       {
                         "label": []
+                      },
+                      {
+                        "label": ["EDYY", "Delta", "245+"]
                       }
                     ]
                   }
