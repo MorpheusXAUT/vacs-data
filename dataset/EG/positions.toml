@@ -636,7 +636,14 @@ facility_type = "TWR"
 profile_id = "EGKK"
 
 [[positions]]
-id = "EGKK_GND"
+id = "EGKK_N_GND"
+prefixes = ["EGKK"]
+frequency = "121.540"
+facility_type = "GND"
+profile_id = "EGKK"
+
+[[positions]]
+id = "EGKK_S_GND"
 prefixes = ["EGKK"]
 frequency = "121.805"
 facility_type = "GND"
