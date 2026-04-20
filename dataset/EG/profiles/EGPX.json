@@ -13,49 +13,49 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Shanwick"],
+          "label": ["EGGX"],
           "size": 7,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": ["DEL", "A"],
+                "label": ["EGGX", "DEL", "A"],
                 "station_id": "Shanwick_DEL_A"
               },
               {
-                "label": ["DEL", "B"],
+                "label": ["EGGX", "DEL", "B"],
                 "station_id": "Shanwick_DEL_B"
               },
               {
-                "label": ["DEL", "C"],
+                "label": ["EGGX", "DEL", "C"],
                 "station_id": "Shanwick_DEL_C"
               },
               {
-                "label": ["DEL", "D"],
+                "label": ["EGGX", "DEL", "D"],
                 "station_id": "Shanwick_DEL_D"
               },
               {
-                "label": ["DEL", "F"],
+                "label": ["EGGX", "DEL", "F"],
                 "station_id": "Shanwick_DEL_F"
               },
               {
-                "label": ["A"],
+                "label": ["EGGX", "A"],
                 "station_id": "Shanwick_A"
               },
               {
-                "label": ["B"],
+                "label": ["EGGX", "B"],
                 "station_id": "Shanwick_B"
               },
               {
-                "label": ["C"],
+                "label": ["EGGX", "C"],
                 "station_id": "Shanwick_C"
               },
               {
-                "label": ["D"],
+                "label": ["EGGX", "D"],
                 "station_id": "Shanwick_D"
               },
               {
-                "label": ["F"],
+                "label": ["EGGX", "F"],
                 "station_id": "Shanwick_F"
               },
               {
@@ -65,11 +65,11 @@
                 "label": []
               },
               {
-                "label": ["Shanwick"],
+                "label": ["EGGX"],
                 "station_id": "Shanwick"
               },
               {
-                "label": ["DEL"],
+                "label": ["EGGX", "DEL"],
                 "station_id": "Shanwick_DEL"
               },
               {
@@ -79,7 +79,7 @@
           }
         },
         {
-          "label": ["Shannon/", "Dublin"],
+          "label": ["EISN/", "EIDW"],
           "size": 7,
           "page": {
             "rows": 3,
@@ -135,34 +135,34 @@
           "justify_content": "center",
           "children": [
             {
-              "label": ["Reykjavík"],
+              "label": ["BIRD"],
               "size": 7,
               "page": {
                 "rows": 4,
                 "keys": [
                   {
-                    "label": ["South", "Upper", "365-660"]
+                    "label": ["BIRD", "South U", "365-660"]
                   },
                   {
-                    "label": ["South", "Middle", "355-365"]
+                    "label": ["BIRD", "South M", "355-365"]
                   },
                   {
-                    "label": ["South", "Middle", "345-355"]
+                    "label": ["BIRD", "South M", "345-355"]
                   },
                   {
-                    "label": ["South", "Lower", "55-345"]
+                    "label": ["BIRD", "South L", "55-345"]
                   },
                   {
-                    "label": ["East", "Upper", "365-660"]
+                    "label": ["BIRD", "East U", "365-660"]
                   },
                   {
-                    "label": ["East", "Middle", "355-365"]
+                    "label": ["BIRD", "East M", "355-365"]
                   },
                   {
-                    "label": ["East", "Middle", "345-355"]
+                    "label": ["BIRD", "East M", "345-355"]
                   },
                   {
-                    "label": ["East", "Lower", "55-345"]
+                    "label": ["BIRD", "East L", "55-345"]
                   }
                 ]
               }
@@ -420,49 +420,49 @@
           "gap": 0.75,
           "children": [
             {
-              "label": ["Stavanger", "(Polaris)"],
+              "label": ["ENSV"],
               "size": 7,
               "page": {
                 "rows": 3,
                 "keys": [
                   {
-                    "label": ["20", "Offshore"],
+                    "label": ["ENSV", "20", "Offshore"],
                     "station_id": "ENSV-20"
                   },
                   {
-                    "label": ["21", "Offshore"],
+                    "label": ["ENSV", "21", "Offshore"],
                     "station_id": "ENSV-21"
                   },
                   {
-                    "label": ["22", "Offshore"],
+                    "label": ["ENSV", "22", "Offshore"],
                     "station_id": "ENSV-22"
                   },
                   {
-                    "label": ["15"],
+                    "label": ["ENSV", "15"],
                     "station_id": "ENSV-15"
                   },
                   {
-                    "label": ["11"],
+                    "label": ["ENSV", "11"],
                     "station_id": "ENSV-11"
                   },
                   {
-                    "label": ["10"],
+                    "label": ["ENSV", "10"],
                     "station_id": "ENSV-10"
                   }
                 ]
               }
             },
             {
-              "label": ["Copenhagen"],
+              "label": ["EKDK"],
               "size": 7,
               "page": {
                 "rows": 2,
                 "keys": [
                   {
-                    "label": ["Sector UN", "365+"]
+                    "label": ["EKDK UN", "365+"]
                   },
                   {
-                    "label": ["Sector N", "365-"]
+                    "label": ["EKDK N", "365-"]
                   }
                 ]
               }
@@ -474,20 +474,20 @@
               "gap": 0.75,
               "children": [
                 {
-                  "label": ["Maastricht", "(MUAC)"],
+                  "label": ["EDYY"],
                   "size": 7,
                   "page": {
                     "rows": 2,
                     "keys": [
                       {
-                        "label": ["Jever", "High", "365+"],
+                        "label": ["EDYY", "JEVER HI", "365+"],
                         "station_id": "EDYY-JH"
                       },
                       {
-                        "label": ["Delta", "245+"]
+                        "label": ["EDYY", "Delta", "245+"]
                       },
                       {
-                        "label": ["Jever", "Low", "245-365"],
+                        "label": ["EDYY",  "JEVER LO", "245-365"],
                         "station_id": "EDYY-JL"
                       },
                       {
@@ -497,16 +497,16 @@
                   }
                 },
                 {
-                  "label": ["Amsterdam"],
+                  "label": ["EHAA"],
                   "size": 7,
                   "page": {
                     "rows": 2,
                     "keys": [
                       {
-                        "label": ["Delta", "245+"]
+                        "label": ["EDYY", "Delta", "245+"]
                       },
                       {
-                        "label": ["Amsterdam", "245-"]
+                        "label": ["EHAA W", "245-"]
                       }
                     ]
                   }
