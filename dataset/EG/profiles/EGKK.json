@@ -133,15 +133,15 @@
             "station_id": "EGKK_DEL"
           },
           {
+            "label": []
+          },
+          {
             "label": ["GMC", "North"],
             "station_id": "EGKK_N_GND"
           },
           {
             "label": ["GMC", "South"],
             "station_id": "EGKK_S_GND"
-          },
-          {
-            "label": []
           },
           {
             "label": ["GMP", "Assist"],
