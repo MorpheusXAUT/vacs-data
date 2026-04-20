@@ -470,27 +470,36 @@
                 "rows": 3,
                 "keys": [
                   {
-                    "label": ["ENSV", "20", "Offshore"],
+                    "label": ["ENSV", "S20", "Offshore"],
                     "station_id": "ENSV-20"
                   },
                   {
-                    "label": ["ENSV", "21", "Offshore"],
+                    "label": ["ENSV", "S21", "Offshore"],
                     "station_id": "ENSV-21"
                   },
                   {
-                    "label": ["ENSV", "22", "Offshore"],
+                    "label": ["ENSV", "S22", "Offshore"],
                     "station_id": "ENSV-22"
                   },
                   {
-                    "label": ["ENSV", "15"],
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": []
+                  },
+                  {
+                    "label": ["ENSV", "S15"],
                     "station_id": "ENSV-15"
                   },
                   {
-                    "label": ["ENSV", "11"],
+                    "label": ["ENSV", "S11"],
                     "station_id": "ENSV-11"
                   },
                   {
-                    "label": ["ENSV", "10"],
+                    "label": ["ENSV", "S10"],
                     "station_id": "ENSV-10"
                   }
                 ]
