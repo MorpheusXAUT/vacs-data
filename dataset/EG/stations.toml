@@ -666,11 +666,7 @@ id = "EG-Antrim"
 parent_id = "SCL_ANT_CTR"
 
 [[stations]]
-id = "EG-Rathlin-East"
-parent_id = "SCO_RAT_CTR"
-
-[[stations]]
-id = "EG-Rathlin-West"
+id = "EG-Rathlin"
 parent_id = "SCO_RAT_CTR"
 
 [[stations]]

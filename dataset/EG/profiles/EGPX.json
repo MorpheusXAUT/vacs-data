@@ -243,7 +243,7 @@
                       },
                       {
                         "label": ["Rathlin"],
-                        "station_id": "SCO_RAT_CTR"
+                        "station_id": "EG-Rathlin"
                       },
                       {
                         "label": ["North"],
@@ -254,7 +254,7 @@
                       },
                       {
                         "label": ["Borders"],
-                        "station_id": "SCO_BDS_CTR"
+                        "station_id": "EG-Borders"
                       },
                       {
                         "label": []
@@ -265,6 +265,50 @@
                       },
                       {
                         "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["Hebrides", "(Event)"],
+                        "station_id": "EG-Hebrides-High"
+                      },
+                      {
+                        "label": ["Central", "(Event)"],
+                        "station_id": "EG-Central"
+                      },
+                      {
+                        "label": ["Solway", "(Event)"],
+                        "station_id": "EG-Solway"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["Grampian", "(Event)"],
+                        "station_id": "EG-Grampian"
+                      },
+                      {
+                        "label": ["Pennine", "(Event)"],
+                        "station_id": "EG-Pennine"
+                      },
+                      {
+                        "label": ["Moray", "(Event)"],
+                        "station_id": "EG-Moray-High"
+                      },
+                      {
+                        "label": ["Tyne", "(Event)"],
+                        "station_id": "EG-Tyne"
+                      },
+                      {
+                        "label": ["Humber", "(Event)"],
+                        "station_id": "EG-Humber"
                       }
                     ]
                   }
