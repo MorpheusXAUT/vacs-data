@@ -374,7 +374,7 @@
       "frequency": "124.855",
       "facility_type": "APP",
       "profile_id": "ESMM_WEST",
-      "default_call_sources": ["ESMM_IS"]
+      "default_call_sources": ["ESMM_FIS-S"]
     },
     {
       "id": "ESMM_K_CTR",
