@@ -365,20 +365,19 @@
                     "station_id": "LON_NW_CTR"
                   },
                   {
+                    "label": ["LAC", "S04", "(Event)"],
+                    "station_id": "EG-Sector-04"
+                  },
+                  {
                     "label": ["PC", "West"],
                     "station_id": "MAN_W_CTR"
                   },
                   {
-                    "label": ["LAC", "Sector 4"],
-                    "station_id": "EG-Sector-04"
-                  },
-                  {
-                    "label": ["PC", "IoM"],
+                    "label": ["PC", "IOM", "(Event)"],
                     "station_id": "EG-MPC-IoM"
                   },
                   {
-                    "label": ["LAC", "North"],
-                    "station_id": "LON_N_CTR"
+                    "label": []
                   },
                   {
                     "label": []
@@ -394,14 +393,14 @@
                     "station_id": "LON_NE_CTR"
                   },
                   {
+                    "label": []
+                  },
+                  {
                     "label": ["PC", "North", "East"],
                     "station_id": "MAN_NE_CTR"
                   },
                   {
-                    "label": []
-                  },
-                  {
-                    "label": ["PC", "North"],
+                    "label": ["PC", "North", "(Event)"],
                     "station_id": "EG-MPC-North"
                   }
                 ]
