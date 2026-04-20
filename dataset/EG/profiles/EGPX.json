@@ -591,11 +591,13 @@
                 "keys": [
                   {
                     "label": ["EKDK UN", "365+"],
-                    "color": "azure"
+                    "color": "azure",
+                    "station_id": "EKDKUN"
                   },
                   {
                     "label": ["EKDK N", "365-"],
-                    "color": "azure"
+                    "color": "azure",
+                    "station_id": "EKDKN"
                   }
                 ]
               }
