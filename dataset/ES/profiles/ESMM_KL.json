@@ -66,8 +66,8 @@
             "station_id": "ESMM_8"
           },
           {
-            "label": ["MM", "IS"],
-            "station_id": "ESMM_IS"
+            "label": ["MM", "FIS-S"],
+            "station_id": "ESMM_FIS-S"
           },
           {
             "label": []
