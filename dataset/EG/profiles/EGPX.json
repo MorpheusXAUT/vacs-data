@@ -925,7 +925,7 @@
                 "rows": 4,
                 "keys": [
                   {
-                    "label": ["Swanwick", "Mil", "North"],
+                    "label": ["EGVV", "North"],
                     "color": "azure",
                     "station_id": "EGVV_N_CTR"
                   },
@@ -933,12 +933,12 @@
                     "label": []
                   },
                   {
-                    "label": ["Swanwick", "Mil", "East"],
+                    "label": ["EGVV", "East"],
                     "color": "azure",
                     "station_id": "EGVV_E_CTR"
                   },
                   {
-                    "label": ["Swanwick", "Mil", "West"],
+                    "label": ["EGVV", "West"],
                     "color": "azure",
                     "station_id": "EGVV_W_CTR"
                   },
