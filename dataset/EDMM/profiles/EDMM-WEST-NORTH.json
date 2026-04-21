@@ -482,7 +482,9 @@
             "color": "azure"
           },
           {
-            "label": []
+            "label": ["LKPR", "APP"],
+            "station_id": "LKPR ARR",
+            "color": "lilac"
           },
           {
             "label": ["LOVV", "B27 315+"],
@@ -515,7 +517,7 @@
             "color": "lilac"
           },
           {
-            "label": ["LOVV", "N27 345+"],
+            "label": ["LOVV", "N27 315+"],
             "station_id": "LOVV_N7",
             "color": "clay"
           },

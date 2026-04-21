@@ -5,6 +5,7 @@
       "prefixes": ["GMMM"],
       "frequency": "123.420",
       "facility_type": "FMP",
+      "profile_id": "FMP",
       "default_call_sources": ["GMMM_FMP"]
     },
     {
@@ -12,6 +13,7 @@
       "prefixes": ["GMMN"],
       "frequency": "123.410",
       "facility_type": "FMP",
+      "profile_id": "FMP",
       "default_call_sources": ["GMMN_1_FMP"]
     },
     {
@@ -19,6 +21,7 @@
       "prefixes": ["GMMN"],
       "frequency": "123.400",
       "facility_type": "FMP",
+      "profile_id": "FMP",
       "default_call_sources": ["GMMN_2_FMP"]
     },
     {
@@ -26,6 +29,7 @@
       "prefixes": ["GMMN"],
       "frequency": "123.405",
       "facility_type": "FMP",
+      "profile_id": "FMP",
       "default_call_sources": ["GMMN_3_FMP"]
     },
     {
@@ -33,6 +37,7 @@
       "prefixes": ["GMMN"],
       "frequency": "123.415",
       "facility_type": "FMP",
+      "profile_id": "FMP",
       "default_call_sources": ["GMMN_4_FMP"]
     },
     {
@@ -292,6 +297,7 @@
       "prefixes": ["GMMN"],
       "frequency": "118.500",
       "facility_type": "TWR",
+      "profile_id": "GMMN",
       "default_call_sources": ["GMMN_TWR"]
     },
     {
@@ -299,6 +305,7 @@
       "prefixes": ["GMMN"],
       "frequency": "130.600",
       "facility_type": "GND",
+      "profile_id": "GMMN",
       "default_call_sources": ["GMMN_GND"]
     },
     {
@@ -306,6 +313,7 @@
       "prefixes": ["GMMN"],
       "frequency": "199.998",
       "facility_type": "GND",
+      "profile_id": "GMMN",
       "default_call_sources": ["GMMN_P_GND"]
     },
     {
@@ -313,6 +321,7 @@
       "prefixes": ["GMMN"],
       "frequency": "121.700",
       "facility_type": "DEL",
+      "profile_id": "GMMN",
       "default_call_sources": ["GMMN_DEL"]
     },
     {

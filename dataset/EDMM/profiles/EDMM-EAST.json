@@ -423,12 +423,12 @@
             }
           },
           {
-            "label": ["YY", "SOLH 355+"],
+            "label": ["YY", "SOLH", "355+"],
             "station_id": "EDYY-SH",
             "color": "taupe"
           },
           {
-            "label": ["YY", "SOLL 355-"],
+            "label": ["YY", "SOLL", "355-"],
             "station_id": "EDYY-SL",
             "color": "taupe"
           },

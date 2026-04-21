@@ -636,7 +636,14 @@ facility_type = "TWR"
 profile_id = "EGKK"
 
 [[positions]]
-id = "EGKK_GND"
+id = "EGKK_N_GND"
+prefixes = ["EGKK"]
+frequency = "121.540"
+facility_type = "GND"
+profile_id = "EGKK"
+
+[[positions]]
+id = "EGKK_S_GND"
 prefixes = ["EGKK"]
 frequency = "121.805"
 facility_type = "GND"
@@ -3184,77 +3191,77 @@ id = "UK_FMP"
 prefixes = ["UK"]
 frequency = "199.998"
 facility_type = "FMP"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "UK_A_FMP"
 prefixes = ["UK"]
 frequency = "199.998"
 facility_type = "FMP"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "UK_B_FMP"
 prefixes = ["UK"]
 frequency = "199.998"
 facility_type = "FMP"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "MAN_FMP"
 prefixes = ["MAN"]
 frequency = "199.998"
 facility_type = "FMP"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "LTC_FMP"
 prefixes = ["LTC"]
 frequency = "199.998"
 facility_type = "FMP"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "SCL_FMP"
 prefixes = ["SCL"]
 frequency = "199.998"
 facility_type = "FMP"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "LON_GS_CTR"
 prefixes = ["LON"]
 frequency = "199.998"
 facility_type = "CTR"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "LTC_GS_CTR"
 prefixes = ["LTC"]
 frequency = "199.998"
 facility_type = "CTR"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "SCO_GS_CTR"
 prefixes = ["SCO"]
 frequency = "199.998"
 facility_type = "CTR"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "SCL_GS_CTR"
 prefixes = ["SCL"]
 frequency = "199.998"
 facility_type = "CTR"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 [[positions]]
 id = "MAN_GS_CTR"
 prefixes = ["MAN"]
 frequency = "199.998"
 facility_type = "CTR"
-profile_id = "EG-UK_ALL"
+profile_id = "EG-FMP"
 
 #######################
 # Non-domestic owned

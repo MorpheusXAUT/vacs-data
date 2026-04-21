@@ -653,7 +653,7 @@ controlled_by = ["SCL_CTR"]
 
 [[stations]]
 id = "EG-Westcoast-Rathlin"
-parent_id = "EG-Rathlin-West"
+parent_id = "EG-Rathlin"
 controlled_by = ["SCL_CTR"]
 
 [[stations]]
@@ -666,11 +666,7 @@ id = "EG-Antrim"
 parent_id = "SCL_ANT_CTR"
 
 [[stations]]
-id = "EG-Rathlin-East"
-parent_id = "SCO_RAT_CTR"
-
-[[stations]]
-id = "EG-Rathlin-West"
+id = "EG-Rathlin"
 parent_id = "SCO_RAT_CTR"
 
 [[stations]]
@@ -751,7 +747,7 @@ controlled_by = ["SCL_TLA_CTR"]
 
 [[stations]]
 id = "SCL_ANT_CTR"
-parent_id = "EG-Rathlin-East"
+parent_id = "EG-Rathlin"
 controlled_by = ["SCL_ANT_CTR", "SCL_GTA_CTR", "SCL_CTR"]
 
 [[stations]]
@@ -1017,9 +1013,49 @@ parent_id = "EGGW_APP"
 controlled_by = ["EGGW_F_APP"]
 
 [[stations]]
+id = "EGKK_DEL"
+parent_id = "EGKK_N_GND"
+controlled_by = ["EGKK_DEL"]
+
+[[stations]]
+id = "EGKK_A_DEL"
+parent_id = "EGKK_DEL"
+controlled_by = ["EGKK_A_DEL"]
+
+[[stations]]
+id = "EGKK_P_GND"
+parent_id = "EGKK_DEL"
+controlled_by = ["EGKK_P_GND"]
+
+[[stations]]
+id = "EGKK_N_GND"
+parent_id = "EGKK_TWR"
+controlled_by = ["EGKK_N_GND", "EGKK_S_GND"]
+
+[[stations]]
+id = "EGKK_S_GND"
+parent_id = "EGKK_N_GND"
+controlled_by = ["EGKK_S_GND"]
+
+[[stations]]
+id = "EGKK_TWR"
+parent_id = "EGKK_APP"
+controlled_by = ["EGKK_TWR"]
+
+[[stations]]
 id = "EGKK_APP"
 parent_id = "LTC_SW_CTR"
 controlled_by = ["EGKK_APP", "EGKK_F_APP"]
+
+[[stations]]
+id = "EGKK_F_APP"
+parent_id = "EGKK_APP"
+controlled_by = ["EGKK_F_APP"]
+
+[[stations]]
+id = "EGKR_TWR"
+parent_id = "EGKK_F_APP"
+controlled_by = ["EGKR_TWR"]
 
 [[stations]]
 id = "EGLC_GND"
