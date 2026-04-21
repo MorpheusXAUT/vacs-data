@@ -44,7 +44,7 @@
             "label": ["ML"],
             "color": "lilac",
             "station_id": "EDYY-ML"
-          },          
+          },
           {
             "label": ["HMM"],
             "color": "umber",
