@@ -104,30 +104,42 @@
           "page": {
             "rows": 6,
             "keys": [
-                  { "label": ["JOBOC", "65"], "station_id": "JOBOC" },
-                  { "label": ["OHRYN", "85"], "station_id": "OHRYN" },
-                  { "label": ["ATLANTIC", "86"], "station_id": "ATLANTIC" },
-                  { "label": ["PAEPR", "82"], "station_id": "PAEPR" },
-                  { "label": ["HANRI", "83"], "station_id": "HANRI" },
-                  { "label": [] },
-                  { "label": ["CHAMP", "87", "High"], "station_id": "CHAMP_H" },
-                  { "label": ["CHAMP", "87", "Low"], "station_id": "CHAMP_L" },
-                  { "label": ["BACUS", "88", "High"], "station_id": "BACUS_H" },
-                  { "label": ["BACUS", "88", "Low"], "station_id": "BACUS_L" },
-                  { "label": ["GRATX", "90", "High"], "station_id": "GRATX_H" },
-                  { "label": ["GRATX", "90", "Low"], "station_id": "GRATX_L" },
-                  { "label": [] },
-                  { "label": ["COCOA", "80"], "station_id": "COCOA" },
-                  { "label": ["HILDY", "81"], "station_id": "HILDY" },
-                  { "label": ["KRAFT", "89", "High"], "station_id": "KRAFT_H" },
-                  { "label": ["KRAFT", "89", "Low"], "station_id": "KRAFT_L" },
-                  { "label": [] },
-                  { "label": ["MERCURY", "21-24", "High"], "station_id": "MERCURY_H" },
-                  { "label": ["MERCURY", "21-24", "Low"], "station_id": "MERCURY_L" },
-                  { "label": ["GEMINI", "18-20", "High"], "station_id": "GEMINI_H" },
-                  { "label": ["GEMINI", "18-20", "Low"], "station_id": "GEMINI_L" },
-                  { "label": ["APOLLO", "16-17", "High"], "station_id": "APOLLO_H" },
-                  { "label": ["APOLLO", "16-17", "Low"], "station_id": "APOLLO_L" }
+              { "label": ["JOBOC", "65"], "station_id": "JOBOC" },
+              { "label": ["OHRYN", "85"], "station_id": "OHRYN" },
+              { "label": ["ATLANTIC", "86"], "station_id": "ATLANTIC" },
+              { "label": ["PAEPR", "82"], "station_id": "PAEPR" },
+              { "label": ["HANRI", "83"], "station_id": "HANRI" },
+              { "label": [] },
+              { "label": ["CHAMP", "87", "High"], "station_id": "CHAMP_H" },
+              { "label": ["CHAMP", "87", "Low"], "station_id": "CHAMP_L" },
+              { "label": ["BACUS", "88", "High"], "station_id": "BACUS_H" },
+              { "label": ["BACUS", "88", "Low"], "station_id": "BACUS_L" },
+              { "label": ["GRATX", "90", "High"], "station_id": "GRATX_H" },
+              { "label": ["GRATX", "90", "Low"], "station_id": "GRATX_L" },
+              { "label": [] },
+              { "label": ["COCOA", "80"], "station_id": "COCOA" },
+              { "label": ["HILDY", "81"], "station_id": "HILDY" },
+              { "label": ["KRAFT", "89", "High"], "station_id": "KRAFT_H" },
+              { "label": ["KRAFT", "89", "Low"], "station_id": "KRAFT_L" },
+              { "label": [] },
+              {
+                "label": ["MERCURY", "21-24", "High"],
+                "station_id": "MERCURY_H"
+              },
+              {
+                "label": ["MERCURY", "21-24", "Low"],
+                "station_id": "MERCURY_L"
+              },
+              {
+                "label": ["GEMINI", "18-20", "High"],
+                "station_id": "GEMINI_H"
+              },
+              { "label": ["GEMINI", "18-20", "Low"], "station_id": "GEMINI_L" },
+              {
+                "label": ["APOLLO", "16-17", "High"],
+                "station_id": "APOLLO_H"
+              },
+              { "label": ["APOLLO", "16-17", "Low"], "station_id": "APOLLO_L" }
             ]
           }
         }
