@@ -27,6 +27,7 @@
     },
     {
       "id": "GMMM_ALL_CTR",
+      "parent_id": "AFRN_FSS",
       "controlled_by": ["GMMM_ALL_CTR"]
     },
     {
