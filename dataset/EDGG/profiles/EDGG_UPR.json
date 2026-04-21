@@ -327,7 +327,9 @@
             "label": [""]
           },
           {
-            "label": [""]
+            "label": ["EDGG", "PAD"],
+            "color": "mint",
+            "station_id": "EDGG-PAD"
           },
           {
             "label": [""]
@@ -343,15 +345,19 @@
             "station_id": "EDYY-SL"
           },
           {
-            "label": [""]
+            "label": ["EDYY", "LNH"],
+             "color": "lavender",
+             "station_id": "EDYY-LNH"
           },
           {
-            "label": [""]
-          },
+            "label": ["EDYY", "LXH"],
+            "color": "lavender",
+            "station_id": "EDYY-LXH"
+          },          
           {
-            "label": ["EDGG", "PAD"],
+            "label": ["EBBU", "EHS"],
             "color": "mint",
-            "station_id": "EDGG-PAD"
+            "station_id": "EBBU-EHS"
           },
           {
             "label": [""]
@@ -377,7 +383,9 @@
             "station_id": "EDMM-BBG"
           },
           {
-            "label": [""]
+            "label": ["EBBU", "LUS"],
+            "color": "mint",
+            "station_id": "EBBU-LUS"
           },
           {
             "label": [""]
