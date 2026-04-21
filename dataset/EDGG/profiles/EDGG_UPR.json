@@ -346,14 +346,14 @@
           },
           {
             "label": ["EDYY", "LNH"],
-             "color": "lavender",
-             "station_id": "EDYY-LNH"
+            "color": "lavender",
+            "station_id": "EDYY-LNH"
           },
           {
             "label": ["EDYY", "LXH"],
             "color": "lavender",
             "station_id": "EDYY-LXH"
-          },          
+          },
           {
             "label": ["EBBU", "EHS"],
             "color": "mint",
