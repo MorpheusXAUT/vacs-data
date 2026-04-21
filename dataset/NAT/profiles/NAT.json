@@ -99,14 +99,32 @@
           }
         },
         {
-          "label": ["New York", "(INOP)"],
+          "label": ["New York"],
           "size": 7,
           "page": {
             "rows": 5,
             "keys": [
-              {
-                "label": ["INOP"]
-              }
+              { "label": ["CHAMP", "Low"], "station_id": "CHAMP_L" },
+              { "label": ["CHAMP", "High"], "station_id": "CHAMP_H" },
+              { "label": ["BACUS", "Low"], "station_id": "BACUS_L" },
+              { "label": ["BACUS", "High"], "station_id": "BACUS_H" },
+              { "label": ["KRAFT", "Low"], "station_id": "KRAFT_L" },
+              { "label": ["KRAFT", "High"], "station_id": "KRAFT_H" },
+              { "label": ["GRATX", "Low"], "station_id": "GRATX_L" },
+              { "label": ["GRATX", "High"], "station_id": "GRATX_H" },
+              { "label": ["PAEPR", "82"], "station_id": "PAEPR" },
+              { "label": ["HANRI", "83"], "station_id": "HANRI" },
+              { "label": ["APOLLO", "Low"], "station_id": "APOLLO_L" },
+              { "label": ["APOLLO", "High"], "station_id": "APOLLO_H" },
+              { "label": ["GEMINI", "Low"], "station_id": "GEMINI_L" },
+              { "label": ["GEMINI", "High"], "station_id": "GEMINI_H" },
+              { "label": ["MERCURY", "Low"], "station_id": "MERCURY_L" },
+              { "label": ["MERCURY", "High"], "station_id": "MERCURY_H" },
+              { "label": ["JOBOC", "65"], "station_id": "JOBOC" },
+              { "label": ["OHRYN", "85"], "station_id": "OHRYN" },
+              { "label": ["ATLANTIC", "86"], "station_id": "ATLANTIC" },
+              { "label": ["HILDY"], "station_id": "HILDY" },
+              { "label": ["COCOA"], "station_id": "COCOA" }
             ]
           }
         }
