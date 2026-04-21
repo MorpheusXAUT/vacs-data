@@ -6,7 +6,7 @@
       "frequency": "133.215",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDYY-MH"]
+      "default_call_sources": ["EDYY-MH"]
     },
     {
       "id": "EDYY_MM_CTR",
@@ -14,7 +14,7 @@
       "frequency": "130.110",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDYY-MH", "EDYY-ML"]
+      "default_call_sources": ["EDYY-MH", "EDYY-ML"]
     },
     {
       "id": "EDYY_ML_CTR",
@@ -29,7 +29,7 @@
       "frequency": "122.835",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDYY-RH"]
+      "default_call_sources": ["EDYY-RH"]
     },
     {
       "id": "EDYY_RL_CTR",
@@ -37,7 +37,7 @@
       "frequency": "128.790",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDYY-RH"]
+      "default_call_sources": ["EDYY-RH"]
     },
     {
       "id": "EDUU_CW_CTR",
@@ -45,7 +45,7 @@
       "frequency": "134.690",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDUU-UCW"]
+      "default_call_sources": ["EDUU-UCW"]
     },
     {
       "id": "EDUU_W_CTR",
@@ -53,7 +53,7 @@
       "frequency": "136.560",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDUU-UW"]
+      "default_call_sources": ["EDUU-UW"]
     },
     {
       "id": "EDUU_C_CTR",
@@ -61,7 +61,7 @@
       "frequency": "130.260",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDUU-UC"]
+      "default_call_sources": ["EDUU-UC"]
     },
     {
       "id": "EDUU_FUL_CTR",
@@ -69,7 +69,7 @@
       "frequency": "122.785",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDUU-FUL"]
+      "default_call_sources": ["EDUU-FUL"]
     },
     {
       "id": "EDUU_FFM_CTR",
@@ -77,7 +77,7 @@
       "frequency": "132.330",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDUU-FFM"]
+      "default_call_sources": ["EDUU-FFM"]
     },
     {
       "id": "EDUU_NTM_CTR",
@@ -85,7 +85,7 @@
       "frequency": "132.080",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDUU-NTM"]
+      "default_call_sources": ["EDUU-NTM"]
     },
     {
       "id": "EDUU_WUR_CTR",
@@ -93,7 +93,7 @@
       "frequency": "134.085",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDUU-WUR"]
+      "default_call_sources": ["EDUU-WUR"]
     },
     {
       "id": "EDUU_TGO_CTR",
@@ -101,7 +101,7 @@
       "frequency": "132.405",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDUU-TGO"]
+      "default_call_sources": ["EDUU-TGO"]
     },
     {
       "id": "EDUU_SLN_CTR",
@@ -109,7 +109,7 @@
       "frequency": "120.930",
       "facility_type": "CTR",
       "profile_id": "EDGG_UPR",
-      "default_call_source": ["EDUU-SLN"]
+      "default_call_sources": ["EDUU-SLN"]
     },
     {
       "id": "EDGG_NH_CTR",
@@ -117,7 +117,7 @@
       "frequency": "136.480",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-PAD"]
+      "default_call_sources": ["EDGG-PAD"]
     },
     {
       "id": "EDGG_N_CTR",
@@ -125,7 +125,7 @@
       "frequency": "118.215",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-PAD"]
+      "default_call_sources": ["EDGG-PAD"]
     },
     {
       "id": "EDGG_PAH_CTR",
@@ -133,7 +133,7 @@
       "frequency": "136.625",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-PAD"]
+      "default_call_sources": ["EDGG-PAD"]
     },
     {
       "id": "EDGG_PAD_CTR",
@@ -141,7 +141,7 @@
       "frequency": "135.650",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG6",
-      "default_call_source": ["EDGG-PAD"]
+      "default_call_sources": ["EDGG-PAD"]
     },
     {
       "id": "EDGG_CSH_CTR",
@@ -163,7 +163,7 @@
       "frequency": "127.925",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-GIN"]
+      "default_call_sources": ["EDGG-GIN"]
     },
     {
       "id": "EDGG_CO_CTR",
@@ -178,7 +178,7 @@
       "frequency": "133.815",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-GIN"]
+      "default_call_sources": ["EDGG-GIN"]
     },
     {
       "id": "EDGG_CA_CTR",
@@ -186,7 +186,7 @@
       "frequency": "133.835",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-GIN"]
+      "default_call_sources": ["EDGG-GIN"]
     },
     {
       "id": "EDGG_HEF_CTR",
@@ -194,7 +194,7 @@
       "frequency": "127.725",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG3",
-      "default_call_source": ["EDGG-HEF"]
+      "default_call_sources": ["EDGG-HEF"]
     },
     {
       "id": "EDGG_GED_CTR",
@@ -202,7 +202,7 @@
       "frequency": "124.430",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG3",
-      "default_call_source": ["EDGG-GED"]
+      "default_call_sources": ["EDGG-GED"]
     },
     {
       "id": "EDGG_GIH_CTR",
@@ -210,7 +210,7 @@
       "frequency": "128.075",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG3",
-      "default_call_source": ["EDGG-GIN"]
+      "default_call_sources": ["EDGG-GIN"]
     },
     {
       "id": "EDGG_GIN_CTR",
@@ -218,7 +218,7 @@
       "frequency": "124.730",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG3",
-      "default_call_source": ["EDGG-GIN"]
+      "default_call_sources": ["EDGG-GIN"]
     },
     {
       "id": "EDGG_SIG_CTR",
@@ -226,7 +226,7 @@
       "frequency": "124.900",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG3",
-      "default_call_source": ["EDGG-SIG"]
+      "default_call_sources": ["EDGG-SIG"]
     },
     {
       "id": "EDGG_TAU_CTR",
@@ -234,7 +234,7 @@
       "frequency": "127.625",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG3",
-      "default_call_source": ["EDGG-TAU"]
+      "default_call_sources": ["EDGG-TAU"]
     },
     {
       "id": "EDGG_RUH_CTR",
@@ -242,7 +242,7 @@
       "frequency": "135.725",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG5",
-      "default_call_source": ["EDGG-RUD"]
+      "default_call_sources": ["EDGG-RUD"]
     },
     {
       "id": "EDGG_RUD_CTR",
@@ -250,7 +250,7 @@
       "frequency": "133.435",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG5",
-      "default_call_source": ["EDGG-RUD"]
+      "default_call_sources": ["EDGG-RUD"]
     },
     {
       "id": "EDGG_KIR_CTR",
@@ -258,7 +258,7 @@
       "frequency": "133.460",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG5",
-      "default_call_source": ["EDGG-KIR"]
+      "default_call_sources": ["EDGG-KIR"]
     },
     {
       "id": "EDGG_SH_CTR",
@@ -266,7 +266,7 @@
       "frequency": "123.010",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-DKB"]
+      "default_call_sources": ["EDGG-DKB"]
     },
     {
       "id": "EDGG_S_CTR",
@@ -274,7 +274,7 @@
       "frequency": "136.315",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-DKB"]
+      "default_call_sources": ["EDGG-DKB"]
     },
     {
       "id": "EDGG_SA_CTR",
@@ -282,7 +282,7 @@
       "frequency": "131.365",
       "facility_type": "CTR",
       "profile_id": "EDGG_MBB",
-      "default_call_source": ["EDGG-DKB"]
+      "default_call_sources": ["EDGG-DKB"]
     },
     {
       "id": "EDGG_MAN_CTR",
@@ -290,7 +290,7 @@
       "frequency": "132.155",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG2",
-      "default_call_source": ["EDGG-MAN"]
+      "default_call_sources": ["EDGG-MAN"]
     },
     {
       "id": "EDGG_HAB_CTR",
@@ -298,7 +298,7 @@
       "frequency": "134.800",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG4",
-      "default_call_source": ["EDGG-HAB"]
+      "default_call_sources": ["EDGG-HAB"]
     },
     {
       "id": "EDGG_PSA_CTR",
@@ -306,7 +306,7 @@
       "frequency": "125.405",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG4",
-      "default_call_source": ["EDGG-PSA"]
+      "default_call_sources": ["EDGG-PSA"]
     },
     {
       "id": "EDGG_KTG_CTR",
@@ -314,7 +314,7 @@
       "frequency": "123.280",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG4",
-      "default_call_source": ["EDGG-KTG"]
+      "default_call_sources": ["EDGG-KTG"]
     },
     {
       "id": "EDGG_DKH_CTR",
@@ -322,7 +322,7 @@
       "frequency": "133.340",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG4",
-      "default_call_source": ["EDGG-DKB"]
+      "default_call_sources": ["EDGG-DKB"]
     },
     {
       "id": "EDGG_DKB_CTR",
@@ -330,7 +330,7 @@
       "frequency": "125.200",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG4",
-      "default_call_source": ["EDGG-DKB"]
+      "default_call_sources": ["EDGG-DKB"]
     },
     {
       "id": "EDGG_KNG_CTR",
@@ -338,7 +338,7 @@
       "frequency": "125.680",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG4",
-      "default_call_source": ["EDGG-KNG"]
+      "default_call_sources": ["EDGG-KNG"]
     },
     {
       "id": "EDGG_NKR_CTR",
@@ -346,7 +346,7 @@
       "frequency": "127.500",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG2",
-      "default_call_source": ["EDGG-NKR"]
+      "default_call_sources": ["EDGG-NKRH"]
     },
     {
       "id": "EDGG_LBU_CTR",
@@ -354,7 +354,7 @@
       "frequency": "127.050",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG2",
-      "default_call_source": ["EDGG-LBU"]
+      "default_call_sources": ["EDGG-LBU"]
     },
     {
       "id": "EDGG_BAH_CTR",
@@ -362,7 +362,7 @@
       "frequency": "124.035",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG2",
-      "default_call_source": ["EDGG-BAD"]
+      "default_call_sources": ["EDGG-BAD"]
     },
     {
       "id": "EDGG_BAD_CTR",
@@ -370,7 +370,7 @@
       "frequency": "131.300",
       "facility_type": "CTR",
       "profile_id": "EDGG_EBG2",
-      "default_call_source": ["EDGG-BAD"]
+      "default_call_sources": ["EDGG-BAD"]
     },
     {
       "id": "EDGG_AH_CTR",
@@ -392,7 +392,7 @@
       "frequency": "134.065",
       "facility_type": "APP",
       "profile_id": "EDGG_KLA",
-      "default_call_source": ["EDGG-DLA"]
+      "default_call_sources": ["EDGG-DLA"]
     },
     {
       "id": "EDDG_HMM_APP",
@@ -400,7 +400,7 @@
       "frequency": "129.300",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG6",
-      "default_call_source": ["EDDG-HMM"]
+      "default_call_sources": ["EDGG-HMM"]
     },
     {
       "id": "EDDG_F_APP",
@@ -408,7 +408,7 @@
       "frequency": "129.180",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG6",
-      "default_call_source": ["EDGG-DGAT"]
+      "default_call_sources": ["EDGG-DGAT"]
     },
     {
       "id": "EDDL_BOT_APP",
@@ -416,7 +416,7 @@
       "frequency": "119.110",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG1",
-      "default_call_source": ["EDDL-BOT"]
+      "default_call_sources": ["EDGG-BOT"]
     },
     {
       "id": "EDDL_DEP",
@@ -424,7 +424,7 @@
       "frequency": "121.355",
       "facility_type": "DEP",
       "profile_id": "EDGG_EBG1",
-      "default_call_source": ["EDGG-DLD"]
+      "default_call_sources": ["EDGG-DLD"]
     },
     {
       "id": "EDDL_APP",
@@ -432,7 +432,7 @@
       "frequency": "128.555",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG1",
-      "default_call_source": ["EDGG-DLA"]
+      "default_call_sources": ["EDGG-DLA"]
     },
     {
       "id": "EDDL_F_APP",
@@ -440,7 +440,7 @@
       "frequency": "128.655",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG1",
-      "default_call_source": ["EDGG-DLAT"]
+      "default_call_sources": ["EDGG-DLAT"]
     },
     {
       "id": "EDDK_NOR_APP",
@@ -448,7 +448,7 @@
       "frequency": "127.365",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG7",
-      "default_call_source": ["EDDK-NOR"]
+      "default_call_sources": ["EDGG-NOR"]
     },
     {
       "id": "EDDK_F_APP",
@@ -456,7 +456,7 @@
       "frequency": "121.055",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG7",
-      "default_call_source": ["EDGG-DKAT"]
+      "default_call_sources": ["EDGG-DKAT"]
     },
     {
       "id": "EDDK_APP",
@@ -464,7 +464,7 @@
       "frequency": "135.350",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG7",
-      "default_call_source": ["EDGG-DKA"]
+      "default_call_sources": ["EDGG-DKA"]
     },
     {
       "id": "EDLP_PAL_APP",
@@ -472,7 +472,7 @@
       "frequency": "125.225",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG6",
-      "default_call_source": ["EDLP-PADL"]
+      "default_call_sources": ["EDGG-PADL"]
     },
     {
       "id": "EDDF_N_APP",
@@ -480,7 +480,7 @@
       "frequency": "120.805",
       "facility_type": "APP",
       "profile_id": "EDGG_DFAN",
-      "default_call_source": ["EDGG-DFAN"]
+      "default_call_sources": ["EDGG-DFAN"]
     },
     {
       "id": "EDDF_S_APP",
@@ -488,7 +488,7 @@
       "frequency": "125.355",
       "facility_type": "APP",
       "profile_id": "EDGG_DFAN",
-      "default_call_source": ["EDGG-DFAS"]
+      "default_call_sources": ["EDGG-DFAS"]
     },
     {
       "id": "EDDF_H_APP",
@@ -496,7 +496,7 @@
       "frequency": "127.280",
       "facility_type": "APP",
       "profile_id": "EDGG_DFAN",
-      "default_call_source": ["EDGG-DFANT"]
+      "default_call_sources": ["EDGG-DFANT"]
     },
     {
       "id": "EDDF_L_APP",
@@ -504,7 +504,7 @@
       "frequency": "118.505",
       "facility_type": "APP",
       "profile_id": "EDGG_DFAN",
-      "default_call_source": ["EDGG-DFAST"]
+      "default_call_sources": ["EDGG-DFAST"]
     },
     {
       "id": "EDDF_N_DEP",
@@ -512,7 +512,7 @@
       "frequency": "120.155",
       "facility_type": "DEP",
       "profile_id": "EDGG_DFAN",
-      "default_call_source": ["EDGG-DFDN"]
+      "default_call_sources": ["EDGG-DFDN"]
     },
     {
       "id": "EDDF_S_DEP",
@@ -520,7 +520,7 @@
       "frequency": "136.130",
       "facility_type": "DEP",
       "profile_id": "EDGG_DFAN",
-      "default_call_source": ["EDGG-DFDS"]
+      "default_call_sources": ["EDGG-DFDS"]
     },
     {
       "id": "EDFH_EIF_APP",
@@ -528,7 +528,7 @@
       "frequency": "125.600",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG5",
-      "default_call_source": ["EDGG-EIF"]
+      "default_call_sources": ["EDGG-EIF"]
     },
     {
       "id": "EDDR_PFA_APP",
@@ -536,7 +536,7 @@
       "frequency": "129.675",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG5",
-      "default_call_source": ["EDGG-PFA"]
+      "default_call_sources": ["EDGG-PFA"]
     },
     {
       "id": "EDDS_STG_APP",
@@ -544,7 +544,7 @@
       "frequency": "125.050",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG8",
-      "default_call_source": ["EDGG-STG"]
+      "default_call_sources": ["EDGG-STG"]
     },
     {
       "id": "EDDS_REU_APP",
@@ -552,7 +552,7 @@
       "frequency": "119.200",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG8",
-      "default_call_source": ["EDGG-REU"]
+      "default_call_sources": ["EDGG-REU"]
     },
     {
       "id": "EDDS_F_APP",
@@ -560,7 +560,7 @@
       "frequency": "119.850",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG8",
-      "default_call_source": ["EDGG-DSAT"]
+      "default_call_sources": ["EDGG-DSAT"]
     },
     {
       "id": "EDFM_NKL_APP",
@@ -568,7 +568,7 @@
       "frequency": "129.355",
       "facility_type": "APP",
       "profile_id": "EDGG_EBG2",
-      "default_call_source": ["EDGG-NKRL"]
+      "default_call_sources": ["EDGG-NKRL"]
     },
     {
       "id": "ETAD_APP",
@@ -576,7 +576,7 @@
       "frequency": "129.475",
       "facility_type": "APP",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TADA"]
+      "default_call_sources": ["EDGG-TADA"]
     },
     {
       "id": "ETAR_APP",
@@ -584,7 +584,7 @@
       "frequency": "124.280",
       "facility_type": "APP",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TARA"]
+      "default_call_sources": ["EDGG-TARA"]
     },
     {
       "id": "ETHF_APP",
@@ -592,7 +592,7 @@
       "frequency": "120.865",
       "facility_type": "APP",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-THFA"]
+      "default_call_sources": ["EDGG-THFA"]
     },
     {
       "id": "ETHN_APP",
@@ -600,7 +600,7 @@
       "frequency": "127.190",
       "facility_type": "APP",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-THNA"]
+      "default_call_sources": ["EDGG-THNA"]
     },
     {
       "id": "ETNG_APP",
@@ -608,7 +608,7 @@
       "frequency": "123.730",
       "facility_type": "APP",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TNGA"]
+      "default_call_sources": ["EDGG-TNGA"]
     },
     {
       "id": "ETNN_APP",
@@ -616,7 +616,7 @@
       "frequency": "129.055",
       "facility_type": "APP",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TNNA"]
+      "default_call_sources": ["EDGG-TNNA"]
     },
     {
       "id": "ETSB_APP",
@@ -624,7 +624,7 @@
       "frequency": "130.155",
       "facility_type": "APP",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TSBA"]
+      "default_call_sources": ["EDGG-TSBA"]
     },
     {
       "id": "EDDL_TWR",
@@ -632,7 +632,7 @@
       "frequency": "118.305",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DLT"]
+      "default_call_sources": ["EDGG-DLT"]
     },
     {
       "id": "EDDL_E_GND",
@@ -640,7 +640,7 @@
       "frequency": "121.605",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DLGE"]
+      "default_call_sources": ["EDGG-DLGE"]
     },
     {
       "id": "EDDL_W_GND",
@@ -648,7 +648,7 @@
       "frequency": "121.680",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DLGW"]
+      "default_call_sources": ["EDGG-DLGW"]
     },
     {
       "id": "EDDL_DEL",
@@ -656,7 +656,7 @@
       "frequency": "121.780",
       "facility_type": "DEL",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DLC"]
+      "default_call_sources": ["EDGG-DLC"]
     },
     {
       "id": "EDDK_TWR",
@@ -664,7 +664,7 @@
       "frequency": "124.980",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DKT"]
+      "default_call_sources": ["EDGG-DKT"]
     },
     {
       "id": "EDDK_GND",
@@ -672,7 +672,7 @@
       "frequency": "121.730",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DKG"]
+      "default_call_sources": ["EDGG-DKG"]
     },
     {
       "id": "EDDK_P_GND",
@@ -687,7 +687,7 @@
       "frequency": "121.855",
       "facility_type": "DEL",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DLC"]
+      "default_call_sources": ["EDGG-DLC"]
     },
     {
       "id": "EDDF_C_TWR",
@@ -695,7 +695,7 @@
       "frequency": "118.780",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFTC"]
+      "default_call_sources": ["EDGG-DFTC"]
     },
     {
       "id": "EDDF_W_TWR",
@@ -703,7 +703,7 @@
       "frequency": "124.855",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFTW"]
+      "default_call_sources": ["EDGG-DFTW"]
     },
     {
       "id": "EDDF_N_TWR",
@@ -711,7 +711,7 @@
       "frequency": "136.500",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFTN"]
+      "default_call_sources": ["EDGG-DFTN"]
     },
     {
       "id": "EDDF_S_TWR",
@@ -719,7 +719,7 @@
       "frequency": "119.905",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFTS"]
+      "default_call_sources": ["EDGG-DFTS"]
     },
     {
       "id": "EDDF_C_GND",
@@ -727,7 +727,7 @@
       "frequency": "121.855",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFGC"]
+      "default_call_sources": ["EDGG-DFGC"]
     },
     {
       "id": "EDDF_W_GND",
@@ -735,7 +735,7 @@
       "frequency": "121.755",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFGW"]
+      "default_call_sources": ["EDGG-DFGW"]
     },
     {
       "id": "EDDF_E_GND",
@@ -743,7 +743,7 @@
       "frequency": "121.955",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFGE"]
+      "default_call_sources": ["EDGG-DFGE"]
     },
     {
       "id": "EDDF_S_GND",
@@ -751,7 +751,7 @@
       "frequency": "121.655",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFGS"]
+      "default_call_sources": ["EDGG-DFGS"]
     },
     {
       "id": "EDDF_ICE_GND",
@@ -759,7 +759,7 @@
       "frequency": "121.985",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFGI"]
+      "default_call_sources": ["EDGG-DFGI"]
     },
     {
       "id": "EDDF_GND",
@@ -767,7 +767,7 @@
       "frequency": "121.805",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DFG"]
+      "default_call_sources": ["EDGG-DFG"]
     },
     {
       "id": "EDDF_DEL",
@@ -775,7 +775,7 @@
       "frequency": "122.035",
       "facility_type": "DEL",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DLC"]
+      "default_call_sources": ["EDGG-DLC"]
     },
     {
       "id": "EDDS_TWR",
@@ -783,7 +783,7 @@
       "frequency": "118.805",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DST"]
+      "default_call_sources": ["EDGG-DST"]
     },
     {
       "id": "EDDS_VFR_TWR",
@@ -791,7 +791,7 @@
       "frequency": "119.055",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DSTV"]
+      "default_call_sources": ["EDGG-DSTV"]
     },
     {
       "id": "EDDS_GND",
@@ -799,7 +799,7 @@
       "frequency": "118.605",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DSG"]
+      "default_call_sources": ["EDGG-DSG"]
     },
     {
       "id": "EDDS_DEL",
@@ -807,7 +807,7 @@
       "frequency": "121.915",
       "facility_type": "DEL",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DSC"]
+      "default_call_sources": ["EDGG-DSC"]
     },
     {
       "id": "EDDG_TWR",
@@ -815,7 +815,7 @@
       "frequency": "129.805",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DGT"]
+      "default_call_sources": ["EDGG-DGT"]
     },
     {
       "id": "EDDG_GND",
@@ -823,7 +823,7 @@
       "frequency": "121.880",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DGG"]
+      "default_call_sources": ["EDGG-DGG"]
     },
     {
       "id": "EDDR_TWR",
@@ -831,7 +831,7 @@
       "frequency": "118.355",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DRT"]
+      "default_call_sources": ["EDGG-DRT"]
     },
     {
       "id": "EDDR_GND",
@@ -839,7 +839,7 @@
       "frequency": "118.555",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-DRG"]
+      "default_call_sources": ["EDGG-DRG"]
     },
     {
       "id": "EDFH_TWR",
@@ -847,7 +847,7 @@
       "frequency": "119.655",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-FHT"]
+      "default_call_sources": ["EDGG-FHT"]
     },
     {
       "id": "EDFH_GND",
@@ -855,7 +855,7 @@
       "frequency": "121.980",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-FHG"]
+      "default_call_sources": ["EDGG-FHG"]
     },
     {
       "id": "EDFM_TWR",
@@ -863,7 +863,7 @@
       "frequency": "129.780",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-FMT"]
+      "default_call_sources": ["EDGG-FMT"]
     },
     {
       "id": "EDLN_TWR",
@@ -871,7 +871,7 @@
       "frequency": "120.455",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-LNT"]
+      "default_call_sources": ["EDGG-LNT"]
     },
     {
       "id": "EDLN_GND",
@@ -879,7 +879,7 @@
       "frequency": "121.930",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-LNG"]
+      "default_call_sources": ["EDGG-LNG"]
     },
     {
       "id": "EDLP_TWR",
@@ -887,7 +887,7 @@
       "frequency": "133.380",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-LPT"]
+      "default_call_sources": ["EDGG-LPT"]
     },
     {
       "id": "EDLP_GND",
@@ -895,7 +895,7 @@
       "frequency": "121.930",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-LPG"]
+      "default_call_sources": ["EDGG-LPG"]
     },
     {
       "id": "EDLV_TWR",
@@ -903,7 +903,7 @@
       "frequency": "129.405",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-LVT"]
+      "default_call_sources": ["EDGG-LVT"]
     },
     {
       "id": "EDLW_TWR",
@@ -911,7 +911,7 @@
       "frequency": "134.180",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-LWT"]
+      "default_call_sources": ["EDGG-LWT"]
     },
     {
       "id": "EDLW_GND",
@@ -919,7 +919,7 @@
       "frequency": "121.830",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-LWG"]
+      "default_call_sources": ["EDGG-LWG"]
     },
     {
       "id": "EDSB_TWR",
@@ -927,7 +927,7 @@
       "frequency": "134.105",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-SBT"]
+      "default_call_sources": ["EDGG-SBT"]
     },
     {
       "id": "EDSB_GND",
@@ -935,7 +935,7 @@
       "frequency": "121.830",
       "facility_type": "GND",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-SBG"]
+      "default_call_sources": ["EDGG-SBG"]
     },
     {
       "id": "EDTL_TWR",
@@ -943,7 +943,7 @@
       "frequency": "125.180",
       "facility_type": "TWR",
       "profile_id": "EDGG_TWR",
-      "default_call_source": ["EDGG-TLT"]
+      "default_call_sources": ["EDGG-TLT"]
     },
     {
       "id": "ETAD_TWR",
@@ -951,7 +951,7 @@
       "frequency": "122.200",
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TADT"]
+      "default_call_sources": ["EDGG-TADT"]
     },
     {
       "id": "ETAD_GND",
@@ -959,7 +959,7 @@
       "frequency": "121.865",
       "facility_type": "GND",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TADG"]
+      "default_call_sources": ["EDGG-TADG"]
     },
     {
       "id": "ETAD_DEL",
@@ -967,7 +967,7 @@
       "frequency": "120.905",
       "facility_type": "DEL",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TADC"]
+      "default_call_sources": ["EDGG-TADC"]
     },
     {
       "id": "ETAR_TWR",
@@ -975,7 +975,7 @@
       "frequency": "133.205",
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TART"]
+      "default_call_sources": ["EDGG-TART"]
     },
     {
       "id": "ETAR_GND",
@@ -983,7 +983,7 @@
       "frequency": "121.775",
       "facility_type": "GND",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TARG"]
+      "default_call_sources": ["EDGG-TARG"]
     },
     {
       "id": "ETHF_TWR",
@@ -991,7 +991,7 @@
       "frequency": "122.300",
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-THFT"]
+      "default_call_sources": ["EDGG-THFT"]
     },
     {
       "id": "ETHF_GND",
@@ -999,7 +999,7 @@
       "frequency": "131.450",
       "facility_type": "GND",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-THFG"]
+      "default_call_sources": ["EDGG-THFG"]
     },
     {
       "id": "ETHN_TWR",
@@ -1007,7 +1007,7 @@
       "frequency": "134.205",
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-THNT"]
+      "default_call_sources": ["EDGG-THNT"]
     },
     {
       "id": "ETNG_TWR",
@@ -1015,7 +1015,7 @@
       "frequency": "120.055",
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TNGT"]
+      "default_call_sources": ["EDGG-TNGT"]
     },
     {
       "id": "ETNN_TWR",
@@ -1023,7 +1023,7 @@
       "frequency": "136.205",
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TNNT"]
+      "default_call_sources": ["EDGG-TNNT"]
     },
     {
       "id": "ETOU_TWR",
@@ -1031,7 +1031,7 @@
       "frequency": "122.100",
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TOUT"]
+      "default_call_sources": ["EDGG-TOUT"]
     },
     {
       "id": "ETOU_GND",
@@ -1039,7 +1039,7 @@
       "frequency": "126.555",
       "facility_type": "GND",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TOUG"]
+      "default_call_sources": ["EDGG-TOUG"]
     },
     {
       "id": "ETSB_TWR",
@@ -1047,7 +1047,7 @@
       "frequency": "129.060",
       "facility_type": "TWR",
       "profile_id": "EDGG_MIL",
-      "default_call_source": ["EDGG-TSBT"]
+      "default_call_sources": ["EDGG-TSBT"]
     },
     {
       "id": "EDEH_I_TWR",
