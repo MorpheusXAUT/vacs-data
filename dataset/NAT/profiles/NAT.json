@@ -396,12 +396,11 @@
                 "label": []
               },
               {
-                "label": ["EGLL", "GMP"],
-                "station_id": "EGLL_DEL"
+                "label": ["EGLL", "PLN"],
+                "station_id": "EGLL_P_GND"
               },
               {
-                "label": ["EGLL", "GMP", "Assist"],
-                "station_id": "EGLL_A_DEL"
+                "label": []
               }
             ]
           }
