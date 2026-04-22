@@ -393,7 +393,7 @@
           }
         },
         {
-          "label": ["Shannon", "Control"],
+          "label": ["Shannon"],
           "size": 7,
           "page": {
             "rows": 4,
