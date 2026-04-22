@@ -232,7 +232,7 @@
           }
         },
         {
-          "label": ["Santa", "Maria", "(INOP)"],
+          "label": ["Santa", "Maria"],
           "size": 7,
           "page": {
             "rows": 1,
