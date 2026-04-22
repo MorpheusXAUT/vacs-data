@@ -368,7 +368,7 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Scottish"],
+          "label": ["Scottish/", "EGLL"],
           "size": 7,
           "page": {
             "rows": 2,
@@ -388,6 +388,20 @@
               {
                 "label": ["Central", "DB-255"],
                 "station_id": "EG-Westcoast-Central"
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": ["EGLL", "GMP"],
+                "station_id": "EGLL_DEL"
+              },
+              {
+                "label": ["EGLL", "GMP", "Assist"],
+                "station_id": "EGLL_A_DEL"
               }
             ]
           }
