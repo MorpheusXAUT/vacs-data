@@ -741,6 +741,34 @@ facility_type = "GND"
 profile_id = "EGLF"
 
 [[positions]]
+id = "EGLL_P_APP"
+prefixes = ["EGLL"]
+frequency = "120.400"
+facility_type = "APP"
+profile_id = "EGLL"
+
+[[positions]]
+id = "EGLL_P_APP"
+prefixes = ["EGLL"]
+frequency = "119.730"
+facility_type = "APP"
+profile_id = "EGLL"
+
+[[positions]]
+id = "EGLL_P_APP"
+prefixes = ["EGLL"]
+frequency = "134.980"
+facility_type = "APP"
+profile_id = "EGLL"
+
+[[positions]]
+id = "EGLL_P_APP"
+prefixes = ["EGLL"]
+frequency = "199.998"
+facility_type = "APP"
+profile_id = "EGLL"
+
+[[positions]]
 id = "EGLL_F_APP"
 prefixes = ["EGLL"]
 frequency = "120.400"
