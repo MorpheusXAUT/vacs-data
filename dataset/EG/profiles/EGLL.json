@@ -222,8 +222,7 @@
             "station_id": "EGLF_APP"
           },
           {
-            "label": ["EGGX", "DEL"],
-            "station_id": "Shanwick_DEL"
+            "label": []
           },
           {
             "label": []
