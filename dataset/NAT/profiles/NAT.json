@@ -401,7 +401,7 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Scottish"],
+          "label": ["Scottish/", "EGLL"],
           "size": 7,
           "page": {
             "rows": 2,
@@ -421,12 +421,25 @@
               {
                 "label": ["Central", "DB-255"],
                 "station_id": "EG-Westcoast-Central"
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": ["EGLL", "PLN"],
+                "station_id": "EGLL_P_GND"
+              },
+              {
+                "label": []
               }
             ]
           }
         },
         {
-          "label": ["Shannon", "Control"],
+          "label": ["Shannon"],
           "size": 7,
           "page": {
             "rows": 4,

@@ -80,7 +80,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EGGX", "DEL"],
+            "station_id": "Shanwick_DEL"
           },
           {
             "label": []
