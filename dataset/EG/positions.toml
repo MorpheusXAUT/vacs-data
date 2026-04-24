@@ -741,14 +741,6 @@ facility_type = "GND"
 profile_id = "EGLF"
 
 [[positions]]
-id = "EGLL_P_APP"
-prefixes = ["EGLL"]
-frequency = "199.998"
-facility_type = "APP"
-profile_id = "EGLL"
-default_call_sources = ["EGLL_P_APP"]
-
-[[positions]]
 id = "EGLL_F_APP"
 prefixes = ["EGLL"]
 frequency = "120.400"
