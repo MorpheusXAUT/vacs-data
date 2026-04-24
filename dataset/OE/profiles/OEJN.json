@@ -16,29 +16,15 @@
           { "label": ["TWR", "CENTER"], "station_id": "OEJN_C_TWR" },
           { "label": ["TWR", "EAST"], "station_id": "OEJN_E_TWR" },
 
-          { "label": ["APP"],
-            "station_id": "OEJN_APP"
-          },
+          { "label": ["APP"], "station_id": "OEJN_APP" },
 
-          { "label": ["APP", "FEEDER"],
-            "station_id": "OEJN_FE_APP"
-            
-          },
+          { "label": ["APP", "FEEDER"], "station_id": "OEJN_FE_APP" },
 
-          { "label": ["APP", "FINAL"],
-            "station_id": "OEJN_FW_APP"
-        
-          },
+          { "label": ["APP", "FINAL"], "station_id": "OEJN_FW_APP" },
 
-          { "label": ["APP", "FMC"],
-            "station_id": "OEJN_FMC_APP"
-            
-          },
+          { "label": ["APP", "FMC"], "station_id": "OEJN_FMC_APP" },
 
-          { "label": ["ENROUTE", "CTR"],
-            "station_id": "OERK_1_CTR"
-            
-          }
+          { "label": ["ENROUTE", "CTR"], "station_id": "OERK_1_CTR" }
         ]
       }
     }

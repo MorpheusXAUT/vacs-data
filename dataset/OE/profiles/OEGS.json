@@ -9,9 +9,7 @@
         "keys": [
           { "label": ["GND"], "station_id": "OEGS_GND" },
           { "label": ["TWR"], "station_id": "OEGS_TWR" },
-          { "label": ["APP"],
-            "station_id": "OEGS_APP"
-          }
+          { "label": ["APP"], "station_id": "OEGS_APP" }
         ]
       }
     }

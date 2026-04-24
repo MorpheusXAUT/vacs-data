@@ -238,18 +238,18 @@
       "default_call_sources": ["OEJN_E_GND"]
     },
     {
-        "id": "OEJN_W_GND",
-        "prefixes": ["OEJN"],
-        "frequency": "121.600",
-        "facility_type": "GND",
-        "default_call_sources": ["OEJN_W_GND"]
+      "id": "OEJN_W_GND",
+      "prefixes": ["OEJN"],
+      "frequency": "121.600",
+      "facility_type": "GND",
+      "default_call_sources": ["OEJN_W_GND"]
     },
     {
-        "id": "OEJN_C_GND",
-        "prefixes": ["OEJN"],
-        "frequency": "121.900",
-        "facility_type": "GND",
-        "default_call_sources": ["OEJN_C_GND"]
+      "id": "OEJN_C_GND",
+      "prefixes": ["OEJN"],
+      "frequency": "121.900",
+      "facility_type": "GND",
+      "default_call_sources": ["OEJN_C_GND"]
     },
 
     {
@@ -260,18 +260,18 @@
       "default_call_sources": ["OEJN_W_TWR"]
     },
     {
-        "id": "OEJN_E_TWR",
-        "prefixes": ["OEJN"],
-        "frequency": "118.500",
-        "facility_type": "TWR",
-        "default_call_sources": ["OEJN_E_TWR"]
+      "id": "OEJN_E_TWR",
+      "prefixes": ["OEJN"],
+      "frequency": "118.500",
+      "facility_type": "TWR",
+      "default_call_sources": ["OEJN_E_TWR"]
     },
     {
-        "id": "OEJN_C_TWR",
-        "prefixes": ["OEJN"],
-        "frequency": "118.300",
-        "facility_type": "TWR",
-        "default_call_sources": ["OEJN_C_TWR"]
+      "id": "OEJN_C_TWR",
+      "prefixes": ["OEJN"],
+      "frequency": "118.300",
+      "facility_type": "TWR",
+      "default_call_sources": ["OEJN_C_TWR"]
     },
     {
       "id": "OEJN_APP",
