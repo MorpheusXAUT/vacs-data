@@ -34,7 +34,7 @@
           },
 		  {
             "label": ["ACC", "TMU"],
-			"station_id": "TMU",
+			"station_id": "ULLL_TMU",
 			"color": "azure"
           },
 		  {
@@ -352,7 +352,7 @@
           },
 		  {
             "label": ["APP", "1(East)"],
-            "station_id": "ULLL_APP",
+            "station_id": "ULLL_E_APP",
 			"color": "azure"
           },
           {

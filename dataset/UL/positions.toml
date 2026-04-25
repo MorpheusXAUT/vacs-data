@@ -132,6 +132,12 @@ facility_type = "APP"
 profile_id = "ULLL"
 
 [[positions]]
+id = "ULLL_TMU"
+prefixes = ["ULLL"]
+facility_type = "APP"
+profile_id = "ULLL"
+
+[[positions]]
 id = "ULLI_R_APP"
 prefixes = ["ULLI"]
 frequency = "120.300"
