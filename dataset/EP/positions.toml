@@ -146,6 +146,13 @@ facility_type = "CTR"
 profile_id = "EPWW"
 
 [[positions]]
+id = "EPWW_IE_CTR"
+prefixes = ["EPWW"]
+frequency = "127.660"
+facility_type = "CTR"
+profile_id = "EPWW"
+
+[[positions]]
 id = "EPDE_APP"
 prefixes = ["EPDE"]
 frequency = "128.250"
@@ -161,6 +168,13 @@ profile_id = "EPWW"
 
 [[positions]]
 id = "EPGD_I_APP"
+prefixes = ["EPGD"]
+frequency = "127.275"
+facility_type = "APP"
+profile_id = "EPWW"
+
+[[positions]]
+id = "EPGD_IE_APP"
 prefixes = ["EPGD"]
 frequency = "127.150"
 facility_type = "APP"
@@ -191,6 +205,13 @@ profile_id = "EPWW"
 id = "EPKK_I_APP"
 prefixes = ["EPKK"]
 frequency = "119.275"
+facility_type = "APP"
+profile_id = "EPWW"
+
+[[positions]]
+id = "EPKK_IE_APP"
+prefixes = ["EPKK"]
+frequency = "119.950"
 facility_type = "APP"
 profile_id = "EPWW"
 
@@ -226,6 +247,13 @@ profile_id = "EPWW"
 id = "EPPO_I_APP"
 prefixes = ["EPPO"]
 frequency = "126.300"
+facility_type = "APP"
+profile_id = "EPWW"
+
+[[positions]]
+id = "EPPO_IS_APP"
+prefixes = ["EPPO"]
+frequency = "127.250"
 facility_type = "APP"
 profile_id = "EPWW"
 
@@ -267,7 +295,21 @@ profile_id = "EPWW"
 [[positions]]
 id = "EPWA_I_APP"
 prefixes = ["EPWA"]
+frequency = "123.975"
+facility_type = "APP"
+profile_id = "EPWW"
+
+[[positions]]
+id = "EPWA_IE_APP"
+prefixes = ["EPWA"]
 frequency = "119.450"
+facility_type = "APP"
+profile_id = "EPWW"
+
+[[positions]]
+id = "EPWA_IW_APP"
+prefixes = ["EPWA"]
+frequency = "128.575"
 facility_type = "APP"
 profile_id = "EPWW"
 
