@@ -197,29 +197,38 @@
           },
           {
             "label": ["FIC"],
-            "station_id": "EBBU-FIC"
+            "station_id": "EBBU-FIC",
+			"color": "lagoon"
           },
           {
             "label": ["ACC", "SUP"],
-            "station_id": "EBBU-FMP"
+            "station_id": "EBBU-FMP",
+			"color": "lagoon"
           },
           {
-            "label": []
+            "label": ["ELS"],
+            "station_id": "EBBU-ELS",
+			"color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+			"color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+			"color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+			"color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+			"color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+			"color": "lagoon"
           }
         ]
       }
