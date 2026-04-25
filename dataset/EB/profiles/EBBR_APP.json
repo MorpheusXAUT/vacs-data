@@ -81,7 +81,8 @@
           },
           {
             "label": ["EBKT"],
-            "station_id": "EBKT-INFO"
+            "station_id": "EBKT-INFO",
+			"color": "lilac"
           },
           {
             "label": ["LFQQ"]
@@ -175,66 +176,82 @@
           },
           {
             "label": ["T", "25R"],
-            "station_id": "EBBR-NTWR"
+            "station_id": "EBBR-NTWR",
+			"color": "azure"
           },
           {
             "label": ["T", "25L"],
-            "station_id": "EBBR-TWR"
+            "station_id": "EBBR-TWR",
+			"color": "azure"
           },
           {
             "label": ["T", "01"],
-            "station_id": "EBBR-TWR"
+            "station_id": "EBBR-NTWR",
+			"color": "azure"
           },
           {
             "label": ["T", "GN"],
-            "station_id": "EBBR-N-GND"
+            "station_id": "EBBR-N-GND",
+			"color": "azure"
           },
           {
             "label": ["T", "GS"],
-            "station_id": "EBBR-S-GND"
+            "station_id": "EBBR-S-GND",
+			"color": "azure"
           },
           {
             "label": ["T", "GC"],
-            "station_id": "EBBR-C-GND"
+            "station_id": "EBBR-C-GND",
+			"color": "azure"
           },
           {
             "label": ["T", "DCL"],
-            "station_id": "EBBR-DEL"
+            "station_id": "EBBR-DEL",
+			"color": "azure"
           },
           {
             "label": ["T", "SUP"],
-            "station_id": "EBBR-FMP"
+            "station_id": "EBBR-FMP",
+			"color": "azure"
           },
           {
             "label": ["T", "25R"],
-            "station_id": "EBBR-NTWR"
+            "station_id": "EBBR-NTWR",
+			"color": "lagoon"
           },
           {
             "label": ["T", "25L"],
-            "station_id": "EBBR-TWR"
+            "station_id": "EBBR-TWR",
+			"color": "lagoon"
           },
           {
             "label": ["T", "01"],
-            "station_id": "EBBR-NTWR"
+            "station_id": "EBBR-NTWR",
+			"color": "lagoon"
           },
           {
             "label": ["WLS"],
-            "station_id": "EBBU-WLS"
+            "station_id": "EBBU-WLS",
+			"color": "lagoon"
           },
           {
             "label": ["ELS"],
-            "station_id": "EBBU-ELS"
+            "station_id": "EBBU-ELS",
+			"color": "lagoon"
           },
           {
             "label": ["HUS"],
-            "station_id": "EBBU-HUS"
+            "station_id": "EBBU-HUS",
+			"color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+			"color": "lagoon"
           },
           {
             "label": ["ACC", "SUP"],
-            "station_id": "EBBU-FMP"
+            "station_id": "EBBU-FMP",
+			"color": "lagoon"
           }
         ]
       }
