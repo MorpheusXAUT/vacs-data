@@ -568,7 +568,7 @@ dependencies = [
 
 [[package]]
 name = "vacs-data-cli"
-version = "0.6.1"
+version = "0.7.0"
 dependencies = [
  "clap",
  "vacs-data-diagnostics",
@@ -578,14 +578,14 @@ dependencies = [
 
 [[package]]
 name = "vacs-data-diagnostics"
-version = "0.6.1"
+version = "0.7.0"
 dependencies = [
  "console",
 ]
 
 [[package]]
 name = "vacs-data-importer"
-version = "0.6.1"
+version = "0.7.0"
 dependencies = [
  "console",
  "encoding_rs",
@@ -600,7 +600,7 @@ dependencies = [
 
 [[package]]
 name = "vacs-data-validator"
-version = "0.6.1"
+version = "0.7.0"
 dependencies = [
  "console",
  "vacs-data-diagnostics",
@@ -610,7 +610,7 @@ dependencies = [
 [[package]]
 name = "vacs-protocol"
 version = "0.0.0"
-source = "git+https://github.com/vacs-project/vacs?branch=main#6041c8802b7cc9175e2270d8901b9917aaf3473f"
+source = "git+https://github.com/vacs-project/vacs?branch=main#4f5fc7d19849a04cf32198c978412cf1f08a182a"
 dependencies = [
  "serde",
  "serde_json",
@@ -620,7 +620,7 @@ dependencies = [
 [[package]]
 name = "vacs-vatsim"
 version = "0.0.0"
-source = "git+https://github.com/vacs-project/vacs?branch=main#6041c8802b7cc9175e2270d8901b9917aaf3473f"
+source = "git+https://github.com/vacs-project/vacs?branch=main#4f5fc7d19849a04cf32198c978412cf1f08a182a"
 dependencies = [
  "regex",
  "serde",

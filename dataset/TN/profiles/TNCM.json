@@ -62,8 +62,9 @@
           "size": 6.25
         },
         {
-          "label": ["CC", "INOP"],
-          "size": 6.25
+          "label": ["CC"],
+          "size": 6.25,
+          "station_id": "CARI_FSS"
         }
       ]
     },
@@ -165,10 +166,12 @@
             "rows": 3,
             "keys": [
               {
-                "label": ["CARI", "FSS"]
+                "label": ["CARI", "FSS"],
+                "station_id": "CARI_FSS"
               },
               {
-                "label": ["CARE", "FSS"]
+                "label": ["CARE", "FSS"],
+                "station_id": "CARE_FSS"
               }
             ]
           }

@@ -71,7 +71,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["APC", "Supvisr"],
+            "station_id": "EGLL_P_APP"
           },
           {
             "label": []
@@ -80,7 +81,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["EGGX", "DEL"],
+            "station_id": "Shanwick_DEL"
           },
           {
             "label": []
@@ -168,10 +170,11 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["APC", "Supvisr"],
+            "station_id": "EGLL_P_APP"
           },
           {
-            "label": ["London", "Heliport"],
+            "label": ["EGLW"],
             "station_id": "EGLW_TWR"
           },
           {
@@ -306,16 +309,16 @@
             "label": []
           },
           {
-            "label": ["STC", "FMP"],
-            "station_id": "STC_FMP"
+            "label": ["SCL", "FMP"],
+            "station_id": "SCL_FMP"
           },
           {
             "label": ["ScAC", "Group", "Supvisr"],
             "station_id": "SCO_GS_CTR"
           },
           {
-            "label": ["STC", "Group", "Supvisr"],
-            "station_id": "STC_GS_CTR"
+            "label": ["SCL", "Group", "Supvisr"],
+            "station_id": "SCL_GS_CTR"
           }
         ]
       }
