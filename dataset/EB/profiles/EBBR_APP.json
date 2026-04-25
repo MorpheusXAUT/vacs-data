@@ -186,7 +186,7 @@
           },
           {
             "label": ["T", "01"],
-            "station_id": "EBBR-NTWR",
+            "station_id": "EBBR-TWR",
 			"color": "azure"
           },
           {
@@ -226,7 +226,7 @@
           },
           {
             "label": ["T", "01"],
-            "station_id": "EBBR-NTWR",
+            "station_id": "EBBR-TWR",
 			"color": "lagoon"
           },
           {
