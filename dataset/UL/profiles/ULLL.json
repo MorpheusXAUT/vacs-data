@@ -93,33 +93,6 @@
 			"color": "azure"
           },
           {
-            "label": ["W1", "ACC"],
-            "station_id": "ULLL_W",
-			"color": "azure"
-          },
-          {
-            "label": ["W2", "ACC"],
-            "station_id": "ULLL_W",
-			"color": "azure"
-          },
-		  {
-            "label": ["KT", "ACC"],
-            "station_id": "ULLL_WK",
-			"color": "azure"
-          },
-		  {
-            "label": [],
-			"color": "azure"
-          },
-		  {
-            "label": [],
-			"color": "azure"
-          },
-		  {
-            "label": [],
-			"color": "azure"
-          },
-          {
             "label": ["AR", "ACC"],
             "station_id": "ULLL_AR",
 			"color": "azure"
@@ -137,6 +110,33 @@
           {
             "label": ["NM", "ACC"],
             "station_id": "ULLL_NM",
+			"color": "azure"
+          },
+		  {
+            "label": [],
+			"color": "azure"
+          },
+		  {
+            "label": [],
+			"color": "azure"
+          },
+         {
+            "label": ["W1", "ACC"],
+            "station_id": "ULLL_W",
+			"color": "azure"
+          },
+          {
+            "label": ["W2", "ACC"],
+            "station_id": "ULLL_W",
+			"color": "azure"
+          },
+		  {
+            "label": ["KT", "ACC"],
+            "station_id": "ULLL_WK",
+			"color": "azure"
+          },
+		  {
+            "label": [],
 			"color": "azure"
           },
 		  {
