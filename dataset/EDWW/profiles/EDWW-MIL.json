@@ -56,7 +56,8 @@
                   "label": ["EDWW", "TRAMON"]
                 },
                 {
-                  "label": ["EDWW", "FMP"]
+                  "label": ["EDWW", "FMP"],
+                  "station_id": "EDWW-FMP"
                 }
               ]
             }
