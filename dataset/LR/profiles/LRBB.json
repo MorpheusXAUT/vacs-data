@@ -55,40 +55,46 @@
             "label": []
           },
           {
-            "label": ["BPS_E", "STP", "F385-660"]
+            "label": ["BPS_E", "STP", ""]
           },
           {
-            "label": ["BPS_R", "TOP", "F375-385"]
+            "label": ["BPS_E", "TOP", "F365-385"],
+            "station_id": "LHCC_ET"
           },
           {
-            "label": ["BPS_E", "HIGH", "F365-375"]
+            "label": ["BPS_E", "HIGH", ""]
           },
           {
-            "label": ["BPS_E", "UPP", "F345-365"]
+            "label": ["BPS_E", "UPP", "F345-365"],
+            "station_id": "LHCC_EU"
           },
           {
-            "label": ["BPS_EN", "MID", "F325-345"]
+            "label": ["BPS_EN", "MID", ""]
           },
           {
-            "label": ["BPS_EN", "LOW", "F095-325"]
+            "label": ["BPS_EN", "LOW", "F095-345"],
+            "station_id": "LHCC_CTR"
           },
           {
             "label": []
           },
           {
-            "label": ["BPS_N", "STP", "F385-660"]
+            "label": ["BPS_N", "STP", ""]
           },
           {
-            "label": ["BPS_N", "TOP", "F375-385"]
+            "label": ["BPS_N", "TOP", "F365-660"],
+            "station_id": "LHCC_NT"
           },
           {
-            "label": ["BPS_N", "HIGH", "F365-375"]
+            "label": ["BPS_N", "HIGH", ""]
           },
           {
-            "label": ["BPS_N", "UPP", "F345-365"]
+            "label": ["BPS_N", "UPP", "F345-365"],
+            "station_id": "LHCC_NU"
           },
           {
-            "label": ["BPS_EN", "FIC", "GND-9500"]
+            "label": ["BPS_EN", "FIC", "GND-9500"],
+            "station_id": "LHCC_EFIC"
           },
           {
             "label": ["BUDAPEST", "FDA_1"]
@@ -127,7 +133,28 @@
             "label": ["FPPS"]
           },
           {
-            "label": ["FMP"]
+            "label": ["FMP"],
+            "page": {
+              "rows": 5,
+              "keys": [
+                {
+                  "label": ["FMP", "BUC"],
+                  "station_id": "LRBB_FMP"
+                },
+                {
+                  "label": ["FMP", "BPS"]
+                },
+                {
+                  "label": ["FMP", "BEO"]
+                },
+                {
+                  "label": ["FMP", "SOF"]
+                },
+                {
+                  "label": ["FMP", "UKR"]
+                }
+              ]
+            }
           },
           {
             "label": ["COASID", "_S"]

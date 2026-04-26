@@ -1,0 +1,45 @@
+{
+  "id": "ESMQ",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["ESMQ"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          {
+            "label": ["WS"],
+            "station_id": "ESAA_FMP"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["DF", "APP"],
+            "station_id": "ESDF_APP"
+          },
+          {
+            "label": ["OS", "9"],
+            "station_id": "ESOS_9"
+          },
+          {
+            "label": ["MM", "7"],
+            "station_id": "ESMM_7"
+          },
+          {
+            "label": []
+          }
+        ]
+      }
+    }
+  ]
+}

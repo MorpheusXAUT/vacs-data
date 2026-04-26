@@ -113,8 +113,12 @@ controlled_by = [
 ]
 
 [[stations]]
-id = "EFHK_TWR_COR"
-controlled_by = ["EFHK_FMP"]
+id = "EFIN_MIL"
+controlled_by = ["EFIN_MIL_CTR"]
+
+[[stations]]
+id = "EFIN_MIL_FMP"
+controlled_by = ["EFIN_MIL_FMP"]
 
 [[stations]]
 id = "EFHK_RE"

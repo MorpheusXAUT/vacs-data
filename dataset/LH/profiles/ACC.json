@@ -105,13 +105,15 @@
             "label": []
           },
           {
-            "label": ["LOVV FIC", "NORTH", "PC"]
+            "label": ["LOVV FIC", "NORTH", "PC"],
+            "station_id": "LOVV_I_CTR"
           },
           {
             "label": ["LOWW", "TFI"]
           },
           {
-            "label": ["LOVV FIC", "SOUTH", "PC"]
+            "label": ["LOVV FIC", "SOUTH", "PC"],
+            "station_id": "LOVV_I_CTR"
           },
           {
             "label": ["LOVV", "FMP"],
@@ -381,7 +383,8 @@
             "label": ["ARAD", "APP", "PC"]
           },
           {
-            "label": ["LRBB", "A ST EC", "123.065"]
+            "label": ["LRBB", "A ST EC", "122.030"],
+            "station_id": "LR_LOKOM1"
           },
           {
             "label": ["LRBB", "A T EC", "135.360"],

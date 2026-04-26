@@ -30,8 +30,16 @@ vacs-data import vatglasses --input lo.json --output dataset/LO
 
 **EuroScope:**
 
+The EuroScope importer takes an unpacked sectorfile directory as input. It auto-discovers the `.ese` file and EuroScope profile files to determine which positions belong to the FIR.
+
 ```bash
-vacs-data import euroscope --input LOVV.ese --output dataset/LO --prefixes LO
+vacs-data import euroscope path/to/unpacked-sectorfile dataset/LO
+```
+
+You can also explicitly specify the `.ese` file or profile files if auto-discovery doesn't work for your sectorfile package:
+
+```bash
+vacs-data import euroscope path/to/unpacked-sectorfile dataset/LO --ese path/to/file.ese --profiles path/to/Profiles.txt --profiles path/to/Profiles2.txt
 ```
 
 You can run any command with `--help` to display a brief help message and show all available options.

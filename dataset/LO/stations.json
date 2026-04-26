@@ -10,6 +10,7 @@
         "LOVV_B_CTR",
         "LOVV_BC_CTR",
         "LOVV_W_CTR",
+        "LOVV_WC_CTR",
         "LOVV_N_CTR",
         "LOVV_CTR",
         "LOVV_C_CTR",
@@ -49,6 +50,7 @@
         "LOVV_B_CTR",
         "LOVV_BC_CTR",
         "LOVV_W_CTR",
+        "LOVV_WC_CTR",
         "LOVV_N_CTR",
         "LOVV_CTR",
         "LOVV_C_CTR"
@@ -101,7 +103,7 @@
     {
       "id": "LOVV_N1",
       "controlled_by": [
-        "LOVV_F_CTR",
+        "LOVV_N1_CTR",
         "LOVV_N_CTR",
         "LOVV_E_CTR",
         "LOVV_CTR",
@@ -146,6 +148,7 @@
     {
       "id": "LOVV_S1",
       "controlled_by": [
+        "LOVV_S1_CTR",
         "LOVV_S_CTR",
         "LOVV_B_CTR",
         "LOVV_BC_CTR",
@@ -197,6 +200,7 @@
       "id": "LOVV_W1",
       "controlled_by": [
         "LOVV_W_CTR",
+        "LOVV_WC_CTR",
         "LOVV_S_CTR",
         "LOVV_B_CTR",
         "LOVV_BC_CTR",
@@ -236,6 +240,7 @@
         "LOVV_BU_CTR",
         "LOVV_U_CTR",
         "LOVV_W_CTR",
+        "LOVV_WC_CTR",
         "LOVV_S_CTR",
         "LOVV_B_CTR",
         "LOVV_BC_CTR",
@@ -246,6 +251,10 @@
     {
       "id": "LOVV_I_CTR",
       "controlled_by": ["LOVV_I_CTR"]
+    },
+    {
+      "id": "LOVV_M_CTR",
+      "controlled_by": ["LOVV_M_CTR"]
     },
     {
       "id": "LOWG_APP",
@@ -312,6 +321,7 @@
         "LOVV_S_APP",
         "LOVV_L_CTR",
         "LOVV_W_CTR",
+        "LOVV_WC_CTR",
         "LOVV_S_CTR",
         "LOVV_B_CTR",
         "LOVV_BC_CTR",
@@ -355,6 +365,7 @@
         "LOVV_B_CTR",
         "LOVV_BC_CTR",
         "LOVV_W_CTR",
+        "LOVV_WC_CTR",
         "LOVV_N_CTR",
         "LOVV_CTR",
         "LOVV_C_CTR",
@@ -420,10 +431,6 @@
     {
       "id": "LOWW_I_APP",
       "controlled_by": ["LOWW_I_APP", "LOVV_I_CTR"]
-    },
-    {
-      "id": "LOVV_M_CTR",
-      "controlled_by": ["LOVV_M_CTR"]
     },
     {
       "id": "LOXA_TWR",
@@ -500,6 +507,7 @@
         "LOVV_L_CTR",
         "LOVV_S_CTR",
         "LOVV_W_CTR",
+        "LOVV_WC_CTR",
         "LOVV_B_CTR",
         "LOVV_BC_CTR",
         "LOVV_E_CTR",

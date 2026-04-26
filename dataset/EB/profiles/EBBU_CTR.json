@@ -1,0 +1,675 @@
+{
+  "id": "EBBU_CTR",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": "LOW",
+      "page": {
+        "rows": 8,
+        "keys": [
+          {
+            "label": ["ARR"],
+            "station_id": "EBBR-APP"
+          },
+          {
+            "label": ["DEP"],
+            "station_id": "EBBR-DEP"
+          },
+          {
+            "label": ["FIN"],
+            "station_id": "EBBR-F-APP"
+          },
+          {
+            "label": ["HOLD"],
+            "station_id": "EBBR-H"
+          },
+          {
+            "label": ["WEST", "HOLD"],
+            "station_id": "EBBR-HW"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["ACC", "SUP"],
+            "station_id": "EBBU-FMP"
+          },
+          {
+            "label": ["APTs"],
+            "page": {
+              "rows": 8,
+              "keys": [
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EBBR", "GN"],
+                  "station_id": "EBBR-N-GND"
+                },
+                {
+                  "label": ["EBBR", "GS"],
+                  "station_id": "EBBR-S-GND"
+                },
+                {
+                  "label": ["EBBR", "GC"],
+                  "station_id": "EBBR-C-GND"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EBBR", "DCL"],
+                  "station_id": "EBBR-DEL"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EBOS", "G"],
+                  "station_id": "EBOS-GND"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EBAW", "G"],
+                  "station_id": "EBAW-GND"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EBCI", "G"],
+                  "station_id": "EBCI-GND"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EBLG", "G"],
+                  "station_id": "EBLG-GND"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["ELLX", "DCL"],
+                  "station_id": "ELLX-DEL"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": ["EBKT"],
+                  "station_id": "EBKT-INFO"
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                },
+                {
+                  "label": []
+                }
+              ]
+            }
+          },
+          {
+            "label": ["WLS"],
+            "station_id": "EBBU-WLS"
+          },
+          {
+            "label": ["NLS"],
+            "station_id": "EBBU-NLS"
+          },
+          {
+            "label": ["WHS"],
+            "station_id": "EBBU-WHS"
+          },
+          {
+            "label": ["ELS"],
+            "station_id": "EBBU-ELS"
+          },
+          {
+            "label": ["HUS"],
+            "station_id": "EBBU-HUS"
+          },
+          {
+            "label": ["EHS"],
+            "station_id": "EBBU-EHS"
+          },
+          {
+            "label": ["LUS"],
+            "station_id": "EBBU-LUS"
+          },
+          {
+            "label": ["FIC"],
+            "station_id": "EBBU-FIC"
+          },
+          {
+            "label": ["PARIS", "TB"]
+          },
+          {
+            "label": ["LFQQ", "APP"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["EBOS", "APP"],
+            "station_id": "EBOS-APP"
+          },
+          {
+            "label": ["PARIS", "TE"]
+          },
+          {
+            "label": ["REIMS", "UE"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["AMS", "W"]
+          },
+          {
+            "label": ["BEEK", "APP"]
+          },
+          {
+            "label": ["UAC", "K"],
+            "station_id": "EDYY-KOH"
+          },
+          {
+            "label": ["UAC", "N"],
+            "station_id": "EDYY-NIH"
+          },
+          {
+            "label": ["EBCI", "APP"],
+            "station_id": "EBCI-APP"
+          },
+          {
+            "label": ["PARIS", "TM"]
+          },
+          {
+            "label": ["LFST", "SU"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["AMS", "S"]
+          },
+          {
+            "label": ["NEW", "MIL"]
+          },
+          {
+            "label": ["UAC", "O"],
+            "station_id": "EDYY-LNH"
+          },
+          {
+            "label": ["UAC", "L"],
+            "station_id": "EDYY-LNH"
+          },
+          {
+            "label": ["EBLG", "APP"],
+            "station_id": "EBLG-APP"
+          },
+          {
+            "label": ["AC", "S14"],
+            "station_id": "EG-Sector-14"
+          },
+          {
+            "label": ["TC", "JACKO"],
+            "station_id": "EG-TC-JACKO"
+          },
+          {
+            "label": ["AC", "S15"],
+            "station_id": "EG-Sector-15"
+          },
+          {
+            "label": ["TC", "GODLU"],
+            "station_id": "EG-TC-GODLU"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["BOT"],
+            "station_id": "EDGG-BOT"
+          },
+          {
+            "label": ["NOR"],
+            "station_id": "EDGG-NOR"
+          },
+          {
+            "label": ["DKAW"],
+            "station_id": "EDGG-DKA"
+          },
+          {
+            "label": ["RUD"],
+            "station_id": "EDGG-RUD"
+          },
+          {
+            "label": ["EIF"],
+            "station_id": "EDGG-EIF"
+          },
+          {
+            "label": ["KIR"],
+            "station_id": "EDGG-KIR"
+          },
+          {
+            "label": ["PFA"],
+            "station_id": "EDGG-PFA"
+          },
+          {
+            "label": ["ELLX", "APP"],
+            "station_id": "ELLX-APP"
+          },
+          {
+            "label": ["EBBR", "AIR 25R"],
+            "station_id": "EBBR-NTWR"
+          },
+          {
+            "label": ["EBBR", "AIR 01"],
+            "station_id": "EBBR-TWR"
+          },
+          {
+            "label": ["EBBR", "AIR 25L"],
+            "station_id": "EBBR-TWR"
+          },
+          {
+            "label": ["EBAW", "AIR"],
+            "station_id": "EBAW-TWR"
+          },
+          {
+            "label": ["EBLG", "AIR"],
+            "station_id": "EBLG-TWR"
+          },
+          {
+            "label": ["EBCI", "AIR"],
+            "station_id": "EBCI-TWR"
+          },
+          {
+            "label": ["EBOS", "AIR"],
+            "station_id": "EBOS-TWR"
+          },
+          {
+            "label": ["ELLX", "AIR"],
+            "station_id": "ELLX-TWR"
+          }
+        ]
+      }
+    },
+    {
+      "label": "HIGH",
+      "page": {
+        "rows": 8,
+        "keys": [
+          {
+            "label": ["AC", "S2", "315+"],
+            "station_id": "EG-Sector-02"
+          },
+          {
+            "label": ["AC", "S15", "-315"],
+            "station_id": "EG-Sector-15"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["REIMS", "HN", "345+"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["REIMS", "UB", "265+"]
+          },
+          {
+            "label": ["PARIS", "TB", "-265"]
+          },
+          {
+            "label": ["AC", "S13", "295+"],
+            "station_id": "EG-Sector-13"
+          },
+          {
+            "label": ["AC", "S14", "-295"],
+            "station_id": "EG-Sector-14"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["REIMS", "HR", "365+"]
+          },
+          {
+            "label": ["REIMS", "KR", "345+"]
+          },
+          {
+            "label": ["REIMS", "XR", "315+"]
+          },
+          {
+            "label": ["REIMS", "UR", "265+"]
+          },
+          {
+            "label": ["PARIS", "TE", "-265"]
+          },
+          {
+            "label": ["BRU", "NLS"],
+            "station_id": "EBBU-NLS"
+          },
+          {
+            "label": ["BRU", "WLS"],
+            "station_id": "EBBU-WLS"
+          },
+          {
+            "label": ["BRU", "WHS"],
+            "station_id": "EBBU-WHS"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["PARIS", "AP", "265+"]
+          },
+          {
+            "label": ["PARIS", "TM", "-265"]
+          },
+          {
+            "label": ["BRU", "EHS"],
+            "station_id": "EBBU-EHS"
+          },
+          {
+            "label": ["BRU", "HUS"],
+            "station_id": "EBBU-HUS"
+          },
+          {
+            "label": ["BRU", "LUS"],
+            "station_id": "EBBU-LUS"
+          },
+          {
+            "label": ["REIMS", "HE", "365+"]
+          },
+          {
+            "label": ["REIMS", "KE", "345+"]
+          },
+          {
+            "label": ["REIMS", "XE", "315+"]
+          },
+          {
+            "label": ["REIMS", "UE", "-315"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["DEC", "245+"]
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["KEC", "245+"],
+            "station_id": "EDYY-KOH"
+          },
+          {
+            "label": ["NEC", "245+"],
+            "station_id": "EDYY-NIH"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["GG", "NOR", "-245"],
+            "station_id": "EDGG-NOR"
+          },
+          {
+            "label": ["GG", "RUD", "-245"],
+            "station_id": "EDGG-RUD"
+          },
+          {
+            "label": ["GG", "KIR", "-245"],
+            "station_id": "EDGG-KIR"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["OEC", "245+"],
+            "station_id": "EDYY-LNH"
+          },
+          {
+            "label": ["LEC", "245+"],
+            "station_id": "EDYY-LXH"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["REC", "245+"],
+            "station_id": "EDYY-RL"
+          },
+          {
+            "label": ["RHC", "355+"],
+            "station_id": "EDYY-RH"
+          },
+          {
+            "label": ["UU", "NTM", "245+"],
+            "station_id": "EDUU-NTM"
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": []
+          },
+          {
+            "label": ["ACC", "SUP"],
+            "station_id": "EBBU-FMP"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -60,3 +60,13 @@ pub fn serialize<T: Serialize>(
         OutputFormat::Json => Ok(serde_json::to_string_pretty(value)?),
     }
 }
+
+pub fn deserialize<T: serde::de::DeserializeOwned>(
+    content: &str,
+    format: OutputFormat,
+) -> Result<T, Box<dyn std::error::Error>> {
+    match format {
+        OutputFormat::Toml => Ok(toml::from_str(content)?),
+        OutputFormat::Json => Ok(serde_json::from_str(content)?),
+    }
+}

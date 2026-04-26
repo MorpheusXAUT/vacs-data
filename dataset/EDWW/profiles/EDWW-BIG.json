@@ -614,7 +614,7 @@
                 },
                 {
                   "label": ["ESMM", "FIS"],
-                  "station_id": "ESMM_IS"
+                  "station_id": "ESMM_FIS-S"
                 }
               ]
             }

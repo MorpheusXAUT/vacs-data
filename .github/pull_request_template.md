@@ -1,40 +1,33 @@
-# Dataset Changes
-
-Thank you for your contribution to the `vacs` dataset.
+<!-- Delete everything between these markers before submitting. -->
+<!-- ===== CONTRIBUTION GUIDELINES (delete this section) ===== -->
 
 > [!WARNING]
-> Please make sure your dataset is in the correct `dataset/{FIR}/` directory, otherwise it will not be picked up by our validations and release process.
+> Make sure your dataset is in the correct `dataset/{FIR}/` directory, otherwise CI will not pick it up.
 
-If you're contributing configuration for a new FIR, please add a small paragraph about your affiliation to the respective FIR to this PR description. We'll be glad to accept your contribution, but would like to ensure our dataset's origin is transparent.  
-After the first PR was merged, we'll add you to the CODEOWNERS file for that FIR, so that future changes can be reviewed by you.
+**New FIR?** Please add a small paragraph about your affiliation to the respective FIR to this PR description. We'll be glad to accept your contribution, but would like to ensure our dataset's origin is transparent. Also include a list of others who should be added as maintainers (you should have at least 2 people to review each other's PRs). After the first PR is merged, we'll add you to CODEOWNERS for that FIR so that future changes can be reviewed by you. See [CONTRIBUTING.md](../CONTRIBUTING.md) for full details.
 
-If you're contributing for an existing FIR, we'll wait for feedback from the current CODEOWNER(s) before merging.
-
-_You may just delete these paragraphs from your PR description, they're just here to remind you of our contribution guidelines._
-
-## Auto-Formatting
-
-This repository uses [autofix.ci](https://autofix.ci) to automatically ensure consistent code formatting using our [prettier](https://prettier.io) configuration.
-The `autofix-ci` bot will automatically push formatting fixes to your branch if needed.
+**Existing FIR?** As a dataset maintainer, you are responsible for getting reviews from your fellow CODEOWNERS and merging your own PRs once CI passes. If you need help from the vacs core team, request a review from `@vacs-project/core-maintainers`.
 
 > [!IMPORTANT]
-> Please **enable "Allow edits by maintainers"** so that the bot can push commits to your PR branch.
+> Please **enable "Allow edits by maintainers"** (checkbox below the description box) so that our formatting bot can push fixes to your branch.
 
-Look for the **"Allow edits by maintainers"** checkbox when creating the PR (below the description box or in the right sidebar). Please ensure this checkbox is checked before submitting the PR.
+<!-- ===== CONTRIBUTION GUIDELINES (delete everything above) ===== -->
 
-The `autofix-ci` bot will automatically push formatting fixes to your branch if needed (commits will have the message `chore(dataset): format with prettier`).
+### Description
 
-<details>
-<summary>If you prefer not to enable this setting:</summary>
+<!-- What does this PR change and why? -->
 
-Make sure your dataset changes are formatted properly.  
-If your editor supports `prettier`, formatting should happen automatically.
+### AIRAC dependency
 
-**Malformed dataset files will automatically be rejected by CI.**
+- [ ] This change is **AIRAC-dependent** and should only go live after a specific AIRAC cycle takes effect.
 
-Alternatively, you can run our formatter locally:
+<!-- If checked, add the appropriate airac/XXYY label to this PR (e.g., airac/2604).
+     The merge check will block until that cycle's effective date, then pass automatically.
+     You can enable auto-merge now -- the PR will merge on its own once the gate opens and CI passes. -->
 
-1. Install [Node.js](https://nodejs.org/en/download)
-2. Run `npm install` to install `prettier` and the required plugins
-3. Run `npm run format` to format your dataset changes
-</details>
+### Checklist
+
+- [ ] Dataset files are in the correct `dataset/{FIR}/` directory.
+- [ ] I have verified the data is correct.
+- [ ] If adding a new FIR: CODEOWNERS entry added and maintainer team noted in PR description.
+- [ ] If contributing from a fork: "Allow edits by maintainers" is enabled.
