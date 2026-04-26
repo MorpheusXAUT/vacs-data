@@ -232,15 +232,18 @@
               "keys": [
                 {
                   "label": ["TRAMON"],
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "ETXX-TRA"
                 },
                 {
                   "label": ["SUNRISE"],
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "ETXX-SR"
                 },
                 {
                   "label": ["LONESHIP"],
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "ETXX-LS"
                 }
               ]
             }

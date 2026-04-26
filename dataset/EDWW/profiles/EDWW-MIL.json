@@ -53,7 +53,8 @@
                   "station_id": "EDWW-MRZ"
                 },
                 {
-                  "label": ["EDWW", "TRAMON"]
+                  "label": ["EDWW", "TRAMON"],
+                  "station_id": "ETXX-TRA"
                 },
                 {
                   "label": ["EDWW", "FMP"],
