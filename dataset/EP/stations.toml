@@ -425,7 +425,13 @@ controlled_by = ["EPBA_R_TWR", "EPKK_I_APP", "EPWW_I_CTR"]
 
 [[stations]]
 id = "EPBC"
-controlled_by = ["EPBC_I_TWR", "EPWA_I_APP", "EPSY_I_APP", "EPWW_IE_CTR", "EPWW_I_CTR"]
+controlled_by = [
+  "EPBC_I_TWR",
+  "EPWA_I_APP",
+  "EPSY_I_APP",
+  "EPWW_IE_CTR",
+  "EPWW_I_CTR",
+]
 
 [[stations]]
 id = "EPBK"
@@ -738,7 +744,13 @@ controlled_by = [
 
 [[stations]]
 id = "EPLR"
-controlled_by = ["EPLR_R_TWR", "EPWA_IE_APP", "EPWA_I_APP", "EPWW_IE_CTR", "EPWW_I_CTR"]
+controlled_by = [
+  "EPLR_R_TWR",
+  "EPWA_IE_APP",
+  "EPWA_I_APP",
+  "EPWW_IE_CTR",
+  "EPWW_I_CTR",
+]
 
 [[stations]]
 id = "EPML"
