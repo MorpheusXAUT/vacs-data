@@ -342,6 +342,13 @@ facility_type = "TWR"
 profile_id = "ULLL"
 
 [[positions]]
+id = "UUYX_TWR"
+prefixes = ["UUYX"]
+frequency = "129.000"
+facility_type = "TWR"
+profile_id = "ULLL"
+
+[[positions]]
 id = "UUYW_APP"
 prefixes = ["UUYW"]
 frequency = "129.500"

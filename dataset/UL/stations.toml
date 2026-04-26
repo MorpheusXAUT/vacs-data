@@ -247,6 +247,11 @@ parent_id = "ULLL_S"
 controlled_by = ["UUYS_TWR"]
 
 [[stations]]
+id = "UUYX_TWR"
+parent_id = "ULLL_S"
+controlled_by = ["UUYX_TWR"]
+
+[[stations]]
 id = "UUYW_APP"
 parent_id = "ULLL_S"
 controlled_by = ["UUYW_APP"]
