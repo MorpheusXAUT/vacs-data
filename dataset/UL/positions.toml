@@ -177,14 +177,14 @@ profile_id = "ULLL"
 id = "ULLI_GND"
 prefixes = ["ULLI"]
 frequency = "121.700"
-facility_type = "TWR"
+facility_type = "GND"
 profile_id = "ULLL"
 
 [[positions]]
 id = "ULLI_DEL"
 prefixes = ["ULLI"]
 frequency = "121.900"
-facility_type = "TWR"
+facility_type = "DEL"
 profile_id = "ULLL"
 
 [[positions]]
@@ -345,7 +345,7 @@ profile_id = "ULLL"
 id = "UUYW_APP"
 prefixes = ["UUYW"]
 frequency = "129.500"
-facility_type = "TWR"
+facility_type = "APP"
 profile_id = "ULLL"
 
 [[positions]]
