@@ -2143,8 +2143,8 @@
             "station_id": "EPWA_FIS_N"
           },
           {
-            "label": ["WA S", "FIS"],
-            "station_id": "EPWA_FIS"
+            "label": ["WA C", "FIS"],
+            "station_id": "EPWA_FIS_C"
           },
           {
             "label": ["WA W", "FIS"],
