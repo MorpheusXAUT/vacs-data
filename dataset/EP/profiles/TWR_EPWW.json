@@ -897,8 +897,8 @@
             "label": []
           },
           {
-            "label": ["WA S"],
-            "station_id": "EPWA_FIS"
+            "label": ["WA C"],
+            "station_id": "EPWA_FIS_C"
           },
           {
             "label": []
