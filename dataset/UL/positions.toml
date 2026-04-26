@@ -134,7 +134,8 @@ profile_id = "ULLL"
 [[positions]]
 id = "ULLL_TMU"
 prefixes = ["ULLL"]
-facility_type = "APP"
+facility_type = "FMP"
+frequency = "199.998"
 profile_id = "ULLL"
 
 [[positions]]
