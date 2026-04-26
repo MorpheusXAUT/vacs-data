@@ -2144,7 +2144,7 @@
           },
           {
             "label": ["WA S", "FIS"],
-            "station_id": "EPWA_FIS_S"
+            "station_id": "EPWA_FIS"
           },
           {
             "label": ["WA W", "FIS"],
