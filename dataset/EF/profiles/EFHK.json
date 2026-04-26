@@ -58,7 +58,8 @@
             "station_id": "EETT_FED"
           },
           {
-            "label": ["ULLL", "West"]
+            "label": ["ULLL", "West"],
+            "station_id": "ULLL_R4"
           },
           {
             "label": []

@@ -1147,10 +1147,6 @@ parent_id = "EGLL_N_APP"
 controlled_by = ["EGLL_F_APP"]
 
 [[stations]]
-id = "EGLL_P_APP"
-controlled_by = ["EGLL_P_APP"]
-
-[[stations]]
 id = "EGLM_R_TWR"
 controlled_by = ["EGLM_R_TWR"]
 
