@@ -32,7 +32,7 @@ parent_id = "ULLL_R"
 
 [[stations]]
 id = "ULLL_R"
-controlled_by = ["ULLL_R_CTR","ULLL_CTR"]
+controlled_by = ["ULLL_R_CTR", "ULLL_CTR"]
 
 # ULLL_AM Sector
 
@@ -102,17 +102,17 @@ parent_id = "ULLI_R_APP"
 [[stations]]
 id = "ULLI_A_TWR"
 parent_id = "ULLI_TWR"
-controlled_by = ["ULLI_A_TWR","ULLI_D_TWR"]
+controlled_by = ["ULLI_A_TWR", "ULLI_D_TWR"]
 
 [[stations]]
 id = "ULLI_D_TWR"
 parent_id = "ULLI_TWR"
-controlled_by = ["ULLI_D_TWR","ULLI_A_TWR"]
+controlled_by = ["ULLI_D_TWR", "ULLI_A_TWR"]
 
 [[stations]]
 id = "ULLI_VFR_TWR"
 parent_id = "ULLI_TWR"
-controlled_by = ["ULLI_VFR_TWR","ULLI_D_TWR"]
+controlled_by = ["ULLI_VFR_TWR", "ULLI_D_TWR"]
 
 [[stations]]
 id = "ULLI_GND"
