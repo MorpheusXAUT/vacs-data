@@ -376,17 +376,17 @@
           },
           {
             "label": ["Tower", "10L/28R"],
-            "station_id": "ULLI_A",
+            "station_id": "ULLI_A_TWR",
             "color": "azure"
           },
           {
             "label": ["Tower", "10R/28L"],
-            "station_id": "ULLI_D",
+            "station_id": "ULLI_D_TWR",
             "color": "azure"
           },
           {
             "label": ["Tower", "VFR"],
-            "station_id": "ULLI_VFR",
+            "station_id": "ULLI_VFR_TWR",
             "color": "azure"
           },
           {
