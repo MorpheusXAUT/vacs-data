@@ -135,6 +135,14 @@ profile_id = "RJ"
 default_call_sources = ["RJTT_K_GND"]
 
 [[positions]]
+id = "RJTT_GND"
+prefixes = ["RJTT"]
+frequency = "121.700"
+facility_type = "GND"
+profile_id = "RJ"
+default_call_sources = ["RJTT_GND"]
+
+[[positions]]
 id = "RJTT_W_GND"
 prefixes = ["RJTT"]
 frequency = "121.700"
