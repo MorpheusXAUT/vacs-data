@@ -1,0 +1,18 @@
+{
+  "id": "OEAB",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OEAB"],
+      "page": {
+        "rows": 3,
+        "keys": [
+          { "label": ["DEL"], "station_id": "OEAB_DEL" },
+          { "label": ["GND"], "station_id": "OEAB_GND" },
+          { "label": ["TWR"], "station_id": "OEAB_TWR" },
+          { "label": ["APP"], "station_id": "OEAB_APP" }
+        ]
+      }
+    }
+  ]
+}
