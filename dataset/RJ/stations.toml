@@ -98,6 +98,18 @@ controlled_by = ["RJTT_W_TWR"]
 id = "RJTT_GND"
 parent_id = "RJTT_TWR"
 controlled_by = [
+  "RJTT_N_GND",
+  "RJTT_E_GND",
+  "RJTT_W_GND",
+  "RJTT_S_GND",
+  "RJTT_K_GND",
+  "RJTT_GND",
+]
+
+[[stations]]
+id = "RJTT_GND"
+parent_id = "RJTT_TWR"
+controlled_by = [
     "RJTT_N_GND", 
     "RJTT_E_GND", 
     "RJTT_W_GND", 
@@ -109,6 +121,7 @@ controlled_by = [
 [[stations]]
 id = "RJTT_W_GND"
 parent_id = "RJTT_GND"
+parent_id = "RJTT_GND"
 controlled_by = ["RJTT_W_GND"]
 
 [[stations]]
@@ -118,6 +131,7 @@ controlled_by = ["RJTT_N_GND", "RJTT_W_GND"]
 
 [[stations]]
 id = "RJTT_E_GND"
+parent_id = "RJTT_GND"
 parent_id = "RJTT_GND"
 controlled_by = ["RJTT_E_GND"]
 
