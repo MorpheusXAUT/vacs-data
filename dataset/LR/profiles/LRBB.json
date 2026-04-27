@@ -8,19 +8,11 @@
         "rows": 7,
         "keys": [
           {
-            "label": [
-              "ADRIA",
-              "EAST",
-              "F335-660"
-            ],
+            "label": ["ADRIA", "EAST", "F335-660"],
             "station_id": "ADRIA-EAST-UPPER"
           },
           {
-            "label": [
-              "ADRIA",
-              "EAST",
-              "GND-F335"
-            ],
+            "label": ["ADRIA", "EAST", "GND-F335"],
             "station_id": "ADRIA-EAST"
           },
           {
@@ -56,11 +48,7 @@
             "station_id": "LYBA-UPPER-EAST"
           },
           {
-            "label": [
-              "BEO_N",
-              "MID",
-              "F125-F335"
-            ],
+            "label": ["BEO_N", "MID", "F125-F335"],
             "station_id": "LYBA-NORTH"
           },
           {
@@ -118,11 +106,7 @@
             "label": ["BPS_EN", "MID", ""]
           },
           {
-            "label": [
-              "BPS_EN",
-              "LOW",
-              "F095-345"
-            ],
+            "label": ["BPS_EN", "LOW", "F095-345"],
             "station_id": "LHCC_CTR"
           },
           {
@@ -143,11 +127,7 @@
             "station_id": "LHCC_NU"
           },
           {
-            "label": [
-              "BPS_EN",
-              "FIC",
-              "GND-9500"
-            ],
+            "label": ["BPS_EN", "FIC", "GND-9500"],
             "station_id": "LHCC_EFIC"
           },
           {
