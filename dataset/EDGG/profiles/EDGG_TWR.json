@@ -263,12 +263,15 @@
             "station_id": "EDGG-DSAT"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDDS", "TWR"],
             "color": "azure",
             "station_id": "EDGG-DST"
+          },
+          
+          {
+            "label": ["EDDS", "VFR", "TWR"],
+            "color": "azure",
+            "station_id": "EDGG-DSTV"
           },
           {
             "label": ["EDDS", "GND"],
