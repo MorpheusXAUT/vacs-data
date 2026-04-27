@@ -12,7 +12,7 @@ controlled_by = [
   "RJTT_Z_APP",
   "RJTT_V_APP",
   "RJTT_N_DEP",
-  "RJTT_S_DEP"
+  "RJTT_S_DEP",
 ]
 
 [[stations]]
@@ -53,11 +53,7 @@ controlled_by = ["RJTT_Z_APP", "RJTT_S_APP"]
 [[stations]]
 id = "RJTT_DEP"
 parent_id = "RJTT_APP"
-controlled_by = [
-    "RJTT_DEP", 
-    "RJTT_N_DEP", 
-    "RJTT_S_DEP"
-    ]
+controlled_by = ["RJTT_DEP", "RJTT_N_DEP", "RJTT_S_DEP"]
 
 [[stations]]
 id = "RJTT_N_DEP"
@@ -110,13 +106,13 @@ controlled_by = [
 id = "RJTT_GND"
 parent_id = "RJTT_TWR"
 controlled_by = [
-    "RJTT_N_GND", 
-    "RJTT_E_GND", 
-    "RJTT_W_GND", 
-    "RJTT_S_GND", 
-    "RJTT_K_GND", 
-    "RJTT_GND"
-    ]
+  "RJTT_N_GND",
+  "RJTT_E_GND",
+  "RJTT_W_GND",
+  "RJTT_S_GND",
+  "RJTT_K_GND",
+  "RJTT_GND",
+]
 
 [[stations]]
 id = "RJTT_W_GND"
@@ -153,12 +149,12 @@ controlled_by = ["RJTT_DEL"]
 [[stations]]
 id = "RJAA_APP"
 controlled_by = [
-  "RJAA_APP", 
-  "RJAA_S_APP", 
-  "RJAA_R_APP", 
-  "RJAA_B_APP", 
-  "RJAA_E_APP", 
-  "RJAA_A_APP"
+  "RJAA_APP",
+  "RJAA_S_APP",
+  "RJAA_R_APP",
+  "RJAA_B_APP",
+  "RJAA_E_APP",
+  "RJAA_A_APP",
 ]
 
 [[stations]]
@@ -190,13 +186,13 @@ controlled_by = ["RJAA_A_APP"]
 id = "RJAA_DEP"
 parent_id = "RJAA_APP"
 controlled_by = [
-  "RJAA_DEP", 
-  "RJAA_A_DEP", 
-  "RJAA_B_DEP", 
-  "RJAA_R_DEP", 
-  "RJAA_S_DEP", 
-  "RJAA_N_DEP", 
-  "RJAA_W_DEP"
+  "RJAA_DEP",
+  "RJAA_A_DEP",
+  "RJAA_B_DEP",
+  "RJAA_R_DEP",
+  "RJAA_S_DEP",
+  "RJAA_N_DEP",
+  "RJAA_W_DEP",
 ]
 
 [[stations]]
