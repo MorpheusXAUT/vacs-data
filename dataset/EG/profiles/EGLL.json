@@ -71,8 +71,7 @@
             "label": []
           },
           {
-            "label": ["APC", "Supvisr"],
-            "station_id": "EGLL_P_APP"
+            "label": []
           },
           {
             "label": []
@@ -170,8 +169,7 @@
             "label": []
           },
           {
-            "label": ["APC", "Supvisr"],
-            "station_id": "EGLL_P_APP"
+            "label": []
           },
           {
             "label": ["EGLW"],

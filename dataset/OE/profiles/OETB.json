@@ -10,9 +10,7 @@
           { "label": ["DEL"], "station_id": "OETB_DEL" },
           { "label": ["GND"], "station_id": "OETB_GND" },
           { "label": ["TWR"], "station_id": "OETB_TWR" },
-          { "label": ["APP"],
-            "station_id": "OETB_APP"
-          }
+          { "label": ["APP"], "station_id": "OETB_APP" }
         ]
       }
     }
