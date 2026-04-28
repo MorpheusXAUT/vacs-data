@@ -9,7 +9,7 @@
     { "id": "OEJD_CTR", "controlled_by": ["OEJD_CTR"] },
     { "id": "OEJD_N_CTR", "parent_id": "OEJD_CTR", "controlled_by": ["OEJD_N_CTR"] },
     { "id": "OEJD_S_CTR", "parent_id": "OEJD_CTR", "controlled_by": ["OEJD_S_CTR"] },
-    { "id": "OEJD_E_CTR", "parent_id": "OEJD_CTR", "controlled_by": ["OEJD_E_CTR"] },
+    { "id": "OEJD_U_CTR", "parent_id": "OEJD_CTR", "controlled_by": ["OEJD_U_CTR"] },
     { "id": "OEJD_W_CTR", "parent_id": "OEJD_CTR", "controlled_by": ["OEJD_W_CTR"] },
     { "id": "OEJD_NE_CTR", "parent_id": "OEJD_N_CTR", "controlled_by": ["OEJD_NE_CTR"] },
     { "id": "OEJD_SE_CTR", "parent_id": "OEJD_S_CTR", "controlled_by": ["OEJD_SE_CTR"] },
@@ -44,6 +44,13 @@
 
     { "id": "OEGS_APP", "parent_id": "OERD_CTR", "controlled_by": ["OEGS_APP"] },
     { "id": "OEGS_TWR", "parent_id": "OEGS_APP", "controlled_by": ["OEGS_TWR"] },
-    { "id": "OEGS_GND", "parent_id": "OEGS_TWR", "controlled_by": ["OEGS_GND"] }
+    { "id": "OEGS_GND", "parent_id": "OEGS_TWR", "controlled_by": ["OEGS_GND"] },
+
+    { "id": "OEAB_DEL", "parent_id": "OEAB_GND", "controlled_by": ["OEAB_DEL"] },
+    { "id": "OEDF_DEL", "parent_id": "OEDF_GND", "controlled_by": ["OEDF_DEL"] },
+    { "id": "OEMA_DEL", "parent_id": "OEMA_GND", "controlled_by": ["OEMA_DEL"] },
+    { "id": "OETF_DEL", "parent_id": "OETF_GND", "controlled_by": ["OETF_DEL"] },
+    { "id": "OEHL_DEL", "parent_id": "OEHL_GND", "controlled_by": ["OEHL_DEL"] },
+    { "id": "OENG_DEL", "parent_id": "OENG_GND", "controlled_by": ["OENG_DEL"] }
   ]
 }
