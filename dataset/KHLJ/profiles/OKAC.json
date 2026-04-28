@@ -168,19 +168,23 @@
               "keys": [
                 {
                   "label": ["RD EAST", "345+", "[INOP]"],
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "OERD_E_CTR"
                 },
                 {
                   "label": ["JD EAST", "345-", "[INOP]"],
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "OEJD_U_CTR"
                 },
                 {
                   "label": ["RD NE", "345+", "[INOP]"],
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "OERD_NE_CTR"
                 },
                 {
                   "label": ["JD NE", "345-", "[INOP]"],
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "OEJD_NE_CTR"
                 }
               ]
             }
