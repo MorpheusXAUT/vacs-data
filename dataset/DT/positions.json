@@ -67,6 +67,7 @@
       "prefixes": ["DTNH"],
       "frequency": "119.300",
       "facility_type": "APP",
+      "profile_id": "DTNH",
       "default_call_sources": ["DTNH_APP"]
     },
     {
@@ -74,6 +75,7 @@
       "prefixes": ["DTNH"],
       "frequency": "118.550",
       "facility_type": "TWR",
+      "profile_id": "DTNH",
       "default_call_sources": ["DTNH_TWR"]
     },
     {
@@ -81,6 +83,7 @@
       "prefixes": ["DTNH"],
       "frequency": "121.670",
       "facility_type": "GND",
+      "profile_id": "DTNH",
       "default_call_sources": ["DTNH_GND"]
     },
     {
@@ -198,6 +201,7 @@
       "prefixes": ["DTMB"],
       "frequency": "118.300",
       "facility_type": "TWR",
+      "profile_id": "DTNH",
       "default_call_sources": ["DTMB_TWR"]
     },
     {
