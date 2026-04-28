@@ -79,7 +79,7 @@
     {
       "id": "DTNH_GND",
       "prefixes": ["DTNH"],
-      "frequency": "121.670",
+      "frequency": "121.675",
       "facility_type": "GND",
       "default_call_sources": ["DTNH_GND"]
     },
