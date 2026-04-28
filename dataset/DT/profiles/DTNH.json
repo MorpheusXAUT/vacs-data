@@ -9,7 +9,7 @@
         "keys": [
           {
             "label": ["GND"],
-            "station_id": "DTNH_DEL"
+            "station_id": "DTNH_GND"
           },
           {
             "label": ["TWR"],
@@ -23,7 +23,7 @@
           },
           {
             "label": ["APP"],
-            "station_id": "DTTA_APP"
+            "station_id": "DTNH_APP"
           },
           {
             "label": []
