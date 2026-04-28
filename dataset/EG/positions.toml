@@ -620,6 +620,7 @@ prefixes = ["EGKK"]
 frequency = "126.825"
 facility_type = "APP"
 profile_id = "EGKK"
+default_call_sources = ["EGKK_APP"]
 
 [[positions]]
 id = "EGKK_F_APP"
@@ -627,6 +628,7 @@ prefixes = ["EGKK"]
 frequency = "118.950"
 facility_type = "APP"
 profile_id = "EGKK"
+default_call_sources = ["EGKK_F_APP"]
 
 [[positions]]
 id = "EGKK_TWR"
@@ -634,6 +636,7 @@ prefixes = ["EGKK"]
 frequency = "124.230"
 facility_type = "TWR"
 profile_id = "EGKK"
+default_call_sources = ["EGKK_TWR"]
 
 [[positions]]
 id = "EGKK_N_GND"
@@ -641,6 +644,7 @@ prefixes = ["EGKK"]
 frequency = "121.540"
 facility_type = "GND"
 profile_id = "EGKK"
+default_call_sources = ["EGKK_N_GND"]
 
 [[positions]]
 id = "EGKK_S_GND"
@@ -648,6 +652,7 @@ prefixes = ["EGKK"]
 frequency = "121.805"
 facility_type = "GND"
 profile_id = "EGKK"
+default_call_sources = ["EGKK_S_GND"]
 
 [[positions]]
 id = "EGKK_DEL"
@@ -655,6 +660,7 @@ prefixes = ["EGKK"]
 frequency = "121.955"
 facility_type = "DEL"
 profile_id = "EGKK"
+default_call_sources = ["EGKK_DEL"]
 
 [[positions]]
 id = "EGKK_A_DEL"
@@ -662,6 +668,7 @@ prefixes = ["EGKK"]
 frequency = "199.998"
 facility_type = "DEL"
 profile_id = "EGKK"
+default_call_sources = ["EGKK_A_DEL"]
 
 [[positions]]
 id = "EGKK_P_GND"
@@ -669,6 +676,7 @@ prefixes = ["EGKK"]
 frequency = "134.230"
 facility_type = "GND"
 profile_id = "EGKK"
+default_call_sources = ["EGKK_P_GND"]
 
 [[positions]]
 id = "EGKR_TWR"
@@ -676,6 +684,7 @@ prefixes = ["EGKR"]
 frequency = "119.605"
 facility_type = "TWR"
 profile_id = "EG-South_LAG"
+default_call_sources = ["EGKR_TWR"]
 
 [[positions]]
 id = "THAMES_APP"
