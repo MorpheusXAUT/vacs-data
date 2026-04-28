@@ -1,0 +1,18 @@
+{
+  "id": "OERD",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OERD"],
+      "page": {
+        "rows": 4,
+        "keys": [
+          { "label": ["CTR"], "station_id": "OERD_E_CTR" },
+          { "label": ["CTR"], "station_id": "OERD_N_CTR" },
+          { "label": ["CTR"], "station_id": "OERD_NE_CTR" },
+          { "label": ["CTR", "SECTOR 1"], "station_id": "OERD_1_CTR" }
+        ]
+      }
+    }
+  ]
+}

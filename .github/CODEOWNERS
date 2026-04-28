@@ -13,6 +13,7 @@ CONTRIBUTING.md @vacs-project/maintainers
 /dataset/AFRX/ @vacs-project/dataset-maintainers-afrx
 /dataset/CARX/ @vacs-project/dataset-maintainers-vcmc @vacs-project/dataset-maintainers-tncf
 /dataset/CZQM/ @vacs-project/dataset-maintainers-czqm
+/dataset/DA/ @vacs-project/dataset-maintainers-mag
 /dataset/DT/ @vacs-project/dataset-maintainers-mag
 /dataset/EB/ @vacs-project/dataset-maintainers-eb
 /dataset/EDGG/ @vacs-project/dataset-maintainers-edgg
@@ -62,6 +63,7 @@ CONTRIBUTING.md @vacs-project/maintainers
 /dataset/MD/ @vacs-project/dataset-maintainers-vcmc
 /dataset/MT/ @vacs-project/dataset-maintainers-vcmc
 /dataset/NAT/ @vacs-project/dataset-maintainers-nat
+/dataset/OE/ @vacs-project/dataset-maintainers-oe
 /dataset/OM/ @vacs-project/dataset-maintainers-arb
 /dataset/OT/ @vacs-project/dataset-maintainers-arb
 /dataset/RJ/ @vacs-project/dataset-maintainers-rjjj
