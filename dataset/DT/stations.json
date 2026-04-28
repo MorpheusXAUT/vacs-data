@@ -2,6 +2,7 @@
   "stations": [
     {
       "id": "DTTC_FMP",
+      "parent_id": "DTTC_CTR",
       "controlled_by": ["DTTC_FMP"]
     },
     {
