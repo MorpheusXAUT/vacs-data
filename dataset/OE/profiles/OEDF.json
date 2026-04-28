@@ -5,9 +5,8 @@
     {
       "label": ["OEDF"],
       "page": {
-        "rows": 4,
+        "rows": 3,
         "keys": [
-          { "label": ["DEL"], "station_id": "OEDF_DEL" },
           { "label": ["GND"], "station_id": "OEDF_GND" },
           { "label": ["TWR"], "station_id": "OEDF_TWR" },
           { "label": ["APP"], "station_id": "OEDF_APP" }

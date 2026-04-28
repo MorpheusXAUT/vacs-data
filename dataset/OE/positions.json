@@ -44,6 +44,12 @@
 
   { "id": "OEGS_APP", "prefixes": ["OEGS"], "frequency": "119.150", "facility_type": "APP", "default_call_sources": ["OEGS_APP"] },
   { "id": "OEGS_TWR", "prefixes": ["OEGS"], "frequency": "118.000", "facility_type": "TWR", "default_call_sources": ["OEGS_TWR"] },
-  { "id": "OEGS_GND", "prefixes": ["OEGS"], "frequency": "121.900", "facility_type": "GND", "default_call_sources": ["OEGS_GND"] }
+  { "id": "OEGS_GND", "prefixes": ["OEGS"], "frequency": "121.900", "facility_type": "GND", "default_call_sources": ["OEGS_GND"] },
+
+  {"id": "OETF_GND", "prefixes": ["OETF"], "frequency": "121.900", "facility_type": "GND", "default_call_sources": ["OETF_GND"]},
+  { "id": "OENG_GND", "prefixes": ["OENG"], "frequency": "121.900", "facility_type": "GND", "default_call_sources": ["OENG_GND"]},
+  { "id": "OEHL_GND", "prefixes": ["OEHL"], "frequency": "121.900", "facility_type": "GND", "default_call_sources": ["OEHL_GND"]},
+  { "id": "OETB_GND", "prefixes": ["OETB"], "frequency": "128.750", "facility_type": "DEL", "default_call_sources": ["OETB_DEL"]},
+  { "id": "OEMA_GND", "prefixes": ["OEMA"], "frequency": "121.900", "facility_type": "GND", "default_call_sources": ["OEMA_GND"]}
 ]
 }
