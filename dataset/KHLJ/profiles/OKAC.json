@@ -174,7 +174,7 @@
                 {
                   "label": ["JD EAST", "345-", "[INOP]"],
                   "color": "mint",
-                  "station_id": "OEJD_U_CTR"
+                  "station_id": "OERD_1_CTR"
                 },
                 {
                   "label": ["RD NE", "345+", "[INOP]"],
@@ -182,7 +182,7 @@
                   "station_id": "OERD_NE_CTR"
                 },
                 {
-                  "label": ["JD NE", "345-", "[INOP]"],
+                  "label": ["JD NE", "245-345", "[INOP]"],
                   "color": "mint",
                   "station_id": "OEJD_NE_CTR"
                 }
