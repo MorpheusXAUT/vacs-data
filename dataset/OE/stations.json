@@ -176,7 +176,11 @@
       "parent_id": "OEGS_APP",
       "controlled_by": ["OEGS_TWR"]
     },
-    { "id": "OEGS_GND", "parent_id": "OEGS_TWR", "controlled_by": ["OEGS_GND"] },
+    {
+      "id": "OEGS_GND",
+      "parent_id": "OEGS_TWR",
+      "controlled_by": ["OEGS_GND"]
+    },
 
     {
       "id": "OETF_GND",
@@ -220,7 +224,11 @@
       "controlled_by": ["OETB_APP"]
     },
 
-    {"id": "OEMA_GND", "parent_id": "OEMA_TWR", "controlled_by": ["OEMA_GND"]},
+    {
+      "id": "OEMA_GND",
+      "parent_id": "OEMA_TWR",
+      "controlled_by": ["OEMA_GND"]
+    },
     {
       "id": "OEMA_TWR",
       "parent_id": "OEMA_APP",
@@ -251,6 +259,5 @@
       "parent_id": "OEJD_CTR",
       "controlled_by": ["OENG_TWR"]
     }
-    
   ]
 }
