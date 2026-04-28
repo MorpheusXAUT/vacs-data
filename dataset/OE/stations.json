@@ -176,6 +176,29 @@
       "parent_id": "OEGS_APP",
       "controlled_by": ["OEGS_TWR"]
     },
-    { "id": "OEGS_GND", "parent_id": "OEGS_TWR", "controlled_by": ["OEGS_GND"] }
+    { "id": "OEGS_GND", "parent_id": "OEGS_TWR", "controlled_by": ["OEGS_GND"] },
+
+    {
+      "id": "OETF_GND",
+      "parent_id": "OETF_TWR",
+      "controlled_by": ["OETF_GND"]
+    },
+    {
+      "id": "OENG_GND",
+      "parent_id": "OENG_TWR",
+      "controlled_by": ["OENG_GND"]
+    },
+    {
+      "id": "OEHL_GND",
+      "parent_id": "OEHL_TWR",
+      "controlled_by": ["OEHL_GND"]
+    },
+    {
+      "id": "OETB_DEL",
+      "parent_id": "OETB_GND",
+      "controlled_by": ["OETB_DEL"]
+    },
+    {"id": "OEMA_GND", "parent_id": "OEMA_TWR", "controlled_by": ["OEMA_GND"]}
+    
   ]
 }
