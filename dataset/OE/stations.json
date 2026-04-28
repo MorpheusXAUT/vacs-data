@@ -176,11 +176,7 @@
       "parent_id": "OEGS_APP",
       "controlled_by": ["OEGS_TWR"]
     },
-    {
-      "id": "OEGS_GND",
-      "parent_id": "OEGS_TWR",
-      "controlled_by": ["OEGS_GND"]
-    },
+    { "id": "OEGS_GND", "parent_id": "OEGS_TWR", "controlled_by": ["OEGS_GND"] },
 
     {
       "id": "OETF_GND",
@@ -188,20 +184,73 @@
       "controlled_by": ["OETF_GND"]
     },
     {
-      "id": "OENG_GND",
-      "parent_id": "OENG_TWR",
-      "controlled_by": ["OENG_GND"]
-    },
-    {
       "id": "OEHL_GND",
       "parent_id": "OEHL_TWR",
       "controlled_by": ["OEHL_GND"]
+    },
+    {
+      "id": "OEHL_TWR",
+      "parent_id": "OEHL_APP",
+      "controlled_by": ["OEHL_TWR"]
+    },
+    {
+      "id": "OEHL_APP",
+      "parent_id": "OEJD_N_CTR",
+      "controlled_by": ["OEHL_APP"]
     },
     {
       "id": "OETB_DEL",
       "parent_id": "OETB_GND",
       "controlled_by": ["OETB_DEL"]
     },
-    { "id": "OEMA_GND", "parent_id": "OEMA_TWR", "controlled_by": ["OEMA_GND"] }
+
+    {
+      "id": "OETB_GND",
+      "parent_id": "OETB_TWR",
+      "controlled_by": ["OETB_GND"]
+    },
+    {
+      "id": "OETB_TWR",
+      "parent_id": "OETB_APP",
+      "controlled_by": ["OETB_TWR"]
+    },
+    {
+      "id": "OETB_APP",
+      "parent_id": "OEJD_C_CTR",
+      "controlled_by": ["OETB_APP"]
+    },
+
+    {"id": "OEMA_GND", "parent_id": "OEMA_TWR", "controlled_by": ["OEMA_GND"]},
+    {
+      "id": "OEMA_TWR",
+      "parent_id": "OEMA_APP",
+      "controlled_by": ["OEMA_TWR"]
+    },
+    {
+      "id": "OEMA_APP",
+      "parent_id": "OEJD_N_CTR",
+      "controlled_by": ["OEMA_APP"]
+    },
+    {
+      "id": "OETF_TWR",
+      "parent_id": "OETF_APP",
+      "controlled_by": ["OETF_TWR"]
+    },
+    {
+      "id": "OETF_APP",
+      "parent_id": "OEJD_N_CTR",
+      "controlled_by": ["OETF_APP"]
+    },
+    {
+      "id": "OENG_GND",
+      "parent_id": "OENG_TWR",
+      "controlled_by": ["OENG_GND"]
+    },
+    {
+      "id": "OENG_TWR",
+      "parent_id": "OEJD_CTR",
+      "controlled_by": ["OENG_TWR"]
+    }
+    
   ]
 }
