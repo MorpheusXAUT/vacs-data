@@ -115,7 +115,7 @@
       "prefixes": ["GMMM"],
       "frequency": "132.325",
       "facility_type": "CTR",
-      "profile_id": "GMMM_NE",
+      "profile_id": "GMMM-NE",
       "default_call_sources": ["GMMM_NE_CTR"]
     },
     {
@@ -123,7 +123,7 @@
       "prefixes": ["GMMM"],
       "frequency": "125.500",
       "facility_type": "CTR",
-      "profile_id": "GMMM_NE",
+      "profile_id": "GMMM-NE",
       "default_call_sources": ["GMMM_N_CTR"]
     },
     {
@@ -131,7 +131,7 @@
       "prefixes": ["GMMM"],
       "frequency": "125.100",
       "facility_type": "CTR",
-      "profile_id": "GMMM_NE",
+      "profile_id": "GMMM-NE",
       "default_call_sources": ["GMMM_E_CTR"]
     },
     {
