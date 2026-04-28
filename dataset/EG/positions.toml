@@ -123,6 +123,7 @@ prefixes = ["EGCC"]
 frequency = "121.355"
 facility_type = "APP"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_F_APP"]
 
 [[positions]]
 id = "EGCC_N_APP"
@@ -130,6 +131,7 @@ prefixes = ["EGCC"]
 frequency = "135.005"
 facility_type = "APP"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_N_APP"]
 
 [[positions]]
 id = "EGCC_S_APP"
@@ -137,6 +139,7 @@ prefixes = ["EGCC"]
 frequency = "118.580"
 facility_type = "APP"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_S_APP"]
 
 [[positions]]
 id = "EGCC_N_TWR"
@@ -144,6 +147,7 @@ prefixes = ["EGCC"]
 frequency = "118.630"
 facility_type = "TWR"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_N_TWR"]
 
 [[positions]]
 id = "EGCC_S_TWR"
@@ -151,6 +155,7 @@ prefixes = ["EGCC"]
 frequency = "119.405"
 facility_type = "TWR"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_S_TWR"]
 
 [[positions]]
 id = "EGCC_GND"
@@ -158,6 +163,7 @@ prefixes = ["EGCC"]
 frequency = "121.855"
 facility_type = "GND"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_GND"]
 
 [[positions]]
 id = "EGCC_DEL"
@@ -165,6 +171,7 @@ prefixes = ["EGCC"]
 frequency = "121.705"
 facility_type = "DEL"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_DEL"]
 
 [[positions]]
 id = "EGCC_A_DEL"
@@ -172,6 +179,7 @@ prefixes = ["EGCC"]
 frequency = "199.998"
 facility_type = "DEL"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_A_DEL"]
 
 [[positions]]
 id = "EGCC_P_GND"
@@ -179,6 +187,7 @@ prefixes = ["EGCC"]
 frequency = "130.650"
 facility_type = "GND"
 profile_id = "EGCC"
+default_call_sources = ["EGCC_P_GND"]
 
 [[positions]]
 id = "EGDI_TWR"
