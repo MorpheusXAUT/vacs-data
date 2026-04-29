@@ -5,7 +5,7 @@
     {
       "label": "RL",
       "page": {
-        "rows": 6,
+        "rows": 5,
         "keys": [
           {
             "label": ["RH"],
@@ -18,9 +18,9 @@
             "station_id": "EDYY-RL"
           },
           {
-            "label": ["PAD"],
+            "label": ["PADH"],
             "color": "lagoon",
-            "station_id": "EDGG-PAD"
+            "station_id": "EDGG-PAH"
           },
           {
             "label": ["EDUU", "NTM"],
@@ -31,9 +31,6 @@
             "label": ["EDGG", "RUD"],
             "color": "mint",
             "station_id": "EDGG-RUD"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["MH"],
@@ -61,9 +58,6 @@
             "station_id": "EDGG-TAU"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDYY", "JH"],
             "color": "lavender",
             "station_id": "EDYY-JH"
@@ -89,9 +83,6 @@
             "station_id": "EDGG-SIG"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDYY", "HH"],
             "color": "lavender",
             "station_id": "EDYY-HH"
@@ -113,9 +104,6 @@
             "label": ["EDGG", "GIN"],
             "color": "mint",
             "station_id": "EDGG-GIN"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["EDYY", "CH"],
@@ -141,9 +129,6 @@
             "station_id": "EDWW-EID"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDYY", "SH"],
             "color": "lavender",
             "station_id": "EDYY-SH"
@@ -163,9 +148,6 @@
             "label": ["EDWW", "ALR"],
             "color": "mint",
             "station_id": "EDWW-ALR"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["EDYY", "YYD"],
@@ -190,9 +172,6 @@
             "station_id": "EDWW-EMS"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDYY", "LNH"],
             "color": "lavender",
             "station_id": "EDYY-LNH"
@@ -212,9 +191,6 @@
             "label": ["EDWW", "HRZ"],
             "color": "mint",
             "station_id": "EDWW-HRZ"
-          },
-          {
-            "label": [""]
           }
         ]
       }
@@ -222,7 +198,7 @@
     {
       "label": "FUL",
       "page": {
-        "rows": 6,
+        "rows": 5,
         "keys": [
           {
             "label": ["NTM"],
@@ -250,9 +226,6 @@
             "station_id": "EDGG-NKRH"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["FFM"],
             "color": "lilac",
             "station_id": "EDUU-FFM"
@@ -276,9 +249,6 @@
             "label": ["EDGG", "MAN"],
             "color": "mint",
             "station_id": "EDGG-MAN"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["FUL"],
@@ -306,9 +276,6 @@
             "station_id": "EDGG-HAB"
           },
           {
-            "label": [""]
-          },
-          {
             "label": ["EDYY", "LXH"],
             "color": "lavender",
             "station_id": "EDYY-LXH"
@@ -324,15 +291,14 @@
             "station_id": "EDGG-GED"
           },
           {
-            "label": [""]
+            "label": ["NOR"],
+            "color": "clay",
+            "station_id": "EDGG-NOR"
           },
           {
-            "label": ["EDGG", "PAD"],
-            "color": "mint",
-            "station_id": "EDGG-PAD"
-          },
-          {
-            "label": [""]
+            "label": ["DLA"],
+            "color": "clay",
+            "station_id": "EDGG-DLA"
           },
           {
             "label": ["EDYY", "SH"],
@@ -355,12 +321,9 @@
             "station_id": "EDYY-LXH"
           },
           {
-            "label": ["EBBU", "EHS"],
+            "label": ["EDGG", "PADH"],
             "color": "mint",
-            "station_id": "EBBU-EHS"
-          },
-          {
-            "label": [""]
+            "station_id": "EDGG-PAH"
           },
           {
             "label": ["EDYY", "MH"],
@@ -383,12 +346,9 @@
             "station_id": "EDMM-BBG"
           },
           {
-            "label": ["EBBU", "LUS"],
+            "label": ["EBBU", "EHS"],
             "color": "mint",
-            "station_id": "EBBU-LUS"
-          },
-          {
-            "label": [""]
+            "station_id": "EBBU-EHS"
           },
           {
             "label": ["EDYY", "RH"],
@@ -411,10 +371,9 @@
             "station_id": "EDMM-GER"
           },
           {
-            "label": [""]
-          },
-          {
-            "label": [""]
+            "label": ["EBBU", "LUS"],
+            "color": "mint",
+            "station_id": "EBBU-LUS"
           },
           {
             "label": ["EDUU", "SAL"],
@@ -437,9 +396,6 @@
           {
             "label": ["LFEE", "UE"],
             "color": "mint"
-          },
-          {
-            "label": [""]
           }
         ]
       }
