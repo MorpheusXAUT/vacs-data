@@ -132,7 +132,9 @@
             "station_id": "EDGG-BOT"
           },
           {
-            "label": [""]
+            "label": ["PADL"],
+            "color": "clay",
+            "station_id": "EDGG-PADL"
           },
           {
             "label": [""]
