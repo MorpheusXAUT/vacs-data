@@ -291,12 +291,12 @@
             "station_id": "EDGG-GED"
           },
           {
-            "label": ["NOR"],
+            "label": ["EDGG", "NOR"],
             "color": "clay",
             "station_id": "EDGG-NOR"
           },
           {
-            "label": ["DLA"],
+            "label": ["EDGG", "DLA"],
             "color": "clay",
             "station_id": "EDGG-DLA"
           },
