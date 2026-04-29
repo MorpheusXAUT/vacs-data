@@ -294,10 +294,6 @@
                     "rows": 6,
                     "keys": [
                       {
-                        "label": ["CZQO", "DEL"],
-                        "station_id": "Gander_DEL"
-                      },
-                      {
                         "label": ["DEL", "A"],
                         "station_id": "Gander_DEL_A"
                       },
@@ -316,6 +312,9 @@
                       {
                         "label": ["DEL", "F"],
                         "station_id": "Gander_DEL_F"
+                      },
+                      {
+                        "label": []
                       },
                       {
                         "label": ["A"],
@@ -340,6 +339,25 @@
                       {
                         "label": ["G"],
                         "station_id": "Gander_G"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["CZQO", "DEL"],
+                        "station_id": "Gander_DEL"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
                       }
                     ]
                   }
@@ -350,10 +368,6 @@
                   "page": {
                     "rows": 6,
                     "keys": [
-                      {
-                        "label": ["EGGX", "DEL"],
-                        "station_id": "Shanwick_DEL"
-                      },
                       {
                         "label": ["DEL", "A"],
                         "station_id": "Shanwick_DEL_A"
@@ -375,6 +389,9 @@
                         "station_id": "Shanwick_DEL_F"
                       },
                       {
+                        "label": []
+                      },
+                      {
                         "label": ["A"],
                         "station_id": "Shanwick_A"
                       },
@@ -393,6 +410,25 @@
                       {
                         "label": ["F"],
                         "station_id": "Shanwick_F"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": ["EGGX", "DEL"],
+                        "station_id": "Shanwick_DEL"
+                      },
+                      {
+                        "label": []
+                      },
+                      {
+                        "label": []
                       },
                       {
                         "label": []
