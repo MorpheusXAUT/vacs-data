@@ -551,153 +551,153 @@
               "keys": [
                 {
                   "label": ["B", "H"],
-                  "station_id": "EPWWB_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWB_HIGH"
                 },
                 {
                   "label": ["G", "H"],
-                  "station_id": "EPWWG_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWG_HIGH"
                 },
                 {
                   "label": ["B", "M"],
-                  "station_id": "EPWWB_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWB_MID"
                 },
                 {
                   "label": ["G", "M"],
-                  "station_id": "EPWWG_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWG_MID"
                 },
                 {
                   "label": ["B", "L"],
-                  "station_id": "EPWWB_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWB_LOW"
                 },
                 {
                   "label": ["G", "L"],
-                  "station_id": "EPWWG_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWG_LOW"
                 },
                 {
                   "label": ["C", "H"],
-                  "station_id": "EPWWC_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWC_HIGH"
                 },
                 {
                   "label": ["J", "H"],
-                  "station_id": "EPWWJ_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWJ_HIGH"
                 },
                 {
                   "label": ["C", "M"],
-                  "station_id": "EPWWC_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWC_MID"
                 },
                 {
                   "label": ["J", "M"],
-                  "station_id": "EPWWJ_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWJ_MID"
                 },
                 {
                   "label": ["C", "L"],
-                  "station_id": "EPWWC_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWC_LOW"
                 },
                 {
                   "label": ["J", "L"],
-                  "station_id": "EPWWJ_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWJ_LOW"
                 },
                 {
                   "label": ["D", "H"],
-                  "station_id": "EPWWD_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWD_HIGH"
                 },
                 {
                   "label": ["N", "H"],
-                  "station_id": "EPWWN_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWN_HIGH"
                 },
                 {
                   "label": ["D", "M"],
-                  "station_id": "EPWWD_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWD_MID"
                 },
                 {
                   "label": ["N", "M"],
-                  "station_id": "EPWWN_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWN_MID"
                 },
                 {
                   "label": ["D", "L"],
-                  "station_id": "EPWWD_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWD_LOW"
                 },
                 {
                   "label": ["N", "L"],
-                  "station_id": "EPWWN_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWN_LOW"
                 },
                 {
                   "label": ["E", "H"],
-                  "station_id": "EPWWE_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWE_HIGH"
                 },
                 {
                   "label": ["R", "H"],
-                  "station_id": "EPWWR_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWR_HIGH"
                 },
                 {
                   "label": ["E", "M"],
-                  "station_id": "EPWWE_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWE_MID"
                 },
                 {
                   "label": ["R", "M"],
-                  "station_id": "EPWWR_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWR_MID"
                 },
                 {
                   "label": ["E", "L"],
-                  "station_id": "EPWWE_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWE_LOW"
                 },
                 {
                   "label": ["R", "L"],
-                  "station_id": "EPWWR_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWR_LOW"
                 },
                 {
                   "label": ["F", "H"],
-                  "station_id": "EPWWF_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWF_HIGH"
                 },
                 {
                   "label": ["T", "H"],
-                  "station_id": "EPWWT_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWT_HIGH"
                 },
                 {
                   "label": ["F", "M"],
-                  "station_id": "EPWWF_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWF_MID"
                 },
                 {
                   "label": ["T", "M"],
-                  "station_id": "EPWWT_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWT_MID"
                 },
                 {
                   "label": ["F", "L"],
-                  "station_id": "EPWWF_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWF_LOW"
                 },
                 {
                   "label": ["T", "L"],
-                  "station_id": "EPWWT_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWT_LOW"
                 },
                 {
                   "label": ["C", "EPWW"],
@@ -708,18 +708,24 @@
                   "station_id": "EPWW_D"
                 },
                 {
-                  "label": []
-                },
-                {
                   "label": ["FMP", "EPWW"],
-                  "station_id": "EPWW_FMP",
-                  "color": "clay"
+                  "color": "clay",
+                  "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": []
+                  "label": ["NFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_N"
                 },
                 {
-                  "label": []
+                  "label": ["EFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_E"
+                },
+                {
+                  "label": ["SFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_S"
                 },
                 {
                   "label": ["DBF", "EPWW"],
@@ -911,13 +917,13 @@
               "keys": [
                 {
                   "label": ["GD", "TWR"],
-                  "station_id": "EPGD_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPGD_TWR"
                 },
                 {
                   "label": ["GD", "GND"],
-                  "station_id": "EPGD_GND",
-                  "color": "umber"
+                  "color": "umber",
+                  "station_id": "EPGD_GND"
                 },
                 {
                   "label": []
@@ -927,108 +933,108 @@
                 },
                 {
                   "label": ["BY", "TWR"],
-                  "station_id": "EPBY_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPBY_TWR"
                 },
                 {
                   "label": ["KK", "TWR"],
-                  "station_id": "EPKK_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPKK_TWR"
                 },
                 {
                   "label": ["KK", "GND"],
-                  "station_id": "EPKK_GND",
-                  "color": "umber"
+                  "color": "umber",
+                  "station_id": "EPKK_GND"
                 },
                 {
                   "label": ["KK", "DEL"],
-                  "station_id": "EPKK_DEL",
-                  "color": "taupe"
+                  "color": "taupe",
+                  "station_id": "EPKK_DEL"
                 },
                 {
                   "label": []
                 },
                 {
                   "label": ["LB", "TWR"],
-                  "station_id": "EPLB_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPLB_TWR"
                 },
                 {
                   "label": ["KT", "TWR"],
-                  "station_id": "EPKT_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPKT_TWR"
                 },
                 {
                   "label": ["KT", "GND"],
-                  "station_id": "EPKT_GND",
-                  "color": "umber"
+                  "color": "umber",
+                  "station_id": "EPKT_GND"
                 },
                 {
                   "label": ["KT", "DEL"],
-                  "station_id": "EPKT_DEL",
-                  "color": "taupe"
+                  "color": "taupe",
+                  "station_id": "EPKT_DEL"
                 },
                 {
                   "label": []
                 },
                 {
                   "label": ["LL", "TWR"],
-                  "station_id": "EPLL_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPLL_TWR"
                 },
                 {
                   "label": ["MO", "TWR"],
-                  "station_id": "EPMO_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPMO_TWR"
                 },
                 {
                   "label": []
                 },
                 {
                   "label": ["MO", "DEL"],
-                  "station_id": "EPMO_DEL",
-                  "color": "taupe"
+                  "color": "taupe",
+                  "station_id": "EPMO_DEL"
                 },
                 {
                   "label": []
                 },
                 {
                   "label": ["LL", "DEL"],
-                  "station_id": "EPLL_DEL",
-                  "color": "taupe"
+                  "color": "taupe",
+                  "station_id": "EPLL_DEL"
                 },
                 {
                   "label": ["PO", "TWR"],
-                  "station_id": "EPPO_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPPO_TWR"
                 },
                 {
                   "label": ["PO", "GND"],
-                  "station_id": "EPPO_GND",
-                  "color": "umber"
+                  "color": "umber",
+                  "station_id": "EPPO_GND"
                 },
                 {
                   "label": ["PO", "DEL"],
-                  "station_id": "EPPO_DEL",
-                  "color": "taupe"
+                  "color": "taupe",
+                  "station_id": "EPPO_DEL"
                 },
                 {
                   "label": []
                 },
                 {
                   "label": ["RA", "TWR"],
-                  "station_id": "EPRA_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPRA_TWR"
                 },
                 {
                   "label": ["RZ", "TWR"],
-                  "station_id": "EPRZ_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPRZ_TWR"
                 },
                 {
                   "label": ["RZ", "GND"],
-                  "station_id": "EPRZ_GND",
-                  "color": "umber"
+                  "color": "umber",
+                  "station_id": "EPRZ_GND"
                 },
                 {
                   "label": []
@@ -1038,54 +1044,54 @@
                 },
                 {
                   "label": ["SC", "TWR"],
-                  "station_id": "EPSC_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPSC_TWR"
                 },
                 {
                   "label": ["WA", "TWR"],
-                  "station_id": "EPWA_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPWA_TWR"
                 },
                 {
                   "label": ["WA", "GND"],
-                  "station_id": "EPWA_GND",
-                  "color": "umber"
+                  "color": "umber",
+                  "station_id": "EPWA_GND"
                 },
                 {
                   "label": ["WA", "DEL"],
-                  "station_id": "EPWA_DEL",
-                  "color": "taupe"
+                  "color": "taupe",
+                  "station_id": "EPWA_DEL"
                 },
                 {
                   "label": []
                 },
                 {
                   "label": ["SY", "TWR"],
-                  "station_id": "EPSY_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPSY_TWR"
                 },
                 {
                   "label": ["WR", "TWR"],
-                  "station_id": "EPWR_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPWR_TWR"
                 },
                 {
                   "label": ["WR", "GND"],
-                  "station_id": "EPWR_GND",
-                  "color": "umber"
+                  "color": "umber",
+                  "station_id": "EPWR_GND"
                 },
                 {
                   "label": ["WR", "DEL"],
-                  "station_id": "EPWR_DEL",
-                  "color": "taupe"
+                  "color": "taupe",
+                  "station_id": "EPWR_DEL"
                 },
                 {
                   "label": []
                 },
                 {
                   "label": ["ZG", "TWR"],
-                  "station_id": "EPZG_TWR",
-                  "color": "steel"
+                  "color": "steel",
+                  "station_id": "EPZG_TWR"
                 }
               ]
             }
