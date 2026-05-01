@@ -1,6 +1,13 @@
 {
   "positions": [
     {
+      "id": "OTDF_FMP",
+      "prefixes": ["OTDF"],
+      "frequency": "135.725",
+      "facility_type": "FMP",
+      "profile_id": "OTDF"
+    },
+    {
       "id": "OTDF_1_CTR",
       "prefixes": ["OTDF"],
       "frequency": "135.725",
