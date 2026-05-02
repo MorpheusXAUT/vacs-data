@@ -106,9 +106,9 @@
             "station_id": "EGTT_I_CTR"
           },
           {
-            "label": ["LON", "MIL"],
+            "label": ["RAF", "VALLEY"],
             "color": "snow",
-            "station_id": "EGVV_CTR"
+            "station_id": "EGOV_APP"
           },
           {
             "label": ["CDS"],
