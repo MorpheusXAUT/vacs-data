@@ -184,18 +184,19 @@
             "station_id": "EG-Antrim"
           },
           {
-            "label": ["LON", "7"],
+            "label": ["LON", "4"],
             "color": "taupe",
-            "station_id": "EG-Sector-07"
+            "station_id": "EG-Sector-04"
           },
           {
-            "label": ["LON", "8"],
+            "label": ["LON", "35"],
             "color": "taupe",
-            "station_id": "EG-Sector-08"
+            "station_id": "EG-Sector-35"
           },
           {
-            "label": ["WSTRN", "RADAR"],
-            "color": "taupe"
+            "label": ["LON", "9"],
+            "color": "taupe",
+            "station_id": "EG-Sector-09"
           },
           {
             "label": ["LON", "FIS"],
@@ -223,24 +224,23 @@
             "station_id": "EG-MPC-IoM"
           },
           {
-            "label": ["LON", "4"],
+            "label": ["LON", "7"],
             "color": "taupe",
-            "station_id": "EG-Sector-04"
+            "station_id": "EG-Sector-07"
           },
           {
-            "label": ["LON", "35"],
+            "label": ["LON", "8"],
             "color": "taupe",
-            "station_id": "EG-Sector-35"
+            "station_id": "EG-Sector-08"
           },
           {
-            "label": ["LON", "9"],
-            "color": "taupe",
-            "station_id": "EG-Sector-09"
+            "label": ["WSTRN", "RAD"],
+            "color": "taupe"
           },
           {
-            "label": ["LON", "MIL"],
+            "label": ["RAF", "VALLEY"],
             "color": "umber",
-            "station_id": "EGVV_CTR"
+            "station_id": "EGOV_APP"
           },
           {
             "label": ["EINN", "GND"],
