@@ -924,7 +924,15 @@ controlled_by = ["EGAE_A_APP"]
 
 [[stations]]
 id = "EGAE_reverse"
-controlled_by = ["EGAE_A_APP", "SCL_CTR", "SCO_RAT_CTR", "SCO_W_CTR", "SCO_WB_CTR", "SCO_CTR", "EGAE_TWR"]
+controlled_by = [
+  "EGAE_A_APP",
+  "SCL_CTR",
+  "SCO_RAT_CTR",
+  "SCO_W_CTR",
+  "SCO_WB_CTR",
+  "SCO_CTR",
+  "EGAE_TWR",
+]
 
 [[stations]]
 id = "EGBB_APP"
