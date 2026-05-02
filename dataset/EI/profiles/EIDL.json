@@ -30,7 +30,7 @@
           {
             "label": ["EGAE"],
             "color": "azure",
-            "station_id": "EGAE_TWR"
+            "station_id": "EGAE_reverse"
           }
         ]
       }
