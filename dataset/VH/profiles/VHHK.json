@@ -193,23 +193,23 @@
         "keys": [
           {
             "label": ["PEW"],
-            "station_id": "RCAA_W_CTR"
+            "station_id": "TPE_W_CTR"
           },
           {
             "label": ["PEL"],
-            "station_id": "RCAA_L_CTR"
+            "station_id": "TPE_L_CTR"
           },
           {
             "label": ["PEE"],
-            "station_id": "RCAA_E_CTR"
+            "station_id": "TPE_E_CTR"
           },
           {
             "label": ["PEN"],
-            "station_id": "RCAA_N_CTR"
+            "station_id": "TPE_N_CTR"
           },
           {
             "label": ["PES"],
-            "station_id": "RCAA_S_CTR"
+            "station_id": "TPE_S_CTR"
           },
           {
             "label": ["SEA"],
