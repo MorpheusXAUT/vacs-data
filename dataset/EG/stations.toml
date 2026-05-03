@@ -923,6 +923,18 @@ parent_id = "SCO_RAT_CTR"
 controlled_by = ["EGAE_A_APP"]
 
 [[stations]]
+id = "EGAE_reverse"
+controlled_by = [
+  "EGAE_A_APP",
+  "SCL_CTR",
+  "SCO_RAT_CTR",
+  "SCO_W_CTR",
+  "SCO_WB_CTR",
+  "SCO_CTR",
+  "EGAE_TWR",
+]
+
+[[stations]]
 id = "EGBB_APP"
 parent_id = "LTC_MC_CTR"
 controlled_by = ["EGBB_APP", "EGBB_F_APP"]
@@ -1254,6 +1266,11 @@ controlled_by = ["EGNX_APP", "EGNX_F_APP"]
 id = "EGNX_F_APP"
 parent_id = "EGNX_APP"
 controlled_by = ["EGNX_F_APP"]
+
+[[stations]]
+id = "EGOV_APP"
+parent_id = "EGVV_W_CTR"
+controlled_by = ["EGOV_APP", "EGOV_P_APP"]
 
 [[stations]]
 id = "EGPA_A_APP"
