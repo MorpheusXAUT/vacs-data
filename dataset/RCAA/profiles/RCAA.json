@@ -156,7 +156,7 @@
           },
           {
             "label": []
-          },
+          },          
           {
             "label": ["KHR"],
             "station_id": "KHR"
@@ -320,41 +320,42 @@
       "page": {
         "rows": 7,
         "keys": [
+          
           {
             "label": ["HKG", "W_CTR"],
-            "station_id": "HKG_W_CTR"
+            "station_id": "VHHK_W_CTR"
           },
           {
             "label": ["HKG", "V_CTR"],
-            "station_id": "HKG_V_CTR"
+            "station_id": "VHHK_V_CTR"
           },
           {
             "label": ["HKG", "D_CTR"],
-            "station_id": "HKG_D_CTR"
+            "station_id": "VHHK_D_CTR"
           },
           {
             "label": ["HKG", "S_CTR"],
-            "station_id": "HKG_S_CTR"
+            "station_id": "VHHK_S_CTR"
           },
           {
             "label": ["HKG", "Z_CTR"],
-            "station_id": "HKG_Z_CTR"
+            "station_id": "VHHK_Z_CTR"
           },
           {
             "label": ["HKG", "C_CTR"],
-            "station_id": "HKG_C_CTR"
+            "station_id": "VHHK_C_CTR"
           },
           {
             "label": ["HKG", "E_CTR"],
-            "station_id": "HKG_E_CTR"
+            "station_id": "VHHK_E_CTR"
           },
           {
             "label": ["HKG", "K_CTR"],
-            "station_id": "HKG_K_CTR"
+            "station_id": "VHHK_K_CTR"
           },
           {
             "label": ["HKG", "U_CTR"],
-            "station_id": "HKG_U_CTR"
+            "station_id": "VHHK_U_CTR"
           },
           {
             "label": []
@@ -364,15 +365,15 @@
           },
           {
             "label": ["MNL", "CTR"],
-            "station_id": "MNL_CTR"
+            "station_id": "RPHI_CTR"
           },
           {
             "label": ["MNL", "1_CTR"],
-            "station_id": "MNL_1_CTR"
+            "station_id": "RPHI_1_CTR"
           },
           {
             "label": ["MNL", "N_CTR"],
-            "station_id": "MNL_N_CTR"
+            "station_id": "RPHI_N_CTR"
           },
           {
             "label": ["ZSHA", "CTR"],
