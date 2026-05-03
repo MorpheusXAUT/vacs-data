@@ -35,7 +35,9 @@
             "station_id": "EPWWT_LOW"
           },
           {
-            "label": ["", ""]
+            "label": ["ESMM 7", "-365"],
+            "color": "lilac",
+            "station_id": "ESMM_7"
           },
           {
             "label": ["F", "L"],
@@ -60,12 +62,14 @@
             "station_id": "EPWWJ_LOW"
           },
           {
-            "label": ["ESMM 7", "-365"],
-            "color": "lilac",
-            "station_id": "ESMM_7"
+            "label": ["UMKK", ""],
+            "color": "lavender",
+            "station_id": "UMKK_ACC"
           },
           {
-            "label": ["", ""]
+            "label": ["UMKK", "APP", "-265"],
+            "color": "lavender",
+            "station_id": "UMKK_APP"
           },
           {
             "label": ["N", "L"],
