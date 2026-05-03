@@ -570,53 +570,29 @@
             }
           },
           {
-            "label": [
-              "RHEIN",
-              "BREMEN",
-              "MUNICH"
-            ],
+            "label": ["RHEIN", "BREMEN", "MUNICH"],
             "color": "cadet",
             "page": {
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "EDUU",
-                    "OSE22",
-                    "+365"
-                  ],
+                  "label": ["EDUU", "OSE22", "+365"],
                   "station_id": "EDUU-OSE22"
                 },
                 {
-                  "label": [
-                    "EDUU",
-                    "OSE12",
-                    "285-365"
-                  ],
+                  "label": ["EDUU", "OSE12", "285-365"],
                   "station_id": "EDUU-OSE12"
                 },
                 {
-                  "label": [
-                    "EDUU",
-                    "HVL22",
-                    "+365"
-                  ],
+                  "label": ["EDUU", "HVL22", "+365"],
                   "station_id": "EDUU-HVL22"
                 },
                 {
-                  "label": [
-                    "EDUU",
-                    "HVL12",
-                    "285-365"
-                  ],
+                  "label": ["EDUU", "HVL12", "285-365"],
                   "station_id": "EDUU-HVL12"
                 },
                 {
-                  "label": [
-                    "EDUU",
-                    "SPE",
-                    "+315"
-                  ],
+                  "label": ["EDUU", "SPE", "+315"],
                   "station_id": "EDUU-SPE"
                 },
                 {
@@ -660,11 +636,7 @@
                   "station_id": "EDMM-MEI"
                 },
                 {
-                  "label": [
-                    "EDMM",
-                    "SAS",
-                    "-165"
-                  ],
+                  "label": ["EDMM", "SAS", "-165"],
                   "station_id": "EDMM-SAS"
                 },
                 {
@@ -686,35 +658,19 @@
                   "label": []
                 },
                 {
-                  "label": [
-                    "EDDB N",
-                    "APP",
-                    "-135"
-                  ],
+                  "label": ["EDDB N", "APP", "-135"],
                   "station_id": "EDWW-DBAN"
                 },
                 {
-                  "label": [
-                    "EDDB N",
-                    "DEP",
-                    "-165"
-                  ],
+                  "label": ["EDDB N", "DEP", "-165"],
                   "station_id": "EDWW-DBDN"
                 },
                 {
-                  "label": [
-                    "EDDB S",
-                    "DEP",
-                    "-165"
-                  ],
+                  "label": ["EDDB S", "DEP", "-165"],
                   "station_id": "EDWW-DBDS"
                 },
                 {
-                  "label": [
-                    "EDDB S",
-                    "APP",
-                    "-135"
-                  ],
+                  "label": ["EDDB S", "APP", "-135"],
                   "station_id": "EDWW-DBAS"
                 },
                 {
@@ -970,27 +926,15 @@
                   "label": []
                 },
                 {
-                  "label": [
-                    "EPBC",
-                    "BABICE",
-                    "INFO"
-                  ],
+                  "label": ["EPBC", "BABICE", "INFO"],
                   "station_id": "EPBC"
                 },
                 {
-                  "label": [
-                    "EPML",
-                    "MIELEC",
-                    "INFO"
-                  ],
+                  "label": ["EPML", "MIELEC", "INFO"],
                   "station_id": "EPML"
                 },
                 {
-                  "label": [
-                    "EPBK",
-                    "BIALY",
-                    "STOK"
-                  ],
+                  "label": ["EPBK", "BIALY", "STOK"],
                   "station_id": "EPBK"
                 },
                 {
@@ -1010,11 +954,7 @@
                   "station_id": "EPGY"
                 },
                 {
-                  "label": [
-                    "EPJA",
-                    "JASTA",
-                    "RNIA"
-                  ],
+                  "label": ["EPJA", "JASTA", "RNIA"],
                   "station_id": "EPJA"
                 },
                 {
@@ -1034,27 +974,15 @@
                   "station_id": "EPKA"
                 },
                 {
-                  "label": [
-                    "EPNT",
-                    "NOWY",
-                    "TARG"
-                  ],
+                  "label": ["EPNT", "NOWY", "TARG"],
                   "station_id": "EPNT"
                 },
                 {
-                  "label": [
-                    "EPKP",
-                    "POBIE",
-                    "DNIK"
-                  ],
+                  "label": ["EPKP", "POBIE", "DNIK"],
                   "station_id": "EPKP"
                 },
                 {
-                  "label": [
-                    "EPPZ",
-                    "PRZAS",
-                    "NYSZ"
-                  ],
+                  "label": ["EPPZ", "PRZAS", "NYSZ"],
                   "station_id": "EPPZ"
                 },
                 {
@@ -1086,11 +1014,7 @@
                   "station_id": "UMKK_ACC"
                 },
                 {
-                  "label": [
-                    "UMKK",
-                    "APP",
-                    "-265"
-                  ],
+                  "label": ["UMKK", "APP", "-265"],
                   "station_id": "UMKK_APP"
                 },
                 {
@@ -1201,22 +1125,14 @@
                   "label": []
                 },
                 {
-                  "label": [
-                    "LZTT",
-                    "TWR",
-                    "-135"
-                  ],
+                  "label": ["LZTT", "TWR", "-135"],
                   "station_id": "LZTT_TWR"
                 },
                 {
                   "label": []
                 },
                 {
-                  "label": [
-                    "LKMT",
-                    "APP",
-                    "-125"
-                  ],
+                  "label": ["LKMT", "APP", "-125"],
                   "station_id": "LKAA MT"
                 },
                 {
@@ -2110,27 +2026,15 @@
                   "label": []
                 },
                 {
-                  "label": [
-                    "EPBC",
-                    "BABICE",
-                    "INFO"
-                  ],
+                  "label": ["EPBC", "BABICE", "INFO"],
                   "station_id": "EPBC"
                 },
                 {
-                  "label": [
-                    "EPML",
-                    "MIELEC",
-                    "INFO"
-                  ],
+                  "label": ["EPML", "MIELEC", "INFO"],
                   "station_id": "EPML"
                 },
                 {
-                  "label": [
-                    "EPBK",
-                    "BIALY",
-                    "STOK"
-                  ],
+                  "label": ["EPBK", "BIALY", "STOK"],
                   "station_id": "EPBK"
                 },
                 {
@@ -2150,11 +2054,7 @@
                   "station_id": "EPGY"
                 },
                 {
-                  "label": [
-                    "EPJA",
-                    "JASTA",
-                    "RNIA"
-                  ],
+                  "label": ["EPJA", "JASTA", "RNIA"],
                   "station_id": "EPJA"
                 },
                 {
@@ -2174,27 +2074,15 @@
                   "station_id": "EPKA"
                 },
                 {
-                  "label": [
-                    "EPNT",
-                    "NOWY",
-                    "TARG"
-                  ],
+                  "label": ["EPNT", "NOWY", "TARG"],
                   "station_id": "EPNT"
                 },
                 {
-                  "label": [
-                    "EPKP",
-                    "POBIE",
-                    "DNIK"
-                  ],
+                  "label": ["EPKP", "POBIE", "DNIK"],
                   "station_id": "EPKP"
                 },
                 {
-                  "label": [
-                    "EPPZ",
-                    "PRZAS",
-                    "NYSZ"
-                  ],
+                  "label": ["EPPZ", "PRZAS", "NYSZ"],
                   "station_id": "EPPZ"
                 },
                 {
@@ -2513,19 +2401,11 @@
               "rows": 6,
               "keys": [
                 {
-                  "label": [
-                    "EDDB",
-                    "N APP",
-                    "-135"
-                  ],
+                  "label": ["EDDB", "N APP", "-135"],
                   "station_id": "EDWW-DBAN"
                 },
                 {
-                  "label": [
-                    "EDDB",
-                    "S APP",
-                    "-135"
-                  ],
+                  "label": ["EDDB", "S APP", "-135"],
                   "station_id": "EDWW-DBAS"
                 },
                 {
@@ -2541,19 +2421,11 @@
                   "label": []
                 },
                 {
-                  "label": [
-                    "EDDB",
-                    "N DEP",
-                    "-165"
-                  ],
+                  "label": ["EDDB", "N DEP", "-165"],
                   "station_id": "EDWW-DBDN"
                 },
                 {
-                  "label": [
-                    "EDDB",
-                    "S DEP",
-                    "-165"
-                  ],
+                  "label": ["EDDB", "S DEP", "-165"],
                   "station_id": "EDWW-DBDS"
                 },
                 {
@@ -2781,12 +2653,7 @@
             "UMMV*CTR",
             "UMBB*TWR"
           ],
-          "exclude": [
-            "LKAA*S*CTR",
-            "LKAA*W*CTR",
-            "UMMV*S*CTR",
-            "EDMM_NDG_CTR"
-          ],
+          "exclude": ["LKAA*S*CTR", "LKAA*W*CTR", "UMMV*S*CTR", "EDMM_NDG_CTR"],
           "grouping": "Fir",
           "priority": [
             "EPWW*",
