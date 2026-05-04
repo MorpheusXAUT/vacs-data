@@ -48,7 +48,8 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["SA", "WS"],
+            "station_id": "ESSA_TWR-W"
           },
           {
             "label": ["OS", "K"],
@@ -66,12 +67,12 @@
             "label": []
           },
           {
-            "label": ["OS", "ARR-W"],
-            "station_id": "ESOS_ARR-W"
+            "label": ["OS", "APP-S"],
+            "station_id": "ESOS_APP-S"
           },
           {
-            "label": ["OS", "DEP-E"],
-            "station_id": "ESOS_DEP-E"
+            "label": ["OS", "APP-C"],
+            "station_id": "ESOS_APP-C"
           },
           {
             "label": ["OS", "XK"],
@@ -89,8 +90,8 @@
             "label": []
           },
           {
-            "label": ["OS", "ARR-E"],
-            "station_id": "ESOS_ARR-E"
+            "label": ["OS", "ARR-W"],
+            "station_id": "ESOS_ARR-W"
           },
           {
             "label": ["OS", "DEP-W"],
@@ -110,12 +111,12 @@
             "label": []
           },
           {
-            "label": ["OS", "APP-C"],
-            "station_id": "ESOS_APP-C"
+            "label": ["OS", "ARR-E"],
+            "station_id": "ESOS_ARR-E"
           },
           {
-            "label": ["OS", "APP-S"],
-            "station_id": "ESOS_APP-S"
+            "label": ["OS", "DEP-E"],
+            "station_id": "ESOS_DEP-E"
           }
         ]
       }
