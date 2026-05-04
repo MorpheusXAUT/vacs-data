@@ -695,6 +695,18 @@
       ]
     },
     {
+      "id": "ESSA_WS",
+      "controlled_by": [
+        "ESSA_E_TWR",
+        "ESSA_S_TWR",
+        "ESSA_W_TWR",
+        "ESSA_W_GND",
+        "ESSA_N_GND",
+        "ESSA_E_GND",
+        "ESSA_DEL"
+      ]
+    },
+    {
       "id": "ESOS_DIR-E",
       "controlled_by": ["ESSA_F_APP", "ESSA_A_APP"]
     },
