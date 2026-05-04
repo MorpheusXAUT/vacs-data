@@ -660,6 +660,11 @@
       "parent_id": "ESSA_TWR-W"
     },
     {
+      "id": "ESOS_APP-C",
+      "controlled_by": ["ESSA_E_APP"],
+      "parent_id": "ESOS_9"
+    },
+    {
       "id": "ESOS_ARR-E",
       "controlled_by": ["ESSA_E_APP"],
       "parent_id": "ESOS_9"
