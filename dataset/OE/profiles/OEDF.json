@@ -1,0 +1,20 @@
+{
+  "id": "OEDF",
+  "type": "Tabbed",
+  "tabs": [
+    {
+      "label": ["OEDF"],
+      "page": {
+        "rows": 6,
+        "keys": [
+          { "label": ["GND"], "station_id": "OEDF_1_GND" },
+          { "label": ["GND"], "station_id": "OEDF_2_GND" },
+          { "label": ["TWR"], "station_id": "OEDF_1_TWR" },
+          { "label": ["TWR"], "station_id": "OEDF_2_TWR" },
+          { "label": ["APP"], "station_id": "OEDF_L_APP" },
+          { "label": ["APP"], "station_id": "OEDF_APP" }
+        ]
+      }
+    }
+  ]
+}

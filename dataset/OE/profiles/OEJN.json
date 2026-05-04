@@ -24,7 +24,7 @@
 
           { "label": ["APP", "FMC"], "station_id": "OEJN_FMC_APP" },
 
-          { "label": ["ENROUTE", "CTR"], "station_id": "OERK_1_CTR" }
+          { "label": ["ENROUTE", "CTR"], "station_id": "OEJN_1_CTR" }
         ]
       }
     }
