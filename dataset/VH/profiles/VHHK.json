@@ -193,23 +193,23 @@
         "keys": [
           {
             "label": ["PEW"],
-            "station_id": "TPE_W_CTR"
+            "station_id": "AWR"
           },
           {
             "label": ["PEL"],
-            "station_id": "TPE_L_CTR"
+            "station_id": "ALR"
           },
           {
             "label": ["PEE"],
-            "station_id": "TPE_E_CTR"
+            "station_id": "AER"
           },
           {
             "label": ["PEN"],
-            "station_id": "TPE_N_CTR"
+            "station_id": "ANR"
           },
           {
             "label": ["PES"],
-            "station_id": "TPE_S_CTR"
+            "station_id": "ASR"
           },
           {
             "label": ["SEA"],
