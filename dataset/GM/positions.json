@@ -286,6 +286,7 @@
       "prefixes": ["GMMN"],
       "frequency": "119.900",
       "facility_type": "APP",
+      "profile_id": "GMMN",
       "default_call_sources": ["GMMN_APP"]
     },
     {
@@ -293,6 +294,7 @@
       "prefixes": ["GMMN"],
       "frequency": "121.300",
       "facility_type": "APP",
+      "profile_id": "GMMN",
       "default_call_sources": ["GMMN_F_APP"]
     },
     {
