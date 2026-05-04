@@ -34,7 +34,7 @@
             "station_id": "ESOS_ARR-E"
           },
           {
-            "label": ["DIR-W", ""],
+            "label": ["DIR", ""],
             "station_id": "ESOS_DIR-W"
           },
           {
