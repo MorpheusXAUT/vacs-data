@@ -409,7 +409,8 @@
             "station_id": "EPGD_UTMA"
           },
           {
-            "label": ["UMKK"]
+            "label": ["UMKK"],
+            "station_id": "UMKK_ACC"
           }
         ]
       }

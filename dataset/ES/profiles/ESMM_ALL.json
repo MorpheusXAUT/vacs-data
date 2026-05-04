@@ -539,7 +539,8 @@
             "station_id": "EYVL-L"
           },
           {
-            "label": ["UMKK"]
+            "label": ["UMKK"],
+            "station_id": "UMKK_ACC"
           }
         ]
       }
