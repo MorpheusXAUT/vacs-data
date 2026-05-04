@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "REGIO",
+      "label": ["REGIO"],
       "page": {
         "rows": 8,
         "keys": [
@@ -197,29 +197,38 @@
           },
           {
             "label": ["FIC"],
+            "color": "lagoon",
             "station_id": "EBBU-FIC"
           },
           {
             "label": ["ACC", "SUP"],
+            "color": "lagoon",
             "station_id": "EBBU-FMP"
           },
           {
-            "label": []
+            "label": ["ELS"],
+            "color": "lagoon",
+            "station_id": "EBBU-ELS"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           }
         ]
       }

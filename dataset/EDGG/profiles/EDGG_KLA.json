@@ -71,14 +71,18 @@
             "station_id": "EDGG-PAH"
           },
           {
-            "label": [""]
+            "label": ["PADL"],
+            "color": "clay",
+            "station_id": "EDGG-PADL"
+          },
+          {
+            "label": ["HMM"],
+            "color": "clay",
+            "station_id": "EDGG-HMM"
           },
           {
             "label": ["EHAA", "ACE"],
             "color": "mint"
-          },
-          {
-            "label": [""]
           },
           {
             "label": ["EDGG", "RUD"],

@@ -48,7 +48,7 @@
           {
             "label": ["EDLP", "TWR"],
             "color": "azure",
-            "station_id": "EDGG-PADL"
+            "station_id": "EDGG-LPT"
           },
           {
             "label": ["EDLP", "GND"],

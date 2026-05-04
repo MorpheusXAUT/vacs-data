@@ -172,12 +172,14 @@
               "rows": 3,
               "keys": [
                 {
-                  "label": ["RD NE", "345+", "[INOP]"],
-                  "color": "lagoon"
+                  "label": ["RD NE", "345+"],
+                  "color": "lagoon",
+                  "station_id": "OERD_NE_CTR"
                 },
                 {
-                  "label": ["JD NE", "245-345", "[INOP]"],
-                  "color": "mint"
+                  "label": ["JD NE", "245-345"],
+                  "color": "mint",
+                  "station_id": "OEJD_NE_CTR"
                 },
                 {
                   "label": ["DMM CTA", "245-", "[INOP]"],

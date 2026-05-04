@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "REGIO",
+      "label": ["REGIO"],
       "page": {
         "rows": 8,
         "keys": [
@@ -192,7 +192,8 @@
             "station_id": "EBBR-TWR"
           },
           {
-            "label": ["EBBR", "SUP"]
+            "label": ["EBBR", "SUP"],
+            "station_id": "EBBR-FMP"
           },
           {
             "label": ["ELLX", "DCL"],
@@ -211,28 +212,40 @@
             "station_id": "ELLX-F-APP"
           },
           {
-            "label": []
+            "label": ["WLS"],
+            "color": "lagoon",
+            "station_id": "EBBU-WLS"
           },
           {
-            "label": []
+            "label": ["ELS"],
+            "color": "lagoon",
+            "station_id": "EBBU-ELS"
           },
           {
-            "label": []
+            "label": ["LUS"],
+            "color": "lagoon",
+            "station_id": "EBBU-LUS"
           },
           {
-            "label": []
+            "label": ["DEP"],
+            "color": "lagoon",
+            "station_id": "EBBR-DEP"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
             "label": ["ACC", "SUP"],
+            "color": "lagoon",
             "station_id": "EBBU-FMP"
           }
         ]

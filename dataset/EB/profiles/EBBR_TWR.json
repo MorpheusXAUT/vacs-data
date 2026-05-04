@@ -3,7 +3,7 @@
   "type": "Tabbed",
   "tabs": [
     {
-      "label": "EBBR",
+      "label": ["EBBR"],
       "page": {
         "rows": 8,
         "keys": [
@@ -27,6 +27,7 @@
           },
           {
             "label": ["EBAW", "GND"],
+            "color": "snow",
             "station_id": "EBAW-TWR"
           },
           {
@@ -43,18 +44,22 @@
           },
           {
             "label": ["T", "25R"],
+            "color": "azure",
             "station_id": "EBBR-NTWR"
           },
           {
             "label": ["T", "25L"],
+            "color": "azure",
             "station_id": "EBBR-TWR"
           },
           {
             "label": ["T", "01"],
+            "color": "azure",
             "station_id": "EBBR-TWR"
           },
           {
-            "label": ["EBGB"]
+            "label": ["EBGB"],
+            "color": "lilac"
           },
           {
             "label": []
@@ -70,14 +75,17 @@
           },
           {
             "label": ["T", "GN"],
+            "color": "azure",
             "station_id": "EBBR-N-GND"
           },
           {
             "label": ["T", "GS"],
+            "color": "azure",
             "station_id": "EBBR-S-GND"
           },
           {
             "label": ["T", "GC"],
+            "color": "azure",
             "station_id": "EBBR-C-GND"
           },
           {
@@ -97,13 +105,16 @@
           },
           {
             "label": ["T", "DCL"],
+            "color": "azure",
             "station_id": "EBBR-DEL"
           },
           {
-            "label": []
+            "label": [],
+            "color": "azure"
           },
           {
             "label": ["T", "SUP"],
+            "color": "azure",
             "station_id": "EBBR-FMP"
           },
           {
@@ -123,14 +134,17 @@
           },
           {
             "label": ["DEP"],
+            "color": "steel",
             "station_id": "EBBR-DEP"
           },
           {
             "label": ["ARR"],
+            "color": "steel",
             "station_id": "EBBR-APP"
           },
           {
             "label": ["FIN"],
+            "color": "steel",
             "station_id": "EBBR-F-APP"
           },
           {
@@ -177,10 +191,12 @@
           },
           {
             "label": ["SUP", "ACC"],
+            "color": "snow",
             "station_id": "EBBU-FMP"
           },
           {
             "label": ["FIC"],
+            "color": "snow",
             "station_id": "EBBU-FIC"
           },
           {
@@ -190,28 +206,40 @@
             "label": []
           },
           {
-            "label": []
+            "label": ["ARR"],
+            "color": "lagoon",
+            "station_id": "EBBR-APP"
           },
           {
-            "label": []
+            "label": ["FIN"],
+            "color": "lagoon",
+            "station_id": "EBBR-F-APP"
           },
           {
-            "label": []
+            "label": ["DEP"],
+            "color": "lagoon",
+            "station_id": "EBBR-DEP"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": ["T", "SUP"],
+            "color": "lagoon",
+            "station_id": "EBBR-FMP"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           },
           {
-            "label": []
+            "label": [],
+            "color": "lagoon"
           }
         ]
       }

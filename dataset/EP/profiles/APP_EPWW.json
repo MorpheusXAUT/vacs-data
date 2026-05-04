@@ -35,7 +35,9 @@
             "station_id": "EPWWT_LOW"
           },
           {
-            "label": ["", ""]
+            "label": ["ESMM 7", "-365"],
+            "color": "lilac",
+            "station_id": "ESMM_7"
           },
           {
             "label": ["F", "L"],
@@ -60,12 +62,14 @@
             "station_id": "EPWWJ_LOW"
           },
           {
-            "label": ["ESMM 7", "-365"],
-            "color": "lilac",
-            "station_id": "ESMM_7"
+            "label": ["UMKK", ""],
+            "color": "lavender",
+            "station_id": "UMKK_ACC"
           },
           {
-            "label": ["", ""]
+            "label": ["UMKK", "APP", "-265"],
+            "color": "lavender",
+            "station_id": "UMKK_APP"
           },
           {
             "label": ["N", "L"],
@@ -99,153 +103,153 @@
               "keys": [
                 {
                   "label": ["B", "H"],
-                  "station_id": "EPWWB_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWB_HIGH"
                 },
                 {
                   "label": ["G", "H"],
-                  "station_id": "EPWWG_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWG_HIGH"
                 },
                 {
                   "label": ["B", "M"],
-                  "station_id": "EPWWB_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWB_MID"
                 },
                 {
                   "label": ["G", "M"],
-                  "station_id": "EPWWG_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWG_MID"
                 },
                 {
                   "label": ["B", "L"],
-                  "station_id": "EPWWB_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWB_LOW"
                 },
                 {
                   "label": ["G", "L"],
-                  "station_id": "EPWWG_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWG_LOW"
                 },
                 {
                   "label": ["C", "H"],
-                  "station_id": "EPWWC_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWC_HIGH"
                 },
                 {
                   "label": ["J", "H"],
-                  "station_id": "EPWWJ_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWJ_HIGH"
                 },
                 {
                   "label": ["C", "M"],
-                  "station_id": "EPWWC_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWC_MID"
                 },
                 {
                   "label": ["J", "M"],
-                  "station_id": "EPWWJ_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWJ_MID"
                 },
                 {
                   "label": ["C", "L"],
-                  "station_id": "EPWWC_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWC_LOW"
                 },
                 {
                   "label": ["J", "L"],
-                  "station_id": "EPWWJ_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWJ_LOW"
                 },
                 {
                   "label": ["D", "H"],
-                  "station_id": "EPWWD_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWD_HIGH"
                 },
                 {
                   "label": ["N", "H"],
-                  "station_id": "EPWWN_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWN_HIGH"
                 },
                 {
                   "label": ["D", "M"],
-                  "station_id": "EPWWD_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWD_MID"
                 },
                 {
                   "label": ["N", "M"],
-                  "station_id": "EPWWN_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWN_MID"
                 },
                 {
                   "label": ["D", "L"],
-                  "station_id": "EPWWD_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWD_LOW"
                 },
                 {
                   "label": ["N", "L"],
-                  "station_id": "EPWWN_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWN_LOW"
                 },
                 {
                   "label": ["E", "H"],
-                  "station_id": "EPWWE_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWE_HIGH"
                 },
                 {
                   "label": ["R", "H"],
-                  "station_id": "EPWWR_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWR_HIGH"
                 },
                 {
                   "label": ["E", "M"],
-                  "station_id": "EPWWE_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWE_MID"
                 },
                 {
                   "label": ["R", "M"],
-                  "station_id": "EPWWR_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWR_MID"
                 },
                 {
                   "label": ["E", "L"],
-                  "station_id": "EPWWE_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWE_LOW"
                 },
                 {
                   "label": ["R", "L"],
-                  "station_id": "EPWWR_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWR_LOW"
                 },
                 {
                   "label": ["F", "H"],
-                  "station_id": "EPWWF_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWF_HIGH"
                 },
                 {
                   "label": ["T", "H"],
-                  "station_id": "EPWWT_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWT_HIGH"
                 },
                 {
                   "label": ["F", "M"],
-                  "station_id": "EPWWF_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWF_MID"
                 },
                 {
                   "label": ["T", "M"],
-                  "station_id": "EPWWT_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWT_MID"
                 },
                 {
                   "label": ["F", "L"],
-                  "station_id": "EPWWF_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWF_LOW"
                 },
                 {
                   "label": ["T", "L"],
-                  "station_id": "EPWWT_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWT_LOW"
                 },
                 {
                   "label": ["C", "EPWW"],
@@ -256,18 +260,24 @@
                   "station_id": "EPWW_D"
                 },
                 {
-                  "label": []
-                },
-                {
                   "label": ["FMP", "EPWW"],
-                  "station_id": "EPWW_FMP",
-                  "color": "clay"
+                  "color": "clay",
+                  "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": []
+                  "label": ["NFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_N"
                 },
                 {
-                  "label": []
+                  "label": ["EFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_E"
+                },
+                {
+                  "label": ["SFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_S"
                 },
                 {
                   "label": ["DBF", "EPWW"],
@@ -532,153 +542,153 @@
               "keys": [
                 {
                   "label": ["B", "H"],
-                  "station_id": "EPWWB_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWB_HIGH"
                 },
                 {
                   "label": ["G", "H"],
-                  "station_id": "EPWWG_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWG_HIGH"
                 },
                 {
                   "label": ["B", "M"],
-                  "station_id": "EPWWB_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWB_MID"
                 },
                 {
                   "label": ["G", "M"],
-                  "station_id": "EPWWG_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWG_MID"
                 },
                 {
                   "label": ["B", "L"],
-                  "station_id": "EPWWB_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWB_LOW"
                 },
                 {
                   "label": ["G", "L"],
-                  "station_id": "EPWWG_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWG_LOW"
                 },
                 {
                   "label": ["C", "H"],
-                  "station_id": "EPWWC_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWC_HIGH"
                 },
                 {
                   "label": ["J", "H"],
-                  "station_id": "EPWWJ_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWJ_HIGH"
                 },
                 {
                   "label": ["C", "M"],
-                  "station_id": "EPWWC_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWC_MID"
                 },
                 {
                   "label": ["J", "M"],
-                  "station_id": "EPWWJ_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWJ_MID"
                 },
                 {
                   "label": ["C", "L"],
-                  "station_id": "EPWWC_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWC_LOW"
                 },
                 {
                   "label": ["J", "L"],
-                  "station_id": "EPWWJ_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWJ_LOW"
                 },
                 {
                   "label": ["D", "H"],
-                  "station_id": "EPWWD_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWD_HIGH"
                 },
                 {
                   "label": ["N", "H"],
-                  "station_id": "EPWWN_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWN_HIGH"
                 },
                 {
                   "label": ["D", "M"],
-                  "station_id": "EPWWD_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWD_MID"
                 },
                 {
                   "label": ["N", "M"],
-                  "station_id": "EPWWN_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWN_MID"
                 },
                 {
                   "label": ["D", "L"],
-                  "station_id": "EPWWD_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWD_LOW"
                 },
                 {
                   "label": ["N", "L"],
-                  "station_id": "EPWWN_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWN_LOW"
                 },
                 {
                   "label": ["E", "H"],
-                  "station_id": "EPWWE_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWE_HIGH"
                 },
                 {
                   "label": ["R", "H"],
-                  "station_id": "EPWWR_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWR_HIGH"
                 },
                 {
                   "label": ["E", "M"],
-                  "station_id": "EPWWE_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWE_MID"
                 },
                 {
                   "label": ["R", "M"],
-                  "station_id": "EPWWR_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWR_MID"
                 },
                 {
                   "label": ["E", "L"],
-                  "station_id": "EPWWE_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWE_LOW"
                 },
                 {
                   "label": ["R", "L"],
-                  "station_id": "EPWWR_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWR_LOW"
                 },
                 {
                   "label": ["F", "H"],
-                  "station_id": "EPWWF_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWF_HIGH"
                 },
                 {
                   "label": ["T", "H"],
-                  "station_id": "EPWWT_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWT_HIGH"
                 },
                 {
                   "label": ["F", "M"],
-                  "station_id": "EPWWF_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWF_MID"
                 },
                 {
                   "label": ["T", "M"],
-                  "station_id": "EPWWT_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWT_MID"
                 },
                 {
                   "label": ["F", "L"],
-                  "station_id": "EPWWF_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWF_LOW"
                 },
                 {
                   "label": ["T", "L"],
-                  "station_id": "EPWWT_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWT_LOW"
                 },
                 {
                   "label": ["C", "EPWW"],
@@ -689,18 +699,24 @@
                   "station_id": "EPWW_D"
                 },
                 {
-                  "label": []
-                },
-                {
                   "label": ["FMP", "EPWW"],
-                  "station_id": "EPWW_FMP",
-                  "color": "clay"
+                  "color": "clay",
+                  "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": []
+                  "label": ["NFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_N"
                 },
                 {
-                  "label": []
+                  "label": ["EFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_E"
+                },
+                {
+                  "label": ["SFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_S"
                 },
                 {
                   "label": ["DBF", "EPWW"],
@@ -1022,153 +1038,153 @@
               "keys": [
                 {
                   "label": ["B", "H"],
-                  "station_id": "EPWWB_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWB_HIGH"
                 },
                 {
                   "label": ["G", "H"],
-                  "station_id": "EPWWG_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWG_HIGH"
                 },
                 {
                   "label": ["B", "M"],
-                  "station_id": "EPWWB_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWB_MID"
                 },
                 {
                   "label": ["G", "M"],
-                  "station_id": "EPWWG_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWG_MID"
                 },
                 {
                   "label": ["B", "L"],
-                  "station_id": "EPWWB_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWB_LOW"
                 },
                 {
                   "label": ["G", "L"],
-                  "station_id": "EPWWG_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWG_LOW"
                 },
                 {
                   "label": ["C", "H"],
-                  "station_id": "EPWWC_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWC_HIGH"
                 },
                 {
                   "label": ["J", "H"],
-                  "station_id": "EPWWJ_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWJ_HIGH"
                 },
                 {
                   "label": ["C", "M"],
-                  "station_id": "EPWWC_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWC_MID"
                 },
                 {
                   "label": ["J", "M"],
-                  "station_id": "EPWWJ_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWJ_MID"
                 },
                 {
                   "label": ["C", "L"],
-                  "station_id": "EPWWC_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWC_LOW"
                 },
                 {
                   "label": ["J", "L"],
-                  "station_id": "EPWWJ_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWJ_LOW"
                 },
                 {
                   "label": ["D", "H"],
-                  "station_id": "EPWWD_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWD_HIGH"
                 },
                 {
                   "label": ["N", "H"],
-                  "station_id": "EPWWN_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWN_HIGH"
                 },
                 {
                   "label": ["D", "M"],
-                  "station_id": "EPWWD_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWD_MID"
                 },
                 {
                   "label": ["N", "M"],
-                  "station_id": "EPWWN_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWN_MID"
                 },
                 {
                   "label": ["D", "L"],
-                  "station_id": "EPWWD_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWD_LOW"
                 },
                 {
                   "label": ["N", "L"],
-                  "station_id": "EPWWN_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWN_LOW"
                 },
                 {
                   "label": ["E", "H"],
-                  "station_id": "EPWWE_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWE_HIGH"
                 },
                 {
                   "label": ["R", "H"],
-                  "station_id": "EPWWR_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWR_HIGH"
                 },
                 {
                   "label": ["E", "M"],
-                  "station_id": "EPWWE_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWE_MID"
                 },
                 {
                   "label": ["R", "M"],
-                  "station_id": "EPWWR_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWR_MID"
                 },
                 {
                   "label": ["E", "L"],
-                  "station_id": "EPWWE_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWE_LOW"
                 },
                 {
                   "label": ["R", "L"],
-                  "station_id": "EPWWR_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWR_LOW"
                 },
                 {
                   "label": ["F", "H"],
-                  "station_id": "EPWWF_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWF_HIGH"
                 },
                 {
                   "label": ["T", "H"],
-                  "station_id": "EPWWT_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWT_HIGH"
                 },
                 {
                   "label": ["F", "M"],
-                  "station_id": "EPWWF_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWF_MID"
                 },
                 {
                   "label": ["T", "M"],
-                  "station_id": "EPWWT_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWT_MID"
                 },
                 {
                   "label": ["F", "L"],
-                  "station_id": "EPWWF_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWF_LOW"
                 },
                 {
                   "label": ["T", "L"],
-                  "station_id": "EPWWT_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWT_LOW"
                 },
                 {
                   "label": ["C", "EPWW"],
@@ -1179,18 +1195,24 @@
                   "station_id": "EPWW_D"
                 },
                 {
-                  "label": []
-                },
-                {
                   "label": ["FMP", "EPWW"],
-                  "station_id": "EPWW_FMP",
-                  "color": "clay"
+                  "color": "clay",
+                  "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": []
+                  "label": ["NFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_N"
                 },
                 {
-                  "label": []
+                  "label": ["EFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_E"
+                },
+                {
+                  "label": ["SFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_S"
                 },
                 {
                   "label": ["DBF", "EPWW"],
@@ -1823,153 +1845,153 @@
               "keys": [
                 {
                   "label": ["B", "H"],
-                  "station_id": "EPWWB_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWB_HIGH"
                 },
                 {
                   "label": ["G", "H"],
-                  "station_id": "EPWWG_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWG_HIGH"
                 },
                 {
                   "label": ["B", "M"],
-                  "station_id": "EPWWB_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWB_MID"
                 },
                 {
                   "label": ["G", "M"],
-                  "station_id": "EPWWG_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWG_MID"
                 },
                 {
                   "label": ["B", "L"],
-                  "station_id": "EPWWB_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWB_LOW"
                 },
                 {
                   "label": ["G", "L"],
-                  "station_id": "EPWWG_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWG_LOW"
                 },
                 {
                   "label": ["C", "H"],
-                  "station_id": "EPWWC_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWC_HIGH"
                 },
                 {
                   "label": ["J", "H"],
-                  "station_id": "EPWWJ_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWJ_HIGH"
                 },
                 {
                   "label": ["C", "M"],
-                  "station_id": "EPWWC_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWC_MID"
                 },
                 {
                   "label": ["J", "M"],
-                  "station_id": "EPWWJ_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWJ_MID"
                 },
                 {
                   "label": ["C", "L"],
-                  "station_id": "EPWWC_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWC_LOW"
                 },
                 {
                   "label": ["J", "L"],
-                  "station_id": "EPWWJ_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWJ_LOW"
                 },
                 {
                   "label": ["D", "H"],
-                  "station_id": "EPWWD_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWD_HIGH"
                 },
                 {
                   "label": ["N", "H"],
-                  "station_id": "EPWWN_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWN_HIGH"
                 },
                 {
                   "label": ["D", "M"],
-                  "station_id": "EPWWD_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWD_MID"
                 },
                 {
                   "label": ["N", "M"],
-                  "station_id": "EPWWN_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWN_MID"
                 },
                 {
                   "label": ["D", "L"],
-                  "station_id": "EPWWD_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWD_LOW"
                 },
                 {
                   "label": ["N", "L"],
-                  "station_id": "EPWWN_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWN_LOW"
                 },
                 {
                   "label": ["E", "H"],
-                  "station_id": "EPWWE_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWE_HIGH"
                 },
                 {
                   "label": ["R", "H"],
-                  "station_id": "EPWWR_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWR_HIGH"
                 },
                 {
                   "label": ["E", "M"],
-                  "station_id": "EPWWE_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWE_MID"
                 },
                 {
                   "label": ["R", "M"],
-                  "station_id": "EPWWR_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWR_MID"
                 },
                 {
                   "label": ["E", "L"],
-                  "station_id": "EPWWE_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWE_LOW"
                 },
                 {
                   "label": ["R", "L"],
-                  "station_id": "EPWWR_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWR_LOW"
                 },
                 {
                   "label": ["F", "H"],
-                  "station_id": "EPWWF_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWF_HIGH"
                 },
                 {
                   "label": ["T", "H"],
-                  "station_id": "EPWWT_HIGH",
-                  "color": "lilac"
+                  "color": "lilac",
+                  "station_id": "EPWWT_HIGH"
                 },
                 {
                   "label": ["F", "M"],
-                  "station_id": "EPWWF_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWF_MID"
                 },
                 {
                   "label": ["T", "M"],
-                  "station_id": "EPWWT_MID",
-                  "color": "lagoon"
+                  "color": "lagoon",
+                  "station_id": "EPWWT_MID"
                 },
                 {
                   "label": ["F", "L"],
-                  "station_id": "EPWWF_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWF_LOW"
                 },
                 {
                   "label": ["T", "L"],
-                  "station_id": "EPWWT_LOW",
-                  "color": "mint"
+                  "color": "mint",
+                  "station_id": "EPWWT_LOW"
                 },
                 {
                   "label": ["C", "EPWW"],
@@ -1980,18 +2002,24 @@
                   "station_id": "EPWW_D"
                 },
                 {
-                  "label": []
-                },
-                {
                   "label": ["FMP", "EPWW"],
-                  "station_id": "EPWW_FMP",
-                  "color": "clay"
+                  "color": "clay",
+                  "station_id": "EPWW_FMP"
                 },
                 {
-                  "label": []
+                  "label": ["NFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_N"
                 },
                 {
-                  "label": []
+                  "label": ["EFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_E"
+                },
+                {
+                  "label": ["SFIR", "EPWW"],
+                  "color": "blush",
+                  "station_id": "EPWW_S"
                 },
                 {
                   "label": ["DBF", "EPWW"],

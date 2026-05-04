@@ -63,9 +63,9 @@
             }
           },
           {
-            "label": ["PAD"],
+            "label": ["PADH"],
             "color": "lagoon",
-            "station_id": "EDGG-PAD"
+            "station_id": "EDGG-PAH"
           },
           {
             "label": ["DLA"],
@@ -78,7 +78,7 @@
             "station_id": "EDGG-DLT"
           },
           {
-            "label": ["EDDL", "more..."],
+            "label": ["EDDL"],
             "page": {
               "rows": 3,
               "keys": [
@@ -148,7 +148,7 @@
             "station_id": "EDGG-DKT"
           },
           {
-            "label": ["EDDK", "more..."],
+            "label": ["EDDK"],
             "page": {
               "rows": 3,
               "keys": [
@@ -369,7 +369,7 @@
             "station_id": "EDGG-DFTC"
           },
           {
-            "label": ["EDDF", "more..."],
+            "label": ["EDDF"],
             "page": {
               "rows": 4,
               "keys": [
@@ -536,6 +536,16 @@
             "station_id": "EDGG-SIG"
           },
           {
+            "label": ["EDGG", "PADL"],
+            "color": "clay",
+            "station_id": "EDGG-PADL"
+          },
+          {
+            "label": ["ETOU", "TWR"],
+            "color": "steel",
+            "station_id": "EDGG-TOUT"
+          },
+          {
             "label": ["EDDL", "EDDK"],
             "page": {
               "rows": 2,
@@ -562,14 +572,6 @@
             }
           },
           {
-            "label": ["ETOU", "TWR"],
-            "color": "steel",
-            "station_id": "EDGG-TOUT"
-          },
-          {
-            "label": [""]
-          },
-          {
             "label": ["EDUU", "ERL"],
             "color": "lavender",
             "station_id": "EDUU-ERL"
@@ -585,9 +587,9 @@
             "station_id": "EDGG-GIN"
           },
           {
-            "label": ["EDGG", "PAD"],
+            "label": ["EDGG", "PADH"],
             "color": "mint",
-            "station_id": "EDGG-PAD"
+            "station_id": "EDGG-PAH"
           },
           {
             "label": ["EDWW", "HRZ"],
@@ -770,7 +772,7 @@
             "station_id": "EDGG-DST"
           },
           {
-            "label": ["EDDS", "more..."],
+            "label": ["EDDS"],
             "page": {
               "rows": 2,
               "keys": [
@@ -922,7 +924,7 @@
             "station_id": "EDGG-PFA"
           },
           {
-            "label": ["DFAS"],
+            "label": ["EDGG", "DFAS"],
             "color": "clay",
             "station_id": "EDGG-DFAS"
           },
@@ -932,7 +934,7 @@
             "station_id": "EDGG-DFTC"
           },
           {
-            "label": ["EDDF", "more..."],
+            "label": ["EDDF"],
             "page": {
               "rows": 4,
               "keys": [
@@ -1138,9 +1140,9 @@
             "station_id": "EDYY-RL"
           },
           {
-            "label": ["PAD"],
+            "label": ["PADH"],
             "color": "lagoon",
-            "station_id": "EDGG-PAD"
+            "station_id": "EDGG-PAH"
           },
           {
             "label": [""]
